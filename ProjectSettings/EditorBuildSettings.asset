@@ -48,6 +48,9 @@ EditorBuildSettings:
     path: Assets/Scenes/The Island of Arosia.unity
     guid: 309e707853e299843913f12a243c66ff
   - enabled: 1
+    path: Assets/Scenes/Wave Echo Cave HD.unity
+    guid: b925375246863c9439d5c86abff57663
+  - enabled: 1
     path: Assets/Scenes/Wave Echo Cave Fullmap.unity
     guid: 5d414b77931ac604b9023931d428ba6f
   - enabled: 1
