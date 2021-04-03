@@ -1,0 +1,764 @@
+{
+    "type": "DR",
+    "universe": "Forgotten Realms",
+    "description": "DR, Dalereckoning",
+    "originalsource": "https://alphastream.org/index.php/2020/04/09/the-official-timeline-for-the-forgotten-realms-and-its-adventures/",
+    "colour": "b74093",
+    "times": [
+        {
+            "timetype": "notable",
+            "date": "-31000",
+            "description": "-31,000 DR: The Tearfall, related to the Sunderings, when Abeir and Toril were first separated. Meteors (perhaps dragon eggs from which the first dragons were born) fall and natural disasters change continents. One of the Tears of Selune may also have fallen. Or, one of the creator races may have freed several primordials from ancient prisons, creating catastrophes and throwing an ice moon at Toril."
+        },
+        {
+            "timetype": "notable",
+            "date": "-30000",
+            "description": "-30,000 to -24,000 DR are the Dawn Ages, when the creator races (including the sarrukh) disappear or fade, replaced by the Time of Dragons and the Time of Giants. The adventure Storm King’s Thunder deals with these events. In -30,000 the nether scrolls are created and (unrelated) the Seldarine Wars take place where Lolth becomes a demon."
+        },
+        {
+            "timetype": "notable",
+            "date": "-24000",
+            "description": "-24,000 to -12,000 is the peak of elven civilization, helping other humanoids become more civilized as well."
+        },
+        {
+            "timetype": "notable",
+            "date": "-17600",
+            "description": "-17,600 is the First Sundering. Elven high mages create/summon the island of Evermeet to be their elven homeland. The cost is unexpectedly high. The magic stretches across time and space, altering the landscape with natural disasters on Toril and the mirror-world Abeir and killing thousands."
+        },
+        {
+            "timetype": "notable",
+            "date": "-12000",
+            "description": "-12,000 DR to -9,000 DR are the Crown Wars, when the elven peoples fight. This is when the drow descend underground, after Corellon’s magic transforms the evil elves into drow. (The story of Correllon, Lolth, and the drow is an interesting one and worth investigating if you are new to it.)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-3533",
+            "description": "-3,533 DR: The nether scrolls are discovered. These scrolls (two sets of them) were created by one of the creator races and anyone reading them learns incredible secrets dealing with magic, including crafting mythals. The netherese use these to become supremely powerful. The elves steal one set in -3,095 DR and hide them in Windsong Tower, the school of magic in Myth Drannor. One of the gnomes stealing them glances at the scrolls and learns powerful illusion magic, spreading this knowledge throughout gnome kind. The first mythal is created in -3,014. The scrolls are stolen several times, changing hands."
+        },
+        {
+            "timetype": "notable",
+            "date": "-3000",
+            "description": "-3,000 DR: The couatls begin to teach humans about Ubtao, who remains distant, and ultimately lead the humans to Chult, so that they can help keep the yuan-ti from awakening Dendar the Night Serpent. (It is at the very beginning, before written history, that the primordials and gods fight, with Ubtao deciding to watch over Dendar’s prison and prevent the destruction of the world.)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-2637",
+            "description": "-2637 DR: The city of Mezro is founded in Chult by Ubtao."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2207",
+            "description": "-2,207 to -1,206 DR is the “golden age” of Netheril."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1950",
+            "description": "-1,950 DR: The dwarves begin building Citadel Felbarr, completing it in -1,900."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1887",
+            "description": "-1,887 DR: The first of the Nine Immortals (dragons) appears in Shou Lung."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1471",
+            "description": "-1,471 DR: The Netherese floating City of Shade is created."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1365",
+            "description": "-1,365 DR: The Shou emperor, who gained the throne through assassination, tricks Pao Hu Jen the guardian dragon, who is thousands of kilometers long, into flying to the lands of the horse barbarians. Using an artifact known as the jade mirror, they turn the dragon into the Great Dragonwall."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1288",
+            "description": "-1,288 DR: The shield dwarf Melair discovers mithral under Mount Waterdeep. Clan Melairkyn is formed and begins digging their home, the Underhalls."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1080",
+            "description": "-1,080 DR: After much upheaval (including battles with dragons and beholder nations), Calimshan now rules from the Sword Coast to Mintar. Calimport doubles in size, roughly equal to Waterdeep in the 1300s."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1076",
+            "description": "-1,076 to -1,069 DR: The orcgate wars, as wizards open a portal to an orc world and hundreds of thousands of orcs appear in Thay, Mulhorand, and Unther. The orc god Grummsh kills the Mulhorandi deity Ra, in the first known deicide. Other deities are killed by orc deities. Tiamat is killed in battle. Finally the orcgate is closed and their deities defeated."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1064",
+            "description": "-1,064 DR: The Netherese, in an era of traveling the planes, first encounter the illithids."
+        },
+        {
+            "timetype": "notable",
+            "date": "-700",
+            "description": "-700 DR: The Roll of Years begins, with each year receiving a name derived from two prophecies from different eras. The first is Augathra the Mad around -400 DR, the second is Alaundo the Seer (of Candlekeep fame) around 75 DR. Their prophesies also rely upon elven lore and prophesy."
+        },
+        {
+            "timetype": "notable",
+            "date": "-690",
+            "description": "-690 DR: The deep gnome community of Blingdenstone is founded. (An adventure was released for it as part of the 5E D&DNext playtest, and the town appears in Out of the Abyss.)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-530",
+            "description": "-530 DR: In Calimshan, the drow retreat underground. This marks the final time the drow truly held any land on the surface."
+        },
+        {
+            "timetype": "notable",
+            "date": "-500",
+            "description": "-500 DR: Citadel Sundbarr is constructed by Deloun dwarves."
+        },
+        {
+            "timetype": "notable",
+            "date": "-461",
+            "description": "-461 DR: The phaerimms (slug-shaped highly intelligent evil aberrations) had been driven underground in ancient times (-33,800). Spellcasting from the Netherese was unwittingly changing the nature of magic underground, harming the phaerimms. In retaliation, the phaerimms begin casting spells that drain the life out of all living things on the surface. This eventually creates the Great Desert of Anauroch."
+        },
+        {
+            "timetype": "notable",
+            "date": "-400",
+            "description": "-400 DR: The “Lost Sage” Augathra the Mad works with elven and Netherese lore and her own divinations to name the years both past and future. This becomes the Roll of Years, with each year’s name being prophetic. Secretly, at night (while having nightmares) she also pens a second and different set of names for the years, known as the Black Chronology."
+        },
+        {
+            "timetype": "notable",
+            "date": "-370",
+            "description": "-370 DR: The dwarves begin construction on Citadel Adbar, completing it in -272 DR!"
+        },
+        {
+            "timetype": "notable",
+            "date": "-354",
+            "description": "-354 DR: The Netherese wizard Melathar constructs the Host Tower to protect Illusk from phaerimm attacks. This is later known in current years as the Host Tower of the Arcane Brotherhood."
+        },
+        {
+            "timetype": "notable",
+            "date": "-339",
+            "description": "-339 DR: The Netherese wizard Karsus casts a spell to steal divinity. He chooses Mystryl, goddess of magic and thus triggers the fall of Netheril, as nearly all Netherese floating cities fall to the ground. This also causes Netherese mages in what would become Undermountain to be twisted into the Skulls of Skullport."
+        },
+        {
+            "timetype": "notable",
+            "date": "-335",
+            "description": "-335 DR: The dwarves begin construction of Gauntlgrym, completing the underground city in -321 DR. It falls to orcs in -111 DR and is resettled in 141 DR. It falls to illithid in 153 DR."
+        },
+        {
+            "timetype": "notable",
+            "date": "-200",
+            "description": "-200 DR: Candlekeep is founded and the Calendar of Haptos begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "-137",
+            "description": "-137 DR: The Eshowe tribe in Chult unleashes an ancient evil knows as the Shadow Giant, which destroys Mezro before being repelled. The giant nearly destroys all the Eshowe, and it comes to be known as Eshowdow. The death of so many leads to the rise of the Batiri goblins in -120 DR."
+        },
+        {
+            "timetype": "notable",
+            "date": "1",
+            "description": "1 DR: Elves of Cormanthor and humans that will settle the Delves raise the Standing Stone, cementing peace. The start of the Dalereckoning calendar."
+        },
+        {
+            "timetype": "notable",
+            "date": "26",
+            "description": "26 DR: Founding of the human kingdom of Cormyr, with permission from the elves."
+        },
+        {
+            "timetype": "notable",
+            "date": "75",
+            "description": "75 DR: The prophet Alaundo the Seer arrives in Candlekeep. He extends the Roll of Years far into the future. Some believe he sees future events in dreams and names them, others that gods inspire him, and some that he is an avatar of a god."
+        },
+        {
+            "timetype": "notable",
+            "date": "87",
+            "description": "87 DR: Eigersstor (Neverwinter) is founded."
+        },
+        {
+            "timetype": "notable",
+            "date": "134",
+            "description": "134 DR: A Shou mariner discovers Kozakura and meets the emperor."
+        },
+        {
+            "timetype": "notable",
+            "date": "168",
+            "description": "168 DR: An unknown wizard calling himself Halaster Blackcloak (the Raurinese wizard Hilather) builds a tower along the harbor shore of Waterdeep and begins exploration of the Underhalls (later Undermountain), claiming it for himself."
+        },
+        {
+            "timetype": "notable",
+            "date": "177",
+            "description": "177 DR: Elves of Iliyanbruen destroy the orcs of the Severed Hand, but this is their final act. Only a few moon elves remain as most survivors depart for Evermeet."
+        },
+        {
+            "timetype": "notable",
+            "date": "201",
+            "description": "201 DR: In the Moonshae Isles, Cymrych Hugh becomes high king after defeating the beast Kazgoroth. Cymrych dies in 250 DR, and the isles become independent once more."
+        },
+        {
+            "timetype": "notable",
+            "date": "204",
+            "description": "204 DR: The demon lord Eltab is imprisoned below what is now the Thaymount in Thay. Eltab has a rich history as an adversary, involved in the history of Rashemen and demon infestations/wars spanning several hundred years."
+        },
+        {
+            "timetype": "notable",
+            "date": "212",
+            "description": "212 DR: Elminster Aumar is born in Athalantar. He becomes a chosen of Mystra in 240 DR, defeating those who killed his parents."
+        },
+        {
+            "timetype": "notable",
+            "date": "253",
+            "description": "253 DR: The human wizard Anders Beltgarden turns the panther Guenhwyvar into a figurine of wondrous power."
+        },
+        {
+            "timetype": "notable",
+            "date": "261",
+            "description": "261 DR: Myth Drannor founded in Cormanthyr and its mythal laid. The city is opened to non-elves, though many elves disagree and some powerful elven families leave."
+        },
+        {
+            "timetype": "notable",
+            "date": "307",
+            "description": "307 DR: Halaster’s apprentices, known as the Seven (Arcturia, Jhesiyra, Muiral, Nester, Marambra, Rantantar, Trobriand) move into Underhalls/Undermountain to establish their own holdings. Halaster’s tower falls into ruin and is known as cursed by the barbarian tribes of Blackcloak Hold. By 932, this is known as Nimoar’s Hold, after the barbarian of that name."
+        },
+        {
+            "timetype": "notable",
+            "date": "309",
+            "description": "309 DR: Halaster defeats drow and duergar to now rule the Underhalls."
+        },
+        {
+            "timetype": "notable",
+            "date": "324",
+            "description": "324 DR: The Harpers are formed in secret by Dathlue Mistwinter. Her family crest becomes the symbol of the Harpers. Early members include Elminster."
+        },
+        {
+            "timetype": "notable",
+            "date": "329",
+            "description": "329 DR: The Anauroch desert stops growing when the sharns (teardrop shaped abominations created from ancient elves) defeat the phaerimms."
+        },
+        {
+            "timetype": "notable",
+            "date": "342",
+            "description": "342 DR: The elf realm of Illefarn disbands, with most of the Illiyanbruen elves leaving for Evermeet."
+        },
+        {
+            "timetype": "notable",
+            "date": "367",
+            "description": "367 DR: City of Phlan founded on the Moonsea."
+        },
+        {
+            "timetype": "notable",
+            "date": "400",
+            "description": "400 DR – 1,000 DR: Golden age of Maztica."
+        },
+        {
+            "timetype": "notable",
+            "date": "418",
+            "description": "418 DR: The first aarakocra arrive from Maztica to northern Faerun."
+        },
+        {
+            "timetype": "notable",
+            "date": "426",
+            "description": "426 DR: Arun’s unnamed son becomes a student in Myth Drannor. In 464 Mystra makes him a Chosen. First human to stay in Evereska, the secret elven land. Later becomes Khelben Arunsun."
+        },
+        {
+            "timetype": "notable",
+            "date": "457",
+            "description": "457 DR: Mages including Aganazzar found the school of wizardry in Neverwinter. The founders will later become the Covenant and perform many heroics, thwarting Thay."
+        },
+        {
+            "timetype": "notable",
+            "date": "623",
+            "description": "623 DR: First time a spelljammer is confirmed. It is actually the Spelljammer."
+        },
+        {
+            "timetype": "notable",
+            "date": "658",
+            "description": "658 DR: A portal is secretly created between Myth Drannor and the Underhalls/Undermountain."
+        },
+        {
+            "timetype": "notable",
+            "date": "659",
+            "description": "659 DR: Wizards from Myth Drannor move to Silverymoon and establish it as a sister city and a center of magical learning."
+        },
+        {
+            "timetype": "notable",
+            "date": "668",
+            "description": "668 DR: Wizards are disappearing from Myth Drannor, later found to be pulled into Undermountain by Halaster Blackcloak."
+        },
+        {
+            "timetype": "notable",
+            "date": "684",
+            "description": "684 DR: Augathra the Mad’s Book of the Black, a tome containing the Black Chronology, is discovered by mages of Myth Drannor. It also contains the Leaves of One Night, revealing secrets of Shar. Followers of Shar steal the book."
+        },
+        {
+            "timetype": "notable",
+            "date": "708",
+            "description": "708 DR: Seaval Ammath had raised a red dragon from an egg, using magic to make it kind. Unwittingly, he flies over Cormanthor, fulfilling the conditions for the release of three nycaloth demons from their prison. Their release was conditioned to be when a red dragon that never held malice or greed flew over the coronal’s throne. These demons spend several years summoning forces, known as the Army of Darkness."
+        },
+        {
+            "timetype": "notable",
+            "date": "714",
+            "description": "714 DR: Fall of Myth Drannor due to the Army of Darkness, though the three nycaloths are defeated."
+        },
+        {
+            "timetype": "notable",
+            "date": "753",
+            "description": "753 DR: Florsten’s Hold is renamed Zhentil Keep in honor of lord Zhentar. A temple to Bane is founded there."
+        },
+        {
+            "timetype": "notable",
+            "date": "762",
+            "description": "762 DR: Mystra possesses Elue Shundar so as to birth mortal servants for herself. Alustriel is born, second of seven silver-haired daughters that become the Seven Sisters, all chosen of Mystra."
+        },
+        {
+            "timetype": "notable",
+            "date": "800",
+            "description": "800 DR: Sammaster, eventual founder of the Cult of the Dragon and Chosen of Mystra, is born. By 835 he is an archmage and travels Faerun."
+        },
+        {
+            "timetype": "notable",
+            "date": "806",
+            "description": "806 DR: Laeral begins rebuilding ruined Illusk and explores the Host Tower. She finds the Cabal of mages still there, now liches, so she seals the tower off magically to prevent entry or exit."
+        },
+        {
+            "timetype": "notable",
+            "date": "841",
+            "description": "841 DR: Laeral comes into conflict with Sylune, and both are made Chosen by Mystra. They travel the planes for years before returning to Faerun."
+        },
+        {
+            "timetype": "notable",
+            "date": "863",
+            "description": "863 DR: The Chultan city of Mezro disappears. It is actually invisible, due to a wall that hid it from the world. It remains hidden until 1363 DR."
+        },
+        {
+            "timetype": "notable",
+            "date": "875",
+            "description": "875 DR: Sammaster attacks Alustriel after dating her and the relationship ending. Khelben and Laeral come to her aid and Sammaster is stripped of being a Chosen. Sammaster becomes insane and fully evil. In 887 DR he translates various ancient prophecies, including Magla’s Chronicle of Years to Come. Sammaster believes dragons will rule the world."
+        },
+        {
+            "timetype": "notable",
+            "date": "902",
+            "description": "902 DR: Sammaster creates the first dracolich, Shargrailar, transcribing the process in Tome of the Dragon, a holy relic for the eventual Cult of the Dragon. The Cult begins to spread around 905 DR."
+        },
+        {
+            "timetype": "notable",
+            "date": "916",
+            "description": "916 DR: Harpers ambush Sammaster and the Cult of the Dragon. Sammaster is seemingly destroyed by an avatar of Lathander. Alagashon becomes the leader for the Cult."
+        },
+        {
+            "timetype": "notable",
+            "date": "922",
+            "description": "922 DR: Red Wizards of Thay rebel against Mulhorandi rule, summon the demon lord Eltab to fight for them. Eltab is later imprisoned in Thay."
+        },
+        {
+            "timetype": "notable",
+            "date": "932",
+            "description": "932 DR: First Trollwar as Nimoar at Nimoar’s Hold (later called Waterdeep) fights them off. Second trollwar in 940 DR, ending in 952 with now Waterdeep being defended by many including the wizard Ahghairon."
+        },
+        {
+            "timetype": "notable",
+            "date": "940",
+            "description": "940 DR: The first lord of Shadowdale, Ashaba, magically merges with the river that now bears his name, living on as part of the land he loves. On the Moonsea, the city of Hulburg is founded."
+        },
+        {
+            "timetype": "notable",
+            "date": "1007",
+            "description": "1007 DR: Waterdeep expands, absorbing the ruins of Halaster’s Hold. Ahghairon builds his tower and magically wards Halaster’s towers to prevent horrors from entering Waterdeep from bellow."
+        },
+        {
+            "timetype": "notable",
+            "date": "1018",
+            "description": "1018 DR: A Rage of Dragons takes place. The green dragon Claugiyliamatar plunders orc lands. In 1303 Claugiyliamatar establishes a lair in the Deeping Cave in Kryptgarden Forest. In 1489, Claugiyliamatar meets with members of the Cult of the Dragon, but adventurers (in the first Adventurers League Epic, Corruption in Kryptgarden) thwart the cult and prevent an alliance."
+        },
+        {
+            "timetype": "notable",
+            "date": "1030",
+            "description": "1030 DR: The Zhulkirs become the rulers of Thay, crushing all opposition by 1074."
+        },
+        {
+            "timetype": "notable",
+            "date": "1038",
+            "description": "1038 DR: The Great Glacier retreats, revealing the lands of Damara, Vaasa, and upper Narfell."
+        },
+        {
+            "timetype": "notable",
+            "date": "1071",
+            "description": "1071 DR: After an adventurer flies a copper dragon over Waterdeep, Ahghairon raises the dragonward to prevent any dragons from entering unless he has used his staff to grant them access."
+        },
+        {
+            "timetype": "notable",
+            "date": "1081",
+            "description": "1081 DR: Red Wizards of Thay attack the Covenant’s school in Neverwinter and kill Aganazzar."
+        },
+        {
+            "timetype": "notable",
+            "date": "1148",
+            "description": "1148 DR: The three kingdoms of Shou Lung are reunited. Under Waterdeep, the settlement that will become Skullport is established by a necromancer, who links underdark waterways and portals to distant seas."
+        },
+        {
+            "timetype": "notable",
+            "date": "1157",
+            "description": "1157 DR: The Zulkir of Necromancy is killed by other Red Wizards, including Szass Tam (born 1104 DR), and he replaces her. Szass Tam becomes a lich in 1159."
+        },
+        {
+            "timetype": "notable",
+            "date": "1229",
+            "description": "1229 DR: Manshoon, future leader of the Zhentarim, is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "1235",
+            "description": "1235 DR: Largest host of orcs ever amasses. Alustriel and Storm Silverhand defeat the Black Horde and is chosen by Silverymoon as their ruler."
+        },
+        {
+            "timetype": "notable",
+            "date": "1242",
+            "description": "1242 DR: The Monastery of the Yellow Rose is founded in Damara."
+        },
+        {
+            "timetype": "notable",
+            "date": "1246",
+            "description": "1246 DR: First recorded use of bombards by Lantan."
+        },
+        {
+            "timetype": "notable",
+            "date": "1250",
+            "description": "1250 DR: Illithids prepare to enslave Waterdeep, but are foiled by Githyanki who kill the elder brain Ch’Chitl."
+        },
+        {
+            "timetype": "notable",
+            "date": "1255",
+            "description": "1255 DR: A half-dwarf adventurer, Daeros Dragonspear, retires in the lair of the copper dragon Halatathlaer and builds Dragonspear Castle."
+        },
+        {
+            "timetype": "notable",
+            "date": "1256",
+            "description": "1256 DR: Ahghairon dies and the Waterdeep guilds begin scheming and fighting for control. Khelben the Elder disappears, leaving his apprentices to run his tower."
+        },
+        {
+            "timetype": "notable",
+            "date": "1261",
+            "description": "1261 DR: Manshoon founds the Zhentarim as a secret organization."
+        },
+        {
+            "timetype": "notable",
+            "date": "1279",
+            "description": "1279 DR: The green dragon Dretchroyaster of Cormanthor attacks three dales and is wounded, but his lair cannot be found. In 1352, the Cult of the Dragon offers the dragon to become a dracolich, and a new lair in Monarch’s Fall Glade, where the remains of a Spelljammer had been found. Dretchoryaster wished to find a way to transform into a Spelljammer and fly through Realmspace.  Dretchroyaster later appears again in the events of Vault of the Dracolich. (Note, the Grand History has an error, saying Dretchroyaster was slain in 1279)."
+        },
+        {
+            "timetype": "notable",
+            "date": "1282",
+            "description": "1282 DR: A lich calling itself Sammaster appears, gathering an army. The Company of Twelve, composed of paladins, attack the stronghold in 1285 and nine are killed. They destroy the physical form, confirming it is Sammaster."
+        },
+        {
+            "timetype": "notable",
+            "date": "1290",
+            "description": "1290 DR: Ithtaerus Casalia, a Calishite mage, tricks the adventurer (Daeros) and dragon in Dragonspear Castle, resulting in a portal to Avernus, the first layer of Hell. Ithaerus dies, as do the dragon and Daeros. The castle is reduced to ruins. In 1315 Waterdeep and Baldur’s Gate send armies and clear out the evil denizens, establishing a temple to Tempus."
+        },
+        {
+            "timetype": "notable",
+            "date": "1297",
+            "description": "1297 DR: Malice and Zaknafein Do’Urden have a son, Drizzt Do’Urden. The power of his birth allows Malice to empower a spell to defeat rival House Devir. House Do’Urden becomes the Ninth House of Menzoberranzan."
+        },
+        {
+            "timetype": "notable",
+            "date": "1302",
+            "description": "1302 DR: Illusk is rebuilt with help from Neverwinter, and Illusk is renamed Luskan. Khelben Arunsun the Younger is born. Waterdeep begins exiling criminals to Undermountain. The adventurers Durnan and Mirt the Merciless return from Undermountain with a fortune."
+        },
+        {
+            "timetype": "notable",
+            "date": "1306",
+            "description": "1306 DR: Moradin gives the “Thunder Blessing,” raising the birth rate of all dwarves and 1/5th of births result in twins. The War Wizards of Cormyr are founded. Dragons raise Phlan in what is known as the Dragon Run."
+        },
+        {
+            "timetype": "notable",
+            "date": "1310",
+            "description": "1310 DR: Luskan conquered by pirates. The captains (Taerl, Baram, Kurth, Suljack, and Rethnor) become the leaders of the city."
+        },
+        {
+            "timetype": "notable",
+            "date": "1311",
+            "description": "1311 DR: Arklem Greeth enters the Host Tower in Luskan, bypassing Laeral’s wards. He forms the Brotherhood of the Arcane with the aid of the liches who were once part of the Grand Cabal of Illusk, now known as Old Ones. Khelben the Younger is killed by a lich, and the Elder begins training his grandson and namesake."
+        },
+        {
+            "timetype": "notable",
+            "date": "1312",
+            "description": "1312 DR: Durnan, now a hidden Lord of Waterdeep, starts the Red Sashes as his personal agents."
+        },
+        {
+            "timetype": "notable",
+            "date": "1325",
+            "description": "1325 DR: Lords’ Alliance founded in Waterdeep, to oppose Amn’s mercantile machinations and increase trade."
+        },
+        {
+            "timetype": "notable",
+            "date": "1328",
+            "description": "1328 DR: Drizzt Do’Urden leaves Menzoberranzan, surviving in exile in the Underdark."
+        },
+        {
+            "timetype": "notable",
+            "date": "1335",
+            "description": "1335 DR: Erevis Cale, future Chosen of Mask, is born in Westgate."
+        },
+        {
+            "timetype": "notable",
+            "date": "1340",
+            "description": "1340 DR: Tyranthraxus, the Possessing Spirit, claims the Pool of Radiance. It corrupts and takes over the body of a bronze dragon and controls the ruins of Phlan until defeated by adventurers. Drizzt Do’Urden reaches the surface."
+        },
+        {
+            "timetype": "notable",
+            "date": "1345",
+            "description": "1345 DR: Bhaal, god of murder, creates a Darkwell from one of the Moonshae Isles Moonwells. Kazgaroth the Beast emerges, attempting to destroy the Earthmother and the Moonshaes. Bhaal’s avatar is banished from the Moonshaes in 1346 and Tristan Kendrick becomes high king of the Moonshaes."
+        },
+        {
+            "timetype": "notable",
+            "date": "1347",
+            "description": "1347 DR: Drizzt Do’Urden reaches Icewind Dale. Zhengyi the Witch-King claims Damara."
+        },
+        {
+            "timetype": "notable",
+            "date": "1350",
+            "description": "1350 DR: Elminster retires to Shadowdale. The god Bane tries to pull several Moonsea cities into the nether regions, but is foiled by the same heroes that stopped Tyranthraxus."
+        },
+        {
+            "timetype": "notable",
+            "date": "1351",
+            "description": "1351 DR: Akar Kessel, apprentice of the Arcane Brotherhood, finds the artifact Crenshinibon and begins raising an army against Icewind Dale."
+        },
+        {
+            "timetype": "notable",
+            "date": "1353",
+            "description": "1353 DR: Mourngrym Amcathra becomes Lord of Shadowdale. Randal Morn of Daggerdale begins his adventures, fighting Zhentarim."
+        },
+        {
+            "timetype": "notable",
+            "date": "1354",
+            "description": "1354 DR: The angel Zariel rallies an army of warriors out of Elturel and into Avernus, hoping to defeat the evils in the Hells. Unrelatedly, Dragonspear Castle falls to devils, but the devils are defeated in the Dragonspear War in 1356. The castle is again destroyed."
+        },
+        {
+            "timetype": "notable",
+            "date": "1356",
+            "description": "1356 DR: Drizzt and Wulfgar kill the white dragon, Icingdeath. Bruenor Battlehammer kills the shadow dragon Shimmergloom and becomes the Eighth King of Mithral Hall. Artemis kidnaps Regis, ultimately resulting in Pasha Pook and his guild being destroyed in Calimport. Demons trapped under Hellgate Keep tunnel into Undermountain."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1357",
+            "description": "1357 DR – First edition’s “Grey Box” Forgotten Realms Boxed Set setting takes place."
+        },
+        {
+            "timetype": "notable",
+            "date": "1357",
+            "description": "1357 DR: Elminster of Shadowdale travels to the alternate Material Plane known as Earth, and there speaks with Ed of the Greenwood, sharing drinks, snacks, and lore. Back in FR, Gauntlgrym is discovered. Laeral, who had been under the influence of an artifact called the Crown of Horns, is freed by Khelben and Alustriel and returned to sanity in Blackstaff Tower. Shandril Shessair develops Spellfire, and is hunted by factions including the Zhentarim and Cult of the Dragon. She slays three dracoliches and has adventures in Myth Drannor and Shadowdale and more."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1358",
+            "description": "1358 DR – Time of Troubles, when the gods lose immortality and walk the land."
+        },
+        {
+            "timetype": "notable",
+            "date": "1358",
+            "description": "1358 DR: The Time of Troubles! Lord Ao, the overgod, punishes all other gods by casting them down to the Realms, where they must walk as mortals until they find the stolen Tablets of Fate. Magic changes and gods die (Bane, Bhaal, Ibrandul, Myrkul, Untheric pantheon) and others ascend (Red Knight, Midnight as Mystra, Cyric). The Mulhorandi deities leave. Silvanus blesses the island of Ilighon, home of the Emerald Enclave and his Chosen."
+        },
+        {
+            "timetype": "notable",
+            "date": "1359",
+            "description": "1359 DR: The Tuigan Horde breaks through the Dragonwall and invades Shou Lung, then continues west to Thay. Thayans make a deal and use a portal to transport the horde to Rashemen. The Horde continues ravaging. In Damara, Zhengyi the Witch-King is destroyed by heroes in the adventure Throne of Bloodstone, with Gareth Dragonsbane and companions entering and returning from the Abyss, having stolen the wand of orcus and shattering it in the blood of the avatar of Tiamat. Bahamut blesses Damara with the Tree-Gem, which protects Damara against demons so long as the nation allies itself with the forces of good."
+        },
+        {
+            "timetype": "notable",
+            "date": "1360",
+            "description": "1360 DR: The Tuigan Horde is defeated at Phsant, with King Azoun IV defeating Yamun Khahan in individual combat. The wyrmskull throne of Shanatar is found by pirates in Hook Isle and then is lost again."
+        },
+        {
+            "timetype": "notable",
+            "date": "1361",
+            "description": "1361 DR: The Cult of the Dragon attempts to kill Alustriel, but Khelben “Blackstaff” Arunsun and Laeral Silverland come to the rescue. The Amnite general Cordell discovers Maztica and conquers a city they name Helmsport. This ushers in terrible colonization and trade battles. Back in the Moonsea, Cyric takes over Zhentil Keep and prohibits Banite worship. The lich Tan Chin takes over Shou Lung, Lou Tu, and Khazari."
+        },
+        {
+            "timetype": "notable",
+            "date": "1362",
+            "description": "1362 DR: The lich Tan Chin is finally slain. Bruenor Battlehammer abdicates his throne, granting it to the original first King of Mithral Hall, Gandalug. Gandalug is both the first and ninth king."
+        },
+        {
+            "timetype": "notable",
+            "date": "1363",
+            "description": "1363 DR: Devils again enter Dragonspear Castle and assemble an army of orcs and goblinoids. The Battle of Daggerford narrowly saves the city, though the Way Inn is destroyed in a second Dragonspear War. In Chult, the ancient city of Mezro reappears, welcoming visitors. Harper agent Artus Cimber finds the ring of winter within. Artus and Alisandra, a bara (Chosen of Ubtao and city protector), marry."
+        },
+        {
+            "timetype": "notable",
+            "date": "1364",
+            "description": "1364 DR: The Companions of the Hall (Drizzt, Bruenor, Catti-brie, Wulfgar, Regis) banish the demon lord Errtu back to the Abyss. The Flaming Fist company reaches Maztica, establishing Fort Flame near the Bay of Balduran."
+        },
+        {
+            "timetype": "notable",
+            "date": "1365",
+            "description": "1365 DR: Waterdeep sends ships to Maztica, establishing the colonies New Waterdeep and Trythosford. In the Moonshaes, the god Talos tries to supplant the Earthmother. Alicia Kendrick becomes high queen of the Moonshaes."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1367",
+            "description": "1367 DR – Second Edition‘s FR boxed set takes place."
+        },
+        {
+            "timetype": "notable",
+            "date": "1367",
+            "description": "1367 DR: Szass Tam releases the demon Eltab, causing earthquakes. Eltab flees to a demoncyst below the Thaymount. Dwarves retake citadel Feldbarr. Khelben “Blackstaff” Arunsun unmasks himself and resigns as Lord of Waterdeep."
+        },
+        {
+            "timetype": "notable",
+            "date": "1368",
+            "description": "1368 DR: Teldin Moore, the Cloakmaster, travels to Toril on his Spelljammer adventures, meeting with Queen Amlaruil of Evermeet. Alias and Dragonbait defeat the Faceless and the Night Masks of Westgate. Thay begins to export magic to other lands through Thayan enclaves. Zhentil Keep falls after Fzoul Chembryl reads from the True Life of Cyric, revealing Cyric’s betrayal of his followers. Mask is involved, igniting priests and the temple of Cyric with divine fire. The events of the Baldurs Gate 1 and 2 video games take place at this time."
+        },
+        {
+            "timetype": "notable",
+            "date": "1369",
+            "description": "1369 DR: Iyachtu Xvim, son of Bane, escapes from his prison in ruined Zhentil Keep and becomes a lesser god. Xvim then possesses Fzoul Chembryl. The Harpers destroy Hellgate Keep using the artifact Gatekeeper’s Crystal. The Seven Sisters stop Thayans from using a Shar-tainted Halaster to steal the secrets of Mystra’s Chosen. Randal Morn reclaims the throne of Daggerdale. Halaster is momentarily abducted, causing wards to fail and monsters to be released from Undermountain."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1370",
+            "description": "1370 DR – Living City organized play campaign events take place around this time, set in Raven’s Bluff in Vesperin (east of the Dalelands and south of The Moonsea)."
+        },
+        {
+            "timetype": "notable",
+            "date": "1371",
+            "description": "1371 DR: Phaerimms attack Evereska. Khelben and the Lords’ Alliance help Evereska. The Underdark svirfneblin city of Blingdenstone is destroyed by drow. Cormyr is ravaged by Nalavaroyl the devil dragon. King Azoun IV dies slaying the dragon, leaving the infant Azoun V on the throne."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1372",
+            "description": "1372 DR – 3rd Edition begins, with several FR products."
+        },
+        {
+            "timetype": "notable",
+            "date": "1372",
+            "description": "1372 DR: The flying City of Shade reappears as the archwizards of Netheril return to Faerun. As Iyachtu Xvim is consumed by green fire, Bane emerges from his son and reclaims his status as a greater god. The shadovars trap some phaerimms around Evereska, then hunt the phaerimms around fallen Myth Drannor. Armies of good prepare to fight the shadovar, while others face the phaerimms. Evereska is freed and restored. Lolth falls silent as she becomes a greater goddess, testing her faithful and resulting in war in the Underdark. This is the year when the events of the Neverwinter Nights video game take place, with the Wailing Death plague striking Neverwinter."
+        },
+        {
+            "timetype": "notable",
+            "date": "1373",
+            "description": "1373 DR: The lich Sammaster causes a Rage of Dragons. Sammaster impersonates the Witch-King, raising an army in Vaasa, taking Bloodstone and Damara. The demon Eltab is released from below the Thaymount, but is bound again in Impiltur. Shadovar agents recover The Leaves of One Night, the text that can release the Shadowstorm – an apocalypse that would raise Shar above all greater gods. The Rain of Fire takes place, as one of the Tears of Selune descends from orbit hovers for a day, and then breaks into falling pieces. Sammaster is finally destroyed, ending the Rage of Dragons and releasing Bahamut from a prison. Bahamut invades Tiamat’s demesne of Dragon Eyrie."
+        },
+        {
+            "timetype": "notable",
+            "date": "1374",
+            "description": "1374 DR: A rain of lightning strikes plagues Faerun, often marking the site of meteor strikes. Tiamat and Bahamut urge their followers through visions to find these sites, as dragon eggs are found there. House Dlardrageth, made of half-demons surviving Hellgate Keep, lead attacks in Myth Drannor and other places. House Dlardrageth destroys the Standing Stone. Zhentarim invade Daggerdale and Shadowdale. Followers of Amaunator raise a second sun over the city of Elversult. Hose Dlardrageth finally falls in Myth Drannor and the elves fight the Zhentarim for control in the Cormanthor war. Adventurers find the Book of the Black, containing the alternate Roll of Years known as the Black Chronology and the prophesies the Sharrans are following. Khelben, the original Blackstaff and over a thousand years old, dies creating Rhymanthiin, the Hidden City of Hope, in the High Moor. Elyril Hraven, priestess of Shar, starts the Shadowstorm, tearing a planar rift over the city of Ordulin. Ordulin is destroyed as the plane of shadow consumes it and an army of shadow emerges. Sharran assasins attack Elminster in Shadowdale, causing his tower to be blasted into ruin and hurled into another plane. The King of Shadows attacks the Sword Coast from the Plane of Shadows, creating a stronghold in the Mere of Dead Men – these are the events of the video game Neverwinter Nights 2."
+        },
+        {
+            "timetype": "notable",
+            "date": "1375",
+            "description": "1375 DR: Adventurers free Shadowdale. Lord Mourngrym rejoins the Knights of Myth Drannor and Azalar Falconhand becomes Lord of Shadowdale. Fey return to Shadowdale. Zhentil Keep occupies Phlan. Citizens of Waterdeep and mages throughout Faerun experience visions, seeing Halaster destroying himself while attempting a ritual. While battling Lolth, Eilistraee kills her brother and absorbs the Church of Vhaeraun. She also defeats Selvatarm, and Lolth absorbs his church."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1376",
+            "description": "1376 DR – Roughly the end of 3E."
+        },
+        {
+            "timetype": "notable",
+            "date": "1376",
+            "description": "1376 DR: Zhentil Keep retreats from Myth Drannor."
+        },
+        {
+            "timetype": "notable",
+            "date": "1377",
+            "description": "1377 DR: The Tree of Souls, an artifact and originally a sapling planted on Evermeet by elven gods, is planted in Myth Drannor. The mythal is repaired in 1380."
+        },
+        {
+            "timetype": "notable",
+            "date": "1383",
+            "description": "1383 DR: The Durpari begin adorning bodies with living crystals that can enhance the wearer’s talents. The Dwarven gods clash, with the deaths of Gorm Glulthyn, Haela Brightaxe, Laduguer, and Deep Duerra."
+        },
+        {
+            "timetype": "notable",
+            "date": "1384",
+            "description": "1384 DR: The god Tyr slays Helm over love, but Cyric’s hand is suspected."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1385",
+            "description": "1385 DR – Year of Blue Fire, when the Spellplague begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "1385",
+            "description": "1385 DR – Year of Blue Fire: Mystra is murdered by Cyric with the help of Shar. This event causes the weave to collapse and causes the Spellplague (lasting until 1395). Mystra’s death results in a release of chaotic raw magic defiled by the Far Realm, the very nature of arcane magic changes, and Toril transforms as it melds and exchanges parts with the sister-world of Abeir. Cyric is punished by being bound to his throne for one thousand years. Mezro, in Chult, appears to be destroyed by the Spellplage as its Barae protectors pull it into a demiplane to save it (and also to save it from Ras Nsi, saying it will not return until Ras Nsi is dead)."
+        },
+        {
+            "timetype": "notable",
+            "date": "1444",
+            "description": "1444 DR: In Elturel, the priest of Torm, Thavius Kreeg, appeals to any power that will listen to save the city from a vampire lord. The Companion, a second sun, appeared over the skies of Elturel, remaining until 1494."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1451",
+            "description": "1451 DR – Eruption of Mount Hotenow near Neverwinter (events described in Drizzt novels, involving Jarlaxle, Valindra Shadowmantle, and others)."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1479",
+            "description": "1479 DR – Year of the Ageless one, main year covered by 4E Forgotten Realms play. Mystra returns at the end, just after Vault of the Dracolich, causing the end of the Spellplague."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1482",
+            "description": "1482 DR – Events of Murder in Baldur’s Gate take place, the adventure supporting previous editions and D&D Next."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1484",
+            "description": "1484 DR – The Sundering (second Sundering of Abeir-Toril) takes place. The first of the Sundering novels starts in 1484 DR."
+        },
+        {
+            "timetype": "notable",
+            "date": "1484",
+            "description": "1480 DR: Second Sundering, as Abeir and Toril separate due to Lord Ao once more creating the Tablets of Fate he had destroyed during the Time of Troubles. Mystra returns, and the Weave is resurrected along with her."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1485",
+            "description": "The D&D Next adventure Ghosts of Dragonspear Castle likely takes place. The D&D next adventures Legacy of the Crystal Shard and Scourge of the Sword Coast take place. Dead in Thay is likely this or the following year. According to Chris Perkins, if using the Archmage novel, the Out of the Abyss 5E adventure takes place in 1485 or later. 1487 DR – Sixth and final Sundering novel, The Herald, takes place. The D&D Next adventure, Confrontation at Candlekeep, takes place just prior to the events in The Herald. The events of the Sundering and Spellplague have largely ended and been undone."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1487",
+            "description": "1487 DR – Sixth and final Sundering novel, The Herald, takes place. The D&D Next adventure, Confrontation at Candlekeep, takes place just prior to the events in The Herald. The events of the Sundering and Spellplague have largely ended and been undone."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1489",
+            "description": "1489 DR – Adventurers League 5E organized play campaign begins. Hoard of the Dragon Queen and Rise of Tiamat takes place. (In 1489, Lord Neverember is ousted as an Open Lord in Waterdeep, replaced by Laeral Silverhand.)"
+        },
+        {
+            "timetype": "adventure",
+            "date": "1489",
+            "description": "Winter of 1489 DR – Rime of the Frostmaiden. Though published in 2020, this adventure says “This adventure is assumed to take place in the winter of 1489 DR or later” in the sidebar entitled has a sidebar Tendays and Dalereckoning. 1489 DR places Rime only 4 years after the events of Legacy of the Crystal Shard, and 138 years after Akar Kessel first came to Icewind Dale in The Crystal Shard novel."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1490",
+            "description": "1490 DR or later – Storm King’s Thunder takes place sometime after 1485 DR, per the adventure text, but has Laeral as an Open Lord who replaced Neverember, meaning it takes place in 1490 or 1489 at the earliest. The text also mentions thwarting Tiamat and her dragons, meaning it takes place after Hoard/Tiamat. (A strong case could be made based on the novel Death Masks that STK should take place in late 1491, as it mentions a cloud giant castle and giants getting out of hand. In this case, ToA has to take place in very late 1491 just after STK or in very early 1492 before Dragon Heist.)"
+        },
+        {
+            "timetype": "adventure",
+            "date": "1491",
+            "description": "1491 DR – Princes of the Apocalypse adventure takes place. The novel Death Masks takes place, and those events reference the adventure Curse of Strahd, which therefore takes place in 1491 or slightly earlier. Lost Mine of Phandelver, from the Starter Set, likely takes place here (probably before Princes). Pages 30-31 of Lost Mine of Phandelver describe the eruption of Mount Hotenow (1451 DR) as occurring “30 years ago”, which would place the adventure in 1481 DR. However, the Acquisitions Incorporated book suggests Phandelver and Princes take place at the same time (and Princes is stated as taking place in 1491 DR). Ed Greenwood said on Twitter, “Lost Mine is officially a bit nebulous in date for DM convenience, though there are detailed internal WotC timelines so as to keep things straight (i.e. novels). Safe to say: 1490s DR.” The date of the eruption is incorrect in another 5E product, so 1491 is likely the correct date for LMoP. Tomb of Annihilation likely takes place in either late 1490 or 1491 (or very early in 1492), as it features frost giants searching for Artus Cimber and the ring of winter. Both Storm King and Tomb name Jarl Storvald and feature the frost giant captain Drufi with the same accompanying bodyguards and beasts. Drufi leads the assault on Bryn Shander, and it is noted in Storm King that if Drufi does not find Artus there, Jarl Storvald sends Drufi back out in search of the ring (and perhaps to Chult). Since Storm King has variable starts and not all locations are visited or all villains defeated, this is plausible. Tomb has Volo writing his book, Volo’s Guide to Monsters, and Waterdeep: Dragon Heist mentions the book is published, so Tomb must take place before Dragon Heist."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1492",
+            "description": "1492 DR – Waterdeep: Dragon Heist takes place. Dragon Heist mentions the Year of Three Ships Sailing (the name for 1492), and it has to take after Lord Neverember is ousted (1489) and after Savra Belabranta repents for her role in Princes of the Apocalypse (1491). This also places Waterdeep: Dungeon of the Mad Mage as taking place at this time, since it links to Dragon Heist."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1493",
+            "description": "1492 or 1493 DR: Likely the intended date for Dragons of Icespire Peak, from the Essentials Kit. (NPCs such as the young Toblen Stonehill are roughly the same age as in Phandelver. Icespire says Mount Hotenow erupted “some fifty years ago,” but that would place Icespire in 1500 DR which is unlikely.)"
+        },
+        {
+            "timetype": "adventure",
+            "date": "1494",
+            "description": "1494 DR – The adventure Descent into Avernus has a Baldur’s Gate gazeteer that describes it as being in 1492 DR. However, Elturel descends in 1494."
+        },
+        {
+            "timetype": "adventure",
+            "date": "1496",
+            "description": "1496 DR – Acquisitions Incorporated takes place. (States on pages 103 that it takes place “five years or so after Lost Mine of Phandelver” and on page 179 says regarding Princes of the Apocalypse, “As with Phandalin, this version of Red Larch is set about five years later than that earlier adventure.”)"
+        }
+    ]
+}

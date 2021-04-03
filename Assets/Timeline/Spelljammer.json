@@ -1,0 +1,764 @@
+{
+    "type": "SJ",
+    "universe": "Spelljammer",
+    "description": "DJ, Spelljammer",
+    "originalsource": "http://www.spelljammer.org/essays/history/pw_timeline.html",
+    "colour": "b19333",
+    "times": [
+        {
+            "timetype": "notable",
+            "date": "-3,000,000",
+            "description": "[SJ] The mysterious Juna, or Creators, appear to be the first race to dominate space. Their trilateral symbols (flowers, stars) are today found on many odd and ancient ruins.\n{Into the Void, pp 67-70}\n[SJ] In Winterspace, the planet Radole's unique geology and topography are obviously created by intelligent life long before its recorded history. Radole's geology features tunnels with abstract murals and carvings with a motif of three pointed stars and three petaled flowers, possibly indicating the Juna, that likely date from just after the world is terra-formed.\n{SJR4 Practical Planetology, pp14-15}"
+        },
+        {
+            "timetype": "notable",
+            "date": "-2,000,000",
+            "description": "[SJ] The thri-kreen precede the humans and illithids into space. The Juna are already disappearing, their memory preserved in thri-kreen legends and the artifacts and ruins left behind.\n{SJA2 Skull & Crossbows, p46}\n{Into the Void, pp 67-70}"
+        },
+        {
+            "timetype": "notable",
+            "date": "-15,000",
+            "description": "[SJ] Historical records on the planet ring world Nivil begin. Nivil is home to virtually every sentient race known, each is found somewhere on the massive planet.\n{SJR4 Practical Planetology, p41}"
+        },
+        {
+            "timetype": "notable",
+            "date": "-14,959",
+            "description": "[SJ] A High Elven spelljammer crashes on the world of Bodi, establishing its small population of high elves.\n{SJR4 Practical Planetology, p18}"
+        },
+        {
+            "timetype": "notable",
+            "date": "-12,840",
+            "description": "[SJ] The various societies of the Astromundi Cluster (aka the Shattered Sphere) become aware of spelljamming. (pre-Cycles AC)\n{The Astromundi Cluster, Astrogator's Guide, p4}"
+        },
+        {
+            "timetype": "notable",
+            "date": "-11,840",
+            "description": "[SJ] The First Cataclysm occurs when two of the Cluster's three planets collide. The surviving planet, Astromundi, gives its name to the sphere. (1/1 AC)\n{The Astromundi Cluster, Astrogator's Guide, p4}"
+        },
+        {
+            "timetype": "notable",
+            "date": "-11,840 to 2000",
+            "description": "[SJ] In the aftermath of the First Cataclysm, the population of the planet Astromundi expanded considerably. This led to wars, some lasting decades, between rival nations, as well as persecution of the non-human Astromundian population, particularly the elves and dwarves. Many human offspring begin exhibiting mutations and they are banished into Astromundi's Underdark. (c1/1 - 8/1064 AC)\n{The Astromundi Cluster, Astrogator's Guide, p4}"
+        },
+        {
+            "timetype": "notable",
+            "date": "-8318 to -5318",
+            "description": "[FR] The Crown Wars are fought between the various Elven nations on Faerun. They are initiated primarily by the Gold Elf Vyshaan clan, rulers of the elven kingdom of Aryvandaar in the High Forest of northern Faerun. (-12,000 to -9,000 DR)\n{Cormanthyr: Empire of Elves, p32-33 }"
+        },
+        {
+            "timetype": "notable",
+            "date": "-6318",
+            "description": "[FR] Descent of the Drow: Corellon's magic, as directed through his priests and High Mages, transforms the dark elves, whether the corrupt Ilythiiri or others, into the drow. Whether by magic or by the weaknesses that banish them from the sunlit lands, all drow retreat within two months' passing into the Underdark. Elves are summoned by the Seldarine to the site that becomes Elven Court one month after the Descent of the Drow, to settle differences and restore the peace among the elves. (-10,000 DR)\n{Cormanthyr: Empire of Elves, p31}"
+        },
+        {
+            "timetype": "notable",
+            "date": "-5318",
+            "description": "[FR] The IEN man-o-war GREEN MONARCH under Captain Mariona Leafbower loses a battle with Q'nidar and is forced to make a crash landing on the island of Evermeet of the planet Toril in Realmspace. Captain Leafbower lends her expertise to Evermeet's navy in the construction of the Ruathimaer ('Starwings') which become the defensive fleet of Evermeet. (c-9000 DR)\n{Evermeet: Island of the Elves, p227}\n[FR] The Fifth Crown War ends with the utter defeat of the Vyshaan and the dissolution of Aryvandaar. Much of the High Forest is abandoned for an age, leaving the forest open so the gods might restore its peace. The madness of the Vyshaan clan compelled even their most fervent followers to abandon them before all the elves lay dead at their hands. While the final fate of the Vyshaan elves is not recorded, most Tel'Quessir believe them dead and executed at the hands of Elven Court. Still, some rebellious elves across the centuries whisper tales of the four sons of Vyshaan who escaped to the west and to the stars to quietly marshal their strength and await such a time as they could return in glory to Faerun. (c-9000 DR)\n{Cormanthyr: Empire of Elves, p23 & p31}"
+        },
+        {
+            "timetype": "notable",
+            "date": "240",
+            "description": "[SJ/FR] The Tears of Selune 'pop' into existence; the event is noted in ancient histories of Shou Lung and Evermeet. (-3440 DR/-2190 Shou)\n{SJR2 Realmspace, p29}"
+        },
+        {
+            "timetype": "notable",
+            "date": "1041",
+            "description": "[SJ] The 'People of the Celestial Mantis', a thri-kreen nation, dominate a section of wildspace much as the IEN does today. They are the dominant sect in the thri-kreen religion, worshipping the Mantis God of the Eternal Lotus. They launch an unsuccessful crusade against other races and faiths, trying to force them into following the Eternal Lotus teachings. Their crusade is unsuccessful, breaking their domination of wildspace and causing the rise of more moderate sects devoted to the Mantis God.\n{SJA2 Skull & Crossbows, p42}"
+        },
+        {
+            "timetype": "notable",
+            "date": "1044",
+            "description": "[SJ] The elven heroine Raven Stormwalker defeats a horde of evil dragons in Realmspace.\n{The Radiant Dragon, pp165-167}"
+        },
+        {
+            "timetype": "notable",
+            "date": "1182",
+            "description": "[FR] Ao, overpower of Realmspace, allows the god Ptah to transport avatars of two godly pantheons to their people in Realmspace. Worshippers of these two pantheons, known latter in Realmspace as the Untheric and Mulhorandi pantheons, had been kidnapped from their home plane and enslaved by the famed Imaskari sorcerers. These sorcerers had been powerful enough to create a magical barrier to planar access into the sphere. Ptah uses two mythical spelljammers, the war galley/river barge MATET/SEMKTET and the GALLEY OF THE GODS, to transport avatars of these powers, which then overthrow the Imaskari sorcerers. (c. -2500 DR)\n{Powers and Pantheons, p94}"
+        },
+        {
+            "timetype": "notable",
+            "date": "1301",
+            "description": "[FR] Three beholder colony ships crash in the Alimir mountains of Toril, they establish the Alimir hive. (-2381 DR)\n{Empires of the Shining Sea, p40}"
+        },
+        {
+            "timetype": "notable",
+            "date": "2000",
+            "description": "[SJ] Spelljamming human explorers from Astromundi encounter the demonic 'Unbidden' amongst the asteroids of the Cluster. They form an alliance with this mysterious group. (c8/1064 AC)\n{The Astromundi Cluster, Astrogator's Guide, p4}"
+        },
+        {
+            "timetype": "notable",
+            "date": "2000 to 3000",
+            "description": "[SJ] Fleeing the conflicts with humans, the dwarves of the Shattered Sphere depart Astromundi forever. They build Dwarven citadels and begin to mine the Cluster's countless asteroids. The elven peoples of Astromundi depart as well, but their diaspora is more extensive, as they leave the Shattered Sphere entirely. (c8/1064 - 7/1141 AC)\n{The Astromundi Cluster, Astrogator's Guide, p4}"
+        },
+        {
+            "timetype": "notable",
+            "date": "2040",
+            "description": "[SJ] The government of the 13 Counties of the Northern Polarate of Anadian halflings is founded in Realmspace.\n{SJR2 Realmspace, p8}\n[SJ] The silver dragon Ewa arrives on the planet Nubis, establishing the planet's silver dragon culture.\n{SJR4 Practical Planetology, p38}"
+        },
+        {
+            "timetype": "notable",
+            "date": "2568",
+            "description": "[FR] Spelljamming is discovered by the magocracy of Netheril on Toril in Realmspace. (c-1114 DR )\n{Cormanthyr: Empire of Elves, p35}"
+        },
+        {
+            "timetype": "notable",
+            "date": "2618 to 2718",
+            "description": "[FR] The Empire of Netheril on Faerun becomes the first human spelljamming nation of Toril. The Skyward Realms, as the space mariners of Netheril called Realmspace, was believed to be the next great frontier for raw materials, such as mined ores, spellcraft, and discovered magical items. The Netherese explorers, however, were also responsible for racial experiments, basically vivisecting anything they ran across. This gave the Netherese, the only Faerunian humans to have ventured into Realmspace up until 2618, a very bad name and a horrid reputation-akin to the fear generated when an illithid spelljamming ship was seen. This dread did nothing but separate the Netherese from the spelljamming community already in space and made trade nearly impossible. In fact, Netherese ships were attacked on sight. Oberon, an arcanist born during this time in Netheril's history, tried his best to mend his nation's reputation in space, but it was to no avail. One hundred years after the first ship ventured above Toril's surface, Netheril recalled the last one. The tremendous expense of armoring and defending their ships far exceeded any profits to be made in Realmspace. Since the Netherese were unsuccessful in creating their own helms and other spelljamming items-being forced to rely on the Arcane for such materials- they decided to drop out of Realmspace. Oberon, distraught over the loss of his love, moved to Yeoman's Loft and attempted to maintain a presence in Realmspace. Even his death 10 years later didn't hamper Netheril's presence, as others who felt and shared his dedication continued in his wake. (-1064 DR/2795 NY to -1164 DR/2895NY)\n{Netheril:Empire of Magic, Winds of Netheril, p 93}"
+        },
+        {
+            "timetype": "notable",
+            "date": "2618",
+            "description": "[FR] Yeoman's Loft becomes the main port of call for Netherese spelljammers. Great docking platforms were built to accommodate the influx of spelljamming vessels, standing out like arms stretching into the night sky. When Netheril began investigating Realmspace in (-1064 DR, 2795 NY)\n{Netheril:Empire of Magic, Winds of Netheril, p 93}"
+        },
+        {
+            "timetype": "notable",
+            "date": "2668",
+            "description": "[FR] Netheril abandons spelljamming magic and technology as too costly and expensive; this is due, in part, to constant harrying within Realmspace by the Elven Imperial Navy. (c-1014 DR)\n{Cormanthyr: Empire of Elves, p35}"
+        },
+        {
+            "timetype": "notable",
+            "date": "2718",
+            "description": "[FR] The Empire of Netheril deserts spelljamming as too costly and expensive. Great wealth entered the groundling city, but spelljamming proved an even greater expense. The archwizards decided that the risk was far too great to justify the tremendous\nexpense of lost ships and murdered crews. Spelljamming was officially abandoned at that point in time, but Yeoman's Loft continued to serve as a spelljamming port for several private spelljamming companies. (c.-964 DR/2895 NY)\n{Netheril:Empire of Magic, Winds of Netheril, p 93}"
+        },
+        {
+            "timetype": "notable",
+            "date": "2662 to 2728",
+            "description": "[FR] The Archwizard Oberon specialized in quasidimensional transport and was an ardent supporter of Netheril's entrance into Realmspace. Even after Netheril's other archwizard's stopped funding expeditions into Realmspace, Oberon made sure that they continued, hoping to discover some valuable resource that would place him ahead of the other archwizards. He never found that resource. Oberon did go out into Realmspace on a few occasions, seeking to re-establish ties with other space-faring races. While other Realmspace denizens respected him, those same creatures retained little respect for the Netheril nation, whom they viewed as corrupt and evil. (-1020DR/2839 NY to -954 DR/2905 NY)\n{Netheril:Empire of Magic, Winds of Netheril, p 113}"
+        },
+        {
+            "timetype": "notable",
+            "date": "2986 to 3342",
+            "description": "[FR] The Shadowed Age of Netheril: Yeoman's Loft suffered a major loss of population and business during this period but remained a Spelljamming port. Only 20,000 or so remaining inhabitants served the five private ventures that continued to pursue spelljamming. It was grueling and expensive work that all of the other Netherese enclaves and cities chose to ignore. (-696 DR/3163 NY to -340 DR/3519 NY)\n{Netheril:Empire of Magic, Winds of Netheril, p 93}"
+        },
+        {
+            "timetype": "notable",
+            "date": "3000",
+            "description": "[SJ] In Winterspace, historical records on the planet Radole begin at this point.\n{SJR4 Practical Planetology, p14}"
+        },
+        {
+            "timetype": "notable",
+            "date": "3000 to 3400",
+            "description": "[SJ] The 'Unbidden' and their human allies return to Astromundi in 'golden spelljamming craft' or 'Hellbarges.' They conquer most of the nations of the planet Astromundi, destroying much of the planet in the process. Only Antilan nation remained safe from the 'Unbidden' behind powerful magical wards. (c7/1141 - 4/1172 AC)\n{The Astromundi Cluster, Astrogator's Guide, pp5, 7}\n{The Astromundi Cluster, Adventures in the Shattered Sphere, p48}"
+        },
+        {
+            "timetype": "notable",
+            "date": "3343",
+            "description": "[FR] The Fall of Netheril. The Goddess of Magic, Mystryl sacrifices herself when Karsus attempts to obtain godhood, all magic ceases for a moment, and the Netherese sky cities all fall. Yeoman's Loft suffers as well. The massive docking structure that was constructed for the spelljamming vessels exploded and collapsed when Mystryl sacrificed herself. Four spelljamming vessels that were currently docked likewise suffered a similar fate, their helms detonating. Thousands died as the massive structure collapsed into the city. (-341 DR, 3520 NY)\n{Netheril:Empire of Magic, Winds of Netheril, p9 & 93}"
+        },
+        {
+            "timetype": "notable",
+            "date": "3400 - 3500",
+            "description": "[SJ] The illithids emerge from the Underdark of Astromundi, claiming to be the descendents of the human mutants banished to the Underdark in earlier millennia. They begin a war against the 'Unbidden' and their human allies. (c4/1172 - 1/1180 AC)\n{The Astromundi Cluster, Astrogator's Guide, p5}\n{The Astromundi Cluster, Adventures in the Shattered Sphere, pp48, 55}"
+        },
+        {
+            "timetype": "notable",
+            "date": "3500",
+            "description": "[SJ] The Second Cataclysm in the Astromundi Cluster occurs when the illithid deity Lugribossk destroys the planet Astromundi and banishes the 'Unbidden' from the sphere. (c1/1180 AC)\n{The Astromundi Cluster, Astrogator's Guide, pp5-6}\n{The Astromundi Cluster, Adventures in the Shattered Sphere, pp48 & 55}"
+        },
+        {
+            "timetype": "notable",
+            "date": "3839",
+            "description": "[SJ] The Sazaur beholder nation's Hive Mother dies. They had almost exterminated the other beholder nations of their sphere, her death upset their plans to complete this domination. In response, they team up with the Arcane to create an artifact from her body so they can regain their power in the sphere. They discover this artifact requires a massive sacrifice of life; they start building the Ravager, an ultimate weapon, to accomplish this.\n{SJA1 Wildspace, p2}"
+        },
+        {
+            "timetype": "notable",
+            "date": "3842",
+            "description": "[SJ] The matriarchies of the Aarakocra of Coliar in Realmspace are established.\n{SJR2 Realmspace, p13}"
+        },
+        {
+            "timetype": "notable",
+            "date": "3894",
+            "description": "[SJ/FR] 'Year of the Awakening Magic': Elminster, son of Prince Elthryn and\nAmrythale Goldsheaf, is born in Athalantar on Faerun in Toril. He is destined to become the most famous mage of Toril. (212 DR)\n{Dragon 228 'The Athalantan Campaign: Roleplaying in the Forgotten Realms of the Young Elminster', p32}"
+        },
+        {
+            "timetype": "notable",
+            "date": "3943",
+            "description": "[FR] Myth Drannor is founded in Faerun on Toril in Realmspace. (261 DR)\n{Forgotten Realms Campaign Setting, 2nd ed.: Running the Realms, p14}\n[FR] 'Year of Soaring Stars.' Elven and human mages devise spells needed to sail the skies in this year, and new skyships are seen in Faerun, on Toril-the first such craft outside of Halruua since the fall of Netheril.(261 DR)\n{Dragon 228 'The Athalantan Campaign: Roleplaying in the Forgotten Realms of the Young Elminster', p34}"
+        },
+        {
+            "timetype": "notable",
+            "date": "3974",
+            "description": "[SJ/FR] The comet K'Thoutek orbits the sun every 237 years, its arrival in Torilian skies announces the birth or arrival of a powerful entity. (292 DR)\n{SJR2 Realmspace, p53}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4000",
+            "description": "[SJ] The Illithids of the Astromundi Cluster enslave the Varan humans. (c6/1218 AC)\n{The Astromundi Cluster, Astrogator's Guide, pp9,20}\n[SJ] The falmandratha sage One Six Nine begins his studies of wildspace lore in Herdspace.\n{The Maelstrom's Eye, p 50}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4039",
+            "description": "[SJ] The Sazaur beholder nation completes the Hive, an asteroid that carries their ultimate weapon, the Ravager, through the spheres. When they activate the Ravager it engulfs and destroy the entire Sazaur nation. The Ravager and the Hive have traveled through Wildspace and the Flow on a random course ever since.\n{SJA1 Wildspace, pp2-3}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4040",
+            "description": "[GH] The Invoked Devastation and Rain of Colorless Fire destroy much of Oerth. (-422 CY) {From the Ashes, A Brief Historical Timeline for the Flanaess Cardsheet}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4100",
+            "description": "[SJ] The Arcane of the Astromundi Cluster strike a mysterious deal with the 'Unbidden'. (c2/1226 AC)\n{The Astromundi Cluster, Adventures in the Shattered Sphere, p56}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4142",
+            "description": "[SJ] The legendary, cursed Batship is launched, within is its first and only helmsman, the human wizardess Burnayette Skyansdanya.\n{SJR2 Realmspace, pp 31, 90}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4143",
+            "description": "[SJ] The Thesalyean astronomer and sage Lagor discovers the planet Longpoint in Greatspace. (-44 TU)\n{Crystal Spheres, p30-31}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4187",
+            "description": "[SJ] Shurius Shambrath defeats Gerion Firebrand, first ruler of the unified Thesalys government, and becomes the ruler of Thesalys and all Greatspace, ushering in that sphere's Time of Unity. The Time of Unity continues today under the rule of House Shambrath. (1 TU)\n{Crystal Spheres, p32}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4192",
+            "description": "[SJ] The Thesalyean astronomer and sage Lagor discovers the planet Lagor's World. Other planets in Greatspace were not discovered until nearly a century had passed after his death. (5 TU)\n{Crystal Spheres, p30-31}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4194",
+            "description": "[FR] The Coronal's Court of Myth Drannor on Faerun receives the first of many visitations by spelljamming elves of the Elven Imperial Navy at Shadusk and Green Monarchs' Glade northeast of the city. (512 DR)\n{Cormanthyr: Empire of Elves, p40}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4200 - 4700",
+            "description": "[SJ] The Rise of the Antilan Empire in the Astromundi Cluster. The Antilans are the first Astromundi humans to rediscover their spelljamming heritage after the 2nd Cataclysm. Their expanse into space begins with raids, and eventually turns to conquest. Calidian and Thoric legends concerning the conquering legions of the 'sky-people' and their 'horrible magic' date from this period of Antilan aggression. (c11/1233 - 4/1272 AC)\n{The Astromundi Cluster, Astrogator's Guide, pp7-8}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4211",
+            "description": "[SJ/FR] The comet K'Thoutek orbits the sun every 237 years, its arrival in Torilian skies announces the birth or arrival of a powerful entity. (529 DR)\n{SJR2 Realmspace, p53}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4244",
+            "description": "[SJ/FR] The future Queen Amlaruil of Evermeet on Toril sees the Spelljammer while walking at night on the northernmost shore of Evermeet.\n{The Radiant Dragon, pp122-123}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4249",
+            "description": "[SJ] The Illithids have an outpost on the asteroid which will become the Rock of Bral.\n{SJR5 Rock of Bral, p5}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4249",
+            "description": "[SJ] A small, unknown Beholder nation inhabits the asteroid which will become the Rock of Bral.\n{SJR5 Rock of Bral, p5}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4394-4395",
+            "description": "[FR] The Weeping War was the decades long conflict between the Army of Darkness and the elven city of Myth Drannor on Faerun. A long incident in this conflict was the campaign known as the three Greenwing Wars. These three battles were so named for Myth Drannor's primary ally in waging them, an elven man-o-war. Responding to a magical plea for help from a grounded ally among Cormanthyr's wizards, the Elven Imperial Fleet of Realmspace sent Captain Oncith Ilbenalu to aid the elves with his green crystalline-winged man-o-war, the MONARCH MORDENT, and his trusted crew of bards, wizards, and crack archers. Dominating the three battles in which it participated, the Monarch provided air cover and heavy weaponry with its ballistae and catapult that aided the ground troops immeasurably. In fact, its arrival changed the tide of the war in the northern forest and gave the outmatched and outnumbered elves some significant victories. With the Third Greenwing War, Captain Oncith's pride overcame his sense as he maneuvered so close to the treetops and the Army of Darkness forces that his helmsman could not maneuver effectively. When Gaulguth the Nycaloth flew skyward, there was little beyond ineffectual missile fire to stop him from using his great axe, Heartcleaver, to shatter one of the ship's wings at its base! With the magical shock slaying the helmsman immediately, the MONARCH MORDENT crashed into the trees and atop nearly 200 members of the Army of Darkness. Since that lost battle, the photosynthetic wings continued to grow, and large crystalline webworks wrapped around the clearings and the trees in this northern glade now called Monarch's Fall Glade. While most animals shun the amber-and-emerald crystal webs and walls, many elves used this as a redoubt and shelter both during and long after the Weeping War. (Eleint 712-Alturiak 713 (133 days))\n{The Fall of Myth Drannor, p29}\n{Cult of the Dragon, p48}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4396",
+            "description": "[FR] The fabled city of Myth Drannor, on Faerun, falls to the Army of Darkness at the conclusion of the Weeping War. (714 DR)\n{The Fall of Myth Drannor}\n{Forgotten Realms Campaign Setting, 2nd ed.: Running the Realms, p15}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4439",
+            "description": "[SJ] Priestesses of Athena bring peace to the war torn planet Hecht of Greatspace. Those who reject the peace form the Greysword pirate group. (c TU 252)\n{Crystal Spheres, p35-36}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4448",
+            "description": "[SJ/FR] The comet K'Thoutek orbits the sun every 237 years, its arrival in Torilian skies announces the birth or arrival of a powerful entity. This appearance is said to correspondence with the birth of the Simbul, Witch-Queen of Aglarond. (766 DR)\n{SJR2 Realmspace, p53}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4459",
+            "description": "[SJ] Anthonius Pirtel, the Ice Mage, discovers Pirtelspace. He then introduces the Quarinaron Confederacy on the planet Archin to spelljamming and builds a base orbiting Archin. He names his new base Skyport.\n{Dungeon #36 'The Sea of Sorrow', pp45, 48, 52}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4500",
+            "description": "[SJ] The Radole Empire is established on the planet of the same name in Winterspace.\n{SJR4 Practical Planetology, pp14-15}\n[SJ] The humans of the planet Nex destroy their planet in a cataclysmic magical war, all the planet's inhabitants are slain. Many become undead on the pieces of planet that fall onto Nex's water moon, Charon, and become that moon's continents.\n{SJR4 Practical Planetology, p28}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4549",
+            "description": "[SJ] Anthonius Pirtel, the Ice Mage, leaves on a trip to explore the Pirtelspace's sun and the Mor Wake, an asteroid shell which surrounds the sun and causes much of the sphere to be colder then normal. He encounters two liches, Delgranoth and Delgranaille, who force him into a spell battle. He destroys Delgranaille, but his sphere of annihilation and Delgranoth's gate combine to form the Lich's Tear. Around this the Sea of Sorrows magic-dead sargasso is formed.\n{Dungeon #36 'The Sea of Sorrow', pp45, 64}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4571",
+            "description": "[FR] A Flight of Dragons attacks the Elven island of Evermeet on Toril. The Ruathimaer destroy it, though the fleet of Ruathimaer is destroyed as well and must be rebuilt. (889 DR)\n{Evermeet: Island of the Elves, p347-350}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4578",
+            "description": "[SJ] Vodonispace's sun, Vodon Prime, goes super nova. The gods of that sphere place themselves in a crystal prison and place themselves in the hands of the Emperor, Vulkuran. (0 AV)\n{Under the Dark Fist, p51}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4600",
+            "description": "[SJ] The First Unhuman War begins.\n{Dragon Annual #1 'Campaign Classics: The Scro', p46}\n[SJ] The Bionoids are created by elves to help fight the 1st Unhuman War.\n{MC9 Spelljammer Monstrous Compendium II, 'Bionoid'}\n[SJ]  Spirit Warriors are created by elves to help fight the 1st Unhuman War.\n{MC9 Spelljammer Monstrous Compendium II, 'Spirit Warrior'}\n[SJ] Refusing to release the gods after the supernova as he had promised, the Emperor Vulkuran begins his conquest of twelve spheres, establishing the Vodoni Empire. (22 AV)\n{Under the Dark Fist, p51}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4600 to 4750",
+            "description": "[SJ] Gruagach and Wood Elven refugees from the First Unhuman War discover the Astromundi Cluster and settle within it. They are pursued by various goblinoid vessels, which establish the first goblinoid colonies within the Shattered Sphere (aka the Astromundi Cluster). (c8/1264 - 2/1276 AC)\n{The Astromundi Cluster, Astrogator's Guide, p5}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4623",
+            "description": "[SJ] Anthia of Calandia in Vodonispace prophesies the return of the Crystal King. (45 AV)\n{Under the Dark Fist, p46}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4647",
+            "description": "[SJ] The Battle of Kule in Greyspace. Over a hundred elven vessels crush an orcish fleet of fifty ships. This was the first major event and largest battle of the First Unhuman War. (185 CY)\n{Spelljammer: AD&D Adventures in Space, Lorebook of the Void, p55}\n{Dragon Annual #1 'Campaign Classics: The Scro', p46}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4649",
+            "description": "[SJ] A small dwarven clan inhabits the asteroid which will become the Rock of Bral.\n{SJR5 Rock of Bral, p5}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4650",
+            "description": "[SJ] The elven fortress Lurienia, set on a tiny discworld, is besieged by orcs. When the world's croplands and forest are destroyed the commander orders infinity vine released, supplying the air and food needed to outlast the orc siege until relief forces arrived.\n{The Complete Spacefarer's Handbook, p121}\n[SJ] The Mighty Gauntlet of Colonel Tamus Ewdun, Field Commander and Sub-Admiral of the Fleet, more commonly known as the Gauntlet of Tamus is found by a giff mercenary within a cave on an asteroid in the Calotian system, during an isolated skirmish of the Unhuman Wars. Wearing it into battle against some very surprised elves, this giff found the Gauntlet's power of generating explosions of tremendous force much to his liking. Though he soon succumbed to excessive damage in battle (mostly caused by the Gauntlet), Tamus secured a place for himself in giff folklore.\n{Dragon 159 'Bazaar of the Bizarre: Magic from the Stars', p18}\n[SJ] The Radiant Dragon Blacklight discovers the Sea of Sorrow magic-dead Sargasso in Pirtelspace and makes it his lair.\n{Dungeon #36 'The Sea of Sorrow', p45}\n[SJ] The Neogi enter the Astromundi Cluster. Very atypically for neogi, they establish themselves as merchants exchanging spelljamming technology with isolated human outposts in exchange for slaves. This results in the most corrupt humans returning first to the stars. (c6/1268 AC)\n{The Astromundi Cluster, Astrogator's Guide, p5}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4663",
+            "description": "[SJ] Destruction of the planet Borka in Greyspace by the elven deities (201 CY)\n{Dragon Annual #1 'Campaign Classics: The Scro', p46}\n{SJR6 Greyspace, pp61 & 55-56}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4685",
+            "description": "[DL] The Cataclysm of Krynn. The arrogance of the Kingpriest of Istar causes the Gods of Krynn to send a massive asteroid strike against Krynn. Krynnish society is shattered for centuries, and the gods abandon Krynn. (0 AC)\n{Dragonlance Adventures, p101}\n[SJ/FR] The comet K'Thoutek, which orbits the sun of Realmspace every 237 years, arrives in Torilian skies. Its appearance is said to announce the birth or arrival of a powerful entity. (1003 DR)\n{SJR2 Realmspace, p53}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4690",
+            "description": "[SJ] A powerful orc, Dukagsh, sees his fleet destroyed and scattered by the elves. Organizing the remnants of the fleet, he declares himself Almighty Leader of the survivors and flees to distant spheres, collecting other ships as he goes.\n{Dragon Annual #1 'Campaign Classics: The Scro', p48}\n{SJS1 Goblin's Return, p62}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4693",
+            "description": "[SJ] Dukagsh's fleet of orcish survivors finds an inhabitable planet in a distant, largely uninhabited crystal sphere. Dukagsh declares this their new homeworld and settles his followers there. He begins forcing drastic change on orcish society.\n{Dragon Annual #1 'Campaign Classics: The Scro', p48}\n{SJS1 Goblin's Return, p62}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4700",
+            "description": "[SJ] Reuful Ironhand becomes king of the Reorx dwarves; he creates Reorx' spelljammer ports, introducing the gnome and dwarven peoples of Reorx to spelljammer commerce.\n{SJR7 Krynnspace, p23}\n[SJ] Humanoids invade the discworld of Plata during the 1st Unhuman War, but find the Aarakocra of that planet too tough to defeat. The later destruction of the Goblinoid fleets leaves the invasion army stranded, and its members splinter back into tribes.\n{SJR4 Practical Planetology, p49}\n[SJ]  The IEN corners a drow fleet near the ice planet Century in Pirtelspace. The drow crash on the planet, so the IEN builds a military base, Darkwatch, on a small asteroid moon above Century, in order make certain the drow do not return to wildspace.. They base two men-o-war at Darkwatch: the KINGFISHER and the PRINCELY ESCORT.\n{Dungeon #36 'The Sea of Sorrow', pp47, 63}\n[SJ] The Arcane become active in the wider Astromundi Cluster. Their sales of spelljamming technology to non-slaver races helps balance the neogi focus on slavers as trading partners. (c4/1272 AC)\n{The Astromundi Cluster, Astrogator's Guide, p6}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4700 to 4750",
+            "description": "[SJ] The Tentacle Wars between the Antilan Empire and the Illithids begin within the Astromundi Cluster. The Antilans suffer their first major defeats after centuries of conquest. They begin delving into the lore of the Ancients and strike an alliance with the Arcane versus the illithids. The result is the discovery of 'Sun Magic' which powers the crystal ships and citadels of the Antilans, as well as providing spells of devastating power. The war continues until the present day, though it often devolves into low-level raiding and espionage. (c4/1272 - 2/1276 AC)\n{The Astromundi Cluster, Astrogator's Guide, pp7-8}\n{The Astromundi Cluster, Adventures in the Shattered Sphere, p14}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4708",
+            "description": "[SJ] The famous galleon SKY RANGER, and her equally legendary privateer captain Brent Runner, disappears enroute from Refuge to the elvish sphere Darnannon.\n{Dungeon #36 'The Sea of Sorrow', p41}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4712",
+            "description": "[SJ] The vampire T'Laan is born as the half-elf Dorin in Aglarond, a kingdom on the planet Toril in Realmspace. (1040 DR)\n{Crystal Spheres, p4}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4720",
+            "description": "[SJ] The giff war barge THUNDERER sights a spectral galleon in the flow near Pirtelspace. This is the first of 30 sightings of this spectral galleon over the next centuries, always leading the ship to Pirtelspace\n{Dungeon #36 'The Sea of Sorrow', p41}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4728",
+            "description": "[SJ] Dukagsh's dies and attains apotheosis as a demigod. The planet is named after him and he is placed in a special coffin set in perpetual orbit above Dukagsh's northern pole. His followers, whom he renames 'Scro' just before his death, largely abandon the traditional orcish pantheon to worship him. Though not yet truly scro, the orcs of the planet Dukagsh are well on the path to becoming scro.\n{Dragon Annual #1 'Campaign Classics: The Scro', p48}\n{SJS1 Goblin's Return, p62}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4737",
+            "description": "[SJ/FR] The half-elf Dorin of Aglarond serves as an advisor to Brindor in the talks following the Battle of Ingdal's Arm. Through his efforts Brindor becomes the first king of Aglarond on the planet Toril. Soon afterward, however, Dorin's wife is slain by assassins. Dorin makes a pact with dark powers to defeat the assassins, and becomes the vampire later known as T'Laan. He then journeys into wildspace. (1065 DR)\n{Crystal Spheres, p4}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4742",
+            "description": "[SJ] The Dock in the Wu Pi Te Shao mountains is founded by the Arcane.\n{SJR2 Realmspace, p21}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4747",
+            "description": "[SJ] Witchlight Marauders are created by the humanoids to destroy elven worlds during the 1st Unhuman War.\n{MC9 Spelljammer Monstrous Compendium II, 'Witchlight Marauders'}\n{SJS1 Goblin's Return, p63}\n[SJ] Only the Combined Goblin Fleet under the command of the half-orc Gralnakh Longtooth succeeds in handing the Imperial Elven Fleet truly damaging losses. But in the absence of other effective humanoid fleets it was doomed. It fought on for years but Gralnakh and IEN Admiral Leafbower (an ex-battle poet) agreed to a cease-fire/armistice. The IEN Council of Admirals exiles the goblinoids to the most inhospitable planet they could find, Armistice, in Winterspace. Then they establish the Armistice Blockade to prevent the goblinoids from gain spelljamming ever again.\n{SJR4 Practical Planetology, p11}\n{Dragon Annual #1 'Campaign Classics: The Scro', p46}\n{The Radiant Dragon, p145}\n[SJ] Moragspace has been infested by gammaroids for ages, they ate all of the sphere's planets over centuries. One of the last gammaroids eats a drifting Witchlight Marauder, which will slowly kill it over the next centuries.\n{SJS1 Goblin's Return, pp7, 10}\n[SJ] End of the First Unhuman War, Elves drive the humanoids from Known Space.\n{Dragon Annual #1 'Campaign Classics: The Scro', p46}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4750",
+            "description": "[SJ] Sindiath, an elven hero of the First Unhuman War, takes a large portion of the Imperial Elven fleet and converts it over to passenger and cargo service, creating the Sindiath Line.\n{The Complete Spacefarer's Handbook, p90}\n[SJ] The Karpri Base, formed from seven archaic men-o-war, is created by the IEN to protect the aquatic elves of Karpri in Realmspace.\n{SJR2 Realmspace, p34}\n[SJ] The Bionoids are kicked out of elven society with the end of the Unhuman War.\n{MC9 Spelljammer Monstrous Compendium II, 'Bionoid'}\n[SJ] The Calidians of the Astromundi Cluster free themselves after centuries of shifting back and forth between illithid and Antilan slavery. (c2/1276 AC)\n{The Astromundi Cluster, Adventures in the Shattered Sphere, p27}\n[SJ] In the Astromundi Cluster, Antilan Sun Mage Azahn Kyli badly botches (or is sabotaged) an attempt to obtain lichdom. The resulting magical backlash sweeps across the asteroid he is on, which becomes the infamous, undead-haunted 'Isle of Banshees'. (c2/1276AC)\n{The Astromundi Cluster, The Celestial Almanac, pp62-63}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4751",
+            "description": "[FR/SJ] The illithids of Glyth built and maintained an outpost at Stardock in the Tears of Selune, dug from the solid rock by the claws of enslaved umber hulks. The outpost will be in use off and on for the next three centuries by the Glyth mind flayers.(1069 DR)\n{Undermountain: Stardock, p5}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4755",
+            "description": "[SJ] The Dark Oliphant, an ogre mammothship, was a scourge of the void long after the Unhuman War ended. Over a long career it was credited with defeating a score of elvish warships, as well as single-handedly destroying two elven armadas. It is finally brought to bay by the Imperial Elven Fleet and its helm was destroyed by an elven mage teleporting into the helmroom with a lit barrel of smokepowder.\n{Dungeon #41 'Mammoth Problems', p36}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4759",
+            "description": "[SJ] In Pirtelspace, following a long, drawn out series of attacks, the radiant dragon Blacklight destroys the elves of Darkwatch and tows the two men-o-war stationed there, the KINGFISHER and the PRINCELY ESCORT, back to the Sea of Sorrow.\n{Dungeon #36 'The Sea of Sorrow', pp47, 63}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4800",
+            "description": "[SJ] The dwarven nations of the Astromundi Cluster negotiate a treaty with the Antilan Sun Mages. The dwarves provide ore and mercenaries at favorable rates to the Antilans. This treaty remains in effect into the present day. (1/1280 AC)\n{The Astromundi Cluster, The Celestial Almanac, p21}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4829",
+            "description": "[SJ] The half-elven vampire Dorin, later known as T'Laan, enters the sphere that will eventually be named Darkspace. Within he finds nine planets, but only one, Verin, has life beyond simple fungi. The humans of that planet were not spelljammer aware. Dorin/T'Laan begins to create more vampires as he feeds across the planet.\n{Crystal Spheres, p39}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4839",
+            "description": "[SJ] The half-elven vampire Dorin, who poses as a bard, changes his name to T'Laan.\n{Crystal Spheres, p16}\n[SJ] Castle Skyview, palace of House Shambrath, is constructed. Thesalys in Greatspace enters a period of peace, as no war or large scale hostility occurs on Thesalys for the next 200 years. (TU 652)\n{Crystal Spheres, pp32-33, 35}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4842",
+            "description": "[SJ] An infectious spelljammer crew introduces a plague which wipes out 30% of the population of the halflings of the Southern Polarate of Anadia in Realmspace.\n{SJR2 Realmspace, p8}\n[SJ] The legendary, cursed Batship enters Realmspace and begins to haunt the Tears of Selune.\n{SJR2 Realmspace, pp 31, 90}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4849",
+            "description": "[SJ] The Imperial Elven Navy takes control of Korvspace in order to better protect its inhabitants from illithid slavers.\n{Polyhedron #81 'His Majesty's Spacial Service', p10}\n[SJ] The radiant dragon Blacklight attacks Skyport, a spelljammer base that orbits the planet Archin in Pirtelspace. He is beaten off by the archmage Azure wielding a Sphere of Annihilation inherited from the legendary Ice Mage, Pirtel.\n{Dungeon #36 'The Sea of Sorrow', p52}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4850",
+            "description": "[SJ] The legendary wizardess known variously as Nimone, Larabet Vintara, Nimone, the Ice Queen, and Meredith is said to begin her career in wildspace around this time, using the name Lady Chaos. She is said to be already 500 years old at this point.\n{Spelljammer #13 'The Armada'}\n{Spelljammer #5}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4858",
+            "description": "[FR/AQ] Grand Caliph Anwar ascends the throne and starts sponsoring the exploration of faraway lands, even those beyond Toril (spelljamming). (1176 DR)\n{City of Delights: Gem of Zakhara, p14}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4877",
+            "description": "[SJ] The Seed-Beholder Company of Realmspace is founded.\n{SJR2 Realmspace, p58}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4879",
+            "description": "[SJ] The pirate Bral establishes his base on the asteroid which would later bear his name.\n{SJR5 Rock of Bral, p5}\n[SJ] The half-elven vampire T'Laan, posing as a bard, is mentioned in an historical account.\n{Crystal Spheres, p16}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4889",
+            "description": "[SJ] The pirate Bral leads a flotilla of his Black Brotherhood in a raid against a groundling city. His fleet of five vessels is met by eight elven men-o-war and destroyed. Bral's vessel the STARWIND is last seen going down in flames onto the planet below.\n{SJR5 Rock of Bral, p6}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4890",
+            "description": "[SJ] The Lady Chaos, Queen of the Stellar Main, outwits the wizard Kavaros, who had placed her under a geas to hire a fleet for him to use to chase down the Spelljammer. She hires many competing factions, including opposing beholder nations, and when the hired fleets rendezvous at Kovaros' stronghold, the Citadel of Honros, a massive battle breaks out. Kavaros and the Citadel of Honros are destroyed.\n{Spelljammer Comic #9 'The Geas'}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4895",
+            "description": "[SJ] The Karpri Base is destroyed by illithids in Realmspace.\n{SJR2 Realmspace, p35}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4917",
+            "description": "[SJ] The legendary pirate Clive the Fearsome first appears in Realmspace.\n{SJR2 Realmspace, p45}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4919",
+            "description": "[SJ] The Neogi Agreement establishes the Inner Ring of the Astromundi Cluster as neutral ground for trade and commerce. Even the Illithids and Antilans keep this treaty because of the trade benefits, though they continue the Tentacle Wars outside the Inner Ring. The Neogi found the Shaseogan trading asteroid to take advantage of this peace. (2/1289 AC)\n{The Astromundi Cluster, The Celestial Almanac, p52}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4920",
+            "description": "[DL] A spelljammer vessel visits the gnomes of Mount Nevermind on Krynn. Mount Nevermind receives other such visits over time, becoming one of Krynn's spelljamming ports. (235 AC)\n{Beyond the Moons, pp138, 140}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5020",
+            "description": "[SJ] The illithids of the Astromundi Cluster conquer the Calidians of the Moons of Calimar. The former Calidian noble houses of those settlements become the Shattered Houses, and the Hidden resistance group is formed to free Calimar from the illithid yoke. (12/1296 AC)\n{The Astromundi Cluster, The Celestial Almanac, p26}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4922",
+            "description": "[SJ/FR] The comet K'Thoutek, which orbits the sun of Realmspace every 237 years, arrives in Torilian skies. Its appearance is said to announce the birth or arrival of a powerful entity. (1240 DR)\n{SJR2 Realmspace, p53}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4928",
+            "description": "[FR] First recorded use of Bombards by Lantan on Faerun in Realmspace. (1246 DR)\n{Forgotten Realms Campaign Setting, 2nd ed.: Running the Realms, p16}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4929",
+            "description": "[SJ] On the planet Verin in Darkspace, humans form bands of vampire hunters to hunt the undead created by T'Laan. This war is called the Time of Death.\n{Crystal Spheres, p39}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4935",
+            "description": "[SJ] On the planet Verin in Darkspace, the Time of Death ends with every human on the planet was dead, leaving tens of thousands of vampires. The vampires hunt one another and T'Laan, this period is known as the Time of Blood.\n{Crystal Spheres, p39}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4965",
+            "description": "[SJ] On the planet Verin in Darkspace, the Time of Blood ends when T'Laan destroys the last of his vampire children.\n{Crystal Spheres, p39}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4942",
+            "description": "[SJ] Rastipedes settle on the asteroid called 'Long Block' in the Tears of Selune in Realmspace.\n{Polyhedron 126 ''Island Campaigns: Part 5 Ecological Nightmares: A World of your Own', pp26-27}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4944",
+            "description": "[SJ] The legendary pirate Blackjammer, original owner of the infamous Blackjammer's Cutlass, is killed.\n{Dragon 159 'Bazaar of the Bizarre: Magic from the Stars', p18}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4949",
+            "description": "[SJ] Cozar founds the Royal House of Bral.\n{SJR5 Rock of Bral, p6}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4950",
+            "description": "[SJ]  The mage Nimone, sometimes known as Lady Chaos, arranges the Betrayal of Astrylon. At the behest of Nimone, the merchant world of Astrylon forms an alliance with three other merchant worlds against its hated rival, Barrara. She has in fact arranged an alliance between Barrara and the three merchant worlds, when the galleons of the Order of the White Plume (a knightly ordered devoted to the defense of Astrylon) arrive at the rendezvous point they are destroyed by the Barrarans and their allies. The Doge of Astrylon dies when he hears of the defeat, and Astrylon's Diet of Elders is forced to elect a weakling in his place. Astrylon becomes a client state of Barrara. The former leader of the Order of the White Plume, Sir Giles Warwick, escapes the slaughter and is rescued by pirates.\n{Spelljammer #10 'Exile on Taladas'}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4967",
+            "description": "[FR] Illithid slavers of the planet Glyth control Skyships' Glade in the Forest of Mir on Toril, using it as a hidden landing site to export abducted slaves from Faerun's south.\n{Lands of Intrigue, Book One: Tethyr, p54}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4966",
+            "description": "[SJ] The wizard-sage Terigamar departs on a voyage to study wildspace and the phlogiston.\n{SJA2 Skull & Crossbows, p27}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4972",
+            "description": "[SJ] The halfling Fjord Deepskull becomes governor of the Northern Polarate of Anadian halflings.\n{SJR2 Realmspace, p10}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4989",
+            "description": "[SJ] The Shipwrights' Guildhall, a grounded Cuttle command ship, is erected on the Rock of Bral.\n{SJR5 Rock of Bral, p77}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4984",
+            "description": "[SJ] Gnome researchers from Ironpiece begin consulting the falmandratha sage One Six Nine. As a result, Ironpiece sees a surge of gnomish inventions that work better than is usually the case.\n{The Maelstrom's Eye, p 86}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4990",
+            "description": "[SJ] A new neogi vessel, the Mindspider, begins to appear in neogi fleets throughout the known spheres.\n{Spelljammer: AD&D Adventures in Space: Lorebook of the Void, p84}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4991",
+            "description": "[SJ] The mysterious Habitat of Greyspace, an ellipsoid of dark blue-gray metal, is first detected.\n{SJR6 Greyspace, pp73-74}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4995",
+            "description": "[SJ/KT] The Shou Lung empire on Toril, dispatches one of its first dragonships to establish diplomatic relations with other planets. It is attacked and destroyed by illithids a week after leaving Toril, the IEN discovers the wrecked dragonship and rescues it sole survivor.\n{Heart of the Enemy, p12}"
+        },
+        {
+            "timetype": "notable",
+            "date": "4999",
+            "description": "[SJ] Frun becomes Prince of Bral.\n{SJR5 Rock of Bral, p7}\n[SJ] The Temple of Odin is founded on the Rock of Bral.\n{SJR5 Rock of Bral, p71}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5000",
+            "description": "[SJ] The Alanti, humans from the Alanta Empire on the planet Nivil, are introduced to spelljamming by the Arcane. They focus on exploring Nivil itself, but some explorers reach wildspace. This begins the peaceful, but very magical, empire's 'Golden age.'\n{SJR4 Practical Planetology, pp42-43}\n[SJ] Engrossed in his studies of space, the wizard-sage Terigamar dies and becomes a lich without realizing it.\n{SJA2 Skull & Crossbows, p28}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5013",
+            "description": "[FR,SJ] Gamolon Idogyr, famed archmage to be, arrives at the Rock of Bral after leaving his native land of Tethyr on Toril.\n{Lands of Intrigue, Book One: Tethyr, p2}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5016",
+            "description": "[SJ] Nimone has her son, Bors, make a legendary attempt to burglarize the Citadel of the Keepers of the Flame. Bors rebels against his mother, however, and is caught in the act by the High Priest Kouros. He curses Bors, so that Bors can never again ignore the difference between good and evil, he must choose to be one or the other. Making their escape, Bors and Nimone steal a nautaloid from an Arcane and are caught in a magic dead Sargasso. There they encounter einheriar of the Knights of the White Plume, who rescue them from marauding Pirates of Gith. Afterwards, Bors abandons Nimone and magic, instead becoming a fighter.\n{Spelljammer #14 & #15}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5019",
+            "description": "[SJ] The Seekers open the Library of the Spheres on the Rock of Bral when they are forced to move two of their smaller collections to a safe place.\n{SJR5 Rock of Bral, p48}\n[SJ] Gorath Shambrath becomes the ruler of Greatspace. (832 TU)\n{Crystal Spheres, p2}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5020",
+            "description": "[SJ] A gnomish wizard creates the 'ribbon bridges' (glowing ribbons), which connect the Stellar Islands.\n{SJR7 Krynnspace, p61}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5021",
+            "description": "[KT/FR] The Eighth Shou Emperor Kai Chin announces the Gathering of Pearls as a goal of his reign. Plans are set in motion to recover lost artifacts and books. Contacts with Wa and Kozakura are expanded. This marks an increase in Shou Lung's interest in spelljamming. (1339 DR/ 2589 Shou)\n{Kara-Tur: The Eastern Realms, p8}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5023",
+            "description": "[SJ] Elsun, captain of the pirate ship DRAGON CLAW and wielder of Blackjammer's cutlass, attacks a merchant convoy enroute to Krynnspace. Elsun and the cutlass are repulsed by an attendant IEN Man-o-War, and Elsun is killed. The cutlass fell overboard in the melee and is assumed to be adrift in the Flow between Oerth and Krynn.\n{Dragon 159 'Bazaar of the Bizarre: Magic from the Stars', p18}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5025",
+            "description": "[SJ] The Beholder Pirate, Graffin the Gray, preys on shipping near the Rock of Bral. It takes three shiploads of men to kill him, one of which he disintegrated before he was slain by the others. He is stuffed and mounted above the door of a Guildhall on the Rock of Bral.\n{The Maelstrom's Eye, p1}\n[SJ] The falmandratha sage One Six Nine observes the Spelljammer as it sails through the sage's homesphere, Herdspace.\n{The Maelstrom's Eye, p 276}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5028",
+            "description": "[SJ] Talina, wife of King Gorath of Greatspace, dies. (c TU 841)\n{Crystal Spheres, p35}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5029",
+            "description": "[SJ] The legendary pirate captain Bloodjack begins his career in Realmspace with his red hammership, LUCKY VICTORY.\n{Spelljammer: AD&D Adventures in Space: Lorebook of the Void, p38}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5030",
+            "description": "[KT/FR] The Ministry of Glorious Flight is established in Shou Lung. Shou Dragonships begin to appear in wildspace in greater numbers. (1348 DR/2598 Shou)\n{Kara-Tur: The Eastern Realms, p29}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5031",
+            "description": "[SJ/KT] The nation of Wa on Toril discovers spelljamming and the existence of the Shou and Elven fleets. They lose several ships in battle with the Imperial Elven Fleet, so they begin to design the Tsunami, the Ki-helm, and the Rudder of Propulsion. (2599 Shou)\n{War Captain's Companion: Book 1, p29-30}\n{SJR2 Realmspace, pp19, 94}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5032",
+            "description": "[SJ] The infamous Black Company pirate fleet, eventually the most successful pirate band in Greyspace, begins its depredations.\n{SJR6 Greyspace, pp75-76}\n[SJ] In the Tears of Selune of Realmspace, the neogi of the asteroid 'Journey's Legg' drop umber hulks on the rastipede colony 'Long Block.' The rastipedes kill all of the umber hulks within a year, but suffer heavy losses. As a result their ships begin to carry extra weapons and they fire at once on neogi style vessels they encounter.\n{Polyhedron 126 ''Island Campaigns: Part 5 Ecological Nightmares: A World of your Own', pp26-27}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5033",
+            "description": "[SJ] Gaspar the mage is struck by a powerful curse while trying to recover an artifact. He founds Gaspar's Reclamations in an attempt to find a cure for the curse, which proves impossible to dispel.\n{Complete Spacefarer's Handbook, p89}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5034",
+            "description": "[SJ] Andru becomes Prince of Bral.\n{SJR5 Rock of Bral, p7}\n[FR] On Faerun, the venerable green dragon Dretchroyaster, more commonly known as 'Dretch,' shifted his lair to Monarch's Fall Glade, as it is known to the elves, site of the crashed MONARCH MORDENT of the Greenwings Wars. The man-o-war became a gargantuan plant resembling a large crystalline web overrunning a woodland glade and creating a natural mazelike lair. (1352 DR)\n{Cult of the Dragon, p47-48}\n[SJ] The vampire T'Laan arrives in Greatspace disguised as a half-elven bard. (847 TU)\n{Crystal Spheres, p32}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5035",
+            "description": "[SJ] Gnomes establish a base on Spectre in Greyspace, building a magnificent dock that floats in air.\n{SJR6 Greyspace, p67}\n[DL] The War of the Lance begins, gods return to Krynn. (348 AC)\n{Dragonlance Adventures, p101}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5036",
+            "description": "[SJ/GH] Free Traders mercantile company is founded in Greyspace. It is headquartered in Greyhawk city. (574 CY)\n{SJR6 Greyspace, p76}\n[SJ] The Gauntlet Company of Realmspace begins attacking slavers with their scorpion ship.\n{SJR2 Realmspace, p59}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5037",
+            "description": "[SJ] The Second Unhuman War begins with the scro attacking isolated spheres and planets in order to gain training and advance bases.\n{Dragon Annual #1 'Campaign Classics: The Scro', p46}\n[SJ] Four illithid nautiloids enter Herospace and are destroyed in battle by hammerships of the Rational Order of Magistrates.\n{Crystal Spheres, p13}\n[SJ/FR] A particularly bright shooting star flew across Waterdeep and northern Faerun on Toril in Realmspace. Some believe this was a dwarven citadel crashing into the desert of Anauroch. (1355 DR)\n{Spelljammer: AD&D Adventures in Space, Lorebook of the Void, p57}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5038",
+            "description": "[SJ] The House of Tempus is founded on the Rock of Bral.\n{SJR5 Rock of Bral, p74}\n[SJ] The Free Traders mercantile company establishes a trading outpost on the north face of the planet Spectre in Greyspace.\n{SJR6 Greyspace, p78}\n[SJ/FR] The Emerald Brotherhood adventuring company of Realmspace is formed.\n(1356 DR)\n{SJR2 Realmspace, p58-59}\n[SJ] The Gauntlet Company of Realmspace destroys a neogi slave trade operation on an asteroid in the Tears of Selune.\n{SJR2 Realmspace, p59}\n[SJ] The half-elven vampire T'Laan becomes an advisor to Gorath of House Shambrath and slowly takes control of Greatspace. (851 TU)\n{Crystal Spheres, p32}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5039",
+            "description": "[SJ] Pax Ahlmun, High Priest of Unipaxala the Peace Asteroid, is captured by the Neogi. The priests of Unipaxala hire the mercenary wizardess Meredith and a crew of buccaneers to free Pax Ahlmun.\n{TSR Worlds Annual #1 Jammer}\n[SJ] Cloaking Helms become available for sale through the Arcane. Developed by a team of Arcane and wizards of no small measure, Cloaking Helms were developed ostensibly for the Seekers to aid them in their surreptitious information gathering. Of course, Cloaking Helms came into high demand with militaristic movements across the stars. As word leaked out of these new helms, assassins appeared virtually overnight, slaying many of the wizards involved in their creation. Those few who survived are scattered about the stars, reclusive as many wizards are.\n{Dragon 159 'Bazaar of the Bizarre: Magic from the Stars', p16}\n[SJ] On the planet Spectre in Greyspace, the gnomes' floating dock collapses. They rename their colony, 'What-is-left-after-the-tragic-events-of-several-years-ago.'\n{SJR6 Greyspace, p67}\n[SJ] Two beholder asteroid nations destroy each other in the Grinder asteroid field of Greyspace.\n{SJR6 Greyspace, p30}\n[SJ] Khelbun Arunson reports his discovery of the Steel Star, home of the legendary ogre spelljammer fleet.\n{SJR1 Lost Ships, p56}\n[DL] The War of the Lance on Krynn ends with the defeat of the Dragon armies. (352 AC)\n{Dragonlance Adventures, p104}\n[SJ] Current year for Spelljammer: AD&D Adventures in Space\n[SJ] Current year for SJA3 Crystal Spheres\n[SJ] Current year for SJA1 Wildspace\n[SJ] Current year for SJR1 Lost Ships\n[FR] Current year for Forgotten Realms Campaign Set (1357 DR)\n[FR/KT] Current year for Kara-Tur: The Eastern Realms (2607 Shou)\n[FR] Comic: Forgotten Realms and AD&D comics begin (1357 DR)\n{Dragon 196 'Novel Ideas: Days of Future Passed: A Chronology of Forgotten Realms Fiction', p66}\n[SJ] Comic: Spelljammer comic begins\n{TSR Worlds Annual #1 Jammers}\n[SJ] 5043 OC, 577 CY, 354 AC, 1357 DR, 2607 Shou, 461 AV, 852 TU, and 5/1299 AC."
+        },
+        {
+            "timetype": "notable",
+            "date": "5040",
+            "description": "[FR] The Time of Troubles on Toril. (1358 DR)\n{Forgotten Realms Campaign Setting, 2nd ed.: Running the Realms, p18}\n[SJ] Unipaxala, the Peace Asteroid, is conquered for a short time by a Neogi fleet. It is freed by the infamous wizardess Meredith.\n{Spelljammer #3-4 'The Rogue Ship'}\n[SJ] An elven flitter from the elvish base Tranmiele' on the planet Spectre in Greyspace is destroyed by a bombard shot while flying low over the dwarven mine outpost on the same planet.\n{SJR6 Greyspace, p68-69}\n[SJ] Dante Lionmane, Knight of Solamnia, forms the Star Knights of Krynnspace.\n{SJR7 Krynnspace, p68}\n[SJ/FR/DL] Comic: TSR Worlds Annual #1 Jammers\n{Dragon 196 'Novel Ideas: Days of Future Passed: A Chronology of Forgotten Realms Fiction', p66}\n[FR] Comic: Forgotten Realms comic ends (1358 DR)\n{Dragon 196 'Novel Ideas: Days of Future Passed: A Chronology of Forgotten Realms Fiction', p66}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5041",
+            "description": "[SJ] The High Holy Keep of Bane is founded on Bral, despite the demise of Bane in Realmspace during the Time of Troubles a year earlier.\n{SJR5 Rock of Bral, p70}\n[SJ/KT] With their new Tsunamis completed, Wa fights a short war with the Imperial Elven Fleet in Realmspace. At least one Armada is destroyed. (2609 Shou)\n{War Captain's Companion: Book 1, p29-30}\n[SJ/GH] The Black Pegasus Trading Company is formed in Greyspace by a group of four adventurers. Erthoron, an elven mage/thief, and Reílumph 'Lumpy' Garlock, a hairfoot halfling thief founded the organization with just two spelljamming galleons. The Peldebrocks, a married human couple, then joined them: Belthalion, a powerful wizardess, and her husband, Valgulman, a dual-classed fighter/mage. The Peldebrocks commanded a squidship, and sailed Greyspace as buccaneers and mercenaries. (579 CY)\n{Dragon 199 'The Black Pegasus Trading Co.', p49}\n[SJ/FR] The Emerald Brotherhood adventuring company of Realmspace is abducted by the illithid slave ship MIND RIPPER. They escape the illithids and capture a vipership, which they use to fight neogi and illithid slavers from their base in the Tears of Selune. (1359 DR)\n{SJR2 Realmspace, p58-59}\n[SJ] Current year of SJA4 Under the Dark Fist\n[SJ] Current year of SJR4 Practical Planetology\n[SJ] Current year of SJA2 Skull & Crossbows\n[SJ/GH] Current year of SJR6 Greyspace\n[SJ] Comics: Spelljammer comic ends\n{Spelljammer #15}\n[FR] Comic: AD&D comic ends (1359 DR)\n{Dragon 196 'Novel Ideas: Days of Future Passed: A Chronology of Forgotten Realms Fiction', p66}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5042",
+            "description": "[SJ] Scro forces enter Realmspace, beginning of the Second Unhuman War in that sphere. The Imperial Elven Fleet, reinforced by the Ruathimaer fleet of Evermeet, forces the scro to retreat after over a dozen battles. Scro forces in the sphere are reduced to a few raiders operating from the cluster planet Garden. (1360 DR)\n{Dragon Annual #1 'Campaign Classics: The Scro', p46}\n[SJ/KT] The Battle of the Selune Tear Elmonitae. The Waan Tsunami STORM OF HONOR under the command of Daimyo Akahu Nagasa attacks the moonlet, a neogi base defended by six mindspiders. All but two of the mindspiders are destroyed and one hundred captives are freed, including 60 elves and half-elves. These are delivered to the IEN Armada WINGS OF GLORY beginning five years of peace between the Waan and Imperial Elven fleets in Realmspace. (2610 Shou)\n{War Captain's Companion: Book 1, p30}\n[DL] The Blue Lady's War. The Blue Lady, one of the most powerful and ruthless Dragon Highlords, made an unholy pact with the death knight, Lord Soth. Together, they led a dragon army from Neraka and, with a flying citadel above, attacked northern Solamnia. They besieged even Palanthus, but the effort was doomed. The Blue Lady and Lord Soth were defeated. (357 AC)\n{Tales of the Lance: World Book of Ansalon, p 11}\n[SJ/KT] Wa has completed construction of six Tsunami vessels. (2610 Shou)\n{SJR2 Realmspace, p95}\n[SJ] Uliananon Cirathorn's cloaked IEN fleet begins trailing the Rock of Bral in secret after forging an agreement with Prince Andru.\n{The Maelstrom's Eye, p 106}\n[SJ] The neogi Skarkesh discovers the Cloak of the First Pilot. It is stolen from him by a reigar adventuress. Skarkesh's neogi servants attempt to turn him into a Great Old One but he escapes and transforms himself into a Neogi Lich instead. Skarkesh's former servants abandon the hunt for Skarkesh and instead hunt the Cloak of the First Pilot themselves.\n{The Maelstrom's Eye, p 276}\n[SJ] Current year of SJR2 Realmspace (1360 DR)\n{SJR2 Realmspace, pp 58-59}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5043",
+            "description": "[SJ/DL] A dying Reigar adventuress passes the Cloak of the First Pilot to Teldin Moore of Krynn. Teldin Moore is destined to become the Cloakmaster. (358 AC)\n{Beyond the Moons}\n[SJ/DL] The Battle of the Spiders: A pair of Neogi deathspiders attacks Mount Nevermind, the Tinker Gnome capital of the continent Ansalon on the planet Krynn. The Neogi attack is intended to capture Teldin Moore and the Cloak of the First Pilot but the attack is repulsed and the gnomes destroy both Deathspiders. The gnomes use the helm of one deathspider to power a new sidewheeler, the UNQUENCHABLE. (358 AC)\n{Beyond the Moons, pp 247,284, & 309}\n{Beyond the Moons, pp114-115}\n[SJ/GH] The Black Pegasus Trading Company annihilates the Balboa Brothers Bazaar in a massive battle using aerial assaults, magical hurricanes, and treachery. The Bazaar was set on a volcanic island in the Solnor Ocean (630 miles north-east of the mouth of the Trask river in the Great Kingdom). For the last few centuries, this island has acted as a base for a succession of spelljamming groups and societies. The Black Pegasus Trading Company establishes the island as their new base and begins constructing a stronghold and warehouses on it. (581 CY)\n{Dragon 199 'The Black Pegasus Trading Co.', p49}\n[SJ] Hastain the Reigar arrives on the Rock of Bral. He obtains an immediate audience with Prince Andru and is granted a noble title and purchases a noble villa.\n{SJR5 Rock of Bral, p24}\n[SJ] The scro Tarantula Fleet, under the command of Admiral Halker and General Kobas Hamarka Vorr invades and conquers the elven world of Spiral. The scro employed large numbers of goblins and orcs in addition to their scro and ogre marines, but the elves fought back fiercely, even employing zwarths. The scro suffered heavy losses but captured all the elven cities. Despite this, the elven, dwarven, and human natives of Spiral continued to resist the Scro, fighting a guerilla war from the mountains and deep forests of the planet.\n{The Maelstrom's Eye, pp 16-29}\n[SJ] General Grimnosh of the scro launches an audacious campaign in Winterspace. Commanding the dinotherium ELFBANE, the Sky Shark battalion of scro marines, and a squadron of four bionoid shrikeships Grimnosh's official orders are to disrupt IEN traffic in the Flow outside Winterspace. But Grimnosh and the instectare K'tide plot instead to arm the humanoids of Armistice with spelljamming vessels and destroy the elven presence on Radole within Winterspace before moving on to Realmspace.\n{The Radiant Dragon, pp49, 144}\n[SJ/DL] Novel: Beyond the Moons (358 AC)\n{Beyond the Moons, p76}\n[SJ/FR] Novel: Into the Void (1361 DR)\n{Dragon 196 'Novel Ideas: Days of Future Passed: A Chronology of Forgotten Realms Fiction', p66}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5044 to 5046",
+            "description": "[GH] The Greyhawk Wars rage across Oerth. (582-584 CY)\n{The Adventure Begins, p4}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5044",
+            "description": "[SJ] The Cloak of the First Pilot Campaign. The scro Tarantula Fleet is approached by the undead Neogi mage Skarkesh, who forms an alliance with them to recover the Cloak of the First Pilot from the Cloakmaster, Teldin Moore. This attempt encompasses four battles, as the Imperial Elven Fleet squadron stationed at the Rock of Bral (previously unaware of the Scro conquest of Spiral) fights to gain the Cloak for its commander, Admiral Uliananon Cirathorn.\nThe Battle of Ironpiece. The Scro fleet (27 ships strong), along with Skarkesh's pyramid ship, intercepts Teldin Moore aboard the hammership PROBE as it is about to make planetfall on the gnome colony world of Ironpiece. The Imperial Elven squadron (five ships strong) intervenes, and a gnomish fleet from Ironpiece arrives as well, leading to a confusing, three-way battle. When the hours long contest is over, the scro have lost two viperships, three scorpionships, two waspships, and one mammothship. The Elves lost one man-o-war, and had another damaged, and the gnomes lost a sidewheeler and several small spellfighters. This battle is generally seen as a gnomish victory as they drive the other two fleets from their colony world.\n{The Maelstrom's Eye, pp89-112}\nThe Raid on Port Walkaway. Still determined to acquire the Cloak of the First Pilot, the Scro launch a raid on the gnomish naval base of Port Walkaway. The attack is a disaster, as the elves had warned the gnomes of it in advance (hoping to patch up relations after accidentally firing on gnomish vessels in the previous battle). Of the twelve vessels the Scro dispatched on the raid, only five survived. The gnomes lost seven small craft and had two large ships destroyed on the ground, as well as some buildings burned. Teldin Moore fled during the battle on the gnomish experimental vessel PERILOUS HALIBUT, heading for Herdspace.\n{The Maelstrom's Eye, 143-156}\nThe Battle of the Cloaked Ships. Realizing the elves were employing cloaking helms, the scro and Skarkesh developed a powder they could jettison to reveal the men-o-war. When two of the elven men-o-war crept in close to investigate the Tarantula Fleet, this technique was used. One of the men-o-war was destroyed, the other damaged but the scro suffered no losses.\n{The Maelstrom's Eye, p158}\nThe Battle of Herdspace. A final battle is fought in Herdspace as the Imperial Elven squadron and the Tarantula fleets fight over the Cloak of the First Pilot. Losses are severe on all sides. The elves lose two men-o-war and an armada, only one man-o-war of the squadron survives the campaign to return to the Rock of Bral. The Tarantula fleet loses the pyramidship, a squidship, and a scorpionship. Only ten of the original 27 Tarantula fleet vessels survive the campaign to return to Spiral. Admiral Cirathorn of the IEN, as well as the scro commanders Admiral Halker and General Vorr, all perish as well. Teldin Moore and the Cloak of the First Pilot survive to continue his quest.\n{The Maelstrom's Eye, pp280-294}\n[SJ] Lar, an elven world in a remote crystal sphere, is destroyed by the scro. In the battles around Lar the Elven armada ECLIPSE is destroyed and the elves lose ten vessels for every goblinoid vessel destroyed.\n{SJS1 Goblin's Return, p5}\n[SJ] A Scro fleet of 75 mantis ships enters Greyspace and teams with the Borka Retribution Fleet. The Imperial Elven Fleet presses the ships of the Sindiath Line into service and intercepts this massive humanoid armada at Borka, giving the battle the title 'The Borka Maneuver'. A prolonged, massive battle ends in the humanoid's defeat and the destruction of all but fifteen of the mantis ships. (582 CY)\n{Dragon Annual #1 'Campaign Classics: The Scro', p46}\n{War Captain's Companion: Book 1, p20}\n[SJ] An IEN Armada is found abandoned in Winterspace by Captain Sirion Windharp of the dolphinship STARFOAM. Its crew had been destroyed by tertiary Witchlight Marauders.\n{The Radiant Dragon, pp25, 52}\n[SJ] The Battle of Armistice. Grimnosh's squadron of orcish allies escapes the Armistice blockade, destroying the IEN man-o-war WINDWALKER in the process. Their escape is short lived, however, as a brief, brutal battle with the IEN swanship TRUMPETER, an IEN man-o-war, and two Radiant dragons destroys all the ships of the orcish fleet as well as the scro dinotherium ELFBANE. The man-o-war and the TRUMPETER are destroyed as well, and one of the Radiant dragons is slain. Shortly after the battle, a primary Witchlight Marauder is released on Armistice.\n{Dragon Annual #1 'Campaign Classics: The Scro', p46}\n{The Radiant Dragon, p237-306}\n[SJ] Novel: The Maelstrom's Eye\n{The Maelstrom's Eye, p7}\n[SJ] Novel: The Radiant Dragon\n{The Radiant Dragon, p8}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5045",
+            "description": "[SJ] A neogi Deathspider attacks the city of Compact, capital pf the planet Crescent in Heartspace and home of the legendary 'Great Archive.' The Deathspider destroys two waspships of the Crescent Peace Force before it is defeated.\n{The Broken Sphere, p82-84}\n[SJ] The Battle of the Broken Sphere. The Cloakmaster, Teldin Moore, gains the Spelljammer and becomes her captain. Squadrons of neogi, illithid, gnomish, scro, elven, dwarven, beholder, and multiple human groups converge on the legendary Broken Sphere to either take the Spelljammer from Teldin's control, or help him protect the Spelljammer from the other groups. Hundreds of vessels were involved in the battle, and over two-thirds were destroyed. The Spelljammer itself was the subject of conflicting reports, with some saying it was destroyed, others claiming it fled into the Broken Sphere or otherwise escaped the battle. In any event, the Broken Sphere began to mysteriously close following the battle, and none have been able to enter it since.\n{The Ultimate Helm}\n{Dragon Annual #1 'Campaign Classics: The Scro', p47}\n[SJ] Current year of SJS1 Goblin's Return\n[SJ] Current year of SJQ1 Heart of the Enemy\n[SJ] Novel: The Broken Sphere\n{The Broken Sphere, p13}\n[SJ] Novel: The Ultimate Helm"
+        },
+        {
+            "timetype": "notable",
+            "date": "5046",
+            "description": "[GH] The Greyhawk Wars end on Oerth. (584 CY)\n{From the Ashes, 'A Brief Historical Timeline for the Flanaess' Card sheet}\n{Complete Spacefarer's Handbook, p9}\n[SJ] Neogi lure seven Imperial Elven Navy vessels into the Grinder in Greyspace and destroy them.\n{War Captain's Companion: Book 1, p20}\n[SJ/KT] The Waan Tsunami HAGURE JIMA commanded by Wo Han Do of Chozawa defeats a neogi deathspider, capturing the neogi and discovering the identities of seven neogi spies in the mountains of Wa, leading to a quick drop-off in disappearances therein. (2614 Shou)\n{War Captain's Companion: Book 1, p31}\n[SJ] Current year of the War Captain's Companion Boxed Set.\n{War Captain's Companion: Book 1, p38}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5047",
+            "description": "[SJ/KT] A Waan tsunami 'accidentally' destroys an elven man-o-war after a Shou spy informs them it is being used by drow to smuggle illegal goods into Wa. (2615 Shou)\n{War Captain's Companion: Book 1, p31}[2]\n[FR] On Faerun, aided by the Cult of the Dragon, the venerable green dragon Dretchroyaster of Monarch's Fall Glade transforms into a dracolich. Dretchroyaster styles himself 'the Monarch Reborn,' which reflects his transformation and ambitions for supremacy in the region as much as it does his mad attempts to transform himself into a spelljammer. (1365 DR)\n{Cult of the Dragon, p47-48}\n[GH] Current Year of From the Ashes (585 CY)"
+        },
+        {
+            "timetype": "notable",
+            "date": "5048",
+            "description": "[GH] On Oerth, Canon Hazen uses the Crook of Rao to drive demons out of Flanaess. Nefarious armies across Oerth are greatly weakened. (586 CY)\n{The Adventure Begins, pp19, 27}\n[SJ] An Arcane shrikeship, the SWIFTSURE, disappears on the way from Refuge to Darnannon. The ship was carrying an Arcane emissary who intended to negotiate new trade agreements with the elves.\n{Dungeon #36 'The Sea of Sorrow', p41}\n[SJ] The dwarven mining colony of Doromakhad is attacked by bizarre amoeboid creatures. Several dwarf clans were wiped out, but the survivors mounted heavy ballistae around their settlement and strengthened their defenses. (1/1300 AC)\n{The Astromundi Cluster, Adventures in the Shattered Sphere, p29}\n{The Astromundi Cluster, Astrogator's Guide, p15}\n[SJ] Current Year of the Complete Spacefarer's Handbook.\n{Complete Spacefarer's Handbook, p9}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5049",
+            "description": "[SJ] The Arcane of Refuge recently send a military expedition to find the SWIFTSURE, consisting of the squidships CONSTANCE and PROTECTOR, and the hammership RETRIBUTION. The radiant dragon Blacklight attacks the squadron in the Flow near Pirtelspace. He destroys the CONSTANCE, captures the PROTECTOR, and seriously damages the RETRIBUTION.\n{Dungeon #36 'The Sea of Sorrow', pp41-43}\n[SJ] The first year for the Jammers PBEM game.\n[SJ] Current year of SJR5 Rock of Bral accessory.\n[SJ] Current Year of The Astromundi Cluster (2/1300 AC)\n[SJ] Current year of SJR7 Krynnspace\n{SJR7 Krynnspace, pp 51, 68}\n[SJ] Current year for Dungeon #36 'The Sea of Sorrow'\n[SJ] Current year for Polyhedron #81 'His Majesty's Spacial Service'\n[FR] Current year of the Forgotten Realms Campaign Setting, 2nd ed. (1367 DR)\n[AQ/FR] Current year of City of Delights"
+        },
+        {
+            "timetype": "notable",
+            "date": "5050",
+            "description": "[SJ] A Scro fleet secretly enters Realmspace and begins contacting humanoids on Toril, they provide firearms and smokepowder to the humanoids. (1368 DR)\n{Dragon Annual #1 'Campaign Classics: The Scro', p46}\n[FR/SJ] Gamolon Idogyr and his family depart the Rock of Bral, immigrating back to his native land of Tethyr on Toril in Realmspace, where he becomes a noble and advisor to the new King and Queen. (1368 DR)\n{Lands of Intrigue, Book One: Tethyr, p86}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5051",
+            "description": "[FR/SJ] Arborianna, a world of elves similar to the gold elves of Toril, is destroyed by the scro. The gods Malar and Lloth rescue a man-o-war full of refugees from Arborianna and present them to Kymil Nimesin as allies against Evermeet. (1369 DR)\n{Evermeet: Island of the Elves, p87}\n[FR/SJ] Adepts of the Twisted Rune in eastern Calimshan discover the existence of the Glyth mind flayer outpost of Stardock in the Tears of Selune. Through the magical enslavement of several mind flayers who had come down to the Realms, the undead Alhoon Ralayn the Occultacle and a number of Twisted Rune members enacted a magical assault on Stardock three weeks later. Their raid is successful, leading to the conquest of the entire outpost. (1369 DR)\n{Undermountain: Stardock, p5}\n[FR] Halaster's Harvestide. After finding the orbiting satellite of Stardock a convenient base of power, the two undead seniors of the Twisted Rune plan to expand their power base by prying his secrets from Halaster of Undermountain. They kidnap him on Higharvestide, causing general chaos on Toril as his uncontrolled gates spew monsters out at random places across the planet. (1369 DR)\n{Undermountain: Stardock, p5}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5052",
+            "description": "[SJ] Ogre kings from the Steel star may invade known space in the future\n{Dragon Annual #1 'Campaign Classics: The Scro', p47}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5053",
+            "description": "[FR] Kymil Nimesin leads the deceived refugee elves of Arborianna along with a plethora of other allies (a fleet of human pirates, skraags, sahuagin, and drow) in an assault on Evermeet. Much damage is caused, but the invasion is defeated and Kymil Nimesin's evil is revealed to them. To their amazement, Queen Amlaruil welcomes the Arborianna survivors and offers them a home on Evermeet. (1371 DR)\n{Evermeet: Island of the Elves, p488}"
+        },
+        {
+            "timetype": "notable",
+            "date": "5159",
+            "description": "[SJ/FR] The comet K'Thoutek, which orbits the sun of Realmspace every 237 years, arrives in Torilian skies. Its appearance is said to announce the birth or arrival of a powerful entity. (1477 DR)\n{SJR2 Realmspace, p53}"
+        }
+    ]
+}

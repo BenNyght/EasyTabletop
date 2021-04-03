@@ -1,0 +1,424 @@
+{
+    "type": "FY",
+    "universe": "Dark Sun",
+    "description": "FY, Free Year",
+    "originalsource": "http://www.athas.org/events",
+    "colour": "b79927",
+    "times": [
+        {
+            "timetype": "notable",
+            "date": "-14578",
+            "description": "Creation of the King's Age calendar by the nature-masters based on the rotation of Athas's two moons. Originally titled 'World's Age.' Original calendar uses 'Ocean' instead of 'Silt,' and 'Island' instead of 'Desert.'"
+        },
+        {
+            "timetype": "notable",
+            "date": "-14295",
+            "description": "Discovery of the nature-benders, corrupt nature-masters who experiment with life in immoral ways."
+        },
+        {
+            "timetype": "notable",
+            "date": "-14274",
+            "description": "First appearance of elemental clerics on Athas."
+        },
+        {
+            "timetype": "notable",
+            "date": "-14272",
+            "description": "Evil elemental clerics form an alliance with the nature-benders."
+        },
+        {
+            "timetype": "notable",
+            "date": "-14103",
+            "description": "War between the nature-masters and the nature-benders until Ral's Vengeance of this age. In the end, the nature-benders are defeated along with their cleric allies."
+        },
+        {
+            "timetype": "notable",
+            "date": "-14028",
+            "description": "Nature-masters of Ty'agi attempt to expand the lifeforce of the ocean and accidentally create the Brown Tide-which brings about the end of the Blue Age."
+        },
+        {
+            "timetype": "notable",
+            "date": "-14027",
+            "description": "Surviving nature-masters create the Pristine Tower to destroy the Brown Tide. This action changes the sun from blue to yellow, destroying the halfling civilization and bringing about The Rebirth."
+        },
+        {
+            "timetype": "notable",
+            "date": "-14026",
+            "description": "The new races of The Rebirth - humans, gnomes, dwarves, elves, and others - appear across the face of Athas. Great cities such as Tyr, Bodach, and Guistenal are founded to house the new races. Last use of 'Island' and 'Ocean' on the World's Age Calendar. Beginning of the Green Age."
+        },
+        {
+            "timetype": "notable",
+            "date": "-13966",
+            "description": "Ruler of the rhul-thraun, High Lord Rhan Thes-onel, leaves the Jagged Cliffs to locate any rhulisti remaining on Athas. He never returns."
+        },
+        {
+            "timetype": "notable",
+            "date": "-14018",
+            "description": "First use of psionic powers by the races of The Rebirth."
+        },
+        {
+            "timetype": "notable",
+            "date": "-13962",
+            "description": "'World's Age' changed to 'King's Age' by the rulers of various cities. Dates remain the same."
+        },
+        {
+            "timetype": "notable",
+            "date": "-13918",
+            "description": "First reported sighting of the Messenger by a Tyrian astronomer. The comet appears every 45 years until the 190th King's Age/Enemy's Slumber when the cycle is mysteriously broken."
+        },
+        {
+            "timetype": "notable",
+            "date": "-13766",
+            "description": "Birth of Rajaat the War-Bringer."
+        },
+        {
+            "timetype": "notable",
+            "date": "-10387",
+            "description": "The thri-kreen of Athas, a previously thought unintelligent race, migrate from the Crimson Savanna to the Tyr Region. Though short-lived and alien in appearance, the thri-kreen possess great wisdom and insight. The current king of Tyr welcomes them with open arms. They give no reason for the migration."
+        },
+        {
+            "timetype": "notable",
+            "date": "-9569",
+            "description": "Mareet, ruler of Saragar, is visited by a time-traveler from the future. He tells the king an appending doom to Athas before disappearing. Obsessed with the warning, Mareet orders his most powerful psionicists to breach the time stream and determine the nature of the warning. They are later joined by a third psionicist."
+        },
+        {
+            "timetype": "notable",
+            "date": "-9549",
+            "description": "Mareet, ruler of Saragar, is visited by a time-traveler from the future. He tells the king an appending doom to Athas before disappearing. Obsessed with the warning, Mareet orders his most powerful psionicists to breach the time stream and determine the nature of the warning. They are later joined by a third psionicist."
+        },
+        {
+            "timetype": "notable",
+            "date": "-8604",
+            "description": "Current ruler of Urik persecutes the kreen and orders the death of all their kind in the city. Many thri-kreen across the land leave the cities to live in the wild. Migration of thri-kreen from the west comes to a halt."
+        },
+        {
+            "timetype": "notable",
+            "date": "-8377",
+            "description": "Rajaat arrives at the base of the Jagged Cliffs where he conduits experiments with the powers of life for the next 200 years."
+        },
+        {
+            "timetype": "notable",
+            "date": "-8169",
+            "description": "After nearly two centuries of experiments Rajaat discovers the basics of magic, but is nearly killed in the process. After recovering he leaves the Jagged Cliffs and travels to the Pristine Tower to refine the magic process, creating defiling and preserving magic. The Time of Magic begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "-7890",
+            "description": "An unknown disaster befalls the city of Celik, which casts it into ruins. Survivors blame the ordeal on the reckless use of psionics."
+        },
+        {
+            "timetype": "notable",
+            "date": "-5114",
+            "description": "The feral halfling scout Too'lane discovers the Last Tree atop a mountain in the Forest Ridge. This ancient living artifact's location is kept secret by the halflings."
+        },
+        {
+            "timetype": "notable",
+            "date": "-4976",
+            "description": "After three eons of study, Rajaat emerges from the Pristine Tower to teach magic to the Rebirth races. He teaches preserving magic openly, and defiling magic in secret to those of 'questionable' character. For the next 1,500 years Rajaat studies how magic interacts with the Rebirth races, and decides that humans have the most potential of all to suit his needs."
+        },
+        {
+            "timetype": "notable",
+            "date": "-4275",
+            "description": "Rajaat begins a jihad against the preservers of Athas for the next thousand years. Preservers across the land go into hiding while fighting a losing battle against the followers of Rajaat."
+        },
+        {
+            "timetype": "notable",
+            "date": "-3531",
+            "description": "Rajaat sends all but a few of his students away. Using the power of the Pristine Tower and the mysterious Dark Lens Rajaat creates his Champions. Each Champion is ordered to eliminate one specific race from the face of Athas in an effort to bring about the return of the Blue Age. The Cleansing Wars begin."
+        },
+        {
+            "timetype": "notable",
+            "date": "-3263",
+            "description": "Sacha of Arala, 1st Champion of Rajaat eliminates the last of the kobolds from the face of Athas."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2709",
+            "description": "Daskinor Goblin Death, 14th Champion of Rajaat exterminates the last goblin from the face of Athas."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2654",
+            "description": "Wyan of Bodach, 12th Champion of Rajaat obliterates the last pixie from the land."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2642",
+            "description": "Uyness of Waverly (later known as Abalach-Re), 5th Champion of Rajaat slaughters the last of the orcs from the face of Athas."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2303",
+            "description": "Kalak, 2nd Champion of Rajaat kills the last of the ogres of Athas."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2302",
+            "description": "Gallard (later known as Nibenay), 6th Champion of Rajaat massacres the last of Athas's gnomes."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2302",
+            "description": "The First Sorcerer orders the defiler Qwith to explore the workings of the Inner Planes as a possible means of power."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2265",
+            "description": "The great cities of Ebe, Waverly, and Arala are swallowed by the expanding Silt Sea, though later it recedes from Waverly. The nearby city of Bodach is spared, but becomes surrounded by silt."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2263",
+            "description": "The warlord Irikos, the left hand of Rajaat, sacks the city of Bodach-but is killed at the conclusion of the battle. His sword (a creation of Rajaat's), the Silencer, is lost for 2,000 years."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2258",
+            "description": "Infuriated at her lack of progress, Rajaat turns research of the Inner Planes over to Qwith's subordinates. Shortly after an accident of unknown origins opens a gate to the Inner Planes, and obsidian flows across the land for hundreds of miles in each dir ection until the gate is closed by the Seventh Tree. Thousands die in the disaster. Those killed by obsidian rise as undead through a mysterious power from the Inner Planes. Rajaat's servants arise as the rulers of this land, becoming powerful thinking undead wizards and psionicists. The Dead Lands are born."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2217",
+            "description": "All life across the obsidian plain is obliterated except for the Seventh Tree, which becomes immune to defiling magic. Soon after the undead defiler Gretch discovers necromantic magic to replace the loss of defiling magic. Necromancer magic is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2169",
+            "description": "Keltis (later known as Oronis), 10th Champion of Rajaat believes he exterminates the last of the lizard men. In reality several tribes survive, protected by the Mind Lords."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2122",
+            "description": "Tectuktitlay, 9th Champion of Rajaat destroys the last wemics on Athas."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2053",
+            "description": "Myron of Yorum is replaced as Troll Scorcher by Manu of Deche, later known as Hamanu of Urik. He is given the sword the Scorcher, created by Rajaat, to complete his task."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2026",
+            "description": "Hamanu, replaced 4th Champion of Rajaat, kills Windreaver-the last troll of Athas and king of his people."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2025",
+            "description": "Rkard, the last dwarven king of Kemalok, is slain by Borys of Ebe in mortal combat-though Borys himself is gravely injured. The Champion's attendants spirit him from the battlefield leaving his sword, the Scourge, still buried in the dwarf's chest. Before he can retrieve the sword, Hamanu tells Borys of Rajaat's true plans for Athas. Becoming aware that Rajaat intends to wipe out all races except the halflings, Borys leads the Champions in a rebellion against their master-from which they emerged victorious. Rajaat's halfling servants are banished to the Black as punishment for siding with the War-Bringer. Despite their power, the children of Rajaat cannot destroy his mortal remains. Instead, Gallard separates the First Sorcerer's essence from his physical form, placing each in a separate location. Aided by the power of the Dark Lens, Gallard creates the Hollow, where he placed Rajaat's essence. Gallard then creates a cyst of enchanted stone called the Black Sphere in which he places Rajaat's substance. He then hides the Black Sphere in a location known only to him and Borys of Ebe. Sacha and Wyan, who remained loyal to their master, attempted to breach the cyst before it is hidden away. Their plan is discovered and they are beheaded by Borys.. Through the use of the Dark Lens, Borys rewards the remaining Champions by beginning their transformations into sorcerer-kings. This process links each of them to living vortices, which allows them to grant their followers clerical spells. The Champions realize that Rajaat's prison will not hold. Even segmented, Rajaat's power is supreme and he would one day be free. Hence, the Champions once again used the Dark Lens to transform Borys into the Dragon, whose power would keep Rajaat imprison ed for all time. Borys's transformation causes him to become temporarily insane, beginning a century of rampages across the land. In the confusion, two dwarven knights named Jor'orsh and Sa'ram steal the Dark Lens. The remaining sorcerer-kings each claim a city of Athas and barricade it from the rampaging Dragon."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1971",
+            "description": "Lead by Abalach-Re of Raam, the sorcerer-kings storm Guistenal and kill Dregoth, Ravager of Giants just before he is to become a 30th-level Dragon. The battle destroys the city, the land, and most of its population. Afterwards, Hamanu throws the Scorcher into the Silt Sea. With the aid of his high templar Mon Adderath, Dregoth is returned to life as an undead dragon king. The surviving populace is gathered soon after, and construction of New Guistenal begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1946",
+            "description": "Borys emerges from his insanity and learns Rajaat's prison is on the verge of collapse. Soon after he collects a levy of 1,000 slaves from each sorcerer-king, using their lifeforce to reseal the First Sorcerer's prison on a yearly basis."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1741",
+            "description": "In an attempt to increase her power, Sielba, Queen of Yaramuke attacks Urik. Hamanu easily defeats her army and personally slays the sorcerer-queen. On the heels of victory, Urik's army sacks Yaramuke and burns the city to the ground. To appease the Drago n's wrath for killing a sorcerer-queen, Hamanu presents Borys with a levy of Yaramuke's riches-which pleases the beast and spares Urik."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1722",
+            "description": "Borys uses the booty gained from Yaramuke to build Ur Draxa, which becomes the greatest city on all of Athas. At the center of the city Borys places the Black Sphere for him and his city to protect."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1776",
+            "description": "The sorcerer-kings call for a jihad against the druids of Athas. For the next three centuries the blood of druids across the land stains the sands red in what would be known as the Eradication."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1684",
+            "description": "After years of study Dregoth finally deciphers halfling records found in the caverns beneath Guistenal. The end result is the creation of the first generation dray, which Dregoth deems a failure and banishes to Kragmorta."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1652",
+            "description": "The thri-kreen prophet Ka'Cha begins the first of several journeys across the Tablelands to spread the word of peace and enlightenment to the thri-kreen, as well as other races."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1698",
+            "description": "After several more failures Dregoth succeeds in his experiments, and the second generation of dray are created in his own image."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1555",
+            "description": "Dregoth, Ravager of Giants, discovers the planar gate. After a decade of research, he uses the device to travel the Outer Planes of existence for the next 19 centuries."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1506",
+            "description": "After being nearly wiped from the face of Athas, the remaining druids of the land go into hiding for the next 1,000 years to a secret location in the Forest Ridge."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1469",
+            "description": "Daskinor Goblin Death slips into insanity following this year's levy, and builds an army to slay the Dragon upon his return the following year. Borys learns of his plot, and not needing the levy to maintain Rajaat's prison never returns. Keltis, Lizard Man Executioner, has an attack of conscience anddenounces being a sorcerer-king. Over the next centuries he strives to become something more noble. Because of the actions of nearby Daskinor, Borys never returns to Kurn and both cities become isolated from the rest of Athas."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1228",
+            "description": "In an effort to increase his power, Kalid-Ma attempts to further his dragon metamorphosis to a power near that of Borys of Ebe. The attempt is successful, but his mind is destroyed in the process. The dragon that was Kalid-Ma destroys his city of Kalidnay and begins to move into the rest of the Tyr region. The creature is later slain by the combined efforts of Borys of Ebe, Kalak of Tyr, and Hamanu of Urik. With the loss of Kalidnay, the levy to keep Rajaat imprisoned becomes a firm 1,000 slaves from the seven remaining sorcerer-kings."
+        },
+        {
+            "timetype": "notable",
+            "date": "-972",
+            "description": "A powerful Druid named Tehnik creates the four artifacts known as the Hearts of the Drake, and dies in the process."
+        },
+        {
+            "timetype": "notable",
+            "date": "-798",
+            "description": "Tarandas of Raam, a powerful psionicist and teacher throughout the Tyr Region, disappears without a trace. Her students insist she has ventured beyond her mastery of the Way into realms unseen by lesser beings."
+        },
+        {
+            "timetype": "notable",
+            "date": "-543",
+            "description": "With the aid of a wizard named Besteren, Oronis (formerly known as Keltis) develops the preserver metamorphosis spell to counter Rajaat's vile magic. The spell nearly kills him, but in the end Oronis emerges as Athas's first avangion."
+        },
+        {
+            "timetype": "notable",
+            "date": "-480",
+            "description": "Oronis gives the preserver metamorphosis spell to a preserver/psionicist named Nerad, who becomes Athas's second avangion."
+        },
+        {
+            "timetype": "notable",
+            "date": "-417",
+            "description": "After revealing himself to the Veiled Alliance of Tyr, Nerad is discovered by King Kalak-who in turn contacts the Dragon. Borys later kills Nerad south of Tyr. In his grief, Oronis hides all copies of the preserver metamorphosis spell."
+        },
+        {
+            "timetype": "notable",
+            "date": "-212",
+            "description": "The Silencer is uncovered by an elf named Rimmon in the ruins of Bodach, who uses its power to lead her bandit tribe against the city-state of Balic. She is easily defeated by Andropinis, but the Silencer is again lost."
+        },
+        {
+            "timetype": "notable",
+            "date": "-85",
+            "description": "The Obsidian Man is discovered in the mines of Urik. After returning the artifact to Urik, the sinister device activates and nearly kills Hamanu before he learns to control it with a golden circlet."
+        },
+        {
+            "timetype": "notable",
+            "date": "-84",
+            "description": "An unnamed psionicist discovers the presence of the psurlons, a powerful psionic race of worm-like creatures, on the Astral Plane. With their own world being destroyed a millennia before, a few psurlons migrate to Athas where the psionic nature of the world makes them potent enemies."
+        },
+        {
+            "timetype": "notable",
+            "date": "-82",
+            "description": "The Scorcher is recovered from the belly of a silt horror by an ex-gladiator named Vorr. Soon after Vorr disappears in the Valley of Trevain."
+        },
+        {
+            "timetype": "notable",
+            "date": "-40",
+            "description": "Andropinis of Balic fails to come up with 1,000 slaves for the year's levy, presenting the Dragon with only 900. In his anger Borys levels a portion of the city and takes the remainder levy from among Andropinis' templars. For the next several years the sorcerer-king of Balic does extensive slave raids across the southern Tablelands to rebuild his slave population so this would never happen again."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2",
+            "description": "A templar of Urik removes the golden circlet from the head of the Obsidian Man, which animates and kills him. The artifact is later traced through the streets of Urik, but disappears into the desert."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1",
+            "description": "After years of investigation into the death of Nerad, a preserver/psionicist named Korgunard learns of Oronis of Kurn. Though reluctant to have another death on his hands, Oronis gives him the preserver metamorphosis spell-but does not allow him to retain a copy."
+        },
+        {
+            "timetype": "notable",
+            "date": "1",
+            "description": "King Kalak of Tyr is slain by the Heartwood Spear through the combined efforts of Rikus, Agis, Neeva, Tithian, and Sadira. Tithian becomes the next king of Tyr and frees all slaves. Tyr adopts the Free Year calendar."
+        },
+        {
+            "timetype": "notable",
+            "date": "2",
+            "description": "Hamanu of Urik send his army to capture the iron mines of Tyr from the upstart king. In response Rikus forms the Crimson Legion and defeats the approaching army while wielding the Scourge of Rkard and the Belt of Kings. Afterwards Rikus takes the Crimson Legion to sack Urik in search of the Book of Kemalok Kings, but is defeated by Hamanu himself. The Crimson Legion is destroyed, though a few survived. Rikus returns the Belt of Kings to Kled, but is told to keep the Scourge."
+        },
+        {
+            "timetype": "notable",
+            "date": "2",
+            "description": "King Andropinis pays an extra 1,000 slaves to make up for Tyr's share of the levy."
+        },
+        {
+            "timetype": "notable",
+            "date": "2",
+            "description": "Aided by the Veiled Alliance of Urik, Korgunard becomes Athas's third avangion."
+        },
+        {
+            "timetype": "notable",
+            "date": "3",
+            "description": "In an effort to protect Tyr from the Dragon, Sadira seeks out the Pristine Tower and its ancient magic. In return for her pledge to slay the Borys of Ebe the shadow giants of the Pristine Tower transform her into the Sun Wizard, giving her power akin to that of a sorcerer-king."
+        },
+        {
+            "timetype": "notable",
+            "date": "3",
+            "description": "Avoiding Tyr, the Dragon attempts to take his yearly levy from the dwarven city of Kled. In the end he is driven off by Sadira and Rikus bearing his old sword the Scourge. During the battle Neeva gives birth to her mul son Rkard, named for the dwarven king who battled Borys 2,000 year ago."
+        },
+        {
+            "timetype": "notable",
+            "date": "3",
+            "description": "For the next several years King Tithian of Tyr secretly supplies the Dragon with a levy of 1,000 slaves captured from outlying villages."
+        },
+        {
+            "timetype": "notable",
+            "date": "4",
+            "description": "The ancient artifact the Psionatrix is activated by the Order, a powerful organization of psionic purists, nullifying psionics across the Tablelands and causing thri-kreen to be driven into an insane frenzy. The avangion Korgunard is slain while trying to convince members of the Order to deactivate the Psionatrix. One of the members, a halfling named Pakk, consumes the avangion's remains. Deep within the recesses of the Dragon's Crown, the Psionatrix is deactivated and several members of the Order are slain. The remains of the artifact mysteriously disappear."
+        },
+        {
+            "timetype": "notable",
+            "date": "6",
+            "description": "Lead by Queen Trinth, the Githyanki of the Astral Plane discover a way to safely breaches the Gray and invaded Athas from the Black Spine mountains. The githyanki's plans are foiled by a group of heroes that travel through the portal and kill the queen. With Trinth dead, the portal collapses."
+        },
+        {
+            "timetype": "notable",
+            "date": "7",
+            "description": "The comet known as the Messenger fails to appear at the prescribe time, and many across the Tablelands take it as a sign of a forthcoming doom."
+        },
+        {
+            "timetype": "notable",
+            "date": "9",
+            "description": "Armed with information stolen from the dwarves of Kled, Tithian learns of the location of the hidden Dark Lens-with which he can become a sorcerer-king. Agis of Asticles catches up with him and reluctantly aids him in his quest. After the pair retrieve the Dark Lens, Tithian kills Agis."
+        },
+        {
+            "timetype": "notable",
+            "date": "10",
+            "description": "Dregoth returns to New Guistenal from the Outer Planes with aspirations of becoming a god. Unsure of the condition of Athas he sends his templars to the surface to learn the state of the Tyr region, learning too late the events that lead to the death of several fellow Champions."
+        },
+        {
+            "timetype": "notable",
+            "date": "10",
+            "description": "Sadira kills Abalach-Re with the broken tip of the Scourge of Rkard on the Ivory Plain. The sorcerer-queen's body is completely consumed by a black ooze leaking from the broken tip."
+        },
+        {
+            "timetype": "notable",
+            "date": "10",
+            "description": "Rikus of Tyr breaks the Scourge of Rkard a second time, this time in the snout of the Dragon. The sword again issues forth a black ichor that completely consumes Borys of Ebe."
+        },
+        {
+            "timetype": "notable",
+            "date": "10",
+            "description": "Tithian uses the Dark Lens to free Rajaat's substance from the Black Sphere, causing his essence to also be released from the Hollow. After 2,000 years of imprisonment the First Sorcerer is once again free. The result of escaping his prison destroys much of Ur Draxa in a grand explosion."
+        },
+        {
+            "timetype": "notable",
+            "date": "10",
+            "description": "In the ruins of Ur Draxa Rajaat battles his former Champions. Rajaat imprisons Andropinis of Balic in the Black, then grabs the Dark Lens from Tectuktitlay of Draj and crushes the sorcerer-king's skull. The remaining Champions scatter while Sadira steals the Dark Lens and heads for the Ring of Fire. Sadira of Tyr discovers that the key to Rajaat's defeat is his shadow, which gives him substance. Using the Dark Lens, the young Rkard casts a sun spell it magnifying its power ten-fold. The resulting brilliance obliterates Rajaat's shadow and sends his essence back to the Hollow, while his body is boiled away by the heat of the spell. Having been in contact with the Dark Lens as Rkard cast his spell, Tithian becomes mystically connected to the Black and Rajaat's elemental nature. The result is Tithian becoming the Cerulean Storm. Sadira tosses the Dark Lens and the Scourge into the Ring of Fire, placing powerful wards around it so that no one can obtain the artifact and once again free the First Sorcerer. As Rkard's spell lights up the sky, a great earthquake rocks the Tyr Region. The full force of the quake is centered west of the Tablelands beyond the Ringing Mountains. The resulting quake creates the Great Rift, a passage leading to the Crimson Savannah of the Kreen Empire."
+        },
+        {
+            "timetype": "notable",
+            "date": "11",
+            "description": "The Wanderer discovers the lost halflings, the rhul-thaun, of the Jagged Cliff."
+        },
+        {
+            "timetype": "notable",
+            "date": "12",
+            "description": "After leaving the Jagged Cliffs, the Wanderer travels north and learns of the Last Sea. There he discovers the bizarre land of the Mind Lords."
+        },
+        {
+            "timetype": "notable",
+            "date": "12",
+            "description": "The Coruscation begins, the Day of Light prophesied by the dray when the blood of a thousand unbelievers runs in rivers at the feet of Dregoth. This sign is to bring about the coming of a new age where Dregoth is supreme."
+        }
+    ]
+}

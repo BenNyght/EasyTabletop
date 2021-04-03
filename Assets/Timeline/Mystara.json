@@ -1,0 +1,1404 @@
+{
+    "type": "",
+    "universe": "Mystara",
+    "description": "AC, after crowning, or BC, before crowning",
+    "originalsource": "",
+    "colour": "b71027",
+    "times": [
+        {
+            "timetype": "notable",
+            "date": "6000 BC",
+            "description": "There is no true civilization in the Outer World. Humans are tribal hunter-gatherers, living mostly in plains and light forests. Dwarves are barbaric mountain and foothill dwellers, mostly goatherds. Elves are sheltered, protected and nurtured by the forest-spirits they worship; they do not need to work or suffer. There are no monstrous humanoids on the world to threaten the demihumans."
+        },
+        {
+            "timetype": "notable",
+            "date": "5000 BC",
+            "description": "There is no true civilization in the Outer World. Humans are tribal hunter-gatherers, living mostly in plains and light forests. Dwarves are barbaric mountain and foothill dwellers, mostly goatherds. Elves are sheltered, protected and nurtured by the forest-spirits they worship; they do not need to work or suffer. There are no monstrous humanoids on the world to threaten the demihumans."
+        },
+        {
+            "timetype": "notable",
+            "date": "4500 BC",
+            "description": "Beastmen - reincarnated souls of evil beings - appear in the Borean Valley, a frozen land north of Blackmoor. These beastmen are wild, chaotic creatures that do not breed true; whelps may have some or none of the traits of their parents, may be of different size and appearance. This is all brought about by the magic of Hel, an Immortal of the sphere of Entropy, who wants to introduce more confusion, dismay, and death into the world."
+        },
+        {
+            "timetype": "notable",
+            "date": "4000 BC",
+            "description": "The human Blackmoor civilization begins a meteoric rise due to its great success in developing powerful sciences and technologies. It conquers and assimilates all surrounding human tribes and quickly grows very powerful. Another human civilization, the Oltecs, begins a more stately rise toward civilization in lands far to the south of Blackmoor. Protected by deep forests and sheltering hills, they do not have any communication with Blackmoor. On the Alphatians' world, the Alphatians defeat the Cypris civilization... and begin to be assimilated by it. "
+        },
+        {
+            "timetype": "notable",
+            "date": "3850 BC",
+            "description": "A group of warlike, flatland tribes are colonized by the Oltecs. These tribes fiercely cling to their distinct heritage in spite of the Oltec conquerors. "
+        },
+        {
+            "timetype": "notable",
+            "date": "3500 BC",
+            "description": "The Blackmoor civilization is flourishing. It conducts trade and intermittent war with the southern elves, at the other end of the world. Four clans of elves colonize in the region near Blackmoor. Both the southern and the colonial elves embrace Blackmoor's technology. Blackmoor priests demand the extermination of the unnatural beastmen in the Borean Valley, and promote holy wars to hunt down and destroy those creatures. Following a failed military coup, a rift occurs in the Oltec civilization; the more aggressive Azcan tribes declare their independence and begin to wage war on the Oltecs. According to modern Azcan histories, the hated former masters were overthrown and enslaved. In fact, the Oltecs and Azcans exist side by side for almost five centuries, alternating war and commerce, until outside forces literally destroy the world they know. The widespread Neathar race is beginning to undergo development; the language in individual areas changes rapidly into very different dialects, and the independent Neathar tribes no longer recognize a kinship or a common origin among themselves. "
+        },
+        {
+            "timetype": "notable",
+            "date": "3400 BC",
+            "description": "To avoid the ongoing war in their homeland, some Oltecs migrate to the Savage Coast, settling the eastern and central shores. Manscorpions and tortles already live along the central coast, and aranea and wallara civilizations flourish on the western end. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "3200 BC",
+            "description": "The Blackmoor crusades drive the Beastmen farther north, into the land called Hyperborea; they adapt to the colder climate and survive."
+        },
+        {
+            "timetype": "notable",
+            "date": "3100 BC",
+            "description": "Aquarendi elves seek the guardianship of Manwara, an Immortal of the Sea, and enter the warm waters to begin a new life."
+        },
+        {
+            "timetype": "notable",
+            "date": "3000 BC",
+            "description": "Some Blackmoor devices explode, shifting the axis of the Known World in an event later called the Great Rain of Fire or the Planetshift. Blackmoor becomes the north pole and its civilization disappears. The elven civilization becomes the south pole; the elves are able to migrate to the area called Grunland (which now begins centuries of volcanic upheaval that lead to its being renamed Vulcania). These southern-continent elves, though suffering hardship, are not in immediate danger of extinction and so none are taken to the Hollow World. Melting ice caps raise ocean level by several hundred feet. Lowland marshes and coastal plains along the southern edge of the northern continent are flooded. Survivors of the elven colony near Blackmoor flee to the newly-formed Broken Lands; they burrow deep into the ground to survive the aftereffects of the Great Rain of Fire. These are the ancestors of the Shadow Elves. Two races of humans come to the land that will later be called the Minaean Coast. From the east comes Tangor Man, driven from his home by climatic changes brought on by the Great Rain of Fire. From across the waters to the west comes Oltec Man on one of his great colonizing migrations. The ice caps recede from the southern edge of the continent of Brun. Spirits are drawn in to merge with the world. One of the most dangerous Blackmoor devices is left untouched in the Broken Lands. The Great Rain of Fire is seen by Azcans and Oltecs alike as an important part of their mysticism: the End of the Fifth Sun. The Immortals magically transplant large numbers of these peoples to the Hollow World to save them. The shark-kin, after spending thousands of years on the land, return to the sea. On the Alphatians' world, Alphatian aggression is gradually supplanted by Cypric self-absorption; other-planetary conquests and colonies are left to fend for themselves as Alphatian study of magic turns inward. "
+        },
+        {
+            "timetype": "notable",
+            "date": "3000 BC",
+            "description": "3000 - 2500 BC: Formerly arctic areas of the Known World, including most of the lands covered in the Gazetteer series, slowly become habitable as the ice recedes from former polar regions. "
+        },
+        {
+            "timetype": "notable",
+            "date": "2900 BC",
+            "description": "2900 BC: The Immortal named Garal Glitterlode created the gnomish race, planting colonies of them in the land that would later become Rockhome and the mountains of the northern continent. "
+        },
+        {
+            "timetype": "notable",
+            "date": "2800 BC",
+            "description": " 2800 BC: New elven nation on the southern continent land of Vulcania divides on magic vs. technology. A separatist branch of the southern elves, led by Ilsundal the Wise, decides to abandon Blackmoor technology and return to the nature-oriented magic of their ancestors. They begin a long migration northward in the hope of finding the lost colony of elves that had settled near Blackmoor. Azcans and Oltecs on the outer world have practically vanished, dispersed across the world and culturally transformed in every case. A small number of survivors take refuge in the caves of a mighty plateau. These are the ancestors of the modern Atruaghin Clan. This plateau, although impressive, is nowhere near as grand as the one that now stands in the lands north of the Sea of Dread. They retain a dim memory, retold and altered into myth and folklore, of Azcan and Oltec glory and strife. They also remember the mysterious disappearance of many kin. "
+        },
+        {
+            "timetype": "notable",
+            "date": "2500 BC",
+            "description": "2500 BC: Gnomes and dwarves enter the Northern Reaches region and settle in its hills and mountains as the continental ice sheets recede. The Taymora humans settle the southern shores of the northern continent. Climatic changes due to the axial shift have rendered the lands of Blackmoor and the elves uninhabitable. In Vulcania, the elvish civilization is losing its battle with the elements; it has forgotten most of its magic and its Blackmoor technology is failing. A second separatist group of southern elves begins its long march northward. "
+        },
+        {
+            "timetype": "notable",
+            "date": "2400 BC",
+            "description": "2400 BC: The land that was Hyborea is now warming up; the Beastmen migrate to the area that was once Blackmoor, which is now the northern pole, and thrive there. They are beginning to breed true, in recognizable species. The tribes gather at Urzud. A great volcanic explosion occurs in Vulcania, destroying the remnants of the southern elvish civilization. A human culture, the Antalian tribes (descendants of the Neathar) are flourishing in the area later to be called Norwold. They are a blond, warlike culture with bronze weapons and armor. "
+        },
+        {
+            "timetype": "notable",
+            "date": "2300 BC",
+            "description": "2300 BC: Ilsundal's elves have crossed the Strait of Izonda to the Immortal's Arm, then headed east along the Savage Coast. Another group took another route through the Adakkian Sound, where they rejoined Ilsundal's band and continued with them. Elves arrive in and settle the eastern and central Savage Coast. They live alongside, but not among, Oltecs. (RS) The Sheyallia clan turns south, onto the Serpent Peninsula, and settle in the forest. The Meditor and Verdier clans, disliking the increasingly rainy and hot climate, sail east in search of better lands."
+        },
+        {
+            "timetype": "notable",
+            "date": "2200 BC",
+            "description": "2200 BC: Some elves break off from Ilsundal's migration and eventually find their way to the frozen valleys of Glantri, where they settle. A few survivors from the second migration from Vulcania also reach Glantri and settle among their cousins. Some Tanagoro colonists from halfway around the world reach the Serpent Peninsula and decide they like they abundant rain forests. However, the elves regard their slash-and-burn agriculture with horror. Eventually, they work out a compromise: the Tanagoros keep to the coastlines and forest fringes, while the elves withdraw deeper into the forest."
+        },
+        {
+            "timetype": "notable",
+            "date": "2100 BC",
+            "description": "2100 BC: Meditor and Verdier elf clans leave Ilsundal's northward migrations and settle in southern Traldar lands (Karameikos). The main force of Ilsundal's migration reaches the Sylvan Realm, far to the west of lands such as Karameikos and Thyatis. "
+        },
+        {
+            "timetype": "notable",
+            "date": "2000 BC",
+            "description": "2000 BC: The Beastmen have now evolved into the modern species of orcs, goblins, ogres, giants, and trolls. The Ethengars arrive on the fertile lands of the Steppes. First human settlements in the coastal and island lowlands of the Northern Reaches. Elven and human mages settle in the forests of the western Savage Coast, supplanting aranea; they name their land Herath. Enduks are created on the Orc's head Peninsula and begin building the civilization of Nimmur. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "2000 BC",
+            "description": "2000 - 1750 BC: An agricultural settlement flourishes along the River Nithia. It swiftly becomes the seat of a fast-growing culture. Tribal humans, swarthy descendants of Oltec and Neathar tribes, also settle in the coastal and island lowlands of the Northern Reaches, in the Ethengar Steppes. Antalian colonists migrate southward into the lands later to be called the Northern Reaches. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1900 BC",
+            "description": "1900 BC: On the great continent to the east of Alphatia and Bellissaria, a nomadic, cavalry-based race of warriors grows strong. These are the Jennites, copper-skinned descendants of an Oltec expeditionary party; their language and customs have evolved far away from their Oltec origins."
+        },
+        {
+            "timetype": "notable",
+            "date": "1800 BC",
+            "description": "1800 BC: The dwarfish race on the Known World is slowly, inevitably dying out. The Immortal called Kagyar the Artisan takes all remaining dwarves in the Known World. Half he transplants to the Hollow World, and half he reshapes into a new dwarven race. Now there are no remnants of the original dwarven race on the outer world. Some of the new dwarves are returned to the Northern Reaches, where the largest dwarf colonies had been, and eventually become the Modrigswerg clans; others are planted in the Rockhome region. Both groups are given false memories and believe that the Modrigswerg dwarves also originally lived in the Rockhome lands. In the Sylvan Realm, Ilsundal creates the first elvish Tree of Life and becomes an Immortal. The Steel Wars divide the humanoid tribes. Plague, famine, and massacres ravage Urzud, and the population dwindles. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1750 BC",
+            "description": "1750 BC: The earthquakes that rock the Sea of Dread drastically change the Serpent Peninsula. The Tanagoro culture collapses into warring tribes. They tear the original Atruaghin Plateau from the mainland, forming the Ierendi islands. Copper-skinned people fleeing the earthquakes the destroyed the original Atruaghin Plateau join light-skinned Urduk tribesmen, descendants of the Neathar tribesmen, in the Great Waste."
+        },
+        {
+            "timetype": "notable",
+            "date": "1750 BC",
+            "description": "1750 - 1500 BC: The human tribes along the River Nithia progress from Bronze Age to Iron Age metals technology. A jackal-headed creature named Pflarr achieves Immortality. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1725 BC",
+            "description": "1725 BC: King Loark of the humanoids organizes an army of humanoids known as the Great Horde. They migrate southeastward into the lands of men, ravaging as they go, continuing Loark's Quest for a Blue Knife. Great waves of hill goblins, trolls, and giants especially begin moving southward into areas now occupied by human settlers. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1722 BC",
+            "description": "1722 BC: The Great Horde of King Loark ravages Norwold and learns Norse culture, sending the Antalian culture there into a dark age; the Immortals Odin and Thor send intact communities of Antalians into the Hollow World. (The descendants of the outer-world Antalians eventually become the men of the Heldann Freeholds.) "
+        },
+        {
+            "timetype": "notable",
+            "date": "1720 BC",
+            "description": "1720 BC: Akilla-Khan conquers the southern steppes of Ethengar. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1711 BC",
+            "description": "1711 BC: Great Horde reaches pre-khanate Ethengar. Akilla-Khan allies with King Loark against the Ethengarian nomads. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1710 BC",
+            "description": "1710 BC: The Great Horde of King Loark invades the Ethengar Steppes and enslaves the primitive Ethengars. King Loark's horde is joined by Akilla-Khan's humanoid horde. Together they ravage the steppes. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1709 BC",
+            "description": "1709 BC: Akilla-Khan betrays King Loark in exchange for lands west of the Dol-Anur. The Great Horde is defeated at the Battle of Chongor, in ancient Ethengar. King Loark's Great Horde splinters; the trolls head east, the goblins south, and the rest of the Great Horde is driven out of the steppes into the Broken Lands and settles there. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1700 BC",
+            "description": "1700 BC: The elves of Glantri discover, in the Broken Lands, a strange artifact from the lost Blackmoor civilization. They tinker with it, and the artifact explodes cataclysmically, sending impenetrable clouds into the sky (which last for years), and spreading a strange rotting plague among the surviving elves - those who were far enough away to survive. The elves shelter themselves in the deepest caves of Glantri. They find an incredible series of caverns there and begin a years-long migration. The traveling tribes are separated from one another. These are the ancestors of the Hollow World's Gentle Folk, Icevale Elves, and the Schattenalfen. A fourth group, led by an elf named Atziann, had no survivors save that king. Some emerge, years later, hundreds of miles south, past the Broken lands. Some perish. The catastrophe forms the Land of the Black Sand in the Ethengar Steppes. Elsewhere, a series of great volcanic eruptions and earthquakes split several large land masses away from what is now the Five Shires and Atruaghin Clans area; aboriginal (Neathar-descended) peoples called the Makai and lizardmen called Malpheggi are stranded on the new islands. The Taymora civilization is destroyed. The plateau under which the surviving Azcans have been living largely collapses, killing many of them and leaving the survivors in a shattered, hostile land. Meditor elves are stranded on the newly formed Minrothad Isles. The local cataclysm rakes the Broken Lands and buries the Great Horde. King Loark dies, and his horde breaks apart. Giants, trolls, and gnolls are driven south into the Northern Reaches in successive waves of migration. Goblinoids settle in the Yazak Steppes. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "1691 BC",
+            "description": "1691 BC: Baka betrays Akilla-Khan and drives his humanoids into the Broken Lands."
+        },
+        {
+            "timetype": "notable",
+            "date": "1690 BC",
+            "description": "1690 BC: Akilla-Khan builds a fortress in the Broken Lands, and starts raiding Glantri and Ethengar borders. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1688 BC",
+            "description": "1688 BC: Akilla-Khan retires from the world and becomes an Immortal, He takes the name of Yagrai. Unaware of the truth, Ethengarians rejoice. Baka declared Khan of all Ethengars. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1681 BC",
+            "description": "1681 BC: Baka Khan is poisoned. The Ethengars war over his successor. The War of Succession starts."
+        },
+        {
+            "timetype": "notable",
+            "date": "1680 BC",
+            "description": "1680 BC: Land masses split further, forming 10 islands south of the Five Shires. Verdier elves build ships and join their cousins, the Meditor clan, in the Sea of Dread."
+        },
+        {
+            "timetype": "notable",
+            "date": "1675 BC",
+            "description": "1675 BC: Tahkati Stormtamer unites the tribes that are now known as the Children of the Horse and leads them in conquest of the other tribes that now make up the Atruaghin Clans. Eventually, he becomes an Immortal."
+        },
+        {
+            "timetype": "notable",
+            "date": "1650 BC",
+            "description": "1650 BC: Atziann, king and sole survivor of a clan of Glantri elves who had been driven underground, comes across the Hollow World Azcans, emerging near Chitlacan. Fascinated by these people, he spends several years among them (in disguise) and studying their ways before leaving to pursue his dream of Immortality."
+        },
+        {
+            "timetype": "notable",
+            "date": "1600 BC",
+            "description": "1600 BC: Tensions erupt between the two largest Jennite hordes: One horde, the more traditional of the two, has woman warriors, while the other has virtually enslaved its women. The Immortal Tarastia enjoins the more traditional horde to conquer the other, but the resulting holy war all but destroys Jennite civilization. (By the time the Alphatians reach the Known World, six centuries later, the outer-world Jennites have regressed to stone-age barbarism, their previous glory all but forgotten.) "
+        },
+        {
+            "timetype": "notable",
+            "date": "1500 BC",
+            "description": "1500 BC: Nithian culture begins its climb to greatness. One colonial expedition led by the Nithian Traldar clan travels to the lands now known as Karameikos. As these colonies spread out, they become the first humans to inhabit Darokin. The Immortal Pflarr creates a jackal-headed servitor-race he calls the Hutaaka. He uses many of them as agents, heralds, and servants throughout the known world; he plants a large colony of them in mountains south of the Nithians. Modest Bronze Age human cultures in the eastern lowlands of the Northern Reaches. Sophisticated gnomish and dwarven cultures co-exist with primitive giantish clans in the western uplands of the Northern Reaches. The elf, Atziann attains Immortality and adopts the Azcan form of his name, Atzanteotl, Atziann the Divine. He begins whispering to the priests that rule Azcan society and selected subterranean elves, turning them to evil and entropy. Only Atruatzin, the Azcan priest-king, who would later become Atruaghin, resists the Immortal. A group of halflings pause in their northward migration at Thanegia Island. Dismayed by the unrest in the land, they quickly move on. On the Alphatians' world, the civilization has achieved total mastery of its environment; the great universities are at the peak of their powers and just beginning to indulge in serious scholastic competitions and squabbles."
+        },
+        {
+            "timetype": "notable",
+            "date": "1494 BC",
+            "description": "1494 BC: A terrible plague strikes Chitlacan, killing almost two thirds of its population. Atruatzin, himself a survivor of the disease, and his most faithful followers are driven out of Chitlacan by his philosophical and political rivals (who follow Atzanteotl). They settle in the fortress of Quauhnahuac."
+        },
+        {
+            "timetype": "notable",
+            "date": "1484 BC",
+            "description": "1484 BC: Driven by the whispers of Atzanteotl, and his own fear that Atruatzin might reclaim the throne, the treacherous Azcan usurper leads an massive assault on Quauhnuac. Everyone found in the fortress is slain or sacrifices, but there is no trace of Atruatzin or his inner circle. The priests curse the land on which Quauhnahuac is built, and sow salt among the ruins. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1470 BC",
+            "description": "1470 BC: The Chochomecs (an Azcan tribe) desert Atacalpa, migrating to Oltec lands of the east."
+        },
+        {
+            "timetype": "notable",
+            "date": "1468 BC",
+            "description": "1468 BC: Atruatzin and his loyal companions find a resting-place, where they establish a temple to the old gods. They name it Mictlan, the Land of the Dead."
+        },
+        {
+            "timetype": "notable",
+            "date": "1420 BC",
+            "description": "1420 BC: The underground elven wanderers stumble upon Mictlan, and overthrow the humans. Those elves who have been seduced by Atzanteotl declare that the temple is sacred to him, and he has given them victory over their enemies and a place to call home. These elves become the Schattenalfen. Most of the elves are uneasy about this alien Immortal, but they are weary, and so they settle and build the city of Aengmor. All of Atruatzin's followers are slain; he alone escapes."
+        },
+        {
+            "timetype": "notable",
+            "date": "1410 BC",
+            "description": "1410 BC: Atruatzin reaches the surface world in his quest for meaning in his life. He finds the lost descendants of the surface world Azcans and Oltecs living in the shattered lands north of the Sea of Dread. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1400 BC",
+            "description": "1400 BC: Within a few generations, the Traldar settlers have suffered enormous population losses (through bad winters, animal attacks, and disease), have lost most of the materials and time necessary to forge metal (and consequently have forgotten how), and have reverted to a pre-agrarian lifestyle. They now fall under the domination of the Hutaaka humanoid people from the northern mountainous region. Denwarf, golem-like leader of the Known World's dwarves, settles his people in the great cavern called Dengar and disappears into the lower caverns. A group of Schattenalfen are driven out of Aengmor (by the will of their patron). They retrace an earlier expedition's path to the Hollow World. Atruatzin, who now calls himself Atruaghin, unites the warring tribes he lives among. His skill as a warrior and leader makes the a challenging, but not impossible task. The newly unified people begin to call themselves the Children of Atruaghin - the outside world calls them the Atruaghin Clans. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1395 BC",
+            "description": "1395 BC: After an unsuccessful bid to unseat the Kogolor dwarves, the Schattenalfen move on to settle near the Azcans, with whom they immediately make war. Atzanteotl delights in and encourages the instant, uncompromising enmity among his followers."
+        },
+        {
+            "timetype": "notable",
+            "date": "1310 BC",
+            "description": "1310 BC: Quest for Steel; Wogar Tribe migrates west from Blackmoor to a great lake, called the Cradle."
+        },
+        {
+            "timetype": "notable",
+            "date": "1305 BC",
+            "description": "1305 BC: Prophecy from King Wogar's Great Shaman; Wogar Tribe moves south, along a major river, following the Great Shaman's floating gri-gri."
+        },
+        {
+            "timetype": "notable",
+            "date": "1300 BC",
+            "description": "1300 BC: The halflings from the southern continent, long-abandoned by their friends the elves, and increasingly endangered by the ever-growing human population, make a mass naval migration to the northern continent. They settle the area later called the Five Shires, which they name Faerdinel. They become friends with a declining, pacifistic clan of elves called the Gentle Folk. In the Savage Coast, goblinoid hordes decimate elven and Oltec civilization. Those humans and elves who remain fall to a savage, semi-nomadic existence. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "1299 BC",
+            "description": "1299 BC: Vestland trolls miss a turn and pop-up in Broken Lands. Trollhattan is founded. Bagni Gullymaw eats an elephant. Nithia enslaves the Black Moon horde of trolls. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1296 BC",
+            "description": "1296 BC: Ogres kill King Wogar's Great Shaman at the Battle of Khuzud, and flee with his treasure. They settle in the Sind Desert and learn local culture."
+        },
+        {
+            "timetype": "notable",
+            "date": "1290 BC",
+            "description": "1290 BC: The outer-world Shadow Elf city of Aengmor is destroyed (actually, merely surrounded by lava and made uninhabitable) during a volcanic eruption; many Schattenalfen escape, burrowing deeper into the crust of the earth. Actually, this is part of a grand scheme of Atzanteotl, their patron."
+        },
+        {
+            "timetype": "notable",
+            "date": "1270 BC",
+            "description": "1270 BC: Great Drought dries up the ogres' wells in Sind. The ogres migrate east, devastating and enslaving Sind villages. A great goblin horde lead by Wogar drives through Hule. They ravage the land, slaughtering many people and enslaving the others. Their reign of terror ends when Hosadus, a young holy man, convinces the horde's leaders that the sacred blue knife they seek lies to the east, beyond the Black Mountains - beyond even the Great Waste. Wogar and most of his horde move on, spurred by the unexpected revelation. The remainder stays in Hule as followers of Hosadus."
+        },
+        {
+            "timetype": "notable",
+            "date": "1269 BC",
+            "description": "1269 BC: Ogres settle in Broken Lands. They found Ogremoor."
+        },
+        {
+            "timetype": "notable",
+            "date": "1265 BC",
+            "description": "1265 BC: Ahmanni Turtlerider and Atruaghin become lovers. Atruaghin's ageless nature becomes apparent, making marriage between them impossible."
+        },
+        {
+            "timetype": "notable",
+            "date": "1263 BC",
+            "description": "1263 BC: Wogar becomes an Immortal. His tribe continues along the coast to Atruaghin. They learn the use of feathers, war paints, light cavalry tactics, and scalping."
+        },
+        {
+            "timetype": "notable",
+            "date": "1262 BC",
+            "description": "1262 BC: A small band of Urduk explorers from Sindh stumble upon the ancient city of the Karimari, and convince them to reduce their isolationism."
+        },
+        {
+            "timetype": "notable",
+            "date": "1260 BC",
+            "description": "1260 BC: Atruaghin leaves the Atruaghin Clans to explore the surface world in a search for the nature of his seemingly eternal youth. He appoints new chiefs to each of the Clans and establishes the Words of Atruaghin that his people live by to this day."
+        },
+        {
+            "timetype": "notable",
+            "date": "1259 BC",
+            "description": "1259 BC: Tahkati Stormtamer, now an Immortal, agrees to help Atzanteotl in destroying the work that Atruaghin has done in uniting the Atruaghin Clans. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1257 BC",
+            "description": "1257 BC: Wogar Tribe, Red Orcs, conquers and enslaves the people of the Atruaghin Clans. Their rule is oppressive and savage. Tahkati Stormtamer realizes that he has been betrayed by Atzanteotl and breaks all ties with the Immortals of Entropy. He vows vengeance."
+        },
+        {
+            "timetype": "notable",
+            "date": "1254 BC",
+            "description": "1254 BC: Wogar Tribe splits into three nations. One settles south of Atruaghin, another in the Five Shires. The last goes north, and torches a trading post called Akorros, then moves to central Broken Lands. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1190 BC",
+            "description": "1190 BC: Descendants of the Great Horde resurface in the Broken Lands. The Tribes meet again and discover the Rock of Oenkmar and a knife they mistake for one of their legendary artifacts. End of the Quest for a Blue Knife. Truce proclaimed. 1104 BC: Underground elves discover the Refuge of Stone and take the name of shadow elves unto themselves. Building work begins on the City of Stars. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1100 BC",
+            "description": "1100 BC: Nithians lead by Minroth colonize the islands later to be called the Minrothad islands, and found Harbortown. Nithians under Prince Ramenhotep establish the colony of Thothia on the Isle of Dawn. This is the eastern extent of Nithian colonization. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1090 BC",
+            "description": "1090 BC: On the Alphatians' world, the Followers of Flame begin their serious rivalry with the Followers of Air."
+        },
+        {
+            "timetype": "notable",
+            "date": "1050 BC",
+            "description": "1050 BC: Great wizards of the Nithians, inspired by the Immortal Pflarr's servant race (the Hutaaka), create the gnoll race by magically blending trolls and gnomes. But they've been deluded that the results might be an equivalent servant-race for the Nithians; instead, the gnolls turn out to be savage, strong, warlike, and prolific. They rebel; they escape and later invade Karameikos. Nithian priests visit the Shamans of Oenkmar. Atzanteotl is increasingly offended. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1027 BC",
+            "description": "1027 BC: On the Alphatians' world, sporadic violence breaks out between the Followers of Flame and Followers of Air."
+        },
+        {
+            "timetype": "notable",
+            "date": "1010 BC",
+            "description": "1010 BC: On the Alphatians' world, a temporary peace results from one academian's proposal of the Flame vs. Air essay debate."
+        },
+        {
+            "timetype": "notable",
+            "date": "1009 BC",
+            "description": "1009 BC: On the Alphatians' world, Emperor Alphaks I arbitrarily declares the Flames to have won the debate. Outrage, protest, rebellion and revolt result; the Followers of Flame war with the Followers of Air. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1000 BC",
+            "description": "1000 BC: The Broken Lands are overpopulated. Broken Lands orcs, ogres, trolls, gnolls, and goblins migrate outward, especially southward, displacing other humanoid tribes before them. All forces join and raid Rockhome; they are defeated by dwarven King Blystar III. Minor raids go on for 500 years. Orcs from the Broken Lands invade and conquer the region now known as the Five Shires. Their reign is brutal, to say the least. Gnolls cross southern Darokin and invade Traldar lands, destroying their Golden Age. Most of the Darokin humans flee north, right into orc territory, where few survive. The Hutaakans retreat to their valley while the Traldar and gnolls practically annihilate one another. By the time the gnolls retreat, the Traldar population is 20% of its pre-invasion amount. Many seafaring Traldar, led by a lesser king named Milen, flee south across the Sea of Dread, and reach the southern continent to the east of what would later be called the Hinterlands. They travel far upriver, and establish a new kingdom there. Elsewhere, nonhuman tribal movements pit tribes of orcs and goblins against the dwarves. Gruugrakh gnolls, fleeing their Nithian masters, first come to the Plain of Fire and settle there. The Nithian Empire is at its peak; it is the first post-Blackmoor empire in the world. It features monumental architecture, large urban complexes in the delta region of the River Nithia, conquest of neighboring states, establishment of more remote colonies, and the development of sophisticated arts and culture. Colonies are planted in the Makai islands (south of the Five Shires area), where they conquer the aboriginal natives. The humans of the Northern Reaches areas are conquered and enslaved by the Nithian Empire. The Nithians, made curious about the southern continent by the Traldar flight in that direction, transport many Northern Reaches slaves to Harbortown and thence to the southern continent, to colonize there. This is the southern limit of Nithian expansion, and it isn't very successful; The Northern Reaches slaves soon rebel and slay their Nithian overlords. These tribes carve out their own territory in the southern continent, and are the forefathers of the Thyatian, Kerendan and Hattian tribes who later found the empire of Thyatis. Black explorers from Tangor find and colonize the Pearl Islands. On the Alphatians' world, the war between the Followers of Air and Followers of Flame reaches its zenith. The Followers of Flame are defeated. Alphaks is banished. Old Alphatia is destroyed; the Followers of Air come to the Known World to settle on the great continent they name Alphatia, bringing along natural strains of wolf and tiger lycanthropy. They proceed to build a mighty empire based on magic. 1000 - 610 BC: Orcs, part of the migration from the Broken Lands, invade the Five Shires region and enslave the halflings. The Gentle Folk elves of the Five Shires region disappear or are destroyed by the orcs. Over a period of four hundred years, the halflings are conquered and reconquered by orcs, dwarves, and bandits of different races; eventually they reclaim their land and establish a strong kingdom. "
+        },
+        {
+            "timetype": "notable",
+            "date": "900 BC",
+            "description": "900 BC: Atruaghin returns to the Hollow World briefly. He visits the ruins of Quauhnahuac and uses his ever increasing power to create Atruaghin's Mystic Conveyor, a powerful magical artifact the links the Known and Hollow Worlds."
+        },
+        {
+            "timetype": "notable",
+            "date": "800 BC",
+            "description": "800 BC: The ice finally recedes to the north of Glantri. Elves led by Mealiden Starwatcher leave the Sylvan Realm via the magical rainbow; they carry nine seedlings of the tree of life with them. They land in the forested regions of what would later be called Thyatis, but are driven out by the warlike humans there, and flee northward. The Callarii clan settles in Traladara territory; most of the rest settle in a windy steppes area. Elvish wizards begin to alter those steppes with their magic, changing the land nearly overnight into terrain where a mighty forest could flourish. In the process, they drive orcs from the open lands to the west. One of the elf-clans, the Shiye, listens to the guidance of the elf-immortal Eiryndul and makes a dangerous crossing to the continent of Alphatia, where they set up their own kingdom in the deep central forests of that continent. Using the artifact he constructed at Quauhnahuac, Atruaghin returns from his exploration of the Known and Hollow Worlds to lead his adopted people in a revolt against the Red Orcs. The conflict is savage, but in the end the Children of Atruaghin are successful. Deep in the southern continent, the Milenians, descendants of the Traldar, are flourishing, conquering the surrounding tribes, and establishing a strong empire. Human clans begin building permanent settlements in Darokin. "
+        },
+        {
+            "timetype": "notable",
+            "date": "795 BC",
+            "description": "795 BC: Atruaghin recalls the memory of that great plateau that once stood in the lands of his people. Using magics and powers that he has acquired from his travels throughout the Known and Hollow Worlds, he calls it back into existence that the Children of Atruaghin might never again fear invasion. Atruaghin, having completed the Path of the Polymath, becomes an Immortal in the Sphere of Thought in recognition of his lifelong struggle against entropy."
+        },
+        {
+            "timetype": "notable",
+            "date": "792 BC",
+            "description": "792 BC: Atzanteotl begins to turn Danel Tigerstripes against Atruaghin and his followers. Atruaghin sends Hattani Stoneclaw, leader of the Bear Clan, to prevent his corruption. The intervention is too late, the Children of the Tiger begin to worship Atzanteotl and Hattani Stoneclaw becomes an Immortal."
+        },
+        {
+            "timetype": "notable",
+            "date": "700 BC",
+            "description": "700 BC: Thanatos, Immortal of the Sphere of Entropy, helped by the Immortal Ranivorus, corrupts the pharaoh of the Nithians. The pharaoh turns the Nithian empire toward worship of Entropy. The Nithian colonists in Thothia turn away from the Entropic faith of their homeland and increasingly turn to a new form of mysticism. Nithians arrive on the Savage Coast. They interbreed somewhat with Oltecs Elves of the eastern coast establish settlements in and around what will eventually become Torreon and Narvaez. (RS) Mealiden is acclaimed king of Alfheim."
+        },
+        {
+            "timetype": "notable",
+            "date": "610 BC",
+            "description": "610 BC: Inspired by the example of Atruaghin and his people some two centuries before, the Hin revolt against the humanoids and reclaim their place as an independent state. The modern Five Shires are born."
+        },
+        {
+            "timetype": "notable",
+            "date": "600 BC",
+            "description": "600 BC: Three warrior-tribes from the southern continent (the Thyatians, Kerendans, and Hattians), hard-pressed by the Milenians to the south, migrate to the northern continent"
+        },
+        {
+            "timetype": "notable",
+            "date": "572 BC",
+            "description": "572 BC: The hin formally organize their land into five semiautonomous Shires, each ruled by an elected Sheriff."
+        },
+        {
+            "timetype": "notable",
+            "date": "556 BC",
+            "description": "556 BC: A boy named Yav is born to an elven mother and a Tanagoro father in the Serpent Peninsula. He is the strongest seer yet known in the area, and his many timely warnings of hurricanes and other disasters make him a hero."
+        },
+        {
+            "timetype": "notable",
+            "date": "529 BC",
+            "description": "529 BC: A series of abuses by the Serpent Peninsula seers cause a major revolt. Elven purists slaughter every seer they can find. Some take more extreme measures, killing people of mixed elven and human blood regardless of their precognitive abilities. The unrest ends with the power of the seers broken and the Sheyallia elves fleeing the wrath of the Tanagoro people. Yav vanishes; it is thought the elves killed him."
+        },
+        {
+            "timetype": "notable",
+            "date": "528 BC",
+            "description": "528 BC: 3,000 Sheyallia elves fleeing from the Serpent Peninsula stumble into the Plain of Fire and discover the intricate networks of caves and tunnels beneath. The settle, war with the gnolls, and eventually cooperate with them."
+        },
+        {
+            "timetype": "notable",
+            "date": "500 BC",
+            "description": "500 BC: The Traldar are in the midst of their Dark Age. Communication between communities is infrequent. Local dialects begin to differ widely. The national epic of King Halav is the only thing which gives the people a sense of unity. Linguistic changes are already advanced enough that the people consider themselves Traladara, descendants of the Traldar, the people of King Halav. Elsewhere, the Nithian Empire, having incurred Immortal dislike, abruptly ends; the Immortals alter the climate, divert the headwaters of the River Nithia, promote social unrest, deny magical powers to their clerics, and take other actions which cause the Empire to collapse catastrophically. The Immortals use magic to ensure that almost all trace of the Empire is wiped from the face of the Known World. The colonies are systematically destroyed - except for Thothia, which has already turned away from the Entropic faith which led to the destruction of Nithia. Ancestors of modern Alasiyan peoples withdraw to desert basins and establish a nomadic culture. Weak mainland human tribal cultures in the Northern Reaches are at the mercy of giantish clans. The remaining Black Moon gnolls scatter east and west. In the Ierendi islands, the Malpheggi lizard men, doomed to extinction by a parasitic plague brought by the Nithian colonists, wipe out the Nithians before dying themselves. This is part of the Immortal plan to destroy the Nithian Empire. By now, the steppes where Mealiden's elves settled have become the mighty Canolbarth forest. By now, the Thyatians, Kerendans and Hattians have conquered and assimilated the human tribes who opposed them; they are now in full control of the region which will one day be called Thyatis. Yav, known as Mulogo, convinces the Tanagoro people of the Serpent Peninsula to sail across the Western Sea and settle on the Immortal's Arm. Herath wars with Wallara; manscorpions betray the enduks and take possession of Nimmur; Nithians disappear, leaving little evidence other than a few relics and pyramids. The Red Curse is created, but confined by Herathian mages in portions of the eastern Savage Coast. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "493 BC",
+            "description": "493 BC: Queen Ubdala of the Broken Lands raises Great Horde again. She recruits goblins and gnolls in the Altan Tepes, and marches north."
+        },
+        {
+            "timetype": "notable",
+            "date": "492 BC",
+            "description": "492 BC: At the battle of Sardal Pass, they are routed, the orcs utterly massacred. Ubdala dies. Hordes routed south and west, crowding Cruth mountains and Altan Tepes. Gnomes kicked out. "
+        },
+        {
+            "timetype": "notable",
+            "date": "490 BC",
+            "description": "490 BC: Kobold clans are driven into the uplands of the Northern Reaches from the west. They overrun and exterminate the gnomes, and occupy their subterranean kingdoms."
+        },
+        {
+            "timetype": "notable",
+            "date": "480 BC",
+            "description": "480 BC: Yav leaves the Tanagoro and sails back to the Serpent Peninsula to search for what was causing the unnatural greed and selfish thoughts (not to mention precognitive abilities) of residents."
+        },
+        {
+            "timetype": "notable",
+            "date": "452 BC",
+            "description": "452 BC: Mahmatti Running Elk becomes an Immortal after becoming one of the most powerful shamani ever to exist atop the Atruaghin Plateau. "
+        },
+        {
+            "timetype": "notable",
+            "date": "450 BC",
+            "description": "450 BC: Dwarves arrive along the eastern Savage Coast and build small colonies. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "400 BC",
+            "description": "400 BC: The prophet Mulogo (actually Yav) reappears and leads the People of Yav from the Immortal's Arm back to Thanegia Island."
+        },
+        {
+            "timetype": "notable",
+            "date": "350 BC",
+            "description": "350 BC: Mealiden abdicates the throne to follow Ilsundal's path to Immortality. Alevar of the Grunalf clan becomes king of Alfheim. "
+        },
+        {
+            "timetype": "notable",
+            "date": "322 BC",
+            "description": "322 BC: A Schattenalfen attack annihilates the southern Azcan city of Axateotl for the seventh, and last, time. "
+        },
+        {
+            "timetype": "notable",
+            "date": "251 BC",
+            "description": "251 BC: A legendary gnome craftsman named Glimreen Gemeye discovers a jet engine artifact of the destroyed Blackmoor civilization."
+        },
+        {
+            "timetype": "notable",
+            "date": "250 BC",
+            "description": "250 BC: Mealiden becomes an Immortal of the Sphere of Energy. "
+        },
+        {
+            "timetype": "notable",
+            "date": "200 BC",
+            "description": "200 BC: Tritons fleeing from their devilfish enemies enter the Sunlit Sea and establish the Kingdom of Undersea in the waters between the islands of Ierendi and Minrothad. By now, orcs control the land to the west of the Streel River, as far south as Akorros. The also control the Broken Lands, southern Glantri, and most of Ethengar. Humans control the areas south of Akorros; elves control Alfheim to the east. Alphatians begin settling the region of the Peninsula of Esterhold. They use their magic and sophisticated military forces to drive most of the Jennites back several hundred miles and enslave the rest. The centuries-old Milenian Empire begins to weaken."
+        },
+        {
+            "timetype": "notable",
+            "date": "192 BC",
+            "description": "192 BC: The Alphatians, annoyed by the piratical activities of the Thyatian tribes, launch a campaign to conquer Thyatis. "
+        },
+        {
+            "timetype": "notable",
+            "date": "190 BC",
+            "description": "190 BC: The Alphatians complete their conquest of Thyatis; Thyatis is now part of the Alphatian empire. "
+        },
+        {
+            "timetype": "notable",
+            "date": "150 BC",
+            "description": "150 BC: The outer-world Shadow Elves contact the humanoid tribes of the Broken Lands, spreading their hatred of the above-ground elves and persuading the humanoids to attack Alfheim. Tortle civilization rises on the central Savage Coast. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "100 BC",
+            "description": "100 BC: The Milenian civilization has grown soft and decadent. It enslaves surrounding tribes and nations; most soldiers in the Milenian army are conscripts from conquered tribes. The Immortals decide to preserve the Empire in its earlier, more heroic form; they transport to the Hollow World all Milenians who adhere to the earlier Milenian goals and desires. Depriving the Milenians of their few remaining true warriors and uncorrupted government leaders sends the empire to its doom even more swiftly. Newcomers reach Skothar's southwestern shores. They come from the continent of Davania, fleeing the collapse of the Milenian Empire and seeking to establish a colony where their way of life could survive. They find the coast already inhabited, and ask and are granted permission by the nearby natives to settle a stretch of wilderness between two prosperous Jennite cities. In the Lost Valley of the Hutaaka, the descendants of the Traldar finally free themselves from Hutaakan rulership and begin warring on their former masters. This racial war is destined to go on for another 1,100 years. "
+        },
+        {
+            "timetype": "notable",
+            "date": "50 BC",
+            "description": "50 BC: The decadent Milenian civilization collapses utterly under the attacks of surrounding tribes."
+        },
+        {
+            "timetype": "notable",
+            "date": "2 BC",
+            "description": "2 BC: Lucinius Trenzantenbium, a Thyatian-born, Alphatian-trained wizard, kills the Alphatian wizards in Thyatis and declares himself King of Thyatis; was breaks out between Thyatis and Alphatia."
+        },
+        {
+            "timetype": "notable",
+            "date": "0 AC",
+            "description": "0 AC: The economies of both Thyatis and Alphatia have been wrecked by the war; the two powers conduct a peace treaty in the city of Edairo, the capital of Thothia (on the Isle of Dawn). Later, in Thyatis, General Zendrolion Tatriokanitas assassinates King Lucinius and several other kings gathered there, and crowns himself Emperor of Thyatis, Ochalea and the Pearl Islands. The Thyatians celebrate for weeks. Thyatians do some trading with Minroth islanders. The Traladara begin a period of regrowth as trade is slowly established with southern peoples. Peaceable demihumans (the Callarii elves and the Highforge gnomes) settle in Traladara territories; warlike demihumans (goblins, hobgoblins, orcs) do as well, in lesser numbers. Early Alasiyan agricultural settlements along coastal plain and interior desert oases. "
+        },
+        {
+            "timetype": "notable",
+            "date": "1 AC",
+            "description": "1 AC: Yav reappears once again, attempting to fix an artifact. However, the fix drains all ambition from the Tanagoro."
+        },
+        {
+            "timetype": "notable",
+            "date": "21 AC",
+            "description": "21 AC: Ansel Darokin declares himself King of Darokin, beginning the reign of the Eastwind Kings. "
+        },
+        {
+            "timetype": "notable",
+            "date": "39 AC",
+            "description": "39 AC: The Flying City of Serraine makes its maiden flight."
+        },
+        {
+            "timetype": "notable",
+            "date": "67 AC",
+            "description": "67 AC: Orcs living near Lake Amsorak wrest most of Darokin from its human inhabitants in this bloody summer. The humans and elves of Darokin join forces to drive the orcs out; they're successful. Thousands of orcs flee into Nagpuri, slaying and pillaging as they overrun the lands. Nagpuri's warriors must contend with orc troubles for the next decade."
+        },
+        {
+            "timetype": "notable",
+            "date": "87 AC",
+            "description": "87 AC: Aden I, King of Darokin, is killed by orcs, ending the Eastwind reign. "
+        },
+        {
+            "timetype": "notable",
+            "date": "88 AC",
+            "description": "88 AC: Orcs make major gains against the leaderless Darokin humans, forcing the Elves of Alfheim to support Corwyn Attleson as a compromise choice to lead Darokin. The reign of Darokin Kings begins. "
+        },
+        {
+            "timetype": "notable",
+            "date": "100 AC",
+            "description": "100 AC: Descendants of Makistani tribal nomads enter Ylarum from the north and settle the Ust-Urt Valley. Celedryl of the Erendyl clan is crowned king of Alfheim. Goblinoid hordes sweep the Savage Coast again. Tortle civilization falls, and humans, dwarves, and elves remaining along the eastern coast are prompted to build permanent settlements. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "100 AC",
+            "description": "100 - 150 AC: Three prominent families rise to power in the Asanda plain - the Pratikutas of Putnabad (which includes present-day Jaibul and Jalawar), the Rastrapalas of Shajarkand, and the Mahavarmans of Nagpuri and Gunjab. Throughout the century, successive generations gain and lose power and ground in almost constant struggles for control."
+        },
+        {
+            "timetype": "notable",
+            "date": "122 AC",
+            "description": "122 AC: In Darokin, Corwyn I dies after a long and successful reign. His son, Corwyn II, assumes power."
+        },
+        {
+            "timetype": "notable",
+            "date": "150 AC",
+            "description": "150 AC: Thyatians begin colonizing into the southeastern coastal plain and the foothills of the Altan Tepe range in Ylarum, enslaving and assimilating, and scattering the indigenous population. "
+        },
+        {
+            "timetype": "notable",
+            "date": "179 AC",
+            "description": "179 AC: The Pratikutas seize control of the entire length of the Asanda River and most of the Salt Swamp - despite internal problems with revolts and rebellions."
+        },
+        {
+            "timetype": "notable",
+            "date": "186 AC",
+            "description": "186 AC: Rajah Vijay Pratikuta dies, leaving Putnabad to Sarad, his only son. Rajah Sarad's weak rules loses all but a fraction of Putnabad's territory. Newly-powerful families rule in Jalawar and Jhengal. Other rajahs suspect these new rulers are shape shifters."
+        },
+        {
+            "timetype": "notable",
+            "date": "200 AC",
+            "description": "200 AC: Rockhome dwarves begin colonizing into outside lands; they are usually welcomed into human communities."
+        },
+        {
+            "timetype": "notable",
+            "date": "250 AC",
+            "description": "250 AC: The Alphatians begin colonizing into the northern and central coastal plain of Ylarum, enslaving and scattering the indigenous population. Some of the Ylari driven out by the Alphatian and Thyatian aggression migrate to Darokin. The Alphatians also found the colony of New Alphatia on the Isle of Dread; Alphatian magic is adapted to seafaring needs. Alphatian settlers colonize the side of Trader's Isle left uninhabited by the Minroth traders. At first they fight, but soon trade wins over war. Nomads driven from their homelands in Ylarum by Thyatian colonists make their way into Darokin and then into Sind. They bring with them single-humped dromedaries, fine horses, and techniques for making /flying carpets/. Some settle in Sindhi towns. Many more find kindred spirits in the Urduk nomads west of Sind and add their herds and desert traditions to those of their new-found brethren. Rajahs seeking to strengthen their armies with Ylari warriors try to attract Ylari settlers to their lands."
+        },
+        {
+            "timetype": "notable",
+            "date": "276 AC",
+            "description": "276 AC: Human and elf cultures in the Isles of Dread meet and establish trade. "
+        },
+        {
+            "timetype": "notable",
+            "date": "284 AC",
+            "description": "284 AC: Minrothian and Alphatian cultures clash on Dread Island over slave trading issues; elves force the humans to make peace."
+        },
+        {
+            "timetype": "notable",
+            "date": "293 AC",
+            "description": "293 AC: Last of the orc tribes driven from Darokin."
+        },
+        {
+            "timetype": "notable",
+            "date": "300 AC",
+            "description": "300 AC: The water elf trading port of Seahome is established on Alfeisle in the Minrothad isles."
+        },
+        {
+            "timetype": "notable",
+            "date": "330 AC",
+            "description": "330 AC: A group of humans exploring deep underground finds the shadow elves and rekindles their interest in the surface world."
+        },
+        {
+            "timetype": "notable",
+            "date": "360 AC",
+            "description": "360 AC: Minroth traders carry slaves for Thyatian Empire; halfling slaves are introduced to the Isles of Dread. "
+        },
+        {
+            "timetype": "notable",
+            "date": "390 AC",
+            "description": "390 AC: Disastrous humanoid raid on Alfheim. Some orcs captured. "
+        },
+        {
+            "timetype": "notable",
+            "date": "395 AC",
+            "description": "395 AC: The Flaems, an offshoot of the Alphatians from the original Alphatian homeworld, settle the Glantri area where they discover the Radiance. They bring natural strains of bear and boar lycanthropy."
+        },
+        {
+            "timetype": "notable",
+            "date": "400 AC",
+            "description": "400 AC: Ostland raiders range south to Thyatis and north to Norwold. Mainland Northern Reaches tribes are victimized by the sea raiders and by giantish clans. The Flaems discover that other, enemy Alphatians are in possession of the mighty Alphatian empire to the east. The Traladaran village of Marilenev begins doing more trade business than fishing and begins slow, gradual growth from the increasing trade. Thyatian clerics learn the Song of King Halav and commit it to writing for the first time. Rogue Alphatian wizards attempting to develop a hardier, more powerful Alphatian race create fast-spreading magical strains of the curses of vampirism and lycanthropy. "
+        },
+        {
+            "timetype": "notable",
+            "date": "401 AC",
+            "description": "401 AC: A two-month epidemic of lycanthropy in Alphatia results in thousands of werecreatures and dozens of weretypes. The newly-formed Alphatian Center for Disease Control acts quickly to limit the effects of the epidemic."
+        },
+        {
+            "timetype": "notable",
+            "date": "406 AC",
+            "description": "406 AC: The magical strain of lycanthropy stabilizes into seven primary weretypes - wolf, boar, tiger, bear, bat, fox, and giant hawk."
+        },
+        {
+            "timetype": "notable",
+            "date": "410 AC",
+            "description": "410 AC: Minroth traders unwittingly help spread the new vampirism and lycanthropy throughout the seafaring world, including the Kingdom of Undersea. "
+        },
+        {
+            "timetype": "notable",
+            "date": "411 AC",
+            "description": "411 AC: The first wererat awakens to intelligence and the stunning revelation that he can take human form. He calls himself Mrikitat. "
+        },
+        {
+            "timetype": "notable",
+            "date": "415 AC",
+            "description": "415 AC: Weresharks first appear in Undersea, triggering an epidemic of lycanthropy among the sea peoples."
+        },
+        {
+            "timetype": "notable",
+            "date": "419 AC",
+            "description": "419 AC: Normal seals carry lycanthropy to the sub-polar regions of Mystara. "
+        },
+        {
+            "timetype": "notable",
+            "date": "425 AC",
+            "description": "425 AC: Minrothad traders unwittingly introduce lycanthropy to Sind. The disease threatens to overrun every level of Sindhi society. Weretigers are especially prevalent. Other shape shifters already in Sind see this as an opportunity to unite their kind - dopplegangers and mujinas allying with lycanthropes - and seize complete control of the area. Ka the Preserver, an Immortal, fears this would irrevocably alter Sindian culture and transplants nearly half of the Sindhi population to the Hollow World before the shape shifters can effect their takeover. Ka gives false memories to those he transplants - memories of an outer world Sind once ruled by shape shifters called /chambahara/, or deformed animals. Those left behind also receive false memories of a devastating plague that killed half the Sindhi population. They are left with many shape shifters to contend with, as Ka transported only a fraction of the shape shifting population to the Hollow World. For a while, a Sind ruled by shape shifters becomes a reality."
+        },
+        {
+            "timetype": "notable",
+            "date": "443 AC",
+            "description": "443 - 445 AC: Expeditions of elves and humans attempt to purge Dread Island of all lycanthropes; human population is decimated; this time is called the Silver Purge. Similar events take place in Undersea, during the Night of the Long Knives; many weresharks flee to deeper waters. Werecreatures know this time as the Great Persecution. "
+        },
+        {
+            "timetype": "notable",
+            "date": "445 AC",
+            "description": "445 - 450 AC: Lycanthropes fleeing from the Great Persecution establish colonies on every continent."
+        },
+        {
+            "timetype": "notable",
+            "date": "450 AC",
+            "description": "450 AC: Malf Quickhand leads a halfling slave revolt; newly-freed halflings take ships and migrate to the island they name Open Isle. Traldar arrive in the Savage Coast region. They establish several city-states on the eastern shores of the Gulf of Hule. Traldar who settle on the western shores are absorbed into existing human cultures descended from the Oltecs. Humans of the eastern coast begin to establish permanent villages and begin to intermingle with elves of the region. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "451 AC",
+            "description": "451 AC: Mrikitat establishes a nation of wererats in the sewers beneath the City of Thyatis. Sindhi mages led by Maga Aditi, a name-level female magic-user, unite and overthrow the shape shifters. A brutal purge follows. Elaborate tests and carefully plotted traps expose a great many shape shifters - dopplegangers and lycanthropes alike - who are promptly executed. When the dust settles, the magic-users of Sind establish their own caste, the /Jadugeryas/, and claim themselves high-born, like the Himayas (warriors) and Rishiyas (clerics)."
+        },
+        {
+            "timetype": "notable",
+            "date": "460 AC",
+            "description": "460 AC: Wereseals join the list of persistent weretypes."
+        },
+        {
+            "timetype": "notable",
+            "date": "475 AC",
+            "description": "475 AC: The forest elf trading port of Verdon is founded on Alfeisle. "
+        },
+        {
+            "timetype": "notable",
+            "date": "478 AC",
+            "description": "478 AC: Ostland is united under King Cnute the Bold."
+        },
+        {
+            "timetype": "notable",
+            "date": "488 AC",
+            "description": "488 AC: Hadric Corser, the Great Uniter, brings the remaining Minroth humans together; founds the city of Minrothad and lays foundation for an organized trading federation."
+        },
+        {
+            "timetype": "notable",
+            "date": "491 AC",
+            "description": "491 AC: Mrikitat the wererat attains Immortality in the Sphere of Time."
+        },
+        {
+            "timetype": "notable",
+            "date": "500 AC",
+            "description": "500 AC: Thyatian and Alphatian colonies in Ylarum begin what will become three centuries of warfare. The Alasiyan tribes are constantly feuding. Conflict between Alphatian and Thyatian empires begins; Minroth traders maintain neutrality and dominate merchant shipping for both sides. Traders bearing vampirism and wolf, bear, and boar lycanthropy settle in Traladara's deep woods and flourish there. Big Chief Sitting Drool unites the Broken Lands. Siege of Corunglain. Orcs threaten Darokin City. Three of Cnute's sons colonize the mainland near Ostland. Troll and giant raids are discouraged by punitive expeditions. Humans move into the areas that will eventually become Eusedria and Robrenn; some elves and dwarves ally with these humans. Lupins and rakasta form permanent settlements along the central Savage Coast, in lands that will eventually become Renardy and Bellayne. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "501 AC",
+            "description": "501 - 504 AC: Darokin blames the elves for an attack on a farm near the Alfheim border, and battles Alfheim in the Elfwar. "
+        },
+        {
+            "timetype": "notable",
+            "date": "502 AC",
+            "description": "502 AC: Corunglain freed. Darokin Punitive Expedition massacred and devoured in Trollhattan. Scandal in Darokin."
+        },
+        {
+            "timetype": "notable",
+            "date": "510 AC",
+            "description": "510 AC: A Northrock chief named Qeodhar organizes his people and persuades the Alphatian emperor to accept his nation as a subject territory of Alphatia."
+        },
+        {
+            "timetype": "notable",
+            "date": "520 AC",
+            "description": "520 AC: The halfling trading port and capital city of Open Isle, Malfton, is established. Second Punitive Expedition from Darokin is massacred in Kol. First caravans attempt to cross Broken Lands."
+        },
+        {
+            "timetype": "notable",
+            "date": "522 AC",
+            "description": "522 AC: Second Siege of Corunglain. Villages torched."
+        },
+        {
+            "timetype": "notable",
+            "date": "523 AC",
+            "description": "523 AC: In Darokin, Corunglain falls to the orc armies of Big Chief Sitting Drool. Thousands are killed and the entire city is looted. Enslaved population taken back to Broken Lands."
+        },
+        {
+            "timetype": "notable",
+            "date": "525 AC",
+            "description": "525 AC: Third Punitive Expedition from Glantri and Darokin. Sitting Drool brought back in chains."
+        },
+        {
+            "timetype": "notable",
+            "date": "526 AC",
+            "description": "526 AC: Sitting Drool traded for slaves and gold taken from Corunglain, causing great political uproar in Darokin. Truce with Darokin and Glantri."
+        },
+        {
+            "timetype": "notable",
+            "date": "527 AC",
+            "description": "527 AC: Adventurers assassinate Sitting Drool. Tribes break up again. Various humanoid hordes invade Red Orcland."
+        },
+        {
+            "timetype": "notable",
+            "date": "550 AC",
+            "description": "550 AC: The beast man invasion of the wizard Illodius scars the magical forests of Alfheim. Alfheim Town founded in the blighted area. "
+        },
+        {
+            "timetype": "notable",
+            "date": "560 AC",
+            "description": "560 AC: Alfheim/Darokin alliance crushes the shadowelf invasion."
+        },
+        {
+            "timetype": "notable",
+            "date": "570 AC",
+            "description": "570 AC: First settlement is started on the Island of Ierendi by castoffs from the Five Shires. The island is already inhabited by small tribes of native aboriginal peoples."
+        },
+        {
+            "timetype": "notable",
+            "date": "571 AC",
+            "description": "571 AC: Thyatis establishes prisons on five Ierendi islands currently inhabited by shipbuilding halflings."
+        },
+        {
+            "timetype": "notable",
+            "date": "575 AC",
+            "description": "575 AC: The hin begin using the Ierendi islands as year-round naval bases; their seaborne trade flourishes."
+        },
+        {
+            "timetype": "notable",
+            "date": "585 AC",
+            "description": "585 AC: Ethengar raiders oppose the Flaemish in numerous skirmishes; the Khan's horsemen are driven out."
+        },
+        {
+            "timetype": "notable",
+            "date": "586 AC",
+            "description": "586 AC: The Thyatians, in need of funds and resources, conquer the Ierendi islands and seize the shipbuilding facilities there. The halflings retaliate with piratical raids on Thyatian shipping."
+        },
+        {
+            "timetype": "notable",
+            "date": "593 AC",
+            "description": "593 AC: Ruaidhri kills the last of the werehawks."
+        },
+        {
+            "timetype": "notable",
+            "date": "600 AC",
+            "description": "600 AC: On Ierendi, Mad Creeg lead a rebellion among the prisoners. With native help, Mad Creeg's improvised army drives Thyatians from the islands. The Sylvan Lands are conquered by humans led by the wizard Moorkroft; the surviving elves of the Sylvan Lands, the Feadiel clan, make the dangerous passage to Alfheim. The northern barbarians unite into a tremendous army that nearly overruns Hule. With city after city falling, Bozdogan reveals that he has reincarnated Hosadus. The legendary hero combines warfare with trickery and deceit, driving the barbarian hordes from Hule."
+        },
+        {
+            "timetype": "notable",
+            "date": "601 AC",
+            "description": "601 AC: Gregus Verdier, the Second Uniter, is born on Alfeisle in Minrothad."
+        },
+        {
+            "timetype": "notable",
+            "date": "602 AC",
+            "description": "602 AC: Monarchy formed as Mad Creeg claims all islands, establishing the Kingdom of Ierendi, and declares himself ruler. "
+        },
+        {
+            "timetype": "notable",
+            "date": "604 AC",
+            "description": "604 AC: Vestlanders revolt against Ostland in response to increasingly increasing taxes."
+        },
+        {
+            "timetype": "notable",
+            "date": "609 AC",
+            "description": "609 AC: Decades of feuding between the Jadugeryas and Rishiyas of Putnabad end as the Jadugeryas flee to the southern portion of Putnabad and carve their own mumlyket out of the badlands. They call their small kingdom Jaibul."
+        },
+        {
+            "timetype": "notable",
+            "date": "610 AC",
+            "description": "610 AC: A band of a hundred elves fleeing their recently conquered Sylvan Lands far to the northwest encounter a group of Graakhalians on the Plain of Fire. Most decide to stay; the rest, having problems accepting the gnolls, leave at sword-point."
+        },
+        {
+            "timetype": "notable",
+            "date": "614 AC",
+            "description": "614 AC: Ottar the Just defeats King Finnbogi of Ostland in the Battle of Bridenfjord, and establishes the Kingdom of Vestland. Ostland continues to raid southern mainland coasts. Vestland pursues trade with Alphatian and Thyatian colonies."
+        },
+        {
+            "timetype": "notable",
+            "date": "623 ",
+            "description": "623 AC: Devil swine first appear in Alphatia."
+        },
+        {
+            "timetype": "notable",
+            "date": "637 AC",
+            "description": "637 AC: Black Toes assumes rulership of Ierendi upon the death of his father. He marries Kethy Matrongle from Glantri and assumes her surname. The Matrongle family begins long control of the island. "
+        },
+        {
+            "timetype": "notable",
+            "date": "645 AC",
+            "description": "645 AC: Ethengar attempts a major invasion of what is now Glantri but is defeated at Skullhorn Pass."
+        },
+        {
+            "timetype": "notable",
+            "date": "646 AC",
+            "description": "646 AC: Gregus Verdier forges forest elves of Minrothad into unified political and economic faction. "
+        },
+        {
+            "timetype": "notable",
+            "date": "662 AC",
+            "description": "662 AC: The Flaemish attempt to invade Ethengar, but the expeditionary force is utterly massacred in the steppes."
+        },
+        {
+            "timetype": "notable",
+            "date": "675 AC",
+            "description": "675 AC: King Celedryl purges shadowelf infiltrators from Alfheim, but is only partly successful."
+        },
+        {
+            "timetype": "notable",
+            "date": "687 AC",
+            "description": "687 AC: Ierendi merchants discover the rich trade opportunities Sindhi ports offer. Jaibul and Putnabad compete fiercely for foreign trade."
+        },
+        {
+            "timetype": "notable",
+            "date": "691 AC",
+            "description": "691 AC: Gregus Verdier establishes the Council of Dread and the Minrothad Guilds. Yubraj Narenda ul Nervi, the Crown Prince of Sindrastan, nearly dies when his favorite elephant goes mad and gores him. A holy man saves his life, calming the elephant and healing the prince. While he lies unconscious, Narenda experiences a terrible vision of danger Sind will face in the future - a danger the Sindhi people will be powerless against unless Sind's independent mumlykets are united. When Narenda awakens, the holy man is gone; no one can say who he was or where he went. Narenda's father, Sanjiva ul Nervi, dies later in the year, leaving the rulership of Sindrastan to his son."
+        },
+        {
+            "timetype": "notable",
+            "date": "695 AC",
+            "description": "695 AC: Rajah Narenda ul Nervi's army initiates the slow and bloody process of the unification of Sind by conquering Gom, Karganj, and Naral."
+        },
+        {
+            "timetype": "notable",
+            "date": "696 AC",
+            "description": "696 AC: Sandapur falls to Narenda's onslaught. Backed by the allied forces of the rajahs of Jalawar and Putnabad, the village of Pramayana stands against Sinddrasan's armies for more than a year."
+        },
+        {
+            "timetype": "notable",
+            "date": "698 AC",
+            "description": "698 AC: Pramayana falls at last, but Rajah Narenda realizes he cannot hope to conquer all of Jalawar. He strikes westward instead of south, taking Sindri and Khamrati and the rest of Jhengal."
+        },
+        {
+            "timetype": "notable",
+            "date": "700 AC",
+            "description": "700 AC: Warfare intensifies between Alphatian and Thyatian colonies in Ylarum. Gregus Verdier is assassinated. Doriath, a former adventurer, assumes the throne of Alfheim. The Erewan faction of Erendyl clan leaves Alfheim for Glantri. Rajah Narenda establishes Gola Keep to encourage desert trading caravans to enter the Asanda Plain via Jhengal. His generous trade agreements with Slagovich bring fabulous trade and wealth to Jhengal. The Rajah also marries his first wife, Drisana, who bears him a son the next year."
+        },
+        {
+            "timetype": "notable",
+            "date": "703 AC",
+            "description": "703 AC: Rajah Narenda's forces conquer Baratpur, bringing Baratkand under Sindrastani control. The rajah assumes the title Rajadhiraja, allows the former rajah of Baratkand to retain his title and some governmental privileges, and places Rajah Javis Nandin on the throne of Jhengal."
+        },
+        {
+            "timetype": "notable",
+            "date": "704 AC",
+            "description": "704 AC: Still resistant to being conquered by force, both Putnabad and Jalawar agree to unite with Sindrastan (and pay annual taxes and tribute to Rajadhiraja Narenda ul Nervi) in return for sharing the benefits of trade with Slagovich. The ruling Jadugeryas of Jaibul reach an agreement with the rajadhiraja, allowing them independence in return for promises not to interfere with Sindhi affairs, and to allow caravans traveling through the Barren Plain to pass through Jaibul to Putnabad."
+        },
+        {
+            "timetype": "notable",
+            "date": "705 AC",
+            "description": "705 AC: The Rajadhiraja turns his attention northward, his eyes on the fertile lands of Nagpuri. Within six months, the rajah of Nagpuri swears fealty to Rajadhiraja Narenda ul Nervi. The deal is sealed with the marriage between the Rajadhiraja and Kumuda, the rajah's daughter."
+        },
+        {
+            "timetype": "notable",
+            "date": "706 AC",
+            "description": "706 - 713 AC: Bloody wars to control Kadesh and Gunjab nearly exhaust the Rajadhiraja's resources. In AC 712, Raneshwar falls to Narenda's troops. The next year, Kadesh agrees to unite with lower Sind, provided the Rajah of Kadesh retains his rulership under the new title of Maharajah (Great Kind), just as the Rajah of Gunjab was allowed the year before. The Maharajah of Kadesh also betroths his infant daughter to the Rajadhiraja's twelve-year-old son."
+        },
+        {
+            "timetype": "notable",
+            "date": "713 AC",
+            "description": "713 AC: The Ierendi Navy destroys a Thyatian naval patrol. The Royal Navy achieves instant preeminence among the powers of the Known World."
+        },
+        {
+            "timetype": "notable",
+            "date": "714 AC",
+            "description": "714 AC: Rajadhiraja Narenda ul Nervi announces the total unification of the Kingdom of Sind with the treaty reached between Sindrastan and Peshmir. Rajah Ravi Prabhapravitha of Peshmir assumes the title of Maharajah. Mandara, the maharajah's eldest daughter, becomes the Rajadhiraja's third wife."
+        },
+        {
+            "timetype": "notable",
+            "date": "717 AC",
+            "description": "717 AC: The Rajadhiraja charges Jahore and its ruling families with the task of building a Sindhi Navy. The first problem is to find suitable timber; most bust be imported from eastern lands."
+        },
+        {
+            "timetype": "notable",
+            "date": "722 AC",
+            "description": "722 AC: In Graakhalia, a rebellion by some of the Sylvan Lands immigrants is quickly put down, and the leaders executed."
+        },
+        {
+            "timetype": "notable",
+            "date": "723 AC",
+            "description": "723 AC: Santhral II dies, ending the reign of the Darokin Kings. The nation breaks down into independent dominions ruled by whoever can afford to pay troops to keep the roads passable."
+        },
+        {
+            "timetype": "notable",
+            "date": "726 AC",
+            "description": "726 AC: The newly-completed Sindhi navy of four merchant vessels and a war galley mysteriously sinks in Jaibul's outer harbor shortly after returning from their maiden voyage to Tanakumba. The rajah of Putnabad suspects sabotage on the part of foreign merchants jealous of their own lucrative positions as middlemen in the trade between the eastern and western lands."
+        },
+        {
+            "timetype": "notable",
+            "date": "728 AC",
+            "description": "728 AC: The Alphatian colonies in Ylarum destroy the Thyatian colonies there; Thyatian colonists flee. The d'Ambrevilles and their vassals arrive from Old Averoigne in another dimension, establishing a French-like culture in the wooded valleys of northwestern Glantri."
+        },
+        {
+            "timetype": "notable",
+            "date": "730 AC",
+            "description": "730 AC: Settlers come to Glantri, including fair elves (descendants of the elves who fled the area in 1700 BC) and humans from Traladara and Thyatian colonies in Ylarum. Frictions begin between the Flaems and settlers."
+        },
+        {
+            "timetype": "notable",
+            "date": "957 AC",
+            "description": "957 AC: The first arquebus is constructed in Nueva Esperanza; a function for /smoke powder/ has been found, but it is rarely used because of the dangers. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "958 AC",
+            "description": "958 AC: Texeiras conquers the Barony of Marino and the Dominion of Tanaka. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "959 AC",
+            "description": "959 AC: Alphatia begins another direct war upon Thyatis. "
+        },
+        {
+            "timetype": "notable",
+            "date": "960 AC",
+            "description": "960 AC: The Alphatian assault forces reach Thyatis City and kill the Thyatian emperor, but are repelled by a counterattack led by Thincol the Brave, a famous gladiator."
+        },
+        {
+            "timetype": "notable",
+            "date": "962 AC",
+            "description": "962 AC: The Barony of Los Elegidos is founded north of Torreon, Alcazar, and Cristobal. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "963 AC",
+            "description": "963 AC: The Azcans discover the Stonecarvers at Colima, and send a small troop to wipe them out. The Colimans prevail, however, and maintain their way of life. Yazi gnolls attack Saragon and Aranjuez. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "965 AC",
+            "description": "965 AC: Kitrina Meditor, ruling guildmaster of Minrothad, is assassinated. The council of guild Leaders acts as regent until Oran Meditor comes of age. Prince Haldemar of Haaken begins his voyage on the Princess Ark, discovering the southern polar opening into the Hollow World and the invisible moon, Myoshima."
+        },
+        {
+            "timetype": "notable",
+            "date": "966 AC",
+            "description": "966 AC: Montejo and Aranjuez unite diplomatically to form the Barony of Saragon. (RS) "
+        },
+        {
+            "timetype": "notable",
+            "date": "967 AC",
+            "description": "967 AC: The Barony of Morales is founded just north of Torreon, between Cristobal and Alcazar. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "968 AC",
+            "description": "968 AC: Torreon wars on its neighbors, conquering and absorbing Morales and Alcazar; Cristobal and Elegidos are weakened but do not fall. Elite Torreoner warriors use swords of /red steel/, the first recorded instance of that metal's use in a large battle. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "969 AC",
+            "description": "969 AC: Torreon discovers deposits of /cinnabryl/ in Terra Vermelha, and moves to take over those lands; to forestall a possible war over mining rights, diplomats gather and form the Treaty of Tampicos, which is signed by Torreon, Vilaverde, Texeiras, and Hule. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "970 AC",
+            "description": "970 AC: Duke Stefan Karameikos III trades his ancestral lands (the Duchy of Machetos) to Emperor Thincol for independent rulership of Traladara, which is renamed the Grand Duchy of Karameikos. Duke Stefan sails to and takes possession of his duchy, then begins parceling out land and titles to his Thyatian followers. He begins building roads across the Duchy and a strong military to protect it. Elegidos disappears without a trace. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "971 AC",
+            "description": "971 AC: Corwyn Hoff named Chancellor of Darokin after the resignation of Kalimi. Babosas is conquered and absorbed by Hule. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "972 AC",
+            "description": "972 AC: Moctitlapac is installed as Tlatoani - Emperor of the Azcans."
+        },
+        {
+            "timetype": "notable",
+            "date": "975 AC",
+            "description": "975 AC: Rypien Hallonica names Chancellor of Darokin after the death of Hoff. King Thar unites Broken Lands, threatening Darokin commerce. Enforces Tharian Code of Conduct. The Legion is created. Thyatis frowns at the military threat. The wheel-lock pistols is developed in Nueva Esperanza. Certain leaders, including a warrior named Cimmaron, encourage the secret production of the weapon. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "977 AC",
+            "description": "977 AC: Almarron conquers and absorbs Escudor, then turns north and initiates hostilities with Gargon~a and Rivera. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "978 AC",
+            "description": "978 AC: To help defend itself from Almarron, Rivera agrees to be absorbed into Gargon~a. While Almarron is distracted, Nueva Esperanza begins hostilities; Cimmaron's pistoleers make quite an impression. (RS) The Heldannic explorers of the Hollow World become aware of the Oostdok dirigibles and decide that they would nicely complement their fleet of Warbirds."
+        },
+        {
+            "timetype": "notable",
+            "date": "979 AC",
+            "description": "979 AC: The d'Ambrevilles and their estate return to New Averoigne. Chateau d'Ambreville is destroyed, and the House of Sylaire erected in its place. Sire Malachie du Marais and Dame Genevieve de Sephora enter Glantri from Old Averoigne. An epidemic of wolf lycanthropy begins. Duke Stefan Karameikos marries Lady Olivia Prothemian. Devilfish resume their attacks on the Kingdom of Undersea. The revolution in Nueva Esperanza continues, led by General Cimmaron. Almarron and Gargon~a end hostilities, and both ratify the Treaty of Tampicos. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "980 AC",
+            "description": "980 AC: Lycanthropes are again discovered in Minrothad and in Undersea; fear spreads that more may have escaped the Silver Purge (443-445 AC). Devil swine and wererats seem particularly numerous. Weresharks reappear in Undersea. Lady Adriana Karameikos born. Armed with a wheel-lock pistol and a /red steel/ sword, General Cimmaron leads his forces to victory over troops from Almarron at the Battle of Hondo; his followers declare him Earl Cimmaron, and Nueva Esperanza becomes the center of the newly independent Cimmaron County. Dissatisfied with recent leadership, the people of Almarron revolt against their leader and overthrow him. Making use of old Traladaran philosophies, they establish a democracy. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "981 AC",
+            "description": "981 AC: Cristobal relinquishes claims on its holdings, except for one tower and a few square miles of land; the Lord of Torre Cristobal gives up the title Baron but maintains independence from other powers. (RS) "
+        },
+        {
+            "timetype": "notable",
+            "date": "982 AC",
+            "description": "982 AC: Sire Malachie du Marais wins control of the Barony of Morlay deep within the Valley of Wolves, in Glantri. Lord Justin Karameikos born."
+        },
+        {
+            "timetype": "notable",
+            "date": "984 AC",
+            "description": "984 AC: Saragon ratifies the Treaty of Tampicos. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "985 AC",
+            "description": "985 AC: Founding of the Canine Protection Society in Glantri. Copetez and Bigotillos unite through marriage; the lands are merged to form the State of Guadalante. Guadalante ratifies the Treaty of Tampicos. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "986 AC",
+            "description": "986 AC: Lord Valen Karameikos born. Don~a Esperanza comes to power in Gargon~a and leads her state into peace, beginning a policy of neutrality regarding all the other Savage baronies. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "988 AC",
+            "description": "988 AC: After Hallonica's death, the Merchant's Council names Corwyn Mauntea, great-grandson of Charles and Lydia, president of Darokin."
+        },
+        {
+            "timetype": "notable",
+            "date": "989 AC",
+            "description": "989 AC: Oran Meditor takes office as ruling guildmaster of Minrothad, instituting reforms. The Five Shires start clashing with the Black Eagle Barony."
+        },
+        {
+            "timetype": "notable",
+            "date": "990 AC",
+            "description": "990 AC: Cimmaron ratifies the Treaty of Tampicos."
+        },
+        {
+            "timetype": "notable",
+            "date": "991 AC",
+            "description": "991 AC: Oran Meditor rescinds the Isolation Act and opens Minrothad to outside contact."
+        },
+        {
+            "timetype": "notable",
+            "date": "992 AC",
+            "description": "992 AC: Rajadhiraja Kapil ul Nervi dies of injuries sustained while battling a blue dragon that had plagued Baratkand. A grandson, Chandra ul Nervi, becomes Rajadhiraja. The Treaty of Cortesillas, between Guadalante and Saragon, solves the question of watering rights for cattle between the two nations."
+        },
+        {
+            "timetype": "notable",
+            "date": "994 AC",
+            "description": "994 AC: Almarron faces a time of troubles. An opportunist seizes control of the state and declares himself dictator of the nation."
+        },
+        {
+            "timetype": "notable",
+            "date": "995 AC",
+            "description": "995 AC: First assassination attempt on Oran Meditor. Clan Kasan is behind the attempt and is removed from control of the water elf guild. Clan Elsan is promoted to replace Clan Kasan."
+        },
+        {
+            "timetype": "notable",
+            "date": "997 AC",
+            "description": "997 AC: /Cinnabryl/ is discovered in Slagovich; it is mined and traded to Torreon, Texeiras, and Cimmaron for /red steel/."
+        },
+        {
+            "timetype": "notable",
+            "date": "998 AC",
+            "description": "998 AC: Second assassination attempt on Oran Meditor. The assassin is believed to be a hired wizard from Glantri. Undead are reported in the waters to the south."
+        },
+        {
+            "timetype": "notable",
+            "date": "999 AC",
+            "description": "999 AC: The first vial of /crimson essence/ is produced by an alchemist in Saragon. The secret spreads to a group of adventurers, who become the first of the Inheritors. Some of the Inheritors rise to power in the Brotherhood of Order and the Friends of Freedom. To balance them, other Inheritors join the Neutral Alliance."
+        },
+        {
+            "timetype": "notable",
+            "date": "1000 AC",
+            "description": "1000 AC: Minrothad celebrates 150 years of nationhood. Oran Meditor makes public appearances to stop rumors of his continued ill health. In Glantri, the Brotherhood of Free Wolves is pressing hard for their own Principality under the leadership of Sire Malachie du Marais, Baron of Morlay. Werecreatures in the southern waters of Undersea grow in numbers and strength. Vestland is a modern nation and a strong, independent trading partner with the nations of Mystara. Ostland is a powerful, independent ally of Thyatis, aggressive and belligerent, barbaric in culture and religious practices. Soderfjord is a weak alliance of feuding minor jarls, victimized by giantish clans and Ostland pirates. Ylarum is under governance of sultans from Preceptors faction of Al-Kalim's descendants. Its culture and economy flourishes. Shark-kin take up arms against the land dwellers; devilfish increase their attacks on Undersea; the numbers of undead and werecreatures in the southern waters grows at an alarming rate. Everast XV is on the throne of Rockhome. Prince Haldemar of Alphatia foils a plot by the Rajah of Jaibul to add Putnabad to the Rajahstan of Jaibul. The Immortals begin a conflict that eventually begins to affect mortals throughout the world. Aegos becomes the site for an Alphatian project to dig a pit through Mystara's mantle into the Hollow World."
+        },
+        {
+            "timetype": "notable",
+            "date": "1001 AC",
+            "description": "1001 AC: Political lobbyists introduce a bill allowing the practice of clerical magic in Glantri under very strict conditions. Clerics must obtain a letter of sanction from the ruler of the dominion they wish to practice clerical magic, and the ruler has free rein over the terms of the sanction - fees imposed, types of magic allowed (healing only, etc.), expiration of the letter, and so forth. Clerics are still forbidden to preach their beliefs, regardless of any letters of sanction, and only Parliament of the Council of Princes may grant a letter of sanction to clerics operating within the free territories of Glantri. The Council of Princes is evenly split over the matter, and the measure goes to the House of Lords at Parliament. Sire Malachie du Marais votes against it, but the measure passes. The White Wolf prepares for an infestation of lycanthropy-fighting clerics. The Inheritors face internal conflicts and reorganize the aligned societies (the Brotherhood of Order, the Neutral Alliance, and the Friends of Freedom) into the three Orders of the Inheritors (the Order of the Ruby, the Order of Crimson, and the Order of the Flame)."
+        },
+        {
+            "timetype": "notable",
+            "date": "1002 AC",
+            "description": "1002 AC: Sire Malachie learns of an enormous silver deposit in the bedrock beneath le Chateau de Malinbois. This is a serious obstacle to his plans to control Malinbois."
+        },
+        {
+            "timetype": "notable",
+            "date": "1003 AC",
+            "description": "1003 AC: The Council of Princes approves and Act of Enfiefment in the economically depressed area of Bramyra, ending years of chaotic contests for control of the area."
+        },
+        {
+            "timetype": "notable",
+            "date": "1004 AC",
+            "description": "1004 AC: A gold strike in les Montagnes Noires leads to a rapid influx of population with the Valley of Wolves in Glantri. Sire Malachie must contend with the fact that the majority of the newcomers are unwanted - they put a great strain on the taxed natural resources of the valley, strip the mountains of precious minerals Sire Malachie hoped to control for himself, and clash with the resident populations (both werewolves and non-lycanthropes). The Council of Princes approves an Act of Enfiefment in the area of Fort Sablestone. Sire Malachie attempts to capitalize on the Council of Prince's current willingness to create new Principalities. The White Wolf is also amused at this - if the Council grants an Act of Enfiefment in the Valley of Wolves, it will become the thirteenth Principality. Spring: Thyatis city suffers an enormous riot by the poorer citizens, who have seen a steady decline in the quality and quantity of free bread passed out by the officials. This has little effect on anyone not in - or under - Thyatis city. The wererats of Thyatis participate in the riot, as they depend on the free bread almost as much as Thyatis' poor do. Spring: Both Alphatia's mages and Thyatis's military forces become more pushy and uptight than usual. Spring: An Alphatian elf, Troikithus, uncovers evidence of the Brotherhood of the Radiance, and reports it to Empress Eriadna. A week later, his body is found floating in one of Glantri City's canals. Summer: Relations between Glantri and the Empire of Alphatia become strained, as the Alphatian Council of Wizards accuses the Glantrian Great School of Magic of harboring followers of the Entropic Immortals and using forbidden, evil magics. Spies and counter-spies make matters worse. Prince Etienne d'Ambreville is swept up in the politics and espionage between the two magocracies. Summer: Clerical missionaries of the Immortal Vanya from the Heldann Territories are slaughtered while traveling through the Ethengar Khanates. Fall: Several Glantrian nobles having dinner together are assassinated by a bombardment of lightning bolts, fire balls, and other powerful magics. The sole survivor, Prince Innocenti di Malapietra, testifies the killers were wearing Alphatian clothing. Fall: Thyatis reinforces Glantri's demand to surrender the assassins, to everyone's surprise. Fall: Without benefit of a declaration of war, the Heldannic Knights send several punitive raids into Ethengar, launching deadly lance-cavalry attacks against Ethengarian encampments and slaughtering every last man, woman, and child encountered. Fall: Humanoids from the Black Mountains invade Graakhalia in force. The Master's spies learned of the routes through Graakhalia to tunnels beneath Sind; his agents made sure the humanoids heard there was rich plunder to be had beneath the Plain of Fire. The Graakhalians fight fiercely, then desperately, as band after band of orcs, goblins, bugbears, hobgoblins, and other humanoids press deeper into Graakhalia's labyrinths. Fall: A band of Glantrians are sentenced to death for the arson of dozens of temples of the Immortal Asterius. Winter: Glantrian adventurers escaping from Alphatia start a fire in Aasla as a distraction, which grows into a firestorm and devastates the city. Winter: Humanoids secure Graahkalia's upper levels against the elves and gnolls, paving the way for the Master of Hule's plot to seize Sind. Hulean agents struggle to consolidate the bickering humanoids into an army that can hold Graakhalia while the Master moves additional forces into place. Winter: Kiritan ul Nervi, egged on by Hulean agents, stages a coup against his brother, Rajadhiraja Chandra ul Nervi. The counter-uprising of Sind's people is met by thousands of humanoids and brigands appearing out of the earth itself to fight on the side of the new Rajadhiraja. More humanoids pour into Sind from the Plain of Fire, reinforced by Urduk nomads and a tribe of ogres from the Sind Desert. The civil war sets rajah against rajah as factions fight for control. Kiritan's forces quickly gain control of Sayr Ulan. Many loyalist Sindhis die protecting their ruler from assassins, and the Rajadhiraja flees to Ulimwengu."
+        },
+        {
+            "timetype": "notable",
+            "date": "957 AC",
+            "description": "957 AC: The first arquebus is constructed in Nueva Esperanza; a function for /smoke powder/ has been found, but it is rarely used because of the dangers."
+        },
+        {
+            "timetype": "notable",
+            "date": "958 AC",
+            "description": "958 AC: Texeiras conquers the Barony of Marino and the Dominion of Tanaka. (RS)"
+        },
+        {
+            "timetype": "notable",
+            "date": "959 AC",
+            "description": "959 AC: Alphatia begins another direct war upon Thyatis."
+        },
+        {
+            "timetype": "notable",
+            "date": "960 AC",
+            "description": "960 AC: The Alphatian assault forces reach Thyatis City and kill the Thyatian emperor, but are repelled by a counterattack led by Thincol the Brave, a famous gladiator."
+        },
+        {
+            "timetype": "notable",
+            "date": "962 AC",
+            "description": "962 AC: The Barony of Los Elegidos is founded north of Torreon, Alcazar, and Cristobal."
+        },
+        {
+            "timetype": "notable",
+            "date": "963 AC",
+            "description": "963 AC: The Azcans discover the Stonecarvers at Colima, and send a small troop to wipe them out. The Colimans prevail, however, and maintain their way of life. Yazi gnolls attack Saragon and Aranjuez."
+        },
+        {
+            "timetype": "notable",
+            "date": "965 AC",
+            "description": "965 AC: Kitrina Meditor, ruling guildmaster of Minrothad, is assassinated. The council of guild Leaders acts as regent until Oran Meditor comes of age. Prince Haldemar of Haaken begins his voyage on the Princess Ark, discovering the southern polar opening into the Hollow World and the invisible moon, Myoshima."
+        },
+        {
+            "timetype": "notable",
+            "date": "966 AC",
+            "description": "966 AC: Montejo and Aranjuez unite diplomatically to form the Barony of Saragon."
+        },
+        {
+            "timetype": "notable",
+            "date": "967 AC",
+            "description": "967 AC: The Barony of Morales is founded just north of Torreon, between Cristobal and Alcazar."
+        },
+        {
+            "timetype": "notable",
+            "date": "968 AC",
+            "description": "968 AC: Torreon wars on its neighbors, conquering and absorbing Morales and Alcazar; Cristobal and Elegidos are weakened but do not fall. Elite Torreoner warriors use swords of /red steel/, the first recorded instance of that metal's use in a large battle."
+        },
+        {
+            "timetype": "notable",
+            "date": "969 AC",
+            "description": "969 AC: Torreon discovers deposits of /cinnabryl/ in Terra Vermelha, and moves to take over those lands; to forestall a possible war over mining rights, diplomats gather and form the Treaty of Tampicos, which is signed by Torreon, Vilaverde, Texeiras, and Hule."
+        },
+        {
+            "timetype": "notable",
+            "date": "970 AC",
+            "description": "970 AC: Duke Stefan Karameikos III trades his ancestral lands (the Duchy of Machetos) to Emperor Thincol for independent rulership of Traladara, which is renamed the Grand Duchy of Karameikos. Duke Stefan sails to and takes possession of his duchy, then begins parceling out land and titles to his Thyatian followers. He begins building roads across the Duchy and a strong military to protect it. Elegidos disappears without a trace."
+        },
+        {
+            "timetype": "notable",
+            "date": "971 AC",
+            "description": "971 AC: Corwyn Hoff named Chancellor of Darokin after the resignation of Kalimi. Babosas is conquered and absorbed by Hule."
+        },
+        {
+            "timetype": "notable",
+            "date": "972 AC",
+            "description": "972 AC: Moctitlapac is installed as Tlatoani - Emperor of the Azcans"
+        },
+        {
+            "timetype": "notable",
+            "date": "975 AC",
+            "description": "975 AC: Rypien Hallonica names Chancellor of Darokin after the death of Hoff. King Thar unites Broken Lands, threatening Darokin commerce. Enforces Tharian Code of Conduct. The Legion is created. Thyatis frowns at the military threat. The wheel-lock pistols is developed in Nueva Esperanza. Certain leaders, including a warrior named Cimmaron, encourage the secret production of the weapon."
+        },
+        {
+            "timetype": "notable",
+            "date": "977 AC",
+            "description": "977 AC: Almarron conquers and absorbs Escudor, then turns north and initiates hostilities with Gargon~a and Rivera."
+        },
+        {
+            "timetype": "notable",
+            "date": "978 AC",
+            "description": "978 AC: To help defend itself from Almarron, Rivera agrees to be absorbed into Gargon~a. While Almarron is distracted, Nueva Esperanza begins hostilities; Cimmaron's pistoleers make quite an impression. (RS) The Heldannic explorers of the Hollow World become aware of the Oostdok dirigibles and decide that they would nicely complement their fleet of Warbirds."
+        },
+        {
+            "timetype": "notable",
+            "date": "979 AC",
+            "description": "979 AC: The d'Ambrevilles and their estate return to New Averoigne. Chateau d'Ambreville is destroyed, and the House of Sylaire erected in its place. Sire Malachie du Marais and Dame Genevieve de Sephora enter Glantri from Old Averoigne. An epidemic of wolf lycanthropy begins. Duke Stefan Karameikos marries Lady Olivia Prothemian. Devilfish resume their attacks on the Kingdom of Undersea. The revolution in Nueva Esperanza continues, led by General Cimmaron. Almarron and Gargon~a end hostilities, and both ratify the Treaty of Tampicos."
+        },
+        {
+            "timetype": "notable",
+            "date": "980 AC",
+            "description": "980 AC: Lycanthropes are again discovered in Minrothad and in Undersea; fear spreads that more may have escaped the Silver Purge (443-445 AC). Devil swine and wererats seem particularly numerous. Weresharks reappear in Undersea. Lady Adriana Karameikos born. Armed with a wheel-lock pistol and a /red steel/ sword, General Cimmaron leads his forces to victory over troops from Almarron at the Battle of Hondo; his followers declare him Earl Cimmaron, and Nueva Esperanza becomes the center of the newly independent Cimmaron County. Dissatisfied with recent leadership, the people of Almarron revolt against their leader and overthrow him. Making use of old Traladaran philosophies, they establish a democracy."
+        },
+        {
+            "timetype": "notable",
+            "date": "981 AC",
+            "description": "981 AC: Cristobal relinquishes claims on its holdings, except for one tower and a few square miles of land; the Lord of Torre Cristobal gives up the title Baron but maintains independence from other powers."
+        },
+        {
+            "timetype": "notable",
+            "date": "982 AC",
+            "description": "982 AC: Sire Malachie du Marais wins control of the Barony of Morlay deep within the Valley of Wolves, in Glantri. Lord Justin Karameikos born."
+        },
+        {
+            "timetype": "notable",
+            "date": "984 AC",
+            "description": "984 AC: Saragon ratifies the Treaty of Tampicos."
+        },
+        {
+            "timetype": "notable",
+            "date": "985 AC",
+            "description": "985 AC: Founding of the Canine Protection Society in Glantri. Copetez and Bigotillos unite through marriage; the lands are merged to form the State of Guadalante. Guadalante ratifies the Treaty of Tampicos."
+        },
+        {
+            "timetype": "notable",
+            "date": "986 AC",
+            "description": "986 AC: Lord Valen Karameikos born. Don~a Esperanza comes to power in Gargon~a and leads her state into peace, beginning a policy of neutrality regarding all the other Savage baronies."
+        },
+        {
+            "timetype": "notable",
+            "date": "988 AC",
+            "description": "988 AC: After Hallonica's death, the Merchant's Council names Corwyn Mauntea, great-grandson of Charles and Lydia, president of Darokin."
+        },
+        {
+            "timetype": "notable",
+            "date": "989 AC",
+            "description": "989 AC: Oran Meditor takes office as ruling guildmaster of Minrothad, instituting reforms. The Five Shires start clashing with the Black Eagle Barony."
+        },
+        {
+            "timetype": "notable",
+            "date": "990 AC",
+            "description": "990 AC: Cimmaron ratifies the Treaty of Tampicos."
+        },
+        {
+            "timetype": "notable",
+            "date": "991 AC",
+            "description": "991 AC: Oran Meditor rescinds the Isolation Act and opens Minrothad to outside contact."
+        },
+        {
+            "timetype": "notable",
+            "date": "992 AC",
+            "description": "992 AC: Rajadhiraja Kapil ul Nervi dies of injuries sustained while battling a blue dragon that had plagued Baratkand. A grandson, Chandra ul Nervi, becomes Rajadhiraja. The Treaty of Cortesillas, between Guadalante and Saragon, solves the question of watering rights for cattle between the two nations"
+        },
+        {
+            "timetype": "notable",
+            "date": "994 AC",
+            "description": "994 AC: Almarron faces a time of troubles. An opportunist seizes control of the state and declares himself dictator of the nation."
+        },
+        {
+            "timetype": "notable",
+            "date": "995 AC",
+            "description": "995 AC: First assassination attempt on Oran Meditor. Clan Kasan is behind the attempt and is removed from control of the water elf guild. Clan Elsan is promoted to replace Clan Kasan."
+        },
+        {
+            "timetype": "notable",
+            "date": "997 AC",
+            "description": "997 AC: /Cinnabryl/ is discovered in Slagovich; it is mined and traded to Torreon, Texeiras, and Cimmaron for /red steel/."
+        },
+        {
+            "timetype": "notable",
+            "date": "998 AC",
+            "description": "998 AC: Second assassination attempt on Oran Meditor. The assassin is believed to be a hired wizard from Glantri. Undead are reported in the waters to the south."
+        },
+        {
+            "timetype": "notable",
+            "date": "999 AC",
+            "description": "999 AC: The first vial of /crimson essence/ is produced by an alchemist in Saragon. The secret spreads to a group of adventurers, who become the first of the Inheritors. Some of the Inheritors rise to power in the Brotherhood of Order and the Friends of Freedom. To balance them, other Inheritors join the Neutral Alliance."
+        },
+        {
+            "timetype": "notable",
+            "date": "1000 AC",
+            "description": "1000 AC: Minrothad celebrates 150 years of nationhood. Oran Meditor makes public appearances to stop rumors of his continued ill health. In Glantri, the Brotherhood of Free Wolves is pressing hard for their own Principality under the leadership of Sire Malachie du Marais, Baron of Morlay. Werecreatures in the southern waters of Undersea grow in numbers and strength. Vestland is a modern nation and a strong, independent trading partner with the nations of Mystara. Ostland is a powerful, independent ally of Thyatis, aggressive and belligerent, barbaric in culture and religious practices. Soderfjord is a weak alliance of feuding minor jarls, victimized by giantish clans and Ostland pirates. Ylarum is under governance of sultans from Preceptors faction of Al-Kalim's descendants. Its culture and economy flourishes. Shark-kin take up arms against the land dwellers; devilfish increase their attacks on Undersea; the numbers of undead and werecreatures in the southern waters grows at an alarming rate. Everast XV is on the throne of Rockhome. Prince Haldemar of Alphatia foils a plot by the Rajah of Jaibul to add Putnabad to the Rajahstan of Jaibul. The Immortals begin a conflict that eventually begins to affect mortals throughout the world. Aegos becomes the site for an Alphatian project to dig a pit through Mystara's mantle into the Hollow World."
+        },
+        {
+            "timetype": "notable",
+            "date": "1001 AC",
+            "description": "1001 AC: Political lobbyists introduce a bill allowing the practice of clerical magic in Glantri under very strict conditions. Clerics must obtain a letter of sanction from the ruler of the dominion they wish to practice clerical magic, and the ruler has free rein over the terms of the sanction - fees imposed, types of magic allowed (healing only, etc.), expiration of the letter, and so forth. Clerics are still forbidden to preach their beliefs, regardless of any letters of sanction, and only Parliament of the Council of Princes may grant a letter of sanction to clerics operating within the free territories of Glantri. The Council of Princes is evenly split over the matter, and the measure goes to the House of Lords at Parliament. Sire Malachie du Marais votes against it, but the measure passes. The White Wolf prepares for an infestation of lycanthropy-fighting clerics. The Inheritors face internal conflicts and reorganize the aligned societies (the Brotherhood of Order, the Neutral Alliance, and the Friends of Freedom) into the three Orders of the Inheritors (the Order of the Ruby, the Order of Crimson, and the Order of the Flame)."
+        },
+        {
+            "timetype": "notable",
+            "date": "1002 AC",
+            "description": "1002 AC: Sire Malachie learns of an enormous silver deposit in the bedrock beneath le Chateau de Malinbois. This is a serious obstacle to his plans to control Malinbois."
+        },
+        {
+            "timetype": "notable",
+            "date": "1003 AC",
+            "description": "1003 AC: The Council of Princes approves and Act of Enfiefment in the economically depressed area of Bramyra, ending years of chaotic contests for control of the area."
+        },
+        {
+            "timetype": "notable",
+            "date": "1004 AC",
+            "description": "1004 AC: A gold strike in les Montagnes Noires leads to a rapid influx of population with the Valley of Wolves in Glantri. Sire Malachie must contend with the fact that the majority of the newcomers are unwanted - they put a great strain on the taxed natural resources of the valley, strip the mountains of precious minerals Sire Malachie hoped to control for himself, and clash with the resident populations (both werewolves and non-lycanthropes). The Council of Princes approves an Act of Enfiefment in the area of Fort Sablestone. Sire Malachie attempts to capitalize on the Council of Prince's current willingness to create new Principalities. The White Wolf is also amused at this - if the Council grants an Act of Enfiefment in the Valley of Wolves, it will become the thirteenth Principality. Spring: Thyatis city suffers an enormous riot by the poorer citizens, who have seen a steady decline in the quality and quantity of free bread passed out by the officials. This has little effect on anyone not in - or under - Thyatis city. The wererats of Thyatis participate in the riot, as they depend on the free bread almost as much as Thyatis' poor do. Spring: Both Alphatia's mages and Thyatis's military forces become more pushy and uptight than usual. Spring: An Alphatian elf, Troikithus, uncovers evidence of the Brotherhood of the Radiance, and reports it to Empress Eriadna. A week later, his body is found floating in one of Glantri City's canals. Summer: Relations between Glantri and the Empire of Alphatia become strained, as the Alphatian Council of Wizards accuses the Glantrian Great School of Magic of harboring followers of the Entropic Immortals and using forbidden, evil magics. Spies and counter-spies make matters worse. Prince Etienne d'Ambreville is swept up in the politics and espionage between the two magocracies. Summer: Clerical missionaries of the Immortal Vanya from the Heldann Territories are slaughtered while traveling through the Ethengar Khanates. Fall: Several Glantrian nobles having dinner together are assassinated by a bombardment of lightning bolts, fire balls, and other powerful magics. The sole survivor, Prince Innocenti di Malapietra, testifies the killers were wearing Alphatian clothing. Fall: Thyatis reinforces Glantri's demand to surrender the assassins, to everyone's surprise. Fall: Without benefit of a declaration of war, the Heldannic Knights send several punitive raids into Ethengar, launching deadly lance-cavalry attacks against Ethengarian encampments and slaughtering every last man, woman, and child encountered. Fall: Humanoids from the Black Mountains invade Graakhalia in force. The Master's spies learned of the routes through Graakhalia to tunnels beneath Sind; his agents made sure the humanoids heard there was rich plunder to be had beneath the Plain of Fire. The Graakhalians fight fiercely, then desperately, as band after band of orcs, goblins, bugbears, hobgoblins, and other humanoids press deeper into Graakhalia's labyrinths. Fall: A band of Glantrians are sentenced to death for the arson of dozens of temples of the Immortal Asterius. Winter: Glantrian adventurers escaping from Alphatia start a fire in Aasla as a distraction, which grows into a firestorm and devastates the city. Winter: Humanoids secure Graahkalia's upper levels against the elves and gnolls, paving the way for the Master of Hule's plot to seize Sind. Hulean agents struggle to consolidate the bickering humanoids into an army that can hold Graakhalia while the Master moves additional forces into place. Winter: Kiritan ul Nervi, egged on by Hulean agents, stages a coup against his brother, Rajadhiraja Chandra ul Nervi. The counter-uprising of Sind's people is met by thousands of humanoids and brigands appearing out of the earth itself to fight on the side of the new Rajadhiraja. More humanoids pour into Sind from the Plain of Fire, reinforced by Urduk nomads and a tribe of ogres from the Sind Desert. The civil war sets rajah against rajah as factions fight for control. Kiritan's forces quickly gain control of Sayr Ulan. Many loyalist Sindhis die protecting their ruler from assassins, and the Rajadhiraja flees to Ulimwengu."
+        },
+        {
+            "timetype": "notable",
+            "date": "1005 AC",
+            "description": "1005 AC: The Council of Princes in Glantri approves an Act of Enfiefment for la Vallee des Loups in Favor of Sire Malachie du Marais. Prompted by attacks from Bellayne, the goblinoids of the Yazak steppes begin unifying. Robrenn attacks and irritates the Yazi goblinoids. (RS) An internal holy war begins in Narvaez. The church of Narvaez unifies the factions by providing an external enemy: the other Savage Baronies. Narvaez carries its Inquisition to the other Baronies. (RS) Spring: Empress Eriadna of Alphatia issues a proclamation of war against Glantri. In return, Glantri, backed by the Empire of Thyatis and the Heldann Freeholds, declares war on Alphatia. Spring: Rajadhiraja Kiritan ul Nervi consolidates his position as Sind's new ruler. He seems blind to the fact that he's merely a puppet, and that the Master of Hule pulls his strings. Many rajahs accept the situation, seeing opportunities to increase their own power. Only Rani Drisana of Jalawar, Rajah Mohan of Baratkand, and Maharajah Kami of Peshmir refuse to recognize Kiritan's claim to the crown. Summer: Alphatia start building up its forces in preparation for eliminating the Empire of Thyatis as an obstacle to invading Glantri. Summer: The three rajahs of Sind who refuse to acknowledge Kiritan as Rajadhiraja attempt to overthrow the usurper. Their efforts are hampered by the fact that their mumlykets are separated by mumlykets whose rulers have sworn obedience to Kiritan. Opposed from without by Kiritan's Hule-backed forces and from within by spies and stooges, the attempted coup fails miserably. Maharajah Kabir Rudraksha of Kadesh seizes the opportunity to invade Peshmir, taking 87-year-old Maharajah Kami prisoner and setting his son Hara up as Peshmir's new Maharajah. Summer: Alphatian wizards travel secretly to Glantri, and set loose hordes of monsters - many from other planes. Many of these monsters spill over the borders into Sind. Some join the Master's forces; others simply roam about looking for trouble. Fall: In Jalawar, Inay Paramesh, a distant relative of the Madhars overthrows Rani Drisana Madhar. Without the help of Kiritan's elite guard, Inay could not have hoped to succeed. Vijay Niranjan, the rani's half-brother, falls in the fighting, as does Rohit, her first husband. Drisana escapes with her husband Bhagwandas. The two flee to Ulimwengu in search of Rajadhiraja Chandra ul Nervi. Fall: The Alphatians on the Isle of Dawn assault the Fortress of Kendach and the Hold of Fenswatch. After a few weeks, West Portage is taken. Winter: On the trail of rajadhiraja Chandra ul Nervi, Drisana Madhar reaches Ulimwengu. She learns that he passed through Karimari territory on his way to seek help from Yavdlom, then traveled back through hoping to drum up support among the Urduk nomads who did not join the Master's forces. Drisana stays in Ulimwengu, hoping to convince the Karimari to supply warriors, elephants, and triceratops in the event Chandra ul Nervi can form an army to regain his throne. Winter: His power over Sind now relatively secure, the Master convinces Kiritan to invade Darokin. The combined forces of Sind's armies and the Desert Nomads overwhelm Darokin's defenses and drive the Republic's armies before them. Akesoli falls within weeks, and the armies soon reach the city of Darokin itself. A substantial number of weretypes live secretly in Darokin - merchants and adventurers who contracted lycanthropy while abroad."
+        },
+        {
+            "timetype": "notable",
+            "date": "1006 AC",
+            "description": "1006 AC: Torreon, Vilaverde, and Texeiras ally with Narvaez, rather than fight that state. The other five baronies (Guadalante, Cimmaron, Almarron, Saragon, and Gargon~a) ally to fight against the Narvaez alliance. Gauchos and Swashbuckler freedom fighters prove effective against the naval power and mercenaries of the Narvaez alliance. (RS) Hule attacks the Savage Baronies. The baronies end their conflict to unite against Hule. (RS) Spring: Glantrian wizard-adventurers travel to Alphatia and harass the nobles there - fire-bombings, hit-and-runs, and the like. Spring: Duke Stefan declares Karameikos independent from Thyatis, now the Kingdom of Karameikos. Spring: Chandra ul Nervi hastily pulls together his own army of Urduk nomads, mercenaries, brigands, and outlaws from the Barren Plains and the Sind Desert to retake Sind while its fighting forces are occupied in Darokin. His ragtag army includes nearly 100 Karimari warriors with their /moto moto rods/ and mounted on elephants and triceratops, a number of Yavdlom warriors disgusted at their nation's policy of non-interference with destiny, and loyal Sindhis who fled their homes when the civil war broke out. Panicking, Kiritan withdraws his armies from Darokin to meet his brother's threat. Spring: The forces of Karameikos (including some werecreatures, although they try to keep that secret), Alfheim and the Five Shires march to the defense of the city of Darokin. They lift the siege, and over the next few weeks slowly drive back the Desert Nomads. The Master's forces, weakened by their sudden loss of manpower, begin to lose the ground they had gained in Darokin. Summer: As the eastern armies drive the Desert Nomads from Darokin, Kiritan's armies barely manage to hold off Chandra ul Nervi's irregular troops. Disgusted with this turn of events, the Master diverts his reserve forces to reinforce Kiritan's armies - rather than sending them to Darokin as he'd originally planned. The sudden influx of humanoids turns the tide against Chandra ul Nervi. His forces decimated and scattered, the rajadhiraja flees back through Ulimwengu. The Master relinquishes his hold on Darokin, but tightens his grip on Sind. Summer: Days after Chandra ul Nervi's defeat, a devastating meteor sent by the Master of Desert Nomads smashes through the skyshield and slams into the Darokin/Glantri border. The impact creates an enormous crater north of Lake Amsorak. It destroys a mountain range, and raises an impenetrable cloud above the two nations. The resulting earthquake knocks down buildings in Akesoli and devastates the village of Chandbali. The dust cloud rising from the impact is larger than some countries. It covers all of southern Glantri and northern Darokin and extends over northeastern Sind. For days it blocks the sun. When it finally settles, ash and dust cover everything, smothering plants and fouling drinking water. The harvest is ruined, and a winter famine threatens. Fall: The trees of the Canolbarth begin to darken, twist, and mutate, becoming increasingly inhospitable to the elves. Fall: The dwarves of Rockhome, dismayed at the events of the surface world, retreat into their subterranean communities. Fall: The Master of Hule decides that Chandra ul Nervi must be eliminated as a potential threat to the conquest of Sind. He sends ten divisions across the Great Waste to Ulimwengu, certain that 10,000 soldiers would be more than enough to overrun the primitive Karimari forces and drive the deposed ruler out of his hiding place. The few soldiers and humanoids who survive the resulting massacre bring word of Ulimwengu's magical defenses back to Hule. The Master is surprised to learn that the Karimari are far more than they appear. His magics penetrate the illusions that had kept the truth of Shani Kijiji and the Karimari from him. Fall: The Master's attack on Ulimwengu is enough to convince even the most progressive-thinking Karimari to close their borders once more. All refugees are politely asked to leave - immediately. Chandra ul Nervi and Drisana Madha seek shelter among the Yavdlom people. Winter: The Great Khan of Ethengar, whose people have suffered from several savage raids by the Heldannic Knights, invades the Heldann Territories. His forces march straight to the capital, Freiburg, and lay siege to it. Winter: On the Isle of Dawn, the Alphatian army attempts to secure the center of the island, turning its attention to Redstone Castle. Winter: Zealot followers of the Desert Garden philosophy of al-Kalim cross the Altan Tepes into northern Thyatis, and take Fort Nikos without a single loss of life on either side. The next day, they seize the town of Biazzan, also without a fight."
+        },
+        {
+            "timetype": "notable",
+            "date": "1007 AC",
+            "description": "1007 AC: Yazi gnolls attack the Savage Baronies, which have been severely weakened by previous conflicts. The Master of Hule sets a curse on his enemies, inflicting floods and other natural disasters on the Savage Baronies. (RS) Spring: The Heldannic Knights and Empire of Thyatis formally sign a treaty of alliance. Summer: King Thar of the Broken Lands leads his humanoid hordes in raids on southern Glantri, finally besieging Glantri City itself. Spring: Kiritan vows to root out the last of his brother's supporters and begins a systematic program of oppression. The Master of Hule and his agents are more than happy to assist. Spring: The Graakhalians stage a last-ditch effort to drive the humanoids from Graakhalia. They're soundly defeated. Nearly half their population has died fighting or of starvation (no time for harvests) since Graakhalia was invaded. The survivors retreat deep underground, into territory hitherto unexplored. Summer: On the Isle of Dawn, the Alphatians take Newkirk in a surprise attack. Within a couple of weeks, Redstone Castle's commanders surrender. Summer: Thousands of humanoids from the Broken Lands move into Glantri and Darokin; some enter northeastern Sind, adding to its misery. A few spill over into Graakhalia. Fall: The Ylari forces in Biazzan decide to withdraw. The entire force slips away before the Thyatians are aware, getting all their people and most of Biazzan's wealth across the mountains safely. Fall: Shadow Elves invade, conquer, and settle Alfheim, transmuting the forest and forcing the Alfheim elves to flee north to Wendar and south to Karameikos. Bands break away to brave the Desert Nomads in search of the long-lost Sheyallia elves. They find no sign of their brethren. Winter: Plague erupts in the Heldann Freeholds, starting in the city of Freiburg. Winter: An elf from Alfheim stumbles on a Sheyallia elf sheltering with a Sindhi family in Baratkand. The two gather together as many elves as they can and enter Graakhalia in search of the scattered Graakhalians. Winter: Ochalea and the Pearl Island capitalize on the war raging between Thyatis and Alphatia to declare their independence. Winter: The elves fleeing southward from Alfheim are trapped by a harsh winter in the icy foothills of the Cruth mountains."
+        },
+        {
+            "timetype": "notable",
+            "date": "1008 AC",
+            "description": "1008 AC: The Savage Baronies again enter into border conflicts. Tortles and other peasants revolt. In Almarron, rebels oust their dictator and install a Baron descended from their former noble rulers. The Colonial Revolt begins, and many colonies rebel against their parent states. Yazak goblinoids attack throughout the Savage Coast. (RS) Countless uprisings, civil unrest, riots, and assassination attempts disturb Kiritan ul Nervi's rule. The Master orders him to tighten his control of his nation or suffer the consequences. Spring: Helskir is overrun by Alphatians, who quickly sweep south and capture the northern 2/3 of the Isle of Dawn. Within a few days, Eruul Zaar is crowned king of Helskir by Empress Eriadna herself. Spring: Military forces from the Five Shires join the army of Darokin to help keep order there and defend Darokin from the humanoids occupying the Great Crater. Spring: The Alfheim elves reach Karameikos, and are ceded land in the east of that kingdom. Summer: Plague spreads throughout the north, reaching Glantri through Ethengar. With little clerical magic to combat it, Glantri's population is devastated. Lycanthropes seem just as susceptible as normal folk, and the Valley of Wolves loses many werewolves. Summer: The many clerics of Heldann are increasingly winning the war against the plague. Healthy combined forces from the Heldannic Knights and Ostland penetrate into the Ethengar Khanates and, at the community of Tromso, massacre some of the armies which attacked their territories. Summer: The Alphatian Naval Fleet sails around the northern end of the Isle of Dawn and engage the Thyatian fleet. Great harm is inflicted by both sides, and eventually the Alphatian navy retreats to the Isle of Dawn. Fall: Ethengarians attack Alfheim elves crossing their territory to reach Wendar in the north. Winter: Glantri is finally recovering from the plague, and are able to drive most of the humanoids out of Glantri into the Great Crater. Thar's hordes now decide to attack Darokin, but are driven back by the armies there. Winter: The Alphatian Navy makes landfall in Ylaruam, at the town of Cubia, two days sailing from the Thyatian border."
+        },
+        {
+            "timetype": "notable",
+            "date": "1009 AC",
+            "description": "1009 AC: Chandra ul Nervi, sick at heart at the abuses his brother has been heaping on the Sindhi people, surrenders himself to an agent of the Master of Hule. he agrees to return as Rajadhiraja - under Hule's control - in order to stop the worst abuses. The Master sees this as a way to quiet Sind's unrest and promptly replaces Kiritan with Chandra ul Nervi. Spring: The Heldannic Knights launch a force to come, somewhat belatedly, to Glantri's rescue. Knights make an epic ride through Rockhome, Ylaruam, and Darokin, joining the Darokin army in time to push Thar's forces down into the Crater. Spring: The Alphatian forces marching in by land slam into Fort Zendrol and capture it. For the first time in decades, Alphatian forces march across the border into mainland Thyatis. Summer: The Alphatian military machine rolls through the Thyatian duchy of Tel Akbir. Fall: The second group of Alfheim elves leaves the northern Glantrian mountains and enters the nation of Wendar. The Glantrian plague follows them there. Fall: Thyatis, hard-pressed by the Alphatian military juggernaut, sues Empress Eriadna for peace. Fall: A storm of tremendous force deluges the Alphatian city of Sundsvall with rain, hail, and lightning - and drains the world of magic. For an entire week, no magic works, either on Mystara or in the Hollow World. Lycanthropes can no longer transform and are stuck in whatever form they were in when the storm struck. When magic returns, so does lycanthropy and its effects. The storm and its after-effects were caused by an Immortal artifact, the Nucleus of the Spheres, the source of the radiance, a magical power unique to Glantri. Fall: Magic stops working, and Yazak goblinoids sack the capitol of Herath. Though magic is restored a few days later, the Red Curse has spread across the coast. Inheritors of the baronies begin introducing /cinnabryl/ throughout the coast, while taking control of most of the /cinnabryl/ mines as well. (RS) Winter: The Thousand Wizards of Alphatia teleport to the skies over Glantri City and begin a magical bombardment. The Nucleus of the Spheres is destroyed and Glantri is devastated. Immediately afterward, earthquakes rock Alphatia, and the continent sinks deep beneath the sea."
+        },
+        {
+            "timetype": "notable",
+            "date": "1010 AC",
+            "description": "1010 AC: The nations of the Known World begin the long, difficult process of rebuilding. In Glantri, the Principality of Fenswick is enfeoffed. Sind is still occupied by the Master's forces. Chandra ul Nervi is a virtual prisoner in his palace; the rajahs and maharajahs are no more than puppet rulers. The Master licks his wounds and launches more attacks against Darokin - from the sea. Three Alphatian mages posing as magical spirits invade the Atruaghin Plateau and subjugate the Clans. Dwarves stumble upon the city of Oenkmar. Unusual amounts of snow runoff from the mountains flood Graakhalia, Darokin, and the Five Shires. The shadow elves in Aengmor (former Alfheim) realize that without the Alfheim elves' maintenance spells, their forest will die. In desperation, they enlist the help of elves in Norwold in developing spells similar to those spells the Alfheim elves had used. Shadow Elves exploring the lower crust discover the Schattenalfen elves of the Hollow World and open diplomatic relations with their long-lost relatives. The Great Khan of Ethengar attacks the Heldannic Territories, hoping for a quick victory while the Heldannic forces are occupied with conquering Landfall and other matters. Months of besieging Grauenberg, skirmishing with Heldannic troops, and raiding Heldannic settlements result in very little gain for Moglai Khan. Changing tactics, he proposes peace with the Heldanners, and they become uneasy allies. Thyatis drives hard into the Alphatian regions of the Isle of Dawn, retaking all of the Isle except Helskir and Thothia. Thyatis also drives Ylaruam's small forces from its territory on Brun. Darokin, The Five Shires, Ylaruam, Rockhome, and Karameikos form the Western Defense League, each pledging to aid any of the League's members in time of war or disaster. Overcrowding among the Hollow World Jennites contributes to the rapid spread of a disease that the Jennite clerics cannot halt. A Nithian healer named Tibnuhati cures the plague before it devastates the Jennite herds, but there is no guarantee the plague will not strike again. The Malpheggi Lizard Men suffer an epidemic that reminds them of the Nithian disease that had once destroyed their people. The epidemic kills a thousand lizard men. Thaumont 25: The Immortals awake Alphatia in the Hollow World. Kaldmont: The Five Shires declare war on the Black Eagle Barony and march in to free its oppressed people."
+        },
+        {
+            "timetype": "notable",
+            "date": "1011 AC",
+            "description": "1011 AC: New Kolland becomes the first humanoid principality in Glantri. Thar allies himself with King Alebane of Ogremoor to invade Rockhome while the dwarves are caught in a civil war. The campaign is a disaster; in disgrace, Thar flees to the Makkres Mountains of Vestland. Thothia retaliates against Thyatis. Rallying the Alphatian Irregulars (divisions of the fragmented Alphatian military), Pharaoh Ramenhotep pushes the Thyatian armies out of Thothia, through Trikelios, and all the way to Ekto. The Floating continent of Alphatia manages to drive the Heldannic Knights from the Hollow World. Nuwmont: The Five Shires capture Ludwig von Hendriks, the Black Eagle Baron."
+        },
+        {
+            "timetype": "notable",
+            "date": "1012 AC",
+            "description": "1012 AC: Specularum, Karameikos is renamed to Mirros. Subtle events mold a darker, more sinister Glantri. The Great Waste is primarily home to creatures loyal to the Master of Hule and to people trying desperately to survive in spite of the invaders."
+        },
+        {
+            "timetype": "notable",
+            "date": "1020 AC",
+            "description": "1020 AC: Joint Darokinian and Thyatian operations to protect their interests. All-out war pits humans vs. orcs."
+        },
+        {
+            "timetype": "notable",
+            "date": "1050 AC",
+            "description": "1050 AC: Ylarum falls under the rule of Kin faction sultans. Its culture and economy flourishes, but its values decline, and there is a resurgence of traditional tribal enmities."
+        },
+        {
+            "timetype": "notable",
+            "date": "1150 AC",
+            "description": "1150 AC: The deaths of High King Maramet of Vestland and his sole heir throw the nation into a political turmoil. The Sorona, the enchanted crown of Vestland, is sought by various factions hoping to claim the throne."
+        }
+    ]
+}

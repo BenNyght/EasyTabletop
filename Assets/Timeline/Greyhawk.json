@@ -1,0 +1,324 @@
+{
+    "type": "CY",
+    "universe": "Greyhawk",
+    "description": "CY, Common Year",
+    "originalsource": "https://dungeons.fandom.com/wiki/World_of_Greyhawk_Timeline#:~:text=The%20World%20of%20Greyhawk%20Timeline,Inc.%20or%20Wizards%20of%20the",
+    "colour": "b71697",
+    "times": [
+        {
+            "timetype": "notable",
+            "date": "-1900",
+            "description": "The Kingdom of Sulm comes to prominence"
+        },
+        {
+            "timetype": "notable",
+            "date": "-1400",
+            "description": "The Kingdom of Sulm begins to decline."
+        },
+        {
+            "timetype": "notable",
+            "date": "-700",
+            "description": "The Kingdom of Sulm is destroyed by its last king, Shattados, using the Scorpion Crown in an attempt to gain perpetual dominion over his subjects. The crown turns Shattados into a gigantic scorpion, and his people into manscorpions and dune stalkers. The land itself is transformed into the Bright Desert."
+        },
+        {
+            "timetype": "notable",
+            "date": "-594",
+            "description": "Lyzandred born in a small town in the ancient Baklunish lands, probably relatively close to the Suel borderlands. (Crypt of Lyzandred the Mad 2)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-555",
+            "description": "Lyzandred discovers a portal to a demiplane closely aligned to Oerth and transforms it into a storehouse of magical objects best kept from evil hands. (Crypt of Lyzandred the Mad 2)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-535",
+            "description": "Lyzandred, trapped in his private demiplane, finally succumbs to death and becomes a lich. (Crypt of Lyzandred the Mad 2)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-484",
+            "description": "Beginning of the Baklunish-Suloise Wars. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-465",
+            "description": "First employment of humanoid mercenaries. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-457",
+            "description": "Oerid migrations east of peak point. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-446",
+            "description": "Suloise migrations begin."
+        },
+        {
+            "timetype": "notable",
+            "date": "-422",
+            "description": "Suloise Mages of Power call down the Invoked Devastation upon the Baklunish. In retaliation, Baklunish spellcasters bring down the Rain of Colorless Fire upon the Suloise Imperium, transforming the empire in the Sea of Dust. (Guide 9) Surviving Baklunish migrate north to the shores of the Drawmidj Ocean. (Player's Guide to Greyhawk 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-216",
+            "description": "Foundation of the Kingdom of Aerdy. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-110",
+            "description": "Battle of a Fortnight's Length. The Kingdom of Aerdy defeats Nyrondal cavalry squadrons to become the regional superpower. Aerdy thereafter becomes known as the Great Kingdom. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "1",
+            "description": "The Common Year is established as the system of reckoning by Grand Prince Nasran I of the Great Kingdom of Aerdy in 645 OR (1 CY), when he declares universal peace throughout his the land, and takes the title of Overking. At this stage the borders of the Great Kingdom of Aerdy extend all the way to the City of Greyhawk. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "141",
+            "description": "Kargoth of Mansbridge born."
+        },
+        {
+            "timetype": "notable",
+            "date": "198",
+            "description": "The lich Lyzandred uses a potent spell to pull a giant meteor into Oerth's atmosphere. The resulting fireball streaks across the Oljatt Sea, where it is noted by the astronomer Selvor the Younger (among others), who interprets it as an omen presaging wealth, strife and a living death. The resulting impact in the eastern Abbor-Alz sends shockwaves far and wide, interrupting an experiment by a cadre of Suel wizards at the Star Cairns, in the Cairn Hills. (Crypt of Lyzandred the Mad 2)"
+        },
+        {
+            "timetype": "notable",
+            "date": "203",
+            "description": "The Order of the Knight Protectors of the Great Kingdom is shaken by Sir Kargoth’s pact with Demogorgon, when he unleashes a demonic terror upon the Great Kingdom. The abomination is destroyed, but Kargoth sways thirteen other Knight Protectors to follow him. They become the first of the death knights."
+        },
+        {
+            "timetype": "notable",
+            "date": "209",
+            "description": "The death knight Sir Farian of Lirtham is destroyed."
+        },
+        {
+            "timetype": "notable",
+            "date": "213",
+            "description": "Age of Great Sorrow commences. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "247",
+            "description": "Sir Kargoth's castle, Fharlanst, destroyed by the Knight Protectors of the Great Kingdom."
+        },
+        {
+            "timetype": "notable",
+            "date": "254",
+            "description": "The Viceroyalty of Ferrond declares independence from the Great Kingdom."
+        },
+        {
+            "timetype": "notable",
+            "date": "305",
+            "description": "Zagig and his adventuring band delve the Crypt of Lyzandred the Mad. Zagig remains for a short time to learn at the lich's feet and gains inspiration that will aid him well in the later construction of his masterpiece, Castle Greyhawk. (Crypt of Lyzandred the Mad 2)"
+        },
+        {
+            "timetype": "notable",
+            "date": "318",
+            "description": "Zagig Yragerne, Murlynd, Keoghtom, and the rest of the Company of Seven explore the Flan ruins of Veralos. (Dragon 293.90)"
+        },
+        {
+            "timetype": "notable",
+            "date": "320",
+            "description": "Zagig Yragerne elected Mayor of the Free City of Greyhawk. (Expedition to the Ruins of Greyhawk)"
+        },
+        {
+            "timetype": "notable",
+            "date": "320",
+            "description": "Mixed Oerid-Baklunish nomads gradually move into and claim the steppeland east of the Yatil Mountains, pushing eastward as far as the Griffs. (Guide 9) Outer dependencies of Aerdy gain sovereignty. Perranders, Velunians, Furyondians, and Tenhas each establish independence in a series of minor but bloody wars. (Guide 9) Zagig Yragerne begins construction of Castle Greyhawk. (Expedition to the Ruins of Greyhawk)"
+        },
+        {
+            "timetype": "notable",
+            "date": "355",
+            "description": "Keolandish armies press into Ket and Veluna, but are later forced out. (Player's Guide to Greyhawk 10)"
+        },
+        {
+            "timetype": "notable",
+            "date": "356",
+            "description": "Kingdom of Nyrond established when junior branch of Aerdy House Rax-Nyrond declares itself independent of Great Kingdom rule. (Guide 9, 10) Invasion of northern barbarians into North Province prevents the Great Kingdom from retributive action against Nyrond. Theocracy of the Pale and Urnst also secede from Great Kingdom. Kingdom of Keoland at peak. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "375",
+            "description": "The Free City of Greyhawk achieves its first period of greatness under the rulership of Zagig Yragerne. (Player's Guide to Greyhawk 10)"
+        },
+        {
+            "timetype": "notable",
+            "date": "420",
+            "description": "420-455 Halmadar the Cruel, a Shield Lands warlord, gains the Hand and Eye of Vecna, conquers the region near Delcombon, and lays siege to Critwall. Ultimately he is drugged by his followers and interred alive in the Kron Hills."
+        },
+        {
+            "timetype": "notable",
+            "date": "437",
+            "description": "Turmoil Between Crowns. Scions of the Celestial House of Naelax destroy the House of Rax to assume the Malachite Throne and rulership of the Great Kingdom. (Guide 9, Player's Guide to Greyhawk 10)"
+        },
+        {
+            "timetype": "notable",
+            "date": "438",
+            "description": "Keoland and Furyondy go to war, resulting in the secession of the Keolandish regions of Gran March, Bissel and the Yeomanry."
+        },
+        {
+            "timetype": "notable",
+            "date": "446",
+            "description": "Excessive taxation and repression leads to a general rebellion in the southern Great Kingdom. This event leads to the foundation of the Iron League. (Guide 9, Player's Guide to Greyhawk 10) Bandit Kings sack Trigol. (Guide 9) Rise of the Sea Princes. (Guide 9) Assassination of nearly all of the House of Rax, with the exception of Ivid I who accedes to Malachite Throne."
+        },
+        {
+            "timetype": "notable",
+            "date": "450",
+            "description": "The County of Urnst gains independence from Nyrond at the Council of Rel Mord. (Player's Guide to Greyhawk 6)"
+        },
+        {
+            "timetype": "notable",
+            "date": "455",
+            "description": "Sunndi joins the Iron League. (Player's Guide to Greyhawk 10)"
+        },
+        {
+            "timetype": "notable",
+            "date": "461",
+            "description": "Creation of Ulek and Celene. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "479",
+            "description": "Might of Iuz grows. Humanoid invasions become common. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "495",
+            "description": "The Cairn Hills town of Diamond Lake hosts an order of monks, preoccupied with astronomy, at the Diamond Lake Observatory. (Dungeon 124.40, 63) The City of Greyhawk nationalizes the Cairn Hills smelting trade. (Dungeon 124.62)"
+        },
+        {
+            "timetype": "notable",
+            "date": "496",
+            "description": "First known outbreak of the Red Death plague in the Flanaess. (WG8)"
+        },
+        {
+            "timetype": "notable",
+            "date": "498",
+            "description": "County of Urnst becomes palatinate under the Duchy of Urnst. Greyhawk becomes a free city. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "505",
+            "description": "Iuz imprisoned by Zagig Yragerne."
+        },
+        {
+            "timetype": "notable",
+            "date": "513",
+            "description": "Rise of the Horned Society. (Guide 9) Humanoids take the Pomarj. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "546",
+            "description": "The mountain dwarf Obmi is enslaved by the fire giant king Snurre Ironbelly of the Hellfurnaces."
+        },
+        {
+            "timetype": "notable",
+            "date": "551",
+            "description": "Obmi is granted his freedom by king Snurre Ironbelly, and continues to serve as an advisor to the fire giant king."
+        },
+        {
+            "timetype": "notable",
+            "date": "560",
+            "description": "Savage humanoids invade the Bone March. (Player's Guide to Greyhawk 5)"
+        },
+        {
+            "timetype": "notable",
+            "date": "563",
+            "description": "Bone March falls to humanoids. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "566",
+            "description": "Evil forces construct a small chapel outside the village of Nulb, in the Viscounty of Verbobonc. The chapel grows to become the Temple of Elemental Evil."
+        },
+        {
+            "timetype": "notable",
+            "date": "569",
+            "description": "Battle of Emridy Meadows. Defeat of the Horde of Elemental Evil. Temple of Elemental Evil sacked."
+        },
+        {
+            "timetype": "notable",
+            "date": "570",
+            "description": "Keoish coastal town of Saltmarsh threatened by sahuagin. (See events of U1-U3) Iuz is inadvertently freed from imprisonment below Castle Greyhawk by Robilar and Riggby."
+        },
+        {
+            "timetype": "notable",
+            "date": "573",
+            "description": "Scarlet Brotherhood first reported on the Tilvanot Peninsula. (Guide 9, Player's Guide to Greyhawk 10) Prince of Furyondy/Provost of Veluna kidnapped. (Guide 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "576",
+            "description": "King Snurre Ironbelly's hall raided by adventurers. (See events of G3) The Savant-Sage completes the Guide to the World of Greyhawk. (Guide 9) The plague known as the Red Death sweeps across the Flanaess."
+        },
+        {
+            "timetype": "notable",
+            "date": "579",
+            "description": "Events of The Temple of Elemental Evil. T-1-4"
+        },
+        {
+            "timetype": "notable",
+            "date": "581",
+            "description": "Halmadar the Cruel escapes his prison; slays majority of Circle of Eight. See events of Vecna Lives!. Vecna's ploy to become a greater god fails. Diraq Malcinex, Heart of Vecna, slain. See events of Vecna Lives!."
+        },
+        {
+            "timetype": "notable",
+            "date": "582",
+            "description": "A series of regional conflicts erupts into the continent-wide battle that eventually becomes the Greyhawk Wars. The war is sparked when Iuz, masquerading as a god named Vatun, incites the Northern Barbarians into war against Stonefist, conquering it quickly. The leader of the Fists, Sevvord Redbeard, soon allies himself with Iuz. (From the Ashes 6) The Duchy of Tenh is conquered by the Fists/Northern Barbarian armies. (From the Ashes 6) Before a planned assault on Ratik, the Northern Barbarians mutiny, refusing to fight any further for a god they have lost faith in. (From the Ashes 6) Other armies of Iuz conquer the Horned Society, creating a mass slaughter in the capital of Molag. (From the Ashes 6) The Shield Lands refuse an offer of alliance with Furyondy, and are soon overrun by Iuz's forces. The Bandit Kingdoms fall to Iuz in the same offensive. Lord Holmer, leader of the Knights of Holy Shielding is captured and taken to Dorakaa. (From the Ashes 6) Queen Yolande of Celene declares neutrality of her realm, and imposes a strict isolationism."
+        },
+        {
+            "timetype": "notable",
+            "date": "583",
+            "description": "The Scarlet Brotherhood invades the Hold of the Sea Princes. (Player's Guide to Greyhawk 5) Battle of Critwall Bridge results in victory for Furyondy, securing the eastern borders of the realm against Iuz. Soon after, Furyondy's northern border collapses under an assault from Iuz-allied humanoids attacking from the Vesve Forest. Crockport falls, and Chendl, Furyondy's capital, is placed under siege. (From the Ashes 6) Nyrond moves against the Hold of Stonefist, striking first in the Phostwood, but staying close to the borders of the kingdom. (From the Ashes 7) At the same time, the Great Kingdom attacks on a broad front against the Theocracy of the Pale, Almor and Nyrond. Almor is conquered in short order. (From the Ashes 6)"
+        },
+        {
+            "timetype": "notable",
+            "date": "584",
+            "description": "The Iron League enters into alliance negotiations with Nyrond, even weathering the defection of the Lordship of the Isles to the Scarlet Brotherhood. (From the Ashes 7) Keoland, Gran March, the Ulek States and the Yeomanry enter into the Treaty of Niole Dra, a mutual-defense pact and military alliance. (From the Ashes 7) Ket allies with Iuz, and promptly attacks Bissel. (From the Ashes 7) Turrosh Mak of the Pomarj attacks the Wild Coast and Ulek. His forces are stopped at the Battle of the Pass of Celene by a coalition of humanoid warriors. (From the Ashes 7) Renewed giant and evil humanoid raids hit the Grand Duchy of Geoff, Sterich, and the Yeomanry. Geoff and Sterich are conquered by the invaders. (From the Ashes 7) The Battle of Innspa marks the peak of the Aerdy invasion of Nyrond. The battle results in a decisive defeat of the Great Kingdom's armies. Mass executions follow, ordered by Ivid V. (unbeknownst to much of the Flanaess, Ivid murders loyal generals and turns them into undead servants. Ivid is subsequently assassinated by remaining generals, and risen as an undead animus by priests of Hextor.) Mass killings of the Aerdy populace instigated by Ivid. (From the Ashes' 8) The North Province secedes from the Great Kingdom. (From the Ashes 8) The Scarlet Brotherhood begins campaign of assassinations in Iron League states with an aim to destabilize their governments. Cobb Darg of the Free City of Irongate orders the execution of every known Scarlet Brotherhood agent within the city. (From the Ashes 9) The Wars end with a Brotherhood-inspired general peace treaty, the Pact of Greyhawk in the month of Harvester. (From the Ashes 9) On the same day, Rary instigates a massive magical battle within the Great Hall and attempts to assassinate the other members of the Circle of Eight, killing only Otiluke and Tenser before fleeing into the Bright Desert to form his own kingdom. (From the Ashes 9)"
+        },
+        {
+            "timetype": "notable",
+            "date": "585",
+            "description": "Prince Sewarndt attempts to seize the throne of Nyrond from his father, King Archibold III. The plot is foiled by Sewarndt's brother, Lynwerd."
+        },
+        {
+            "timetype": "notable",
+            "date": "586",
+            "description": "The Great Kingdom comes to an effective end, as it splinters into two major states (The United Kingdom of Ahlissa and the North Kingdom of Aerdy) and numerous minor states. Ivid V, the Overking, rules Rauxes as essentially a no-man's land. The priesthood of Hextor officially deposes Ivid V as Overking. Archibold III of Nyrond abdicates, leaving the throne to his son Lynwerd. Canon Hazen of Veluna causes the Flight of Fiends through use of the Crook of Rao. Most (but not all) evil-aligned outsiders are banished from the Flanaess."
+        },
+        {
+            "timetype": "notable",
+            "date": "588",
+            "description": "Events narrated in the novel White Plume Mountain."
+        },
+        {
+            "timetype": "notable",
+            "date": "591",
+            "description": "591–598 Events of the Living Greyhawk campaign"
+        },
+        {
+            "timetype": "notable",
+            "date": "596",
+            "description": "Hand of Vecna resurfaces in the central Flanaess, in the possession of a Vecnan priest named Darl Quethos. (Dungeon 132)"
+        },
+        {
+            "timetype": "notable",
+            "date": "597",
+            "description": "Riggby the Patriarch dies in Verbobonc. His body is returned to the Free City of Greyhawk for his funeral. (Expedition to the Ruins of Greyhawk) Iuz attempts to invade the Free City, via the dungeons of Castle Greyhawk. (Expedition to the Ruins of Greyhawk) Although unbeknownst to most, Lord Robilar is returned to Oerth after an absence of 15 years. (Expedition to the Ruins of Greyhawk)"
+        },
+        {
+            "timetype": "notable",
+            "date": "963",
+            "description": "Pluffet Smedger the Elder examines a centuries-old copy of volume 3 of Catalogue of the Land Flanaess, being the Eastern Part of the Continent of Oerik, of Oerth, by the Savant-Sage of Greyhawk. This volume, entitled A Guide to the World of Greyhawk, is discovered in the library of the Royal University of Rel Mord. Smedger is impressed by the Guide's freshness and thoroughness. (Glossography 2) In this era, magic is not a lost art, but apparently a fading one. (Glossography 2)"
+        },
+        {
+            "timetype": "notable",
+            "date": "998",
+            "description": "Pluffet Smedger the Elder publishes his Glossography for the Guide to the World of Greyhawk at the Royal University of Rel Mord. (Glossography cover)"
+        }
+    ]
+}

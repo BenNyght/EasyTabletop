@@ -1,0 +1,389 @@
+{
+    "type": "H",
+    "universe": "Planescape",
+    "description": "H, Hashkar",
+    "originalsource": "https://sigil-nwn2.fandom.com/wiki/Timeline",
+    "colour": "b78357",
+    "times": [
+        {
+            "timetype": "notable",
+            "date": "-15500",
+            "description": "The second fiendish Age of Exploration, including the first discovery of Sigil. The only near-successful attempt at displacing the Lady of Pain from her rule of Sigil is made by a mortal mage; though this attempt ultimately failed, the Lady herself was missing from the city for weeks after the conflict, assumedly recovering from the strain. The mage that attempted this coup was imprisoned in the depths of Pandemonium for his efforts."
+        },
+        {
+            "timetype": "notable",
+            "date": "-11000",
+            "description": "A massive portal the size of a tenement opens from a Blood War battlefield to the HiveWard in Sigil, bringing with it massive numbers of baatezu and tanar'ri in the midst of fighting. The portal remains only for a few days before receding, the two forces departing with it for the most part, but the damage caused by the spill-over remains to this day in the form of the Slags, as well as the tanar'ri creation known as the Kadyx. The Lady of Pain begins Mazing people, rather than trapping their essences in black soul crystals in the lowest layer of Pandemonium."
+        },
+        {
+            "timetype": "notable",
+            "date": "-10000",
+            "description": "Shekelor makes his ultimately-failed attempt at dethroning the Lady of Pain from Sigil, using the aid of the mage that tried such eons hence. He vanishes mysteriously after his attempt."
+        },
+        {
+            "timetype": "notable",
+            "date": "-9950",
+            "description": "Shekelor reappears in the midst of the City Courts of Sigil, and spontaneously combusts immediately thereafter."
+        },
+        {
+            "timetype": "notable",
+            "date": "-5756",
+            "description": "The first Modron March."
+        },
+        {
+            "timetype": "notable",
+            "date": "-4873",
+            "description": "The god Aoskar is slain by the Lady of Pain and his high temple is destroyed, after the defection of a dabus to his priesthood. Four portals in Sigil vanish in the aftermath of this incident."
+        },
+        {
+            "timetype": "notable",
+            "date": "-4373",
+            "description": "The four portals that vanished following the death of Aoskar reappear for a period of two months before vanishing once more. The dwarf Fargullen steps through one in the Lower Ward, but does not return before the portals vanish once more."
+        },
+        {
+            "timetype": "notable",
+            "date": "-3873",
+            "description": "The four missing portals reappear once more for another two months; their regular pattern gains them the nickname blinks. Fargullen reemerges through the Lower Ward portal, now known as the Second Door, speaking dire prophecies of a future age regarding Aoskar, the Lady, and the fate of Sigil, before being flayed by the Lady herself."
+        },
+        {
+            "timetype": "notable",
+            "date": "-3373",
+            "description": "The blinks reappear for two months."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2873",
+            "description": "The blinks reappear for two months. The mercurial brothers Lathuraz and Zarulaz emerge through the Fourth Door, the only recorded time any has used that portal in either direction since the death of Aoskar. Lathuraz proceeds to rampage through the planes for the next 500 years, dominating those he referred to as lesser beings across the entire multiverse, taking Sigil as his base of operations. Zarulaz attempts to stop Lathuraz's actions, but Lathuraz evades him over the course of the next centuries. Zarulaz begins gathering allies and objects that could help stop or banish Lathuraz."
+        },
+        {
+            "timetype": "notable",
+            "date": "-2373",
+            "description": "The blinks reappear for two months. Zarulaz is disabled and thrown through the Second Door by Lathuraz, but his allies manage to imprison Lathuraz beyond the Third Door."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1975",
+            "description": "Malcanthet, a survivor of the War of Ripe Flesh, takes the title of Queen of the Succubi, after having worked since the end of the War against the only figures that could contend for the title, the other three survivors: Shami-Amourae, Xinivrae, and Lynkhab."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1132",
+            "description": "The Occluded Empire of Vecna runs across a wide swath of the Prime realm of Oerth. At some time during this period, Vecna pens the Codex of the Infinite Planes."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1023",
+            "description": "Skall founds the Dustmen."
+        },
+        {
+            "timetype": "notable",
+            "date": "-875",
+            "description": "12 factols appeal to the Lady of Pain at the current location of the Twelve Factols inn about halting the slow Sigilian take-over of the Expansionist faction. In response, the Lady mazes their factol, Vartus Timlin, and bars the Expansionists from the city. This faction dissolves soon after."
+        },
+        {
+            "timetype": "notable",
+            "date": "-875",
+            "description": "The Bleak Cabal is founded."
+        },
+        {
+            "timetype": "notable",
+            "date": "-873",
+            "description": "The blinks reappear for two months. The portal chronicler Triand studies the four portals, attempting to discover their keys; though he's able to determine the key to the Third, the others elude him."
+        },
+        {
+            "timetype": "notable",
+            "date": "-856",
+            "description": "The Fraternity of Order is founded."
+        },
+        {
+            "timetype": "notable",
+            "date": "-853",
+            "description": "The Fraternity of Order begins the Lexicon of the Abyss, after their discovery of the once-lost keep of Cabiri the Watching Master on Pazunia and its many connections to deeper layers of the Abyss."
+        },
+        {
+            "timetype": "notable",
+            "date": "-775",
+            "description": "The Planewalker's Guild is founded in Sigil, taking advantage of its position as a hub of multiversal travel. The Athar are formed from the meeting of Dunn and Ciro at the site of the Shattered Temple relatively soon after the death of Aoskar. The faction known today as the Believers of the Source is founded. The Sign of One is founded. The Transcendent Order is founded."
+        },
+        {
+            "timetype": "notable",
+            "date": "-654",
+            "description": "The Tzunk College of Academic Arts is founded by the Oerthian Tzunk in Sigil."
+        },
+        {
+            "timetype": "notable",
+            "date": "-629",
+            "description": "Following Tzunk's death in the City of Brass, his university falls into arrears and is repossessed by the Fated, becoming their new headquarters, the Hall of Records."
+        },
+        {
+            "timetype": "notable",
+            "date": "-575",
+            "description": "The Society of Sensation is first formed, as a loose organization at this time rather than a faction."
+        },
+        {
+            "timetype": "notable",
+            "date": "-573",
+            "description": "The Society of Sensation purchases and clears a large lot in the Clerk's Ward to begin work on what will become the Civic Festhall, drawing from all the planes and a thousand Prime worlds to choose the most aesthetically perfect materials for its construction."
+        },
+        {
+            "timetype": "notable",
+            "date": "-570",
+            "description": "The earliest known reference to what may be the modern day Revolutionary League. The slow rise of law in Sigil is counterbalanced once more; this time by a new flow of visitors, travelers, and tourists into Sigil, encouraged to no small degree by the Sensates and their regular performances and shows at the still-being-constructed Civic Festhall. With the sudden influx of beings from across the multiverse, they bring with them a number of various philosophies of existence, life, and the like, philosophies that oft conflicted with both one another and those held by the city's small group of existing factions. This quickly leads to the now-infamous 10 year Public Debates, where the growing numbers of factions confronted one another in the arena of the Hall of Speakers in manners both pleasant and not."
+        },
+        {
+            "timetype": "notable",
+            "date": "-520",
+            "description": "The growing interest in and influence of the factions embroils the entire city of Sigil, outsiders and natives alike; chaos reigns on the streets as the occasionally heated debates turn violent increasingly often, even within the Lady's Ward. Though factions had existed in Sigil for centuries before this, this is most commonly considered the beginning of the kriegstanz."
+        },
+        {
+            "timetype": "notable",
+            "date": "-503",
+            "description": " Great Upheaval: Sigil's over four dozen factions are restricted by order of the Lady of Pain to 15. The loose organization of the Sinkers evolves into the Doomguard. The Mercykillers are formed from the merger of the Sons of Mercy and the Sodkillers. The Society of Sensation coalesces into a true faction. The Athar temporarily depart the city of Sigil for a complex at the foot of the Spire. The shakeup caused by the Upheaval inflates the membership of the Indeps to almost one million."
+        },
+        {
+            "timetype": "notable",
+            "date": "-490",
+            "description": "The fiend Fosnatu’u briefly takes control of the Believers of the Source by possessing their factol Augy of Faunel."
+        },
+        {
+            "timetype": "notable",
+            "date": "-477",
+            "description": "Construction finally completes on the Civic Festhall."
+        },
+        {
+            "timetype": "notable",
+            "date": "-470",
+            "description": "A plague strikes the Indeps, reducing its membership from its tremendous heights down to a mere 20,000. The plague then vanishes, leading some to develop theories of a conspiracy against the Free League. The Fraternity of Order cedes the duty of law enforcement in Sigil to the Doomguard and Mercykillers, deciding to instead handle judicial matters only."
+        },
+        {
+            "timetype": "notable",
+            "date": "-400",
+            "description": "Due to increasing numbers of fair-weather namers amongst the factions, they agree to enforce a strict requirement amongst their ranks of single-faction membership only, with members of one faction not allowed membership in any other Sigilian faction, guild, or sect. Due to the by-now tremendous influence of the factions in Sigil, this has the side effect of depressing the memberships of many of Sigil's guilds to the point of near-nonexistence."
+        },
+        {
+            "timetype": "notable",
+            "date": "-375",
+            "description": "The Planewalker's Guild departs Sigil as a consequence of its dwindling membership and influence thanks to competition from the factions, hoping that by no longer being a Sigilian guild, it can recover from its current nadir. Selling off its holdings and collections, the Guild becomes an itinerant organization, keeping no halls and few safe houses."
+        },
+        {
+            "timetype": "notable",
+            "date": "-373",
+            "description": "The blinks reappear for two months."
+        },
+        {
+            "timetype": "notable",
+            "date": "-370",
+            "description": "The Bleak Cabal take over the Bedlam Blight asylum, renaming it the Gatehouse."
+        },
+        {
+            "timetype": "notable",
+            "date": "-360",
+            "description": "The Harmonium are founded on the prime world of Ortho."
+        },
+        {
+            "timetype": "notable",
+            "date": "-330",
+            "description": "Ravel Puzzlewell challenges the Lady in Sigil and threatens to open the Cage to the planes, and is banished to a Maze as a result."
+        },
+        {
+            "timetype": "notable",
+            "date": "-275",
+            "description": "The first recorded appearance of the Demiplane of Dread, as it takes Strahd von Zarovich into its mists."
+        },
+        {
+            "timetype": "notable",
+            "date": "-260",
+            "description": "The Harmonium take over Ortho and begin to solidify control under a one-world government."
+        },
+        {
+            "timetype": "notable",
+            "date": "-174",
+            "description": "A Harmonium army nearly a million strong marches on the Caverns of the Skull Goddess in what is known on Ortho as the War of Iron, as the organization's first actions on the planes. It fails utterly, wiped out but for a single survivor who manages to escape to Sigil; the organization's first discovery of that city."
+        },
+        {
+            "timetype": "notable",
+            "date": "-168",
+            "description": "The Revolutionary League murders the factol of the Mercykillers, spawning a war that eventually embroils a full dozen factions, and resulting in the dissolution of the Incanterium, the Zactar, and the Ochlocrats. The Harmonium, having been waiting for such an opportunity, move into Sigil, quickly filling one of these new-found gaps to become one of the city's 15 factions. The Athar take this chance to return as well, once more taking possession of the Shattered Temple from the vagrants and barmies that had been calling kip there."
+        },
+        {
+            "timetype": "notable",
+            "date": "-168",
+            "description": "The Harmonium attempt to take over the task of city guard for the city from the Doomguard. War breaks out between the two factions; the Doomguard invade and take the Armory, and the Harmonium begin a siege that continues for months."
+        },
+        {
+            "timetype": "notable",
+            "date": "-167",
+            "description": "Enraged by the philosophy of the Athar, a factor of the Harmonium redirects patrols to assault the Shattered Temple. The factor is mazed, but the faction still institutes discrete guerrilla strikes against the faction for some time."
+        },
+        {
+            "timetype": "notable",
+            "date": "-166",
+            "description": "The Hall of Speakers finally acts to stop the continued warfare of the Harmonium against both the Doomguard and the Athar, threatening to revoke the faction status of both the Harmonium and the Doomguard. The Doomguard are forced to sign a blood pact swearing to never again instigate war in Sigil. The Harmonium are given the duty of city guard, with the Doomguard taking the new duty of creating and distributing weapons for the factions. The Harmonium proceeds to move its fight against the Athar to the arena of political debate, bringing the Mercykillers and the Fated on their side against the Athar."
+        },
+        {
+            "timetype": "notable",
+            "date": "-20",
+            "description": "The first reference to the Xaositects under their current name, though references to near-identical factions under other names (including the above-mentioned Ochlocrats) can be found dating back centuries. Days of Xaos: The Sensates throw a massive party for the newly-formed Xaositects, as a show of welcome to the city. With over a thousand Xaositects in one place, and with the encouragement of a few Anarchists, perhaps the biggest riot in the history of the planes hits Sigil. The riot quickly swells over the next day as the Doomguard, the Bleak Cabal, and a number of Indeps join in, despite all attempts of the Harmonium, the Mercykillers, the Guvners, and even the Ciphers to quell it. Oddly enough, no intervention by the Lady of Pain was recorded, likely thanks to the lack of any leaders to Maze and little impetuous to slaughter them all. The riot continues for the course of a week before finally petering out; by the end of the riot, the City Court had burned for hours before being quenched, the Hall of Records had nearly collapsed, a fire had swept through the Hive Ward, and thousands are recorded as having died."
+        },
+        {
+            "timetype": "notable",
+            "date": "1",
+            "description": "Hashkar becomes factol of the Fraternity of Order, replacing Factol Lariset the Inescapable following her mysterious disappearance."
+        },
+        {
+            "timetype": "notable",
+            "date": "24",
+            "description": "A few Xaositects manage to assassinate the factol of the Harmonium by hitting him in the head with an hourglass."
+        },
+        {
+            "timetype": "notable",
+            "date": "25",
+            "description": "The Planewalker's Guild makes a settlement on the Infinite Staircase and takes it as a new base of operations, though it still keeps many of the trappings of the nomadic existence it's held the last few centuries."
+        },
+        {
+            "timetype": "notable",
+            "date": "27",
+            "description": "The Modron March returns to Mechanus."
+        },
+        {
+            "timetype": "notable",
+            "date": "70",
+            "description": "Duke Rowan Darkwood is born in the kingdom of Furyondy on Oerth."
+        },
+        {
+            "timetype": "notable",
+            "date": "76",
+            "description": "The Revolutionary League places a covert operative, Omar, in the ranks of the Harmonium."
+        },
+        {
+            "timetype": "notable",
+            "date": "77",
+            "description": "Omar reaches the eventual level of Factol, discovered and arrested only when he attempted to order the dissolution of the faction. Within a matter of weeks, he is executed."
+        },
+        {
+            "timetype": "notable",
+            "date": "88",
+            "description": "Eladi is elected factol of the Sensates."
+        },
+        {
+            "timetype": "notable",
+            "date": "91",
+            "description": "Justicar Votohm is chosen as factol of the Mercykillers."
+        },
+        {
+            "timetype": "notable",
+            "date": "93",
+            "description": "Pentar is born in the gate-town of aoXs."
+        },
+        {
+            "timetype": "notable",
+            "date": "94",
+            "description": "Erin Darkflame Montgomery is born in the village of Grim's Head in Tir na Og."
+        },
+        {
+            "timetype": "notable",
+            "date": "104",
+            "description": "Montgomery becomes a novitiate to Diancecht. Factol Votohm dies under mysterious circumstances; the minor cult known as the Eschaton attribute this to the event they call the First Eschaton. Justicar Mallin is chosen to replace him."
+        },
+        {
+            "timetype": "notable",
+            "date": "105",
+            "description": "Sarin arrives in Sigil from Ortho. A group of Xaositects hit a number of manor courtyards in the Lady's Ward; some are left as ragged ground, others as beautiful rock gardens. The Xaositects paint the Armory pink."
+        },
+        {
+            "timetype": "notable",
+            "date": "106",
+            "description": "Tallam, Doomlord of Ash, is elected Factol of the Doomguard."
+        },
+        {
+            "timetype": "notable",
+            "date": "107",
+            "description": "Captain Za'rafas, the prized strategist of a powerful Abyssal Lord, hires Toddy to strike against Mason, a wanderer with the ability to possibly stop his planned Blood War raid against a number of villages in Tir na Og thought to be sending resources to the Baatezu. Toddy refuses the assignment on the advice of Darius the Veyl of Welbey, and Mason leads a contingent of the Outlands villagers, including then-Priestess Erin Montgomery, against the raiders. The strike was much less vicious than it could have been, but a number of hamlets were destroyed, including Welbey, and though Diancecht's teachings demand healing both friend and foe, Montgomery had no spells left upon reaching the raiders. Blaming Montgomery for his death, Za'rafas's patron sends a number of assassins after her over the coming years."
+        },
+        {
+            "timetype": "notable",
+            "date": "108",
+            "description": "Alisohn Nilesia is born in the Prison. A series of Clueless murders hit the Hive Ward, as a result of a few Xaositects upset at their stupidity."
+        },
+        {
+            "timetype": "notable",
+            "date": "111",
+            "description": "The Sleeping Sisters, a chain of mountains in Ossa, erupt for the first time in centuries; 36 die as a result. The resulting carnage is Pentar's first inspiration towards entropy. Montgomery finally leaves Grim's Head after an especially vicious attack, hoping to spare the village from the continuous tanar'ri strikes."
+        },
+        {
+            "timetype": "notable",
+            "date": "113",
+            "description": "A collection of adventurers on Oerth, including Rowan Darkwood, stop a scheme of Lolth that would have conquered a portion of the lands above the surface via a number of giant tribes."
+        },
+        {
+            "timetype": "notable",
+            "date": "115",
+            "description": "Darkwood is taken into Baator in exchange for his childrens' protection. The Xaositects arrange an alliance with every single faction simultaneously; the alliance lasts about a half hour before the factions discover what happened. Montgomery frees Cuatha Da'nanin from the Pax Imperica and flees to Sigil."
+        },
+        {
+            "timetype": "notable",
+            "date": "116",
+            "description": "Montgomery and Da'nanin join the Sensates. Nilesia tries to join the Mercykillers at age 8, but is refused by Factol Mallin."
+        },
+        {
+            "timetype": "notable",
+            "date": "118",
+            "description": "Sougad Lawshredder, a serial killer focused on the slaughter of members of factions of law, holds the Clerks and Lady's Wards in a grip of fear for a full week, taking one victim each day in horribly-vicious ways before finally being captured by the Godsmen and held within Harbinger House."
+        },
+        {
+            "timetype": "notable",
+            "date": "119",
+            "description": "Nilesia is finally allowed to join the Mercykillers."
+        },
+        {
+            "timetype": "notable",
+            "date": "121",
+            "description": "The tanar'ri, working alongside the Doomguard, work to create the first Ships of Chaos. Montgomery is elected factol after the death of Factol Eladi."
+        },
+        {
+            "timetype": "notable",
+            "date": "122",
+            "description": "Pentar, Doomlord of Dust, is elected factol of the Doomguard after Factol Tallam dies in a slave riot of his own causing."
+        },
+        {
+            "timetype": "notable",
+            "date": "124",
+            "description": "Darkwood is released from Baator."
+        },
+        {
+            "timetype": "notable",
+            "date": "125",
+            "description": "Nemausus slides from Arcadia to Mechanus. Capricious - The Smoking Hammer Inn is destroyed in an explosion caused by one Marius Darktale."
+        },
+        {
+            "timetype": "notable",
+            "date": "126",
+            "description": "Darkwood arrives in Sigil. He quickly maneuvers to replace Emma Oakwright as factol of the Fated. Factol Mallin dies. The young Justicar Nilesia is chosen as his replacement. Savorus - Baatezu Final Solution. Catechism - The Carnival comes to Sigil. Decadre - The Shaper returns to Sigil."
+        },
+        {
+            "timetype": "notable",
+            "date": "127",
+            "description": "The modrons begin their march unexpectedly early, flowing out of Automata and starting their procession around the Great Ring; The Factol's Manifesto is published in Sigil, assembled by an unknown editor. Accordat - the planar merchant Abilar Seethe arrives in Sigil, immediately causing an uproar when a rogue Harmonium member, Rafael Degare, first attempts to frame her for numerous crimes, then goes on a murdering spree which culminated in the eventual destruction of an Obyrith in the Lady's Ward by adventurers. Tithing - The Bloodpeace. The Pivot - The Sensate Murders. Capricious - The Tharzidun cultists of Undersigil declare war on the Syndicate. Capricious 21 - A group of Xaositects paint a mural on the side of the Great Gymnasium; many consider it one of the most beautiful pieces of art on the planes."
+        },
+        {
+            "timetype": "notable",
+            "date": "129",
+            "description": "The Hive is struck by a plague"
+        },
+        {
+            "timetype": "notable",
+            "date": "130",
+            "description": "The Far Realms Invasion. Nihilum - Hall of Speakers debate. Leagueheim - Civic unrest"
+        },
+        {
+            "timetype": "notable",
+            "date": "131",
+            "description": "A plot to bring back Factol Timlin of the Expansionists is uncovered and stopped by the Harmonium, Doomguard, and Fated."
+        },
+        {
+            "timetype": "notable",
+            "date": "136",
+            "description": "The Twin Cages. The blinks appear before their normal 500 year cycle. An invasion of mirror-Sigils Harmonium, known as the Crimson Dawn invades Outlands. Glorium fell, and Faunel was under siege. Harmonium lead counter attack liberated Outlands from the invaders grasp at a heavy cost. Factol Sarin is assassinated by Anarchists. Tonat Shar becomes the Factol of Harmonium. Attack continued to the other side of the Blinks, seeing three critical attacks, one to the mirror-Glorium, one to mirror-Excelsior and finally the battle of the mirror-Sigil. Defeating the Crimson Dawn once and for all. The Harmonium separates from the Orthan Empire."
+        }
+    ]
+}

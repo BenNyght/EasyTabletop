@@ -1,0 +1,1484 @@
+{
+    "type": "BC",
+    "universe": "Ravenloft",
+    "description": "BC, Barovian Calandar",
+    "originalsource": "https://www.fraternityofshadows.com/wiki/Timeline",
+    "colour": "b29327",
+    "times": [
+        {
+            "timetype": "notable",
+            "date": "-100344",
+            "description": "False History: The Insectoid El-Koth rule the land of Hazlan, their great civilization is over run by the barbaric Duruun. The Duruun are then driven off by the Quelshar. This fey race is then destroyed in a war with Yath. Finally the Yath are destroyed by the Vossath Nor."
+        },
+        {
+            "timetype": "notable",
+            "date": "-1387",
+            "description": "Forfar: The highland people are invaded by the Blars, they are driven out when Caral FirFair unites the clans. Caral himself leads the highlanders in the Battle of Deargleitir and slays the leader of the Blars. The clans all agree to stay united while they recover their losses, and all agree that Caral should be their king. This leads to the foundation of the Kingdom of FirFair. This is also the start of the Forfar Calendar (0 FC)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-595",
+            "description": "Forfar: The Kingdom of FirFair is conquered by the Merionites. They corrupt the name of FirFair to Forfar (792 FC)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-435",
+            "description": "Forfar: The Forfarians rise up and win their independence from the Merionites who had conquered them (952 FC)"
+        },
+        {
+            "timetype": "notable",
+            "date": "-44",
+            "description": "False History: The Nameless King peacefully passes his rule to the Dannouth family founding the Second Hazlani Dynasty"
+        },
+        {
+            "timetype": "notable",
+            "date": "1",
+            "description": "Nation of Barovia forged of independent city-states by the von Zarovich family. The founding of Barovia also united the City States to the west into the semi-independent region of Borjia. The wealthy mercantile families, Cosco, Boritsi, Olszanik and Dilisnya use their wealth to purchase titles in the new country of Barovia and in Borjia, strengthening the ties between the two regions to the extent where Borjia was seen as part of Barovia. Beginning of the Barovian Calendar."
+        },
+        {
+            "timetype": "notable",
+            "date": "151",
+            "description": "In an unknown time centuries before this event, the sorcerer-fiend Gwydion, an alien being of horrific power from the Demiplane of Shadow, drew the ellefolk race into his realm to serve him. Pleased with his ellefolk slaves’ centuries of service, Gwydion infuses them with the essence of shadow, his “gift” transforming them from ellefolk to the “fey.” On the same day, twins are born to the fey’s leader, Arak the Erlking, and his wife Finngalla. These infants, Loht and his sister Maeve, are the first true shadow elves. Finngalla dies in childbirth."
+        },
+        {
+            "timetype": "notable",
+            "date": "152",
+            "description": "Oerth: In the region called the Flaeness, the Overking is crowned in Rauxes; frontiers of Great Kingdom reach the City of Greyhawk. (CY 1; beginning of Common Years)"
+        },
+        {
+            "timetype": "notable",
+            "date": "157",
+            "description": "In a unnamed world the a small fishing thorp is founded in Arden Bay, the thorp will one day become Mordentshire."
+        },
+        {
+            "timetype": "notable",
+            "date": "158",
+            "description": "Daglan Daegon born in a “faraway land.”"
+        },
+        {
+            "timetype": "notable",
+            "date": "168",
+            "description": "The formal founding of the Barovian state Church of Andral, with the blessing of the Von Zarovich family."
+        },
+        {
+            "timetype": "notable",
+            "date": "180",
+            "description": "Jacques Renier brings his family here and takes leadership of the then hamlet of Mordentshire. He eventually builds Gryphon Manor. Within the year, Renier and his family flee the house, and Gryphon Manor’s reputation as an accursed place begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "186",
+            "description": "Forfar: Flora ApBlanc is born to Lord Keegan ApBlanc and Lady Eileen ApBlanc (1573 FC)."
+        },
+        {
+            "timetype": "notable",
+            "date": "193",
+            "description": "Gundar born in Prime Material Hunadora, which has just been conquered by the tyrant Otto III."
+        },
+        {
+            "timetype": "notable",
+            "date": "201",
+            "description": "Gwydion tires of his realm in the Demiplane of Shadow, and decides to conquer new worlds. To this end, he orders Arak the Erlking to construct a massive artifact, the Obsidian Gate, so Gwydion can send his shadow elf armies forth to conquer."
+        },
+        {
+            "timetype": "notable",
+            "date": "206",
+            "description": "Forfar: (Winter) - The Barony of the Western Highlands goes to war against the March of Goteer. The war drags in other clans against the Barony of the Western Highlands, and in turn that Barony calls upon the Barony of Forfar for aid. Baron Gillian ApBlanc, then Baron of Forfar, grants this request, though he forbids sending soldiers until after the wedding of Flora ApBlanc and Rivalin ApTosh (1593 FC)"
+        },
+        {
+            "timetype": "notable",
+            "date": "207",
+            "description": "Forfar: (Spring) - Rivalin ApTosh and Flora ApBlanc become married, but Rivalin is called away to war against the Goteerans. Rivalin earns glory through his bravery and decisive action, personally killing the leader of the Goteerans. Forfarian druids call upon a great storm to route the Goteerans. However, the storm takes the lives of both friend and foe. Rivalin is one of the lives lost, leaving Flora a widow and their unborn son without a father (1594 FC). Forfar: Rivalin returns to Flora as a vampire, and she falls under his sway. He partakes of her blood for a period of time, tainting their unborn son's blood. Rivalin eventually starts feeding upon other people in Birnam, but he is caught and destroyed. With his blood tainted by a latent vampirism, Tristen ApBlanc is born to Flora ApBlanc. Rivalin is killed and Flora is lynched by a mob as a witch. Upon Flora's request, Rual and the druids take in the boy (1594 FC)."
+        },
+        {
+            "timetype": "notable",
+            "date": "213",
+            "description": "Forfar - Lady Briony ApFittle is born (1600 FC)."
+        },
+        {
+            "timetype": "notable",
+            "date": "222",
+            "description": "Forfar: After his reversion to an unnatural state is discovered, Tristen ApBlanc ambushes Rual and murders her. The holy water in her blood purifies the taint of vampirism from him, but her curse causes him to manifest as a vampyre by day and a ghost by night. He is bound to the defiled Sacred Grove for all time (1609 FC)."
+        },
+        {
+            "timetype": "notable",
+            "date": "230",
+            "description": "The Neureni Horde invades Barovia, the ravage the countryside of Barovia as they have done other countries. The Barovians finally halt them at Vallaki under the command of the Gereral-Princess Nicoleta von Zarovich and then drive them out of Barovia."
+        },
+        {
+            "timetype": "notable",
+            "date": "231",
+            "description": "Forfar:Tristen ApBlanc tries burning down the sacred grove he's bound to in an effort to escape his curse. It fails, he goes on a rampage, terrorizing the people of Birnam with his wolves as a result. Tristan keeps the stolen possessions for himself. He repeats the process of murdering and looting for the next couple of centuries (1618 FC)."
+        },
+        {
+            "timetype": "notable",
+            "date": "236",
+            "description": "Daglan Daegon creates the Crown of Souls for an unnamed, evil warlord. Immediately upon receiving the fell artifact, the warlord betrays Daglan and uses it to kill him. Daglan has prepared a contingency for this, placing his soul inside the Crown to possess whomever wears it. However, the warlord's strength of will renders him immune to Daglan's possession. The warlord uses his prize to invade his neighboring lands. Daglan’s soul remains trapped in the Crown."
+        },
+        {
+            "timetype": "notable",
+            "date": "237",
+            "description": "Toril: Kartak Spellseer becomes a lich. (856 DR: Year of Thorns)."
+        },
+        {
+            "timetype": "notable",
+            "date": "240",
+            "description": "On the eve of the Warlord’s greatest victory,the Mists steal the Crown of Souls during an ambush. It remains lost in the Mists for centuries; the village of Homlock and Daglan's Tower of Magic both disappear, sucked through time by the Mists."
+        },
+        {
+            "timetype": "notable",
+            "date": "248",
+            "description": "Krynn: The Kingpriest makes the Proclamation of Manifest Virtue. Clergy of Istar start to lose favor with the gods (118 PC)."
+        },
+        {
+            "timetype": "notable",
+            "date": "250",
+            "description": "Forfar: Lord Keegan ApBlanc and Lady Eileen ApBlanc pass without an heir, leaving the ApFittle Family, or more specifically Lady Briony ApFittle, to take charge of Forfar (1637 FC)."
+        },
+        {
+            "timetype": "notable",
+            "date": "258",
+            "description": "False History: The Seduction of the Fey occurs in Tepest. The Fey tempt the Cailleaigh with the magic of the Weave, corrupting them. The elimination of the Cailleaigh soon followed as they became Hags, the Tepestani believe this caused the world to move from the Summer of the World to the Autumn of the World."
+        },
+        {
+            "timetype": "notable",
+            "date": "269",
+            "description": "Forfar: Lady Briony ApFittle grants the ApKie Family a large holding of land in Forfar (1656 FC)."
+        },
+        {
+            "timetype": "notable",
+            "date": "274",
+            "description": "Forfar: Lady Briony ApFittle dies (1661 FC)."
+        },
+        {
+            "timetype": "notable",
+            "date": "275",
+            "description": "On a unnamed prime material world a brutal warlord Treholan rises to power in the region that will become known as Invidia. The land was heavily divided between various warlords fighting to take control of the land. Treholan invites several of the powerful warlords to his estate saying he wanted to hold a grand council to see the land could be united under a single ruler. Not all the Warlords and nobles responded but enough did, that when he ordered his men to kill the assembled lords, he made himself the most powerful warlord in the land. He laid claim to the crown of Invidia, and proceeded to hunt down the remaining lords and their families. He erected the now-infamous Castle Loupet and founded a dynasty that lasted for years."
+        },
+        {
+            "timetype": "notable",
+            "date": "280",
+            "description": "Pidlwik Dilisnya born in Prime Material Barovia"
+        },
+        {
+            "timetype": "notable",
+            "date": "289",
+            "description": "Duchess Dorfniya Dilisnya born in Prime Material Barovia. Nharov Gundar becomes a vampire."
+        },
+        {
+            "timetype": "notable",
+            "date": "299",
+            "description": "Strahd von Zarovich born to Barov & Ravenia von Zarovich."
+        },
+        {
+            "timetype": "notable",
+            "date": "303 ",
+            "description": "The Shadow Dragon Ebb is born miles beneath the surface of an ancient and dying outlander world."
+        },
+        {
+            "timetype": "notable",
+            "date": "306",
+            "description": "Strahd von Zarovich joins the military."
+        },
+        {
+            "timetype": "notable",
+            "date": "309",
+            "description": "Likely False History: According to The Dementlieuse Sect's teachings, texts from the original Church of Ezra date back to this time or slightly earlier."
+        },
+        {
+            "timetype": "notable",
+            "date": "310",
+            "description": "Reinhold Dilisnya born to Duchess Dorfniya Dilisnya and Pidlwik Dilisnya in Prime Material Barovia"
+        },
+        {
+            "timetype": "notable",
+            "date": "312",
+            "description": "Sturm von Zarovich is born to Barov and Ravenia von Zarovich."
+        },
+        {
+            "timetype": "notable",
+            "date": "314",
+            "description": "The so-called War of Silver Knives starts between the noble Barovian families of Dilisnya, Katsky, and Petrovna, after the assassination of Izabela Dilisnya ostentatiously over a Silver Mine. Pidlwik Dilisnya, the son of Izabela, lead his family in this war."
+        },
+        {
+            "timetype": "notable",
+            "date": "315",
+            "description": "Gertrude Dilisnya born to Duchess Dorfniya Dilisnya and Pidlwik Dilisnya in Prime Material Barovia"
+        },
+        {
+            "timetype": "notable",
+            "date": "316",
+            "description": "Count Barov von Zarovich finally exerts his influence over the feuding families and orders the so-called War of Silver Knives to cease and appeases the families with gifts of new lands. The families comply, but their war has weaken the country considerably. Pidlwik Dilisnya was not entirely satisfied by this appeasement believing that his mother’s death deserved more than what Barov offered, but held his tongue and quietly nurtured his grudge, passing this hatered and lust for power on to his offspring."
+        },
+        {
+            "timetype": "notable",
+            "date": "320",
+            "description": "The Tergs invade Barovia, conquering the ancestral lands of the Von Zarovich family, they proceed to conquer the closely allied mercantile region of Borjia. Dorfniya, the wife of Pidlwik Dilisnya, gives birth to Leo Dilisnya thanks to an illicit affair with Gunther Cosco. False History: In the land that will become known as Valachan, a tan-skinned race of folk called the Vaasi emerge from the mists and begin a war with the peaceful barbarian worshipers of Yutow the Provider. This war is known as the Pacification. Strahd gains the military rank of general."
+        },
+        {
+            "timetype": "notable",
+            "date": "321",
+            "description": "Strahd von Zarovich takes the Barovian troops to war against the Tergs for the sovereignty of Barovia."
+        },
+        {
+            "timetype": "notable",
+            "date": "322",
+            "description": "Dagmar Olavnya (married name—maiden name unknown) born in Prime Material Barovia."
+        },
+        {
+            "timetype": "notable",
+            "date": "324",
+            "description": "Sergei von Zarovich is born is born to Barov and Ravenia von Zarovich."
+        },
+        {
+            "timetype": "notable",
+            "date": "325",
+            "description": "Krynn: The Kingpriest begins plotting his own passage to godhood. (41 PC) Barovian and Borjian forces drive the armies of the Tergs back from the Borjia region. The people of Borjia begin the process of rebuilding and contribute only supplies to the Barovian war effort not troops."
+        },
+        {
+            "timetype": "notable",
+            "date": "326",
+            "description": "The Siege of Krezk occurs during the depths of winter."
+        },
+        {
+            "timetype": "notable",
+            "date": "333",
+            "description": "Tatyana Federovna, the future lover of Sergei von Zarovich and target for Strahd von Zarovich's desire, is born in the Village of Barovia."
+        },
+        {
+            "timetype": "notable",
+            "date": "340",
+            "description": "Duchess Dorfniya Dilisnya dies. False History: In the land that will become Valachan, the Vaasi continue the Pacification. The panther discovers a way for Yutow to save the realm from the Vaasi. To save it, he sacrifices himself, dieing so that the Vaasi and his worshiper merge into one race called the Valachani."
+        },
+        {
+            "timetype": "notable",
+            "date": "341",
+            "description": "The Bright Blade is given to Sergei von Zarovich as he joins the Church of Andral."
+        },
+        {
+            "timetype": "notable",
+            "date": "346",
+            "description": "Count Barov and Countess Ravenia von Zarovich slain by Tergs."
+        },
+        {
+            "timetype": "notable",
+            "date": "347",
+            "description": "Strahd makes a pact with Inajira right before a critical battle with the Tergs. Last of the Tergs driven from Barovia. Strahd takes the rule over Barovia as the prize for his victory."
+        },
+        {
+            "timetype": "notable",
+            "date": "348",
+            "description": "Strahd orders the execution of the burgomaster of Renika for withholding taxes. The choice of a replacement is left to the people of Renika itself."
+        },
+        {
+            "timetype": "notable",
+            "date": "349",
+            "description": "Castle Ravenloft completed. Strahd assumes residence there. Pidlwik Dilisnya dies, but Leo Dilisnya still carries his hatred and plots out a conspiracy against the Von Zaroviches. Bizarrely enough, Pidlwick is buried in the catacombs beneath Castle Ravenloft. 1736 Forfarian Calendar: From his deathbed in absence of an heir,MacFarn of MacFarn, chief of Clan MacFarn, delegates the responsibility of choosing a successor from among his nephews to Lady Iolan. Of the choice between Duncan MacFarn and Donal MacFarn, Donal is eventually chosen."
+        },
+        {
+            "timetype": "notable",
+            "date": "350",
+            "description": "Count Strahd von Zarovich, Commander Alek Gwilym, Sergei von Zarovich, and Lieutenant Falov lead a military strike force to defeat Red Lukas and his gang of bandits. Most High Priest Kir dies creating the Holy Symbol of Ravenkind. Sergei von Zarovich succeeds him as high priest of Andral. The Ba'al Verzi try and fail to assassinate Count Strahd von Zarovich. 1737 Forfarian Calendar: An unnamed cleric of Diancecht writes The Purification of the Corrupt Flesh. Duncan MacFarn lures his brother Donal MacFarn into a trap under a pretense of a feast at Castle Forfarmax. Once Donal and his guard are inside the feast hall, Donal orders his archers to shoot them all dead. Donal and his soldiers all perish. Duncan's agents entomb the dead bodies beneath the stones of the castle's floor."
+        },
+        {
+            "timetype": "notable",
+            "date": "351",
+            "description": "Summer The massacre at the Wedding of Sergei von Zarovich occurs. Barovia forms as the first Ravenloft domain due the actions of Strahd von Zarovich. Strahd turns into a vampire. 1738 Forfarian Calendar: On the anniversary of their murder, Donal MacFarn and the Ghosts of Hospitality possess the stones of Castle Forfarmax and kill the traitor Duncan MacFarn and his retinue of servants and guests, leaving Castle Forfarmax empty and abandoned for centuries."
+        },
+        {
+            "timetype": "notable",
+            "date": "352",
+            "description": "Strahd flexes his muscles to show domination over Barovia. June Burgomaster Dagmar Olavnya is robbed of half of Immol's taxes."
+        },
+        {
+            "timetype": "notable",
+            "date": "357",
+            "description": "False History: On this approximate year, Léon (of Dementlieu) unites Dementlieu and establishes the Council of Brilliance."
+        },
+        {
+            "timetype": "notable",
+            "date": "372",
+            "description": "Boyar Victor Wachter dies in the search for Leo Dilisnya. Victor's daughter Lovina continues his mission after his death."
+        },
+        {
+            "timetype": "notable",
+            "date": "383",
+            "description": "False History: The Arcane Age of Darkon ends with Darcalus Rex eliminating his rivals and becoming king."
+        },
+        {
+            "timetype": "notable",
+            "date": "387",
+            "description": "May Dr. Blake Ramsay leaves Mordentshire and takes residence on the Isle, where he later becomes darklord of."
+        },
+        {
+            "timetype": "notable",
+            "date": "390",
+            "description": "(Outside Ravenloft) Klorr creates The Timepiece of Klorr."
+        },
+        {
+            "timetype": "notable",
+            "date": "393",
+            "description": "False History: The ancient wizard called the Nightmage creates various evil and vile creatures and magic items at Nartok, including several clans of Broken Ones. They eventually kill him and come to live in the catacombs beneath Nartok for at least three more centuries. Questionably-captioned.png October Liza Ramsay falls from the cliffs of the Isle. Dr. Ramsay, her father, forges a pact with the Dark Powers. He murders his wife Helen Ramsay and his two sons, Gregory Ramsay and Blake Ramsay, Jr. and uses their body parts to to make Liza into a dread flesh golem. He succeeds, but her eyes are tainted and deformed. Dr. Ramsay begins killing visitors to the Isle and harvesting their eyes."
+        },
+        {
+            "timetype": "notable",
+            "date": "398",
+            "description": "Count Strahd von Zarovich confronts Lord Leo Dilisnya at the Monastery of Silver Threads, walking into Lord Dilisnya's trap. Strahd is almost put down, but the monks of the monastery act to turn the tide of battle. Strahd turns Lord Leo Dilisnya into a vampire and imprisons him in a tomb to starve from a lack of blood."
+        },
+        {
+            "timetype": "notable",
+            "date": "399",
+            "description": "Summer: A girl known only as Marina is discovered wandering near Berez at the Luna River. She suffers from amnesia regarding her past. Lazlo Ulrich, the Category:Burgomaster of Berez, adopts her. Jezra Wagner is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "400",
+            "description": "First known reincarnation of Tatyana appears. Strahd meets a young woman named Marina when he purchases some spellbooks from her adoptive father, Burgomaster Lazlo, in the guise of Vasili Von Holtz. Strahd surreptitiously set about wooing Marina and transforming her into a vampire. However, his work is detected by Brother Grigor, whom informs Lazlo. Strahd dominates Brother Grigor and orders him to go on pilgrimage to the Shrine of the White Sun. However, Lazlo stakes Marina before Strahd complete the process of transforming her. In a final act of defiance against Strahd, the Mists abduct her staked body before Strahd can get back to her."
+        },
+        {
+            "timetype": "notable",
+            "date": "405",
+            "description": "(Approx.) - In Xi'anlin on the Prime Material Plane, Lai Niangxue dies waiting for her love, Lung Ma.[115] Lung Ma's bones are buried the very same day."
+        },
+        {
+            "timetype": "notable",
+            "date": "422",
+            "description": "Tristen ApBlanc resurfaces under the guise of a minstrel and distant relative of the ApBlancs. He lays claim to their old lands and orders the construction of the Lord's Tower. The Minstrel ApBlanc saves the future mother of Corey, an ancestor of one of the player characters."
+        },
+        {
+            "timetype": "notable",
+            "date": "423",
+            "description": "Corey, an ancestor of one of the player characters, is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "425",
+            "description": "First Unwise Rebellion - Minor noble families rise up against the Gundars and are crushed."
+        },
+        {
+            "timetype": "notable",
+            "date": "426",
+            "description": " Tristen ApBlanc tricks Isolt ApVay into marrying him by praying upon her sympathies for him as a cursed being. Over the next three years, they would produce three children, Gilan ApBlanc, Morholt ApBlanc, and Brangain ApBlanc. Winter: Jezra Wagner perishes on Mt. Baratok and becomes a heat-draining spectre."
+        },
+        {
+            "timetype": "notable",
+            "date": "435",
+            "description": "The Civil Wars of the Yinshi Empire end on this approximate year. The Lai Family abandons their estate in the country to return to their urban holdings."
+        },
+        {
+            "timetype": "notable",
+            "date": "436",
+            "description": "The Damneable Tragedie of Counte Vonn Zarovych by Demius the Bard, written in 436 BC. Includes an account of Strahd's deal with Inajira."
+        },
+        {
+            "timetype": "notable",
+            "date": "437",
+            "description": "Second Unwise Rebellion - Minor noble families rise up against the Gundars and are crushed for a second time."
+        },
+        {
+            "timetype": "notable",
+            "date": "439",
+            "description": "Tristen ApBlanc accidentally kills Gilan ApBlanc when he sends his wolves after the boy's dog Petitcrieu."
+        },
+        {
+            "timetype": "notable",
+            "date": "445",
+            "description": "According to a version of Strahd's diary ready by van Richten in 736 BC, Alina, the second reincarnation of Tatyana Federovna dies of fever in this year of 445 BC. Count Strahd attempts suicide with Alina in hand, but the Mists prevent him and snatch away her corpse. However, this goes against a version of Strahd's diary read by Jander Sunstar that says Tatyana's second reincarnation was Olya Ivanova who died 30 years later in 475 BC"
+        },
+        {
+            "timetype": "notable",
+            "date": "446",
+            "description": "Tristen ApBlanc mistakenly murders the sleeping Morholt ApBlanc, intending instead to murder his teacher Duncan ApDuguid."
+        },
+        {
+            "timetype": "notable",
+            "date": "451",
+            "description": "Tristen ApBlanc puts away Brangain ApBlanc in a hidden cell because of he feared her holy powers."
+        },
+        {
+            "timetype": "notable",
+            "date": "452",
+            "description": "The Mists claim Jander Sunstar. Despite being locked in her cell, Brangain ApBlanc vanishes without a trace. Tumbling to the truth of her huband's evil nature, Isolt ApBlanc confronts Tristen. He ultimately murders her, but he manages to cover it up as a suicide."
+        },
+        {
+            "timetype": "notable",
+            "date": "455",
+            "description": "The Vistana Maruschka born to the Zarovan tribe. (She will eventually take Eva’s place as Raunie.)"
+        },
+        {
+            "timetype": "notable",
+            "date": "457",
+            "description": "Treholan wipes out his rivals nobles and their families. He builds Castle Loupet."
+        },
+        {
+            "timetype": "notable",
+            "date": "460",
+            "description": "A curse transforms Castle Maiserene (from the county of Varno) into Bastardhall."
+        },
+        {
+            "timetype": "notable",
+            "date": "463",
+            "description": "Minstrel ApBlanc vanishes. The Lord's Tower now (or is thought to now) lies abandoned."
+        },
+        {
+            "timetype": "notable",
+            "date": "469",
+            "description": "Approximate year for the founding of the University of Lepidstadt."
+        },
+        {
+            "timetype": "notable",
+            "date": "470",
+            "description": "The Vistani appear in Barovia for the first time. Madame Eva makes a pact with Strahd."
+        },
+        {
+            "timetype": "notable",
+            "date": "475",
+            "description": "Martyn Pelkar is drawn into Barovia, bringing tales of a golden morning lord. At first the boy is called mad, but Martyn's stories of whom he called the Morninglord would sprout a full Cult of the Morninglord among the Barovians, which history shows as appearing that same year.[138] The figure protective figure Martyn encounters is not actually Lathander, but rather Jander Sunstar, whom was also a new arrival in Ravenloft."
+        },
+        {
+            "timetype": "notable",
+            "date": "477",
+            "description": "Maruschka comes into the full Sight."
+        },
+        {
+            "timetype": "notable",
+            "date": "485",
+            "description": "Petya and Anastasia Petrovich killed by Strahd. Urik von Kharkov becomes a vampire."
+        },
+        {
+            "timetype": "notable",
+            "date": "493",
+            "description": "In Prime Material Mordent, the de Boistribue Family disappears, leaving behind partly chewed bodies of servants, bloodstains, claw marks, and a single survivor: a servant driven so mad as to prevent the telling of what happened during the incident."
+        },
+        {
+            "timetype": "notable",
+            "date": "495",
+            "description": "Jacqueline Montarri murders Madame Eva and is horrifically cursed. Madame Maruschka becomes the new raunie of the Zarovan tribe. (Note that Madame Eva is still seen after this; this can be accounted for by her tribe’s existence in non-linear time.)"
+        },
+        {
+            "timetype": "notable",
+            "date": "499",
+            "description": "Alexi Sasha Petrovich, Leisl, and Jander Sunstar assault Castle Ravenloft drive Strahd into hibernation."
+        },
+        {
+            "timetype": "notable",
+            "date": "500",
+            "description": "Audun Beck, captain of the Illsong, discovers a magic gem while looting a wizard's tower. It transforms him into a sea vampire. After the healer in his village fail to restore him to life, he massacres everyone and burns the village to the ground. The Mists abduct him and his ship, taking them to the Sea of Sorrows."
+        },
+        {
+            "timetype": "notable",
+            "date": "501",
+            "description": "Third Unwise Rebellion - Minor noble families rise up against the Gundars for the third time. The rebellion is crushed and Duke Boldizar Gundar executes all nobles not related to the Gundars by marriage."
+        },
+        {
+            "timetype": "notable",
+            "date": "502",
+            "description": "Prime Material Mordent: Many of the Halloway Family and their associates and friends die suspicious deaths."
+        },
+        {
+            "timetype": "notable",
+            "date": "507",
+            "description": "Andrew ApFittle and Nellie ApFittle, twin brother and sister, are born."
+        },
+        {
+            "timetype": "notable",
+            "date": "510",
+            "description": "Prime Material Mordent: Lord Wilfred Godefroy is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "512",
+            "description": "Herrold ApKie (later known as Herrd) is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "514",
+            "description": "Yersinia Wachter is born. Jameld of Hroth is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "519",
+            "description": "Castle B Tristen, under the guise of Marc ApBlanc- the grandson of Bragain, claims the Lord's Tower and begins refurbishing it. Against the protests of the ApFittles, Tristen/Marc builds walls around his keep and begins recruiting. Monsters begin flooding the lands of Forfar for the next three years following this one, distracting the ApFittles from Tristen/Marc's activitie."
+        },
+        {
+            "timetype": "notable",
+            "date": "522",
+            "description": "Byron Weathermay is born. The Lord's Tower has now been remade into Castle ApBlanc."
+        },
+        {
+            "timetype": "notable",
+            "date": "525",
+            "description": "Lyssa von Zarovich is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "526",
+            "description": "Under the graces of the Church of Belenus, the Great Kingdom is established. Along with it, the Circle, in its original incarnation, is established for the Great Kingdom's protection."
+        },
+        {
+            "timetype": "notable",
+            "date": "527",
+            "description": "Nellie ApFittle, an ancestor of Shelaugh, joins the druids of Forfar."
+        },
+        {
+            "timetype": "notable",
+            "date": "528",
+            "description": "Outlander adventurers assault Castle Ravenloft and are destroyed. Ferdinand Misroi discovers Souragne on the Prime Material Plane."
+        },
+        {
+            "timetype": "notable",
+            "date": "533",
+            "description": "Katherine Sutherwaite, future wife of Byron Weathermay, is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "535",
+            "description": "Pierre Tarascon meets Hyskosa, whom reveals to him Hyskosa's Hexad two hundred years before the dukkar actually divined the prophecy."
+        },
+        {
+            "timetype": "notable",
+            "date": "537",
+            "description": "Aldrick Wachter is born. On this approximate year, Marc ApBlanc challenges the ApFittles for rule over Forfar, plunging it into civil war that lasts through the late 1920s in the Forfarian Calendar."
+        },
+        {
+            "timetype": "notable",
+            "date": "539",
+            "description": "The Mists draw the Timepiece of Klorr into Ravenloft at no later a year than this one."
+        },
+        {
+            "timetype": "notable",
+            "date": "541",
+            "description": "Wilhiem Wagner, Barovian composer, is born"
+        },
+        {
+            "timetype": "notable",
+            "date": "542",
+            "description": "Azalin enters Ravenloft and arrives in Barovia. Strahd discusses the potential threat Azalin poses with Madame Ilka, the new raunie of the Zarovan tribe (Maruschka having apparently died at some point in the last 40 years). Lord Patrick ApFittle dies, and Andrew ApFittle becomes lord of Forfar."
+        },
+        {
+            "timetype": "notable",
+            "date": "543",
+            "description": "The last of the Holsworth Family vanishes into the Sea of Sorrows. By this time, much of the Halloway Family and their associates have died under suspicious circumstances as well.  The Massacre of the ApFittles- ApFittle Hall is razed, leaving only the skeletal ruins of its foundation behind. In the smoldering ruins, Tristen orders the mass execution of no less than 27 of the ApFittles, thus heralding the start of the Time of Terrors. The spilled blood allows the seed of a Death's Head Tree to germinate and bloom 52 years later. Tristen ApBlanc's forces triumph over the Apfittles in the Forfarian Civil War."
+        },
+        {
+            "timetype": "notable",
+            "date": "546",
+            "description": "The people of Birnam sign papers of formal surrender to the minions of Tristen ApBlanc. Prime Material Plane: The Great Fire of Paridon."
+        },
+        {
+            "timetype": "notable",
+            "date": "547",
+            "description": "The Execution of Andrew ApFittle. Tristen ApBlanc wins a bloody civil war for Forfar. He orders the execution of the last ApFittle. As Tristen claims lordship of Forfar for himself, the Dark Powers respond. Forlorn becomes the second domain to form in Ravenloft. As part of the land's corruption, the Lake of Red Tears emerges, and Agatha swims in its depths.[165] Most of the surviving human Forfarians will flee Forlorn during this Time of Terror. Strahd sends Azalin to investigate Forlorn, but nothing of value to them is found."
+        },
+        {
+            "timetype": "notable",
+            "date": "550",
+            "description": "In this approximate year, Forfarian survivors stream over the border from Forlorn to Barovia and end up settling in Immol. Lyssa von Zarovich becomes a vampire and discovers a way to achieve the power of a vampire much greater than her age. Estelle Weathermay is born to Byron Weathermay and Katherine Sutherwaite Weathermay."
+        },
+        {
+            "timetype": "notable",
+            "date": "551",
+            "description": "Har'Akir appears. Paridon appears."
+        },
+        {
+            "timetype": "notable",
+            "date": "555",
+            "description": "On this approximate year, Xi'anlin is drawn into the Mists."
+        },
+        {
+            "timetype": "notable",
+            "date": "556",
+            "description": "The Dark Delvers are in operation by this year or earlier. However, both where they came from and how they got started remain unknown. Dr. Dominiani accidentally becomes a vampire with a transfusion of cerebral spinal fluid from one of Duke Gundar's vampire brides. Gundar refrains from killing Dr. Dominiani because the doctor is now Gundar's thrall."
+        },
+        {
+            "timetype": "notable",
+            "date": "557",
+            "description": "By no later than this year has Lord Wilfred Godefroy inherited Gryphon Manor. Henry Leighton, future husband of Virginia Weathermay, is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "560",
+            "description": "Prime Material Ustalav: Last known sighting of the Black Coach."
+        },
+        {
+            "timetype": "notable",
+            "date": "561",
+            "description": "Virginia Weathermay, future love interest of the Alchemist, is born to Katherine Sutherwaite and Byron Weathermay. Katherine Sutherwaite dies."
+        },
+        {
+            "timetype": "notable",
+            "date": "564",
+            "description": "Sebua appears."
+        },
+        {
+            "timetype": "notable",
+            "date": "565",
+            "description": "Leederik's Tower becomes a floating pocket domain"
+        },
+        {
+            "timetype": "notable",
+            "date": "566",
+            "description": "Lord Wilfred Godefroy marries Estelle Weathermay."
+        },
+        {
+            "timetype": "notable",
+            "date": "568",
+            "description": "Lilia Godefroy is born to Estelle Weathermay and Lord Wilfred Godefroy."
+        },
+        {
+            "timetype": "notable",
+            "date": "570",
+            "description": "The Mists claim Kalidnay[71] (or a copy of it), having been drawn from Athas."
+        },
+        {
+            "timetype": "notable",
+            "date": "574",
+            "description": "In Sebua, grave robbers drill a tunnel into Sephren's Pyramid. They accidentally set off a trap that unleashed swarms of grave scarab beetles, resulting in all of the robbers' deaths."
+        },
+        {
+            "timetype": "notable",
+            "date": "575",
+            "description": "Arak takes shape. 575 BC Lamordia is formed as an Island of Terror."
+        },
+        {
+            "timetype": "notable",
+            "date": "576",
+            "description": "((False History) Heinrich von Ostlin (then mayor of Helbenik) conquers all of the independent city states around him and unites them into the nation of Valachan under his rule."
+        },
+        {
+            "timetype": "notable",
+            "date": "578",
+            "description": "Lord Wilfred Godefroy canes Estelle Godefroy to death. When Lilia Godefroy tries to intervene, he murders her too."
+        },
+        {
+            "timetype": "notable",
+            "date": "579",
+            "description": "New Year's Day Lord Wilfred Godefroy commits suicide. Prime Material Mordent: The Mournesworth Family investigate a number of dreaded omens and rumors and commence a strange ritual before they ultimately disappear as Mordent is drawn into the Mists. Strahd and Azalin create a portal to Mordent[160], where The Alchemist conducts strange research on changing the soul.[180] The Mists snatch up Mordent before either Strahd or Azalin can make good their escape, leaving them with only hazy dream-like recollections of what happened. Azalin leaves the service of Strahd.[181][71] Darkon forms as he leaves Barovia. (False History) Late Fall: Darcalus Rex is overthrown by Azalin. Azalin holds a masquerade ball, calling the nobility of Darkon to its mandatory attendance. After Azalin introduces himself and proclaims rule of Darkon to be his, he kills anyone who refuses to acknowledge this right of rule."
+        },
+        {
+            "timetype": "notable",
+            "date": "580",
+            "description": "Master Bralkain and his wizard underlings inadvertently create the Key to the Abyss, thereby enabling the Whistling Fiend to enter the Land of Mists. The Whistling Fiend wipes out Creeana,causing all those who lived there to abandon the village or perish. A Barovian militia established by Boyar Yersinia Wachter and led by Aldrick Wachter repels an invading party of Azalin's undead. By this year, Il Aluk has 15,000 people residing within it. False History Graben Manor is built on Svidi Full-Sails's former island by a wealthy jewel-thief from the south."
+        },
+        {
+            "timetype": "notable",
+            "date": "581",
+            "description": "Bluetspur appears. Early Summer A lycanthrope agent of the Kargat infiltrates the Krezk militia before meeting his own demise. Summer Strahd's minions assassinate the leaders of the Kargat. This leaves the Kargat in shambles for years, and Azalin ceases the skirmish attacks on the borders of Barovia. Arrival of the Red Haunt in Darkon"
+        },
+        {
+            "timetype": "notable",
+            "date": "583",
+            "description": "Adam kidnaps Elise."
+        },
+        {
+            "timetype": "notable",
+            "date": "584",
+            "description": "Ghastria forms."
+        },
+        {
+            "timetype": "notable",
+            "date": "585",
+            "description": "Thaani stream into Barovia from Bluetspur. An exploratory party of spelunkers explores the depths under Arak and come back up the same day. For the spelunkers, the trip had been three whole weeks. From then on, Arakian miners avoided straying far from the surface as much as they could."
+        },
+        {
+            "timetype": "notable",
+            "date": "586",
+            "description": "Bloody Jack commits his first set of murders. False History A family of caretakers for the livestock of the Graben Family Estate is hired on. This family will stay with the Graben Family for at least the next 150 years."
+        },
+        {
+            "timetype": "notable",
+            "date": "588",
+            "description": "Spring: The Scourge of Arak. Keening appears."
+        },
+        {
+            "timetype": "notable",
+            "date": "590",
+            "description": "Pharazia takes shape."
+        },
+        {
+            "timetype": "notable",
+            "date": "593",
+            "description": "The domain of Gundarak appears. First known contact between Barovians and Gundarakites."
+        },
+        {
+            "timetype": "notable",
+            "date": "595",
+            "description": "Malamere turns Tavelia into a vampire. Tavelia is enslaved by Malamere, but her contributions to the Kargat speed her up the ranks. Eventually at some later date, she received her freedom for her efforts, and Azalin eliminates Malamere. The Death's Head Tree of ApFittle Hall sprouts its first batch of fruit."
+        },
+        {
+            "timetype": "notable",
+            "date": "596",
+            "description": "Cumbre de Oro forms."
+        },
+        {
+            "timetype": "notable",
+            "date": "597",
+            "description": "Farelle forms."
+        },
+        {
+            "timetype": "notable",
+            "date": "599",
+            "description": "Lord Byron Weathermay dies. Bloody Jack goes on his second murder spree in Paridon. Wilhiem Wagner, a noted Lamordian composer, dies. Anton Misroi is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "600",
+            "description": "Vechor is revealed. As Ravenloft claims the lair of Easan the Mad, Ahmi Vanjuko is taken as well. As the Mists surround the mansion, Vanjuko flees but winds up in Kartakass. The Drowning Deep forms."
+        },
+        {
+            "timetype": "notable",
+            "date": "601",
+            "description": "Ustalav (or some version of it) forms as a domain within the Land of Mists. Henry Leighton, by now haven long taken the Weathermay surname in exchange for a large financial reward, dies."
+        },
+        {
+            "timetype": "notable",
+            "date": "602",
+            "description": "Massa di Requiem per Shuggay,an opera, is written in Borca."
+        },
+        {
+            "timetype": "notable",
+            "date": "603",
+            "description": "Prime Material Plane: Ebb's shadow dragon kindred come into bloody conflict with humanoids. It doesn't go well for her relatives, but Ebb manages to escape. Bakholis totures and murders Marta and Karlus.[205] The domain of Invidia is revealed."
+        },
+        {
+            "timetype": "notable",
+            "date": "604",
+            "description": "The Royal Marikith Hunters are founded by Queen Orenia in Timor."
+        },
+        {
+            "timetype": "notable",
+            "date": "605",
+            "description": "Urik von Kharkov enters Darkon through the Mists. He hears about the immortal power of the Kargat vampires and seeks them out. However, he is enslaveed as one of their vampiric thralls for two decades."
+        },
+        {
+            "timetype": "notable",
+            "date": "606",
+            "description": "Thalis Redtree becomes baron of Nevuchar Springs, a title he holds to this very day (150 years as of the time of Gazetteer II."
+        },
+        {
+            "timetype": "notable",
+            "date": "607",
+            "description": "Sanguinia forms."
+        },
+        {
+            "timetype": "notable",
+            "date": "608",
+            "description": "(The Great Kingdom) Kateri Shadowborn gives birth to Alexi Shadowborn. (The Southern Empire) The Dark Triad summon back to the Prime Material Plane and attempt to bind the fiend Lussimar (also known as Ebonbane) within a magical sword. Although he is imprisoned within the sword, he kills the triad and reanimates them as ghouls. Thereafter, he begins hatching plans to enact his revenge upon Kateri Shadowborn for his original defeat."
+        },
+        {
+            "timetype": "notable",
+            "date": "610",
+            "description": "Harkon Lukas enters the Land of Mists[71] and goes on a rampage through Barovia. False History The Graben Family moves onto Graben Island full-time, adopting the island's name for their own."
+        },
+        {
+            "timetype": "notable",
+            "date": "611",
+            "description": "In her own home of Shadowborn Manor, Lady Kateri Shadowborn is attacked by a monastic possessed by (and wielding in sword-form) Ebonbane. The monastic is enemy turned friend Lysander Greylocks, whom Ebonbane has now killed and reanimated as a ghoul. Ebonbane strikes Kateri dead, but her will is too strong to be defeated. She rises as a ghost, her will binding Ebonbane to her manor. Shadowborn Manor is claimed by the Mists. Roman Dilisnya is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "612",
+            "description": "Bloody Jack goes on his third murder spree in Paridon."
+        },
+        {
+            "timetype": "notable",
+            "date": "613",
+            "description": "On this approximate year, Strahd encounters Harkon Lukas running amok in Barovia and thoroughly thrashes him, forcing Harkon to flee into the Mists. Kartakass is revealed. False History: The Invidian Occupation of Kartakass ends with the the Fall of Dargacht Keep. Lilliend is revealed."
+        },
+        {
+            "timetype": "notable",
+            "date": "615",
+            "description": "Elena Faith-hold's hands have become tainted by the many good and innocent lives she has taken in her War On Evil. Doubt begins to take root in her mind, bringing her to pray to Belenus for guidance. However, her actions have driven the sun god refuses to answer her, and the Dark Powers answer instead, bringing her to the Demiplane of Dread. Seemingly regaining her lost paladin powers, Elena sees her emergence into a new land as a test. Elena begins a new crusade against (what she presumes to be) evil, butchering several villages before becoming darklord. The domain of Nidala forms. The Sincomakti School of Sciences was founded on the south shore of Lantern Lake in Versex."
+        },
+        {
+            "timetype": "notable",
+            "date": "617",
+            "description": "The Great Fire of 617 BC devastates Aluk Septentrion. Under Baron Vestmar's supervision, the town is rebuilt. Lazarus Ikonnas and 4 other arcane spellcasters found the Fraternity of Shadows."
+        },
+        {
+            "timetype": "notable",
+            "date": "619",
+            "description": "Lady Virginia Weathermay dies."
+        },
+        {
+            "timetype": "notable",
+            "date": "620",
+            "description": "Timor appears."
+        },
+        {
+            "timetype": "notable",
+            "date": "621",
+            "description": "The Gauldamons's worship of Lou'gal the Smiling One is uncovered. All the members of the clan are killed or chased away into the nearby forest, where they will be hunted down over the next few decades."
+        },
+        {
+            "timetype": "notable",
+            "date": "622",
+            "description": "After seven decades, Tristen ApBlanc puts all of the goblyns of Forlorn under his control. Under Tristen's command, his gobblyns extend and build out the structures of Castle Tristenoira. Tristen begins persecuting the Forfarian druids."
+        },
+        {
+            "timetype": "notable",
+            "date": "624",
+            "description": "(The Great Kingdom) Alexi Shadowborn is knighted. He begins campaigning against evil in the service of Belenus."
+        },
+        {
+            "timetype": "notable",
+            "date": "625",
+            "description": "Urik von Kharkov's vampire master is slain. Kharkov flees, casually murdering any souls unfortunate to cross his path.[207] As a result, Valachan forms, and he becomes a darklord. Bloody Jack goes on his fourth murder spree in Paridon. On this approximate year, Jax Stormguard, an outlander paladin, is drawn into Ravenloft."
+        },
+        {
+            "timetype": "notable",
+            "date": "626",
+            "description": "Sir Kendall dies, leaving room for Alexi Shadowborn to fill his slot in the Paladins of the Circle. Vandals begin defiling the tombs and graves in the city of Brimstadt. The desecration of graves in Brimstadt warrant the intervention of Alexi Shadowborn. He investigates and ambushes the desecraters. He discovers the desecraters are to be ghouls marked with a death's head emblem, (unknown to Alexi at the time) the symbol of Ebonbane. Alexi narrowly survives the encounter. The Darkening shows Belenus's disfavor of Alexi Shadowborn joining the Circle, causing him to fail his Rite of Ascension. On the way home, he meets Lysander Greylocks for the first time. In the company of Ferran Shadowborn (then Alexi's squire), Dasmaria Eveningstar, and Lysander, Alexi Shadowborn leaves the Great Kingdom for the Southern Empire, hoping to root out the killer of his mother, Kateri Shadowborn. Instead, Alexi and his friends are brought into the Phantasmal Forest. They encounter and destroy two of the Dark Triad, though at the cost of Dasmaria's life, before entering Shadowborn Manor. Lysander's existence is ended. Kateri's spirit can no longer contain Ebonbane, and the sword that held him is shattered in combat with Alexi. Although Ebonbane is briefly freed, Alexi absorbs the fiend into his body, serving as Ebonband's new prison. Now bound to Shadowborn Manor, Alexi sends Ferran, along with their mounts, back to Shadowfast.[232] Ferran arrives back home safely. In the years to follow, Ferran will join the Circle and become an influential hero in his own right.[233] Meanwhile, Alexi remains within the Demiplane of Dread with the intention of starting a new incarnation of the Circle[234], which will eventually become the Knights of the Shadows."
+        },
+        {
+            "timetype": "notable",
+            "date": "627",
+            "description": "Lazlo Monz is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "630",
+            "description": "The Sea of Sorrows becomes the western coast of the Core.  False History March Anatal ancestors of the modern Grabenite villagers arrive on Graben Island, as refugees fleeing the Óvinur Ódn (= enemy storm) besetting the North Wild. Efraim's Agreement. August The Village of Graben is founded. Settlers are initially led by clerics, with assemblies filling an advisory role."
+        },
+        {
+            "timetype": "notable",
+            "date": "631",
+            "description": "(Approximately) Alexi Shadowborn founds the second incarnation of the Circle in the Land of Mists. The Knights of the Shadows refer to its members."
+        },
+        {
+            "timetype": "notable",
+            "date": "632",
+            "description": "Kirchenheim is founded."
+        },
+        {
+            "timetype": "notable",
+            "date": "633",
+            "description": "(Alphatian Empire, Mystara) Meredoth accepts the title of Baron of Norwold with the understanding he would not be interrupted from his research. He gains an island of the coast."
+        },
+        {
+            "timetype": "notable",
+            "date": "634",
+            "description": "Dr. Germain d'Honaire is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "635",
+            "description": "Meredoth Poisons His Subjects. This mass murder and reanimation of his subjects causes Nebligtode to form, drawn in from off the coast of Norwold (a territory of the Alphatian Empire in the world of Mystara). At this stage of its evolution, Nebligtode consists of a number of islands in the Sea of Sorrows. After spending some time exploring, Meredoth kills and reanimates the Graben Family. Souragne forms. This year marks the start of a dreadful decade of inner turmoil, isolation from the outside world, and harsh laws for Souragne. Captain Edvard Renfus, a Darkonian sailor, is the first documented foreigner to spot Souragne after it has entered the Mists. Mr. D. goes on a murder spree in Caliphas."
+        },
+        {
+            "timetype": "notable",
+            "date": "636",
+            "description": "By this year or earlier (Possibly False History), a family of servants is hired by the Grabens to attend to the cooking and cleaning chores of the Graben Family Estate. Gregory and Dorina, both high-level Forfarian druids, craft the horn of the sacred grove in this year at the earliest."
+        },
+        {
+            "timetype": "notable",
+            "date": "637",
+            "description": "Frederick van Richten, grandfatherr of Rudolph van Richten, establishes the Richten Haus estate on the outskirts of Rivalis."
+        },
+        {
+            "timetype": "notable",
+            "date": "638",
+            "description": "By this year or earlier, the Cemetery of Marais d'Tarascon is sealed due to some horrible event that is now unknown. Bloody Jack goes on his fifth murder spree in Paridon."
+        },
+        {
+            "timetype": "notable",
+            "date": "640",
+            "description": "(The Great Kingdom)Leaving his home world to start a new life and atone for hisi misdeeds, Morgoroth comes to the Great Kingdom, where he consults with the now-adult Lord Ferran Shadowborn. Morgoroth bears witness of his deeds but also his will to atone to Ferran. Ferran listens and grants him asylum and a chance for repentance in exchange for an oath of loyalty. After swearing his oath to Ferran and receiving a parcel of land, Morgoroth uses arcane magic to construct Tergeron Manor in a single night. In the years to follow, the literal ghosts of Morgoroth's past come to haunt him and the forest surrounding his manor, causing it to be referred to as the Phantasmal Forest, Speculation.png named after and confused with the Phantasmal Forest of Ferran's stories of Ebonbane's domain. Azalin appoints Tavelia as Kargat leader in Martira Bay. Lars Viggsen and the Óndskapur discover Todstein,visiting it again each year until 644, when the vessel fails to return to Graben Island."
+        },
+        {
+            "timetype": "notable",
+            "date": "641",
+            "description": "Yakov Dilisnya is born. Domestic reindeer are brought to Graben Island from Todstein. Duke Gundar tries to force the bards of the [[Morts-Qui-Dancent to serve as his spies. When they refuse, Duke Gundar calls on his son Medraut Gundar to torture them and curse them with a unique form of cursed undeath. The bards are required to regularly entertain others or face loss of the energy that animates them."
+        },
+        {
+            "timetype": "notable",
+            "date": "643",
+            "description": "Blaustein forms. Burton Wescote and his would-be wife Ann are to be wed through an arranged marriage. A bizarre and mysterious series of events leaves Ann dead at the feet of Burton's hounds after Ann had killed Michael Wescote. Burton, for his part, becomes cursed. Curious about Lars Viggsen's repeated trespassing, Meredoth investigates Graben Island and its natives. Early reports of Aegir's Jackdaw circulate in response to the wizard's broom-mounted flights over the Island. On this approximate year, Gundarakite loggers begin an almost 20 year period of chopping down Forfarian trees for lumber."
+        },
+        {
+            "timetype": "notable",
+            "date": "644",
+            "description": "The Óndskapur and its crew failed to return from their fourth expedition.[262] Lars Viggsen and his crew are believed to have frozen to death on Todstein,[263] following his ship wrecking on an iceberg."
+        },
+        {
+            "timetype": "notable",
+            "date": "645",
+            "description": "Morgoroth confesses his love to Aurora Shadowborn, but she flees, having feelings for him but having already sworn an oath of celibacy as high priestess of Belenus. Morgoroth mistakes her shock and sadness for revulsion and flees back to Tergeron Manor. Morgoroth and Aurora avoid each for a year, causing Morgoroth's heart to weigh heavy with despair. Anton Misroi applies the supernatural knowledge he gained from the Maiden of the Swamp to become the Lord of the Dead. He gains fantastic mystical power and appears alive and human once more. However, by infusing himself with supernatural might, Misroi binds his essence to the swamp. Therefore, he cannot walk on the solid ground of the western half of his domain. The period of chaos in Souragne seemingly ends. Trade is reestablished, and the plantation owners free their slaves on paper, but many former slaves remain so far in debt not much has changed. Lady Kazandra, future Kargat leader, is born in Maykle."
+        },
+        {
+            "timetype": "notable",
+            "date": "646",
+            "description": "Sir Lambert, a knight from Morgoroth's homeworld, comes through a portal into the Great Kingdom, seeking to punish the necromancer for his past crimes. Lambert states his intentions to Lord Ferran Shadowborn and the Circle (Society). Without waiting to hear judgement from the Circle, Lambert confronts Morgoroth at Tergeron Manor. In slaying Lambert, Morogorth realizes he will never atone. Lord Ferran knocks upon Morgoroth's door, hoping to find a peace. However, Ferran does not return. Morgoroth kidnaps Aurora Shadowborn, causing the Circle to attack Tergeron. Morgoroth or his forcs cause all of them to lose their lives or disappear without a trace. A storm rocks the Province of Avonleigh, causing the populace to cling together in their homes. The next morning, a mob forms to burn down Tergeron but find only a clearing where it one stood. The Dark Powers make Morgoth a darklord. The domain of Avonleigh forms[215] (different from the Province of Avonleigh which remains behind), arising in the the Phantasmal Forest."
+        },
+        {
+            "timetype": "notable",
+            "date": "647",
+            "description": "In Nebligtode, the first reports of Meerdorf on Knammen Island date from this year."
+        },
+        {
+            "timetype": "notable",
+            "date": "648",
+            "description": "The Red Haunt finds the Kalidnay grimoire in Artan-Ak."
+        },
+        {
+            "timetype": "notable",
+            "date": "650",
+            "description": "The Kargat establish the Faith of the Overseer in Darkon.[72][73] Tavelia is the one most responsible for its creation, having woven the dogma of the church from bits of various outlander religions and stuck them into the Doctrinae. The Red Haunt passes through the Threefold Path and enters Lilliend."
+        },
+        {
+            "timetype": "notable",
+            "date": "651",
+            "description": "Bloody Jack goes on his sixth murder spree in Paridon. Carcharodon Isle appears in the Sea of Sorrows. Baron Mikhail Ulyanov, Kargant agent and wolfwere, is appointed ruler of the newly formed Carcharodon Isle. His arrival on the island also hearkens the first appearance of wolves on the island. The Last Azlanti, god of Humanity, goes silent and henceforth becomes known as the Forgotten God. On Graben Island, Kirchenheim is resettled permanently[237] following the building of its seawall."
+        },
+        {
+            "timetype": "notable",
+            "date": "652",
+            "description": "Mercantor Melachthon, one of the founders of the Fraternity of Shadows, is lost to the Mists. Feynnman Ikonnas is his replacement. Dr. Blake Ramsay leaves Mordentshire for the Sea of Sorrows and takes residence on the Isle, where he later becomes darklord of."
+        },
+        {
+            "timetype": "notable",
+            "date": "653",
+            "description": "False History: The d'Aloure noble family of Dementlieu is well connected and powerful, but as time goes on, its fortunes begin to wane."
+        },
+        {
+            "timetype": "notable",
+            "date": "654",
+            "description": "(Prime Material Plane) Claude Renier, future patriarch of the Reniers, is born. On this approximate year, Locknar Cove is taken by the Mists to form an Island of Terror."
+        },
+        {
+            "timetype": "notable",
+            "date": "656",
+            "description": "Ebb stalks those who killed her shadow dragon relatives, but she is drawn into the Mists. Winding in up in Darkon, she first comes into conflict with Azalin but then reaches an accord with him through their mutual power and condescension towards living humans. Rook Hill Manor is constructed Delmunster by this year at the latest. After his parents murder Erich Reinhold and hold a funeral for him, Erich rises from the grave vrykolaka vampire. He murders everyone at Reinhold Manor. Reinhold begins haunting the hills of Soutwestern Barovia. Tiryn Olenka-Blaas is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "657",
+            "description": "The Yeomanry is organized after a series of reaver attacks on Graben Island. Earliest ship log references to Meerdorf."
+        },
+        {
+            "timetype": "notable",
+            "date": "658",
+            "description": "The Wildlands forms. Lazlo Monz becomes the first director for the Hospital for the Alienated. First documented trade between Graben Island and vessels from the Sea of Sorrows. The Call of the Claw Mistway connects Nebligtode to the Core at this time."
+        },
+        {
+            "timetype": "notable",
+            "date": "659",
+            "description": "On Graben Island, Seeheim is founded in response to repeated sea reaver attacks. Although Tristen ApBlanc has tolerated the Gundarakite loggers in Forlorn for years, they cut too close to Castle Tristenoira on this year. In response, Tristen's goblyns chase the Gundarakites out of Forlorn."
+        },
+        {
+            "timetype": "notable",
+            "date": "660",
+            "description": "Kingdom of Vaasa: Tristen Hiregaard is born. [The given date of 664 BC is inconsistent with him being 11 when his father commits suicide in 671 BC and with the 11 years between his first love and the formation of Nova Vaasa. In the Transpossession Temptation dread possibility, Lydia Graben tells her son, Colin Graben, stories about the Apparatus."
+        },
+        {
+            "timetype": "notable",
+            "date": "661",
+            "description": "False History: Yome of the Weeping Eyes, last of the Warrodine kings and the Fifth Hazlani Dynasty, perishes. He leaves behind no Mulan child to inherit his throne, thereby beginning the Years of Tattered Banners. Araby Graben runs off with a sea captain.[287], one year before the Graben Family Massacre."
+        },
+        {
+            "timetype": "notable",
+            "date": "662",
+            "description": "Camille Dilisnya is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "663",
+            "description": "On this approximate year, Gundarakite loggers delve too far into the forest of Forlorn, and Tristen ApBlanc gathers his goblyns and drives them off. The loggers have not returned since then."
+        },
+        {
+            "timetype": "notable",
+            "date": "664",
+            "description": "Bloody Jack goes on his seventh murder spree in Paridon. Tristen Hiregaard is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "665",
+            "description": "Emily Gerhardt born. Vlad Drakov is born on the outlander world of Krynn."
+        },
+        {
+            "timetype": "notable",
+            "date": "666",
+            "description": "Yakov Dilisnya suffers a seizure while riding; he writes the First Book of Ezra while recovering."
+        },
+        {
+            "timetype": "notable",
+            "date": "669",
+            "description": "Kingdom of Vaasa: Romir Hiregaard begins his turn as Prince of Vaasa. Orinda Nahle is born in Skald."
+        },
+        {
+            "timetype": "notable",
+            "date": "670",
+            "description": "Sri Raji forms. (Kingdom of Vaasa): Prince Romir Hiregaard, father of Tristen Hiregaard, kills his wife in an unjustified fit of jealous rage and is cursed by her to kill any woman he loves. (Tristen is ten.) Terlarm is born in the world of Krynn. Klaus Boritsi is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "671",
+            "description": "Rudolph van Richten is born. (Kingdom of Vaasa):Prince Romir Hiregaard commits suicide, his son Tristen Hiregaard becomes prince at the age of 11, Sergei Hiregaard is regent, and the curse jumps to Tristen. Baron von Kharkov I encounters the Cat of Felkovic, and the encounter leaves von Kharkov I dead. Von Kharkov II takes his place on the throne.[178] In truth, this was a critically failed attempt at destroying the nosferatu von Kharkov by Felkovic the wizard. The price he pays for failure is high, as his ghost is no longer connected to the statue. Instead, his spirit is trapped in his tower. Howard Lumley creates a few very crude prototypes of machines that are powered by larger boilers, but nothing tiny enough for his Automatic Man. He employs some Vistani thieves to retrieve a book from Lamordia for him.[295] That text is Notes on Animation (written by Creighton Arkwright) and is actually a manual of golems."
+        },
+        {
+            "timetype": "notable",
+            "date": "672",
+            "description": "Howard Lumley is warned by the Order of the Guardians not to utilize the Notes on Animation.[296] He disregards this warning and has an Automatic Man up and running three months later. After it runs amok, the townspeople demand it destroyed. When Lumley tries to prevent them, the Automatic Man thinks its creator has betrayed it and kills him. The townspeople attack it and the Lumley House, ultimately taking down the dread mechanical golem before abandoning the House. As the year passes, flooding partially submerges the House into the earth. The Graben Family Massacre In Nebligtode, Colin Graben murders his his Brynna Graben and Danar Graben (his aunt and uncle, respectively), but then Meredoth massacres him along with the rest of the Graben Family. Meredoth reanimates the lot of them as lebendtod and commands them to gather subjects for his vile experiments."
+        },
+        {
+            "timetype": "notable",
+            "date": "673",
+            "description": "Last documented case of an encounter with a member of the Gauldamon Family. Hazlik is born in Thay."
+        },
+        {
+            "timetype": "notable",
+            "date": "674",
+            "description": "Yagno Petrovna is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "675",
+            "description": "Members of the Order of the Guardians steal the Key to the Abyss from the dungeons beneath Castle Avernus. False History: First records of abnormal creatures appearing in the land of Lamordia. Lord Balfour de Casteelle is born. Lord Jules Weathermay is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "676",
+            "description": "After laying dormant for several years following the suicide of Romir Hiregaard, but it Lord Tristen Hiregaard falls in love with a peasant girl, kisses her, and kills her. The crime is covered up, Tristen is remorseful, but enjoyed the deed in the moment."
+        },
+        {
+            "timetype": "notable",
+            "date": "677",
+            "description": "Bloody Jack goes on his ninth murder spree in Paridon. L'île de la Tempête forms. Thanks to the rage brought on by the curse, Lord Tristen Hiregaard begins a string of murders that will total nine women over the next six years. Orinda begins singing for the patrons at the Tipping Minstrel."
+        },
+        {
+            "timetype": "notable",
+            "date": "678",
+            "description": "Maria Van Richten is born. Bernadette d'Honaire is born. Hugues Mousel is born. Jerubaal Iskway, one of the founding members of the Fraternity of Shadows, disappears in Castle Tristenoira. He is presumed to be deceased."
+        },
+        {
+            "timetype": "notable",
+            "date": "679",
+            "description": "Rudolph Van Richten is sent to boarding school in Nartok. A childhood friend is Eldrenn Van Dorn. Wilhelm von Lovenhorst becomes one of the Umbra. Joan Secousse is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "680",
+            "description": "(Valachan) The depredations of Lady Adeline causes several rebellions through out this 50 year timespan. Casimir (not to be confused with Harkon Lukas’ son) starts working at Richten Haus as the gate keeper. (Approximately) Maudit Sienne, the Puppetmaster, drives leads a carnie rebellion and drives out the previous carnival master. However, he is captured and, given a tough choice, elects to become the new master of Carnival l'Morai. The lich Phantom's Bane kills Adame Nicht, one of the founders of the fraternity. Mazer Tam takes his place."
+        },
+        {
+            "timetype": "notable",
+            "date": "681",
+            "description": "Camille Dilisnya marries Boyar Siegfried Grymig. Simon Audaire is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "682",
+            "description": "Tristen Hiregaard tries to escape his madness by committing suicide like his father before him. Before Tristen can finish the act, the Mists intervene, and the domain of Nova Vaasa appears. In the Second Judgement of the Lawgiver, the Vaasans are wrenched from the Faldverden (“Fallen World”) into the Falskverden (“False World”). Nova Vaasa emerges from the Mists. Prince Ingemar Bolshnik describes the appearance of Barovia, Arak, the Nightmare Lands, and the Mists upon the frontiers of his land with the words: “howling fear to the west, stone death to the north, shapeless nightmares to the east, and nothing but ominous swirling to the south”. (Winter) The Clever Gray Malken tavern hosts the first murder of the Signature Killer. Alyn Dragant tracks the Whistling Fiend from Invidia to Darkon. Kristina Dilisnya, future sister to Ivan Dilisnya, is born to Stefania Septow and Boris Dilisnya. S.H. Williby is born. Shelaugh, one of the surviving ApFittle Family and future leader of the Rowan Faction, is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "683",
+            "description": "Mordenheim creates Adam. Adam Curses Mordenheim. The domain of Lamordia forms.(In the Domains of Dread timeline, Lamordia merely joins the Core on this year. Tristen Hiregaard is knighted by Prince Kethmar Bolshnik and the men become friends. Sir Tristen Hiregaard becomes an officer of the Kantora City Guard and begins the hunt for the Signature Killer. He will rise to be the Constable of the Kantora City Guard by 717 BC at the latest. Malken will murder his first wife, Ailsa, and child, Ivaar. The tortured spirt of Ivaar may survive as a ghost in a haunted Kantora orphanage. Marcel Guignol is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "684",
+            "description": "Camille Dilisnya discovers her husband, Siegfried Grymig affair with Maria Diazi Camille poisons both Siegfried and his mistress to death. Camille's relatives send her off to Invidia, but the Mists interrupt her en route. The domain of Borca is revealed due to the actions of Camille Dilisnya. Native Borcans believe her to have delivered them from isolation in the Mists, thus ending the 333 year epoch of the Vacancy of Power. As the then-apparent sole heir of the Dilisyna rule, she is given uncontested ownership of all Borcan lands. Boris Dilisnya and others of Ivan Dilisnya's family move from Barovia to Borca. Yakov Dilisnya is among their number, and he convinces Camille to support the Church of Ezra. In Nova Vaasa, the misguided Brother Micah, of the Order of Tramalaine, summons the fiendish Black Duke. Micah fails to control the fiend; he and his laboratory are destroyed, and the fiend disappears, unseen by living eyes. Nathan Timothy, future darklord of Arkandale and father of Alfred Timothy, is born in Mordent. Azalin calls Styrix the night hag into the Land of Mists. After a number of months, her research of an escape proves fruitless. In response, Azalin banishes her from Castle Avernus."
+        },
+        {
+            "timetype": "notable",
+            "date": "685",
+            "description": "Construction begins on the Great Cathedral of Levkarest. The Church of Ezra is spreading across Borca. Cynthia Herbert is born. Drataan is razed by the Black Duke and the Brotherhood of the Whip. Armand Ironhand confronts and is put to flight by the Black Duke.  Saarkaath forms in this approximate year. The Adventuring Band of Loran Elbrian visits the the Tipping Minstrel in Kartakass. Perryn and Orinda fall in love, and they are wed in a private ceremony with only the other adventurers present. Orinda begins receiving training to become an adventurer. Fall Rudolph Van Richten meets Robert Tatenna, a fellow student at boarding school."
+        },
+        {
+            "timetype": "notable",
+            "date": "686",
+            "description": "In this year at the latest, The Isle of Demise forms. The Doma Odana, piloted by Captain Johan Werner and his crew, crashes into the hidden Isle of Demise. Most perish instantly, but Captain Werner and his men explore the Isle. They come to a path underground, eventually leading to a labyrinth. All but Werner are slain by Althea or other menaces. Werner is blinded, but he escapes, as commented about in his journal. His final fate remains unknown. Jacqueline Renier and Louise Renier are born as twins to Simon Audaire and Marie Renier. Mongrelmen flee G’Henna into the Darkonian wilderness. Karuk Abjen and a Kargat legion is sent to destroy them, but Karuk and his army are destroyed instead. Borigia Vetighetto of Borca, a landscape painter, dies."
+        },
+        {
+            "timetype": "notable",
+            "date": "687",
+            "description": "Camille Dilisnya marries Klaus Boritsi. Praesidius Yakov Dilisnya presides over the marriage."
+        },
+        {
+            "timetype": "notable",
+            "date": "688",
+            "description": "Hoder MacGrannin and Forfarian settlers establish Forfarmax. Camille Dilisnya marries Klaus Boritsi, her second husband. Joachim Antuns is born. Autumn: The Crimson Death originates in the Boglands. It eventually spreads to Il Aluk and, from there, the rest of Darkon, killing an estimated 1 out of every 5 Darkonians. To combat the spread of the plague, Azalin institutes a merciless regimen of quarantines for the next three decades, ordering death for any whom defy them. Winter The Crimson Death spreads across Darkon; it claims Rudolph van Richten’s great aunt Helga despite his efforts. As a result, Rudolph is even more driven into his medical studies. The Red Haunt's persona Katia Schlosser and Victor Mordenheim have a violent falling-out when she discovers his plan to transplant Elise's brain into her body."
+        },
+        {
+            "timetype": "notable",
+            "date": "689",
+            "description": "Professor Abelhous Nicholsi is born in Darkon. Pock, a gnomish pickpocket, is caught stealing from Baron Caidin's guests. Caidan recruits Pock as a court jester and spy. Franklin Tennyson, Ezrite missionary, comes to Souragne. Spring: The Crimson Death is on the decline. History credits Azalin's quarantines as responsible for its decline, though he continues its enforcement for the next three decades. The decreased population allows women opportunities for career advancement previously unavailable. Late Year Vlad Drakov and his Talons of the Hawk enter the Mists and come out in Darkon. They immediately put the Darkonian villages of Pound, S'Realm, and Glymshire to the torch. The undead retaliate, and Vlad's mercenaries are expelled into the Mists. Ivana Boritsi and Ivan Dilisnya are born on the same night."
+        },
+        {
+            "timetype": "notable",
+            "date": "690",
+            "description": "Bloody Jack goes on his ninth murder spree in Paridon. Falkovnia forms. The Mists claim Terlarm and his companions from the Krynnish city of Palanthas and bring them to Barovia Village. The Endless Road and the Winding Road form. The merchant ship Dragon's Gold enters Ravenloft in the domain of Île de la Tempete, and its crew falls victim to Captain Monette. The Winding Road and the Endless Road pocket domains form."
+        },
+        {
+            "timetype": "notable",
+            "date": "691",
+            "description": "Claude Renier and his wererats enter the Land of Mists from the world that spawned the domain of Mordent. The wererats first turn up in Silverbas, Falkovnia. The domain of Tepest appears. This year and the next are marked by massive crop failure, starvation, and and particularly harsh winters, but the nobility of Darkon and Nova Vaasa, especially Tristen Hiregaard, contribute supplies to help the Tepestani people survive. Falkovnia faces two threats in Silbervas: a rising thieves' guild and an infestation of wererats. They are both led by the Clawed. The period of Falkovnian history known as the Years of Impaled Rats begins. Nostalia Romaine is born. Josif Muscat, future founder of the The Keepers of the Coil is born in this approximate year. The Church of Ezra is made the official state-religion of Souragne. The Stamp Act of Zherisia is allowed to expire."
+        },
+        {
+            "timetype": "notable",
+            "date": "692",
+            "description": "Rudolph and Ingrid van Richten's son Erasmus van Richten is born. In Tepest, this year and the previous are marked by massive crop failure, starvation, and and particularly harsh winters,but the nobility of Darkon and Nova Vaasa, especially Tristen Hiregaard, contribute supplies to help the Tepestani people survive."
+        },
+        {
+            "timetype": "notable",
+            "date": "693",
+            "description": "Mika moves from Il Aluk to Nartok and begins practicing medicine at an inn called the Black Boar. At some low cliffs in the Forest of Shadows near Nartok, a bell tower allegedly springs up from the ground, tears free of its foundations, and runs off only to fall over the nearby cliffs. Regardless of whether this tale is true, ruins remain there to this day. Birth of Clementine Schlosser in a manor near Chateaufaux in Dementlieu. The young succubus hones her hunting skills and learns to feed on the manor's servant staff."
+        },
+        {
+            "timetype": "notable",
+            "date": "694",
+            "description": "By this year, Borca has transformed into a major hub of trade. This is due, in part, to the arrival of the Dilisnya Family over the past decade and the utilization off their social and economic ties. Vlad Drakov drives out the wererats (and their leader of Silbervas and Falkovnia altogether. The Years of Impaled Rats period ends. The domain of Richemulot is revealed. Claude Renier is its first darklord. (Richemulot): By this year, the Lock and Key is active. Sir Tristen Hiregaard serves as prince of Nova Vaasa. Sulo Boritsi is born to Camille Dilisnya and Klaus Boritsi."
+        },
+        {
+            "timetype": "notable",
+            "date": "695",
+            "description": "Sir Armand Ironhand publishes The Beast of Ehrendton, a tragic saga, to widespread popular acclaim. Falkovnia invades Lamordia in the Winter War. After Lamordian forces skirmish with Falkovnian invaders, the Hoftmann Hospital is opened to soldiers wounded in war. Unfortunately, the field hospital is built upon the prison of the Lurker, a Greater Fihyr imprisoned in the ground long ago. The pain and agony of the soldiers begin to awaken the Lurker. Meltos, later childhood friend of Leobe, is born in Kellee. First services in the unfinished Great Cathedral of Levkarest. Daniel Foxgrove, future husband of Alice Weathermay and mayor of Mordentshire, is born. Young Ivan Dilisnya begins torturing animals. Lucretia Marzeya, future wife of Ivan Dilisnya, is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "696",
+            "description": "January: The Falkovnians retreat from Lamordia due to its freaklishly harsh winter, ending the Winter War. With a ceasefire at hand between Lamordia and Falkovnia, the Hoftmann Hospital opens its doors to the public after being refurbished into a full hospital. Yagno Petrovna creates a cave altar to Zhakata. He starts making sacrificial offerings of animals to his false deity. Sometime between this year and 702 BC, Wladomir vanishes, and the shepherds Elessi and Evanda die from apparent suicide. However, Yagno Petrovna may have been responsible for all their deaths. (Approx.) Azalin assembles the doctrine of the Eternal Order from various bits of Darkonian folklore. In this year or the next, Calum Songmaster founds the Brotherhood of Broken Blades. Tobias Stark, an associate of Orinda Nahle, is killed by Claude Renier. Anton Boritsi is born to Camille Dilisnya and Klaus Boritsi. Dr. Van Richten meets Antonin Madren and becomes his mentor. One of Urik von Kharkov's brides flees Castle Pantara and seeks sanctuary at the Hospice of the Sheltered Grace. The building falls down shortly thereafter, killing the refuge seeking bride inside."
+        },
+        {
+            "timetype": "notable",
+            "date": "697",
+            "description": "On this approximate year or the previous, The Brotherhood of Broken Blades is founded by Calum Songmaster. Klaus Boritsi buys Danzig's Icon of Ezra and gives it to his daughter Ivana Boritsi. Camille Dilisnya poisons her husband Klaus Boritsi and his mistress. After the Ba'al Verzi assassins botch several attempts on his life, Boyar Nicu Moldonesti seizes control of the organization, and he enslaves many of its master assassins. The plague known as the Black Death strikes Richemulot. (Darkon): By this year, William Burke and William Hare are active resurrectionists. They eventually begin gathering corpses via murder. They are later apprehended and executed, but they rise from the grave as ghouls. Etienne Lefebvre, son of a magistrate, abandons the legal profession in order to join the clergy of the Church of Ezra. (False History) The College of Liffe is founded."
+        },
+        {
+            "timetype": "notable",
+            "date": "698",
+            "description": "Camille Dilisnya holds the Dinner of Death. Yakov Dilisnya is among those poisoned by Camille. Blame upon her for the murder of their leader spreads far and wide among Ezra's faithful. Borca's streets erupt in open violence. Under advice, Camille quells the riots by building a monument to Yakov on church grounds and demonstrating great acts of (apparent) mourning. Donella Borovsky becomes Praesidia. The construction of a statue of Yakov, a mortal man, upon Ezran holy ground causes dissidence within the Church of Ezra. The First Schism splits the faithful. After all is said and done, a Rite of Revelation is created to reveal those truly favored by Ezra. Markovia forms. In Nova Vaasa, the Dyskov Forest is effectively put off limits for four decades. On this approximate year, a mob runs Mikel Gunderling out of Il Aluk on suspicion of using necromancy to achieve immortality. Bernadette d'Honaire marries Hugues Mousel, a giomorgo mystic, defying her father, Germain d'Honaire's wishes for her to wed into the Weathermay Family. This defiance alienates Germain, and through him, the rest of the D'Honaire Family from Bernadette."
+        },
+        {
+            "timetype": "notable",
+            "date": "699",
+            "description": "Felix Wachter writes the Second Book of Ezra[72][73], founding the Mordentish sect of the Church of Ezra. Sentire Franklin Tennyson embraces the teachings of the Second Book of Ezra. However, the Souragnien public's reception of these teachings is less than enthusiastic. Ivan Dilisnya poisons the child of a servant to category:death merely for swiping a pastry. Francois Mousel is born to Bernadette d'Honaire Mousel and Hugues Mousel. Elizabeth Weathermay dies at a young age."
+        },
+        {
+            "timetype": "notable",
+            "date": "700",
+            "description": "Early Year Shortly before his death, Sentire Franklin Tennyson sends Etienne Lefebvre to the Mordent branch of the Churzh of Ezra. Spring Sentire Franklin Tennyson dies of malaria. His successor is Manon Larouche, who would later become known as the infamous Ti-Maman. Dominic d'Honaire, future darklord of Dementlieu, is born to Ernestine Pasier d'Honaire and Claude d'Honaire, but Ernestine dies in childbirth. Rumor: Lamordia strikes a trade agreement (and therefore, peace treaty) with Falkovnia. First Dead Man’s War waged by Falkovnia against Darkon. Several members of the Fraternity of Shadows back Falkovnia in an effort to unseat Azalin. After the invasion fails, Azalin and his Kargat conduct a purge to free the University of Il Aluk and Il Aluk's intellectual community of Fraternity agents. Several members of the Fraternity, including Lazarus Ikonnas, are assassinated in the purge. Others are better prepared and flee into neighboring domains, where they are more evenly matched against the Kargat. Azalin eventually halts active extermination attempts against the Fraternity.[221] The only two of the then-current Umbra to escape are Tarnos Shadowcloak and Wilhelm von Lovenhorst. Charles Nickerson is born. Michael van Bluhdt is born. Zebulon, future founder of the Cult of Zebulon first appearance occurs on this year in Pont-a-Museau."
+        },
+        {
+            "timetype": "notable",
+            "date": "701",
+            "description": "Spring Vlad Drakov calls back his soldiers from the First Dead Man’s War to Stangengrad, though his hatred of Azalin Rex boils over even more. Angelique d'Honaire is born. Triplets are born to Cynthia Herbert and Clifford Dilisnya. Praesidia Donella Borovsky pass a church edict declaring witchcraft as a force of corruption created by hags. 12-year-old Ivan Dilisnya kills his mother, Stefania Septow, with poison. Zebulon vanishes in an experiment gone awry. Although several months pass after his apparent death, his followers receive dreams of his return. At the site of the accident, they encounter a mysterious being claiming to be Zebulon immortalised. Loran Elbrian met his doom at the hands of werewolves in 701 BC, causing his adventuring party to disband."
+        },
+        {
+            "timetype": "notable",
+            "date": "702",
+            "description": "Sometime between 696 BC and this year, Wladomir vanishes, and the shepherds Elessi and Evanda die from apparent suicide. However, Yagno Petrovna may have been responsible for all their deaths. Yagno Petrovna attempts to sacrifice his nephew to Zhakata, but he is foiled and exiled into the Mists. When he exits the Mists, the land has revealed his domain, G'Henna, to him. Yagno Petrovna meets and befriends Jugo Hesketh upon entering G'Henna. Etienne Lefebvre returns to Souragne from Mordent. Ti-Maman names him secretary of the Souragnien branch of the Church of Ezra. (False History) Approx. year Baron Stelvin Hawke is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "703",
+            "description": "Bloody Jack goes on his tenth murder spree in Paridon. Yorgi Hiregaard is born. Alice Weathermay is born. (Faerun)Draga Saltbiter is born. Falkovnia and Lamordia formally acknowledge a pact of nonaggression. The Mists claim Dur-Anea no later than this year."
+        },
+        {
+            "timetype": "notable",
+            "date": "704",
+            "description": "Second Dead Man’s War is waged by Falkovnia upon Darkon. Prince Kethmar Bolshnik's second reign as steward begins. (Or Possibly False History): At age 18, Lord Balfour is inducted into the Fraternity of Shadows. Cyran Devichi joins an adventurer band in Richemulot to fight wererats and the vampire known as the Lilan. Joachim ApMorte, John Diamante, and Hammar Hammarson fill empty seats in the Umbra left from Azalin's purge. As the village of Valden is settled, the Garvin Family establish the Garvin Farm. The xenophobic Jacob Garvin crafts a scarecrow to scare away trespassers. However, his obsession animates it as a straw golem, and it takes several lives, including most of the Garvins. Betty Garvin is the only known survivor."
+        },
+        {
+            "timetype": "notable",
+            "date": "705",
+            "description": "Borcan monk of Ezra turned heretic Renthon Vorishtok writes The Revelations of the Prince of Twilight. Mel Fira is attacked by wererats and abandoned. Thomas Dobbs is born. Vigo Drakov, one of the children of the Gentleman Caller, is born. Claudia DeShanes, future companion of Dr. van Richten, is born in Sanguinia. Ti-Maman shakes things up in the Souragnien Church of Ezra by her inclusion of Voodan loas and practices into the local Ezra church."
+        },
+        {
+            "timetype": "notable",
+            "date": "706",
+            "description": "The Widow's Massacre takes place. Erasmus van Richten is stolen by the Radanavich clan and sold to Baron Metus. With the help of Azalin, Dr. Van Richten wipes out all but one member of the Radanavich caravan; Madame Radanavich curses Van Richten[416], although he doesn’t realize it until the end of his career. Van Richten puts his Erasmus, now a vampire, out of his misery, but in spite Baron Metus tears Ingrid van Richten to pieces; Dr. Van Richten destroys Baron Metus, starting his career of hunting evil. Unable to live with the memories in Richten Haus, Van Richten moves to Corvia. Virginia Dilisnya gives birth to four children, including Winifred Ratcliff and Michael Ratcliff. Charlotte Winchester is born. The parents of Lord Balfour de Casteelle are mysteriously burnt to death, leaving their holdings to Balfour. Lord Balfour de Casteelle finishes his doctorate degrees and takes over the University of Dementlieu. The Harrowstone Fire occurs in Ustalav. Ivana Boritsi discovers the powers of Danzig's Icon of Ezra. She prays in front of it to get a vision of how her love will work out for Pieter. Camille Dilisnya manipulates Ivana Boritsi into killing her lover Pieter. Maeve, future leader of the Oak Faction of Forfarian druids, is born in Teufeldorf in Gundarak. Following advise from her secretary Etienne Lefebvre, Ti-Maman relocates from the Church of Ezra in Port d'Elhour to the one in Marais d'Tarascon." 
+        },
+        {
+            "timetype": "notable",
+            "date": "707",
+            "description": "Dr. Germain d'Honaire dies, as does Irene Timothy. Dominic d'Honaire gaslights his nanny. The domain of Dementlieu appears, and the d'Honaire family emigrates there. Lord-Governor Bernard Foquelaine, is executed and succeeded by Lord-Governor Chambon. Dementlieuvian Annexation: Falkovnia invades Dementlieu but is repulsed. Dr. Van Richten researches vampires, and meets Aimon Davidovitch, a fellow scholar of the arcane. Joan Secousse finds Ste. Mere des Larmes. On this approximate year, The Home Faith and the Mordentish Sect bridge the divide caused by the First Schism and achieve peace with each other. The Church of the Lawgiver takes over all the old places of worship of the Forgotten God."
+        },
+        {
+            "timetype": "notable",
+            "date": "708",
+            "description": "Othmar Bolshnik is born. Arkandale is formed. Matthias Graben loses his (un)life in a shipwreck, leaving Colin Graben as acting head of the Graben family."
+        },
+        {
+            "timetype": "notable",
+            "date": "709",
+            "description": "Camille Dilisnya manipulates Ivana Boritsi into poisoning her lever Pieter. The Dementlieuse Sect of the Church of Ezra is established in Port-a-Lucine with Joan Secousse's discoveries in Ste. Mere des Larmes. Joan Secousse completes the Third Book of Ezra, passes the Rite of Revelation and is recognized as the Bastion of Dementlieu. Ivan Dilisnya murders his older sister Kristina and her husband. The domain of Dorvinia is revealed. Alfred, Ester and William Timothy are born, part of a litter of six. Evelyn Westerfield is born. Kurst Vacheq is born. George Weathermay is born. In Viktal, Mikhail Kraznik becomes constable. After his bids to build trade enclaves in Kartakass fail, Vlad Drakov's men try to setup a checkpoint along the Crimson Highway and gain a stranglehold over trade moving along it. A door is left open, and they are killed to the last man by wolves. Following the creation of the Third Book of Ezra in Dementlieu, local attention in Souragne turns to a Book of Ezra Ti-Maman is supposedly writing. John Diamante disappears."
+        },
+        {
+            "timetype": "notable",
+            "date": "710",
+            "description": "Dr. Van Richten encounters his first werebeast near Varithne; he starts hunting werebeasts as well. Emily Gerhardt dies. Gertrude von Zarovich is born. Gabrielle Aderre is born. Jacqueline Renier's mother, Marie Renier, poisons Simon Audaire.[337] Marie gives the Renier surname to her children. Louis Giroume, famous Dementlieuse actor and singer, is murdered by thugs acting on behalf of the Countess de Hautpoissant. Girome reanimates as a revenant and proceeds to slaughter the thugs and then the Countess herself. However, he cannot rest because the Countess comes back as a ghost. Not knowing this, Giroume becomes confused and tries to assume his normal life, with some disastrous results. Ti-Maman is assassinated. Etienne Lefebvre is her successor. The Hurricane of 710 rocks Souragne."
+        },
+        {
+            "timetype": "notable",
+            "date": "711",
+            "description": "Ivana Boritsi poisons her mother Camille Dilisnya, becoming the darklord of Borca. Dr. Van Richten meets Gedlan Ironheart. Gedlan becomes a frequent hunting companion. Third Dead Man’s War. Sarlota Otrava is born. The servants of the Karloff Family hatch a a conspiracy to murder the Karloffs. However, the plot fails, and it is the servants who perish. They are soon reanimated as juju zombies. Agents serving Duke Gundar abduct Orinda Nahle and Perryn Nahle from Invidia and drag them across the border to Castle Hunadora. Perryn sacrifices his own life to save Orinda, but Orinda is still maimed. After retrieving and cremating Perryn's corpse, Orinda rides to Kartakass, where she becomes Meistersinger of Chord and retires from adventuring. A branch of the Souragnien LaLaurie Family living on the Old Cypress plantation perish thanks to the evil actions of their maid, Alvina. Bastion Sarlota Otrava, future bastion of the Mordentish Sect, is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "712",
+            "description": "The Ancestor Uprising - The dwarves of Tombdust Hall drive back the undead ancestors who awaken and threaten the community. Dr. Van Richten meets the mage Shauten; they bond when they are attacked by one of Azalin's patrols. Shauten opens Van Richten's eyes to the existence of the Lich. Rudolph von Aubrecker nearly dies in the wreck of the Haifisch, ultimately leading to his transformation into The Living Brain. Falkovnia enters a planning phase of a larger invasion against Darkon. Ivan Dilisnya marries Lucretia Marzeya. Lucretia gives birth to a pair of twins, both sired by Ivan Dilisnya. Lazlo Monz falls sick in and became a bedridden patient of the asylum he was formerly administrator of.[438] Joachim Antuns is Monz's successor. Divinitié de la C’air is founded. Comte Tomas d’Aloure is born in Dementlieu."
+        },
+        {
+            "timetype": "notable",
+            "date": "713",
+            "description": "Dr. Van Richten is visited by the dying Dr. Ruscheider, who tells Rudolph all he can about several months spent as a lich's captive; Dr. Van Richten starts hunting liches. The council elders of Briggdarrow convince Falkovian investors to fund the construction of The Spider House inn to profit from and to bolster burgeoning traffic between Nova Vaasa and Falkovnia. The crime lord known as The Brain begins manipulating the underworld of Dementlieu. Priscilla Schilling, wife of Alfred Timothy, dies[329], trying to escape her husband according to rumor. The Bloodless Revolution occurs in Ustalav. Vieland and Canterwall overthrow their local overlords and transform into the palatinates."
+        },
+        {
+            "timetype": "notable",
+            "date": "714",
+            "description": "False History The Years of Tattered Banners ends with Hazlik's unification of the country. The domain of Hazlan appears. Hazlik creates the Vat of Living Clay. May Statues of Ti-Maman begin appearing in personal shrines of worship in Souragne."
+        },
+        {
+            "timetype": "notable",
+            "date": "715",
+            "description": "Paul d'Honaire is born in Dementlieu. Ivan Dilisnya poisons his sister and flees justice, but hr becomes a darklord after escaping from his family into the Mists. Dorvinia appears as a result. First known sighting of Chickenbone in Souragne. (Morova, Prime Material Plane) The child of Leith and Vhar is stillborn. Yagno Petrovna hires a summoner to conjure Zhakata. Malistroi, a malevolent nalfeshnee is conjured instead. Its mocking causes Petrovna to leave it bound in the House of Bones. After he leaves, Petrovna declares the Devourer is the only aspect of Zhakata that truly exists, banning the Provider as heresy. Simon LaFleur is born to a wealthy family in Port d'Elhour. Reports of miracles attributed to statues of Ti-Maman begin to emerge."
+        },
+        {
+            "timetype": "notable",
+            "date": "716",
+            "description": "Bloody Jack returns for his 11th killing spree; this time all the victims are shop clerks. Eliza born to the powerful Vistani seer Awilda. Borderlands War: Falkovnia tries to invade Richemulot but is repulsed. The spirit of Madame Radanavich and her undead retinue discover Richten Haus and claim it for their own. Ivan Dilisnya weds Lucretia Marzeya. Ivana Boritsi takes domination of Borca away from her mother Camille.[459] Bastion Felix Wachter dies. Praesidia Kristyn Stoyista succeeds Praesidia Donella Borovsky. Marcos Vedarrak is born. On this year or a few years prior, the spouses of Ezekiel Graben and Marietta Graben perish. On this approximate year, the Captain Marlbrot (Inn) is founded"
+        },
+        {
+            "timetype": "notable",
+            "date": "717",
+            "description": "Clifford Dilisnya and wife Cynthia Herbert die suspiciously. Twins are born to Ivan Dilisnya and Lucretia Marzeya. Ivana Boritsi gives birth to a child. Starting on this approximate year, rumors start flying around about Ivana Boritisi giving birth to an illegitimate child. Foedus is born in Sidnar. Summer: Zhone Clieous assumes the title of Meistersinger of Harmonia. The cult of the Claws of Sehkmaa sees the light of day. It is led by the high priest Malken and its message of easing poverty and reversing disenfranshisement proves popular. The Church of the Lawgiver is strangely disarmed before the threat. Sir Tristen Hiregaard unmasks the new religion as a criminal organisation, breaks its back, and is widely thought to have slain its high priest. He pays for his meddling with the life of his son Ivaar Hiregaard. September: In this year Morgoth brings Vhar and Leith to Markovia near the Monastery in Markovia. Vhar steals the Cloth and kills two members of ththe Order of the Guardians to do it. Vhar is absorbed by the Cloth. In trying to claim the Cloth for herself, Maeve unwittingly infects Leith with lycanthropy. Later, Morgoth rapes Leith from within the Cloth and impregnates her. Leith becomes one of the Guardians. October: Leith discovers she is pregnant. On the night of the full moon, she blacks out. November: On the night of a full moon, Leith attacks Brother Hektor, one of the Guardians. She abandons the order and flees to Linde, a village in Tepest. November:' Celia Whitmoor is born in Staunton Bluffs. December: Leith's lycanthropy fully manifests. She learns some of Maeve's past and learns to embrace her curse."
+        },
+        {
+            "timetype": "notable",
+            "date": "718",
+            "description": "January: Leith takes to wearing an Amulet of the Beast, having been given to her by Ivar in order to suppress her lycanthropic heritage. March: Fian, Maeve's Kartakan husband, comes to murder her in Linde. Instead, she lures him into a trap set by the Three Hags, where he meets his end. Leith witnesses Maeve's allegiance to the Hags and abandons her, leaving to join the Guardians once again. Tara Kolyana is born. Not too long thereafter, her parents flee Barovia to go to Hazlan. Professor Abelhous Nicholsi completes his studies at the University of Il Aluk. Lucia Ritter bears Count Sulo Boritsi's child. Theodorus Paganni is either born or died. June: Leith gives birth to her son and hands him over to the Order of the Guardians to care for. They name him Jonathan and raise them as their own child. Having herself been infected with lycanthropy, Leith surrenders her life to the Tapestry of Dark Souls. A Vistana curses Zhone Clieous to become a werewolf. Paul Dirac moves his family to Falkovnia. Marcos Vedarrak is only two years old at the time. Philibert Antuns is born. Mina Invich is born a noble in Invidia."
+        },
+        {
+            "timetype": "notable",
+            "date": "719",
+            "description": "Casimir Lukas is born, alleged son of Zhone Clieous[483] In actuality, Harkon Lukas is Zhone's father. A glass golem is sighted on Mt. Nirka. The first child of Anton Boritsi and Katarina Piechota is born. They name the child Bevel Boritsi. After three decades of enforcement, Azalin ends the Crimson Death quarantines. Starving March: Falkovnia invades G'Henna but is repulsed. Against the family's wishes, Angelique d'Honaire weds Betrand Shroeder. Claude d'Honaire flies in a rage and puts a bounty on their heads. The pair receive passage to Martira Bay, but they mysteriously disappear along the way. Their fate has yet to be determined, but some possibilities have been suggested. Bartholomew Nylreave is born to a ghoul father and a Kargat agent mother. His parents raise him in a cellar for the next decade. The Bloodless Revolution of Ustalav ends. Vlad Drakov attempts to invade Ustalav, but the Falkovnians are pushed back. Abelhous Nicholsi graduates from the University of Il Aluk, and accepts a position as a junior professor. Virisa is taken by the Mists after Lord Willem Ducas murders and eats his parents."
+        },
+        {
+            "timetype": "notable",
+            "date": "720",
+            "description": "Early Spring Lord Soth is transported to Barovia while torturing his traitorous steward, Caradoc for the location of Kitiara's soul. Caradoc gives him the slip in the Mists. [In Barovia, Lord Soth causes the deaths of an entire Vistani Tribe except for the young Magda Ilyanova Kulchevich. Her life is spared on the condition she act as a guide for Soth. After traveling through Barovia and Gundarak, Magda escapes Soth and his sidekick Azrael Dak. Strahd manipulates Soth into going after Duke Gundar. Soth and Azrael penetrate Castle Hunedora, and Azrael kills Medraut Gundar as part of an effort to open a portal in the castle's basement. The effort fails. Magda Kulchevich escapes Soth and spends the next two years fleeing from Gundarakite bounty hunters and the minions of Duke Gundar. Along the way, she begins gathering aa group Vistani followers that will eventually become the inter-tribe group known as the Wanderers. Lord Soth and Azrael Dak catch up with the traitorous Caradoc along the border between Gundarak and Barovia. Soth tortures and ultimately murders. However, Soth fails notice the oncoming Mist that claimed him. Subsequently, Soth is given one final chance of redemption, and he fails it. Sithicus forms, and Lord Soth is its darklord. A bloody civil war begins between the wild elves of Sithicus and the forces of Soth. It will last for twenty years. Talgaard Bolshnik becomes the Kantora Strangler. Bernadette d'Honaire Mousel gives the Mordent D'Honaire estate to her son, Francois Mousel. He transforms it into the Mousel Sanitarium for Mental Health and begins practicing a combination of Germain d'Honaire and Bernadette's techniques. Third child of Ivan Dilisnya and Lucretia Marzeya born. Trade going through Tepest hits its highpoint, but soon after begins to decline. Son of Mikkel Renier and Esther Renier and one of the Darkonian Reniers, Javier Renier is born. Beoryth the Blood Hound meets his doom at the end of a knife in a Dorvinian brothel, most likely the victim of an assassination. Prince Aduard III ascends to the throne of Ustalav. December: Strahd enters hibernation."
+        },
+        {
+            "timetype": "notable",
+            "date": "721",
+            "description": "Lawrence Timothy, the son of Alfred Timothy and Evelyn Westerfield, is born. The bell at Tinctnoire Manor is not sounded, thus enabling the shades of the departed Tinctnoire to come down and massacre their living relatives. Marek Crawford's parents are taken to the Tables on charges of dubious nature. Lazlo Monz dies."
+        },
+        {
+            "timetype": "notable",
+            "date": "722",
+            "description": "Dominic d'Honaire II is born to Louise Pecquet d'Honaire and Dominic d'Honaire. The Fourth Dead Man's War. Dr. van Richten destroys the nosferatu Nilan McCoumbe of Forlorn. Dominic d'Honaire I commissions a portrait of himself and his family. Tara Yanoff Dilisnya perishes in the face of the Shadow Serpent. Maeve dedicates her life to the path of the druid and restoring balance in Forlorn. Thoris is born. The Piper of Hamelyn dies in Ste. Ronges trying to rid it of its rat problem. Colonel Hellman leaves Falkovnia to learn the secrets of arcane lore as the basis for a military training program for arcane spellcasters."
+        },
+        {
+            "timetype": "notable",
+            "date": "723",
+            "description": "Daniel Foxgrove marries Alice Weathermay, and a wedding painting is made. Remy d'Honaire is born. Virginia Dilisnya dies. James Mousel, the son of Francois Mousel and Joelle Fontaine, is born. Teodorus Raines is born. The Knights of the Ashen Bough is founded in Falkovnia. Carnagan Wolfe is born. His Mountain Loup-Garou parents are soon slaughtered thereafter by Rudolph van Richten. However, he is mistaken for an innocent human boy by Lian, an Anchorite from Dementlieu. Lian takes Wolfe back with him to Port-a-Lucine. Richard Bigelow is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "724",
+            "description": "Jameld of Hroth and Dr. Rudolph van Richten meet and team up to defeat the Bog Monster of Hroth. Ren, an adventurer from Oerth, is drawn into Ravenloft. Oton Boritsi is born. Julia Fyrehaaven murders her husband Professor Daniel Fyrehaaven, using a crawling ivy plant. Richard Ratcliff dies. Falkovnia invades Dementlieu and Richemulot, resulting in the Executioner's Campaign. Gavyn inherits the Endurance from his uncle Captain Killian. The Mists draw an outlander priest named Keith de Lalune, into the forests of Invidia. He prays to his deity, but it seems his god has left him. Keith loses his way in the forest for a time, before arriving in Karina. There Father Daltrey, the local high priest of Ezra, saves him from an angry mob and takes him to the nearby church, L'Eglise de Notre Peindre Dame. Keith receives shelter and healing there, and he soon converts to Ezra. Lord Balfour de Casteelle joins the Umbra. Hobert Mannon is born in the Arkandalite village of Sable."
+        },
+        {
+            "timetype": "notable",
+            "date": "725",
+            "description": "Jugo Hesketh is captured and murdered by mongrelmen. His corpse is dumped upon a raft and left to rot in the Zhukar River. Hesketh eventually comes back as a ghast. However, he is chased into Tepest by his former friend Yagno Petrovna. Lord Soth pulls the kender village of Kendralind from Krynn into his domain, for he seeks to create a race of Kender Vampires to serve him and terrorize the elves. Isu Rehkotep discovers a scroll which details the rites to animate one of the Children of Anhktepot. She attempts to destroy the scroll, but it will not burn. She hides it away, but the knowledge of its existence slowly corrupts her. Abu al Mir is born in Har’Akir, the child of the founders of a secret temple to Anubis. Portrait of Marie Renier, Jacqueline Renier, and Louise Renier created. Portrait of Alfred Timothy, Nathan Timothy, and Nathan's charmed lover Arabella Timothy made. Alfred leaves his family and home to wander the Land of Mists. Zhone Clieous murders Casimir's mother when he learns Casimir is Harkon Lukas' son, but Casimir is lost. Harkon Lukas for him. Casimir ends up at the Red Porch Poorhouse. Falkovnia tries to invade Dorvinia; this results in the Gold Claw Massacre. Jacques Renier (Son of Jacqueline) is born to Jacqueline Renier and Dominic Soufel."
+        },
+        {
+            "timetype": "notable",
+            "date": "726",
+            "description": "Repeated raids by the bitterkinder upon merchant caravans and travelers along the Merchant's Way motivate a group of merchants to create a slash and burn operation clearing a treeless swath around the path between Har-Thelen and the border with Kartakass. This causes the Merchant's Way to be nicknamed the Merchant's Slash. Claude Renier is killed by his daughter Jacqueline Renier, who becomes the darklord of Richemulot. George Weathermay leaves his home to fight evil and help the people of the Land of Mists. The Kantora Strangler is apprehended, identified as Talgaard Bolshnik, and institutionalized at the Clinic for the Mentally Distressed. The evil spirit of Madame Radanavich and her undead retinue discover Richten Haus and claim it for their own."
+        },
+        {
+            "timetype": "notable",
+            "date": "727",
+            "description": "In this approximate year, Gerta von Aubrecker is born.Stepan Taroyan dies. The Seekers of the Seven Scarabs cult is broken up by Jameld of Hroth and Rudolph van Richten. Merilee Markuza kills Claudia DeShanes and eludes Van Richten in Lamordia. On the trail of Markuza, Van Richten witnesses the Thundering Carriage and begins to hunt ghosts. Plague claims the lives of Thoris' parents. Casimir befriends him and takes him to the Red Porch Poorhouse. At this time, Thoris is 5 and Casimir is 8. Merilee Markuza becomes friends with Adam. Falkovnia tries to invade Dorvinia; this results in the Gold Claw Massacre. Andrez Kriegel (later known as Andrez Weisritter) is born. Claude d'Honaire becomes terribly weakened by disease, leading to his replacement by Dominic D'Honaire as chief adviser to the Lord-Governor. Adventurers steal the Shadow Serpent from an unnamed crimelord in Hazlan and use it to kill him. They try the same against Lord Soth, but the plan fails. Unable to kill Soth, the Serpent comes after the adventurers and slays them to the last man. Following their demise, the Serpent is claimed by the Order of the Guardians (more specifically, the Keepers of the Coil.). Massa di Requiem per Shuggay is given to Ivana Boritsi."
+        },
+        {
+            "timetype": "notable",
+            "date": "728",
+            "description": "Dr. Van Richten defeats the Phantom Army. Lukas Duremke is born. Lord-Governor Bernard Foquelaine succeeds Lord-Governor Chambon. Saragoss appears. Gerald Ferrier and his family, originally from Falkovnia, move to Kellee and establish the Hawk's Haven Inn there. On this approximate year, the Tepestani adopt the Barovian Calendar. In order to avenge his parents, Marek Crawford travels from Hazlan to Darkon to learn the art of magic."
+        },
+        {
+            "timetype": "notable",
+            "date": "729",
+            "description": "After Gabrielle Aderre leaves her mother, Isabella Aderre, to die at the hands of a werewolf, the Mists take Gabrielle to Invidia. Bakholis, the first darklord of that domain, is slain by Gabrielle Aderre. She inherits the position. The Invidian peasantry revolt against Bakholis' decaying regime and burn part of the Citadel. September: The fiend Elsepeth enters Ravenloft via transposition in a small village outside of Stangengrad near Grashen Falls. Claude Rivale born in Mortigny, along with his conjoined twin, Importun. Othmar Bolshnik conspires with Chezna and slowly poisons his father, Kethmar Bolshnik, to death, then succeeds him as Prince of Nova Vaasa. However, at Kethmar's request, Tristen Hiregaard becomes regent, and Tristen runs the government while Othmar prepares his revenge. Rudolfo Velutto] is born in Gothic Italy (in the village which will become Odiare). Treaty of the Four Towers is signed. Anton Boritsi dies. He is survived by his wife and children. Lady Kazandra takes Bartholomew Nylreave from his parents and begins training him to be an agent of the Kargat. Bloody Jack’s back for the 12th time. All the victims have been marked with two puncture wounds and bled dry, earning Jack the nickname “the vampire killer.”. A wandering tinker from some distant land is injured and Claude Whitmoor (father of Celia Whitmoor nurses him back to health. In gratitude he crreats a a silver locket with a cameo of Marie crafted from Claude's verbal description. Claude bestows the locket to Celia, and it eventually becomes Celia's most valued possession."
+        },
+        {
+            "timetype": "notable",
+            "date": "730",
+            "description": "By this year, the Kartakans have absorbed many Sithican linguistic expressions into their own lexicon. By this time, Dominic d'Honaire has achieved dominance over Dementlieu thanks to his Obedients and machinations. Dominic d'honaire attempts to dominate Paul d'Honaire, whom defiantly wants to become a soldier instead of a mesmerist like Germain was. Paul runs away at the age of 15. According to S, this is the final year of where credible and documented cases of goblyn attacks from beyond the borders of Forlorn occur. A vampire slays Turk Mader's best friend. Mader pursues from Nova Vaasa to Levkarest and slays it with the help of Ronald Kranston. Verbrek forms.[215] after Alfred Timothy betrays a helpful Vistana. This year ends a half century of intermittent rebellions in reaction to the depredations of Lady Adeline, Baron von Kharkov's brutal tax initiatives, and other repressions. The rebellions have all been put down. Raul Renier murders his mother, Marie Renier, by poison and then flees to Barovia. Three Falkovnian merchants establish a trade colony in Karina. Ardonk Szerieza is born.  In Ustalav, Ailson Kindler allegedly plays a role in the demise of Viscount Galdyce of the Vale of Red Breath. The encounter is said to have left Kindler's fiancé Duristan Barlhein deceased. Jasper Molon, an explorer and tomb robber from Martira Bay, and his wife Bahri, a native of Har'Akir, make their final trip of exploration to Sebua. They encounter and defeat an ancient dead of immense power and stumble upon an ancient tomb holding a scroll held sacred by the Cult of Khepri."
+        },
+        {
+            "timetype": "notable",
+            "date": "731",
+            "description": "Elsepeth leaves Borca, having lurked there for years. Vorostokov forms. The Weathermay-Foxgrove Twins are born to Alice Weathermay and Daniel Foxgrove.[575] However, Alice dies in the process of giving birth. Wild elves begin in the Iron Hills of Sithicus, haranguing both foreigners and the more civilized Sithican elves. The wild elves bear a resemblance to the kagonesti of Krynn. Professor Abelhous Nicholsi goes on sabbatical to Forlorn. There he is scarred by a goblyn. Marek Crawford begins his mage hunting career by killing a necromancer in Kellee. August Knox born in Nosos. Teresa Waterford is born"
+        },
+        {
+            "timetype": "notable",
+            "date": "732",
+            "description": "Jacqueline Renier murders her husband Dominic Soufel. Azrael Dak starts gathering a personal fortune in treasure by squeezing it out of the common people and skimming it off of the Veidrava Salt Mines profits. (Oerth, 581 CY): Vecna tries to become a greater god but fails and is driven from the Material Plane. Unknown to Vecna, the actions of his avatar links him to the Demiplane of Dread. Levis Andreyev discovers Elsepeth's guise as Madame Elsa by finding a doll containing the soul of one her victims. Elsepeth flees Borca, but Levis also disappears some time thereafter. Antonin Madren writes to Van Richten about the death of Madren’s sister. Tosk is born on an outlander world in the Orcish kingdom of Thar. Sarlota Otrava and her mentor attempt to establish a temple of Ezra in Arkandale. Nosos appears. I'Cath forms. Praesidia Kristyn Stoyista repeals Praesidia Donella Borovsky's edict that declared witchcraft a hag-created force of corruption. On this approximate year, monks in Sri Raji construct Picalinni's Palette upon commission by Jaspor Picalinni. However, Jaspor gravely offends them, and they curse the palette. Marie Delacourte is born. Marcel Delacourte is her father.Nikolas of the Wanderers is born. Enteric fever decimates one of every five denizens of Rozenport. La Maison Soulombre is abandoned after one of the workers murders the plantation owner. The Lady of Ravens comes to blows with her servant, Kalibos. She tosses him from the Flint Tower. Unbeknownst to her, Kalibos survives and establishes a lair nearby. Scaena becomes a domain."
+        },
+        {
+            "timetype": "notable",
+            "date": "733",
+            "description": "Dr. Harrod Tasker comes to work at the Clinic for the Mentally Distressed. Paul d'Honaire upsets his family by marrying a Falkovnian refugee named Kara. Gerard d'Honaire visits his relatives Bernadette d'Honaire Mousel and Francois Mousel. Bernadette, Hugues Mousel, and Gerard die.[243]. They are are assassinated by murderers hired by Dominic d'Honaire's Obedients (and thus, through them, Dominic himself.) James Mousel, Francois' son, intervenes to save his father. Bryonna is born in Kellee. That same year, Lorelei, daughter of Wyan of Viktal, is born. Sondra moves to Linde. Gerald Ferrier, a Falkovnian, assumes leadership of Kellee. His rule would keep Kellee the only place open to outside trade and free from Inquisitor interference in the coming years. Prince Othmar Bolshnik refuses to step down and breaks the Cycle of Stewards. He also arranges secret alliances with Malken and the bandits of Nova Vaasa[599] and creates his own personal police force called the Straffers. The White Fever strikes Sithicus. Svendar and four adventuring companions stumble through the Mists into Forlorn. They discover Castle Tristenoira and are bested in side. Svendar is the only known survivor. Vampire aspirant Beatrice Cargonne moves from Richemulot to Valachan with the hope of becoming a vampire. She is not successful and opens the Inn of Quiet Repose. (Prime Material Plane) Meredoth becomes a Baron of Norvold and is granted rule of the island Todstein on the world of Mystara in the Alphatian Empire. Jurgen Feister, a man of Delmunster, is killed by werewolves. The future Giselle Velutto (maiden name unknown) is born in Gothic Italy in the village that would one day to become Odiare. Perseyus Lathenna ends her career as a wandering adventurer and problem solver after a disastrous encounter with Lady Adeline and her thugs leaves Lathenna maimed and stripped of her possessions. Summer Luther Bedarik becomes Meistersinger of Skald. Vlad Drakov attempts to invade Ustalav for the second time, but the Falkovnians are again pushed back. Turk Mader and Ronald Kranston found the Society of Huntsmen. Boyar Invich marries an Invidian noble named Mina, much to her chagrin."
+        },
+        {
+            "timetype": "notable",
+            "date": "734",
+            "description": "A thief breaks into the Nuikin Family Estate, determined to get the spellbook of Aurek Nuikin. In Aurek's scuffle with the thief, a magical burst of energy goes off, leaving both thief and spellbook vaporized. The explosion transforms Natalia Nuikin into a statue. Emil Bollenbach joins Van Richten in hunting the Created. Captain Garvyn's Endurance begins serving as the Ship of Horrors. Salizarr, a meazel from Cormyr, is drawn into the sewers of Il Aluk. Sondra escapes Gundarak to live with her relatives in Tepest. Stewart creates the Pipe of Mordent at the behest of a mysterious stranger. After Stewart hands the Pipe over, the stranger uses it to kill Stewart. (Cormyr) Gondegal loses the fight for Arabel and flees. He is ultimately taken by the Mists. (1352 DR: Year of the Dragon). Bartholomew Nylreav is given knighthood in return for acts performed on behalf of Darkon. Simon LaFleur attempts to kill Chicken Bone, but he is killed instead. Chicken Bone reanimates him as a juju zombie. Raining Star becomes high priestes of the Hospice of the Silver Light in Barovia. In Ustalav, The War Without Rivals begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "735",
+            "description": "Tara Kolyana experiences her first brush with the supernatural with an afflicted werewolf. After witnessing the man become cured, Tara resolves to help people throughout the Land of Mists. Her parents make her promise to never to go to Barovia. Lazlo Meistersinger, a Kartakan adventurer, travels through Forlorn but succumbs to madness, becoming a Lost One. Timeline C for Castle Tristenoira as presented in the Castles Forlorn boxed set corresponds to this year. Hyskosa writes Hyskosa's Hexad, his prophecy predicting the Grand Conjunction. Azalin discovers Hyskosa's Hexad. Dr. Van Richten kills Shauten, then publishes his Guide to Vampires. The village of Mel Fira is destroyed by wererats. S studies at The University of Dementlieu. Alexei Raskolka succeeds Kristyn Stoyista as Praesidius. Adventurers try to penetrate Castle Tristenoira. A few days later, only a couple make it back out alive, but with a female prisoner freed form the castle in tow. Piotr of the Wanderers is born. Pierre Renier and Gerard Renier conspire against the wererats plaguing their family. They unearth the corpse of Simon Audaire and conspire with the Withered Rat to reanimate the body as an ancient dead. Count Strahd von Zarovich's current guise, Count Strahd von Zarovmich XI, ascends to power. Akriel and Dr. Dominiani begin planning the Gundarakite Conspiracy. By this year, Tiryn Olenka-Blaas has discovered and disseminated enough knowledge to gather a crowd of curious stargazer disciples around her. Labeled as heretics and associated in the public eye with the Terg astrology, the Celestines grow closer together and soldier on despite the threat of persecution. Between now and their trip to Sebua, Jasper Molon and Bahri have retired to Martira Bay] and begin a small cult to Khepri there. Jasper sets up a shop called Molon's Curiosities. The Whitmoors are beset upon by a werewolf, Celia Whitmoor is infected with lycanthropy and Thaddeus is murdered. The culprit of this heinous acts is Yuri Pedorov, a boyar whom escaped Vorostokov. Dat Cua Nhen forms as an island of terror. Under influence from his father Morgoth, Jonathan kills his former mentor, Brother Leo. Fall Aurek Nuikin travels to Richemulot from Borca to find a way to restore his wife Natalia back to live from her form as a statue. At his sisters' insistence, He brings along his younger brother, Dmitri. There they fall victim to the machinations of Louise Renier to force Aurek to help her destroy Jacqueline Renier. The plot fails, but things end disastrously for everyone. Natalia's porcelain statue is shattered, and Jacqueline throws the Nuikins out of Richemulot. Winter In this year, Morgoth hatches his plot to capture the Tapestry of Dark Souls and freeing all the Evil within. Morgoth attacks the monastery of the Guardians with a mass of undead minions taken from the villagers of Linde. However, he is lured into a trap set by Jonathan, Morgoth's son, and Jon's former mentor Ivar. With the last minute intervention of former enemy Maeve, Ivar and Jon are able to destroy both the Tapestry and Morgoth, though at the cost of both Jon and Ivar's lives."
+        },
+        {
+            "timetype": "notable",
+            "date": "736",
+            "description": "Coraline becomes the lover and spy of Harkon Lukas. The Gundarakite Conspiracy Harkon Lukas' daughter, Akriel, conspires with Dr. Daclaud Heinfroth to overthrow both Harkon Lukas and Duke Gundar with the capture of the Crown of Souls. Jaconos Hanabra goes on a rampage in the Harmonia Jailhouse. Radaga is driven from the Catacombs of Kartakass and flees over the border, where she becomes the darklord of Daglan. She is struck down, and Daglan Daegon revives. However, his fate is sealed with the destruction Crown of Souls and dissolution of all Daglan itself. Through these events, the 1st Verse of Hyskosa's Hexad comes to pass. Dr. Henrik Dominiani assassinates Duke Gundar. Magda Kulchevich gives birth to Inza Kulchevich on that very same night. Dr Van Richten and Emil Bollenbach track a dread golem back to Emile's medical school; one of his professors is responsible. The experience drives Bollenbach mad driven mad, and he thought killed in a fire. Elsepeth goes to Nartok, where her manipulations claim the lives of Tomas Tennemen and Helga Tenneman. Dr. Van Richten publishes Van Richten's Guide to Ghosts (Item). The Great Epidemic of 736 BC, a terrible outbreak of white fever devastates Ungrad.[178] This epidemic is actually the product of Felix Hoyer's gluttonous feedings. He is eventually put down by adventurers, but his wife, Doctor Antianetta Despini-Hoyer, survives. Dread Possibility After fleeing from a confrontation with Van Richten, Balihnda the Sanctuary of the Forgotten Lady in Mortigny. She begins posing as one of the Church of Hala. Latest year Dr. van Richten could have confronted a Bowlyn aboard the Wailing Maid. The future components of Liffe start forming. 736 BC A werewolf rampages through the area around Moondale, taking many lives. Adventurers intervene and kill it. Adventurers steal the Portrait of Marquis Stezen d'Polarno and eventually give it the Vistani. The adventurers' description of their encounter with d'Polarno causes civil unrest. The Ghastrian Peasant Rebellion begins. Hammar Hammarson is found murdered in his home. Malcolm Scott is his replacement. Celia Whitmoor attacks and infects Kevin with lycanthropy. A Vistana gives then infant Silas Fitzroy to Kerad Dyilf to raise as his own child. (mid to late autumn) Mistakenly believing Imix had been given shelter at Invich Manor, Magravelle assaults the manor, murdering the Boyar and maiming Mina. Lairing in a cave nearby, Imix intervenes and kills Magravelle."
+        },
+        {
+            "timetype": "notable",
+            "date": "737",
+            "description": "(Early Year) The portrait of Stezen d'Polarno is recovered by mercenaries, but the Marquis betrays his benefactors. The mercenaries put Marquis Manor to the torch. The fire of the manor incites the Ghastrian Peasant Rebellion. d'Polarno is critically wounded and seemingly killed. Thus ends the reign of d'Polarno I. Lord Soth becomes reclusive and withdraws into private revelries of the past.[657] The 737 BC arrival of the illusionist Tindafalus briefly causes Soth to stir long enough to secure the newcomer's capture. The illusionist thus secured, Soth puts him to work on the Memory Mirrors. Prince Othmar appoints the incorruptible Sturm Androv Constable of the Kantora City Guard under endorsement from Tristen Hiregaard. Shelly Holmes begins her career as a freelance private detective. The Vistana Cyrilla's niece Vassa is kidnapped near Corvia. Vassa returns as a clay golem; Cyrilla writes to Dr. Van Richten. Dr. Van Richten publishes the Van Richten's Guide to the Lich. Celia Whitmoor and Kevin encounter Yuri Pedorov in Staunton Bluffs, but he gives them the slip. (Summer) Sundered Heart challenges Zhone Clieous for title of Meistersinger of Harmonia, but is defeated at the last minute due to an unlikely loss of voice. Sundered Heart reveals himself as Casimir and ousts Zhone Clieous from power by exposing him as a werewolf. Casimir confronts Zhone at the Crystal Club and kills him. When adventurers retrieve the corpses abandoned by Captain Garvyn's from the Sea of Sorrows,[664] the 2nd Verse of Hyskosa's Hexad comes to pass. (Autumn) In Nebligtode, the 737 Massacre claims the lives of many Grabens and Meredoth. As blowback, the Big Storm of '37 rocks Graben Island. Meredoth's clone eventually activates, though he and his undead are subtly changed. (Autumn) A falling star lights up the night sky in eastern Falkovnia before crash landing near the thorp of Delmunster. The falling star proved to be, or to contain, a doppelganger plant that would devastate the community. The Hospice of the Doe is lost amid the destruction. (Near year's end) Casimir is also ousted as a werewolf and driven from town. He is said to have perished soon after. Eldon Cormistev becomes meistersinger in his place."
+        },
+        {
+            "timetype": "notable",
+            "date": "738",
+            "description": "Isu Rehkotep, now converted to the worship of Set, raises the traitorous priest Senmet as one of the living dead. Together, they begin a plot to take control of Har’Akir. Senmet recruits the werejackal priests of Anubis to aid him in his plans to usurp control of Har’Akir. However, that very night, a mysterious fire wipes out the entire priesthood, except for the young Abu al Mir. Abu flees, and the Mists transport him to Nova Vaasa. Madame Bodoni passes away, leaving Dulcimae, her inexperienced daughter, as raunie of her family. A few weeks later, they are drawn into Har'Akir along with other foreigners by Senmet's will. Senmet’s plot to overthrow Anhktepot is foiled; Ankhtepot’s 7th awakening. The third verse of Hyskosa’s Hexad is fulfilled. Senmet survives the failure and flees into the Mists. Odiare is drawn into Ravenloft from Gothic Earth's Italy. Prince Othmar commissions paintings and sculptures of himself bearing the Whip of Right and the Rod of Might (devices of the Eternal King Højplads) eliminating all doubt as to his pretensions. Dr. Van Richten publishes the Van Richten's Guide to Werebeasts. Emil Bollenbach engineers the kidnapping of Dr. Rudolph van Richten to the end of seizing his brain for transplantation into a super-golem. fortunately, several of Van Richten's friends intercede to thwart Dr. Bollenbach. Styrix creates the Rift Spanner. She begins collectingsouls from the people of Martira Bay. An older Magda Kulchevich, now a raunie of her troop of Wanderers, brings her caravan to Sithicus and receives official protection from former foe Lord Soth. Perseyus Lathenna meets Dr. van Richten in Gyda as investigates the Laughing Man of Valachan. Overcome by despair, Kevin abandons Celia Whitmoor and Richard Bigelow and rides out to resolve an old conflict of unknown nature. Celia decides to settle down and raise Richard in a normal environment. She charges him with shackling her at night. The War Without Rivals ends. Meredoth first sends Lebendtod sleeper agents to the household of Imogen Schlosser. The Fiend sees through the attempt to infiltrate her household, interrogates and then dissects the interlopers."
+        },
+        {
+            "timetype": "notable",
+            "date": "739",
+            "description": "Lyssa von Zarovich conspires with Bluetspurean illithids to create a vampiric version of their race. She hopes to use these vampire mind flayers to take over Barovia, but she ultimately fails. Elsepeth goes to Nartok. Dr. Van Richten and the adventuring band known as the Hand hunt and destroy the Gibbering Golem. Dr. Rudolph van Richten publishes Van Richten's Guide to the Created. This act earns him considerable ire from Agatha Clairmont, whom sees it as an instruction manual to building dread golems just much as it is hunting them. Celeste d'Honaire-Loverde is born to Julienne d'Honaire and Bernard Loverde. The Kantora Strangler begins murdering people out on the Kantoran streets during storming nights. The literary works of d'Polarno are published for the first time. Dr. Mordenheim throws Gerhard Beckmann out after Beckmann reacts with horror upon seeing Elise. Beckmann works for a few months on recreating Elise but instead only creates the Patchwork Bride. Mordenheim reacts even worse and casts out Beckmann and his creation out forever. Beckmann deserts his creation and flees Lamordia altogether. He eventually settles down in Kartakass. The child-like Elise replica is picked up by a Ludendorf freak show (where she gains the Patchwork Bride moniker) until she kills a child and disappears in the confusion. Fleas of Madness plague Lamordia. Hendrik_von_Aubrecker dies as a result. Baron Vilhelm Von Aubrecker's mind and body soon begin to deteriorate as a result of this loss. By this year, Tristen ApBlanc has noticed the threat Azenwrath represents. Tristen manipulates Kyall into bringing down Azenwrath. Luc Tarascon gets his fortune told by the Vistani woman Valana. She provides him with the 4th Verse of Hyskosa's Hexad. Using this information, Luc and Marcel Tarascon explore underground tombs to locate the the Hyskosa Scroll. Marcel is struck down by the undead, and the experience transforms Luc into a lost one. Following this misfortune, Jean Tarascon, Marcel's twin brother, arranges for Marcel's resurrection. However, the spell fails, and Marcel is left a zombie lord. Jean himself is driven to madness and hides the scroll from his brother, determined to protect him from it all costs. A string of murders and disappearances rocks Marais d'Tarascon. Marcel Tarascon and Jean Tarascon are responsible. On a night of this year,[215] a lunar eclipse hangs low overhead, adventurers destroy the zombie lord Marcel Tarascon. Thus, the 4th Verse of Hyskosa's Hexad comes to pass. Shortly prior to the Grand Conjunction, Count Sulo Boritsi takes most of his family to Bergovitsa. He establishes a chapter Boritsi Trading Company in Nova Vaasa and, through it, will expand the business out into the Nocturnal Sea following its formation in 750 BC. Soon thereafter, he will finance the creation of trading company offices in Armeikos. Anton Boritsi perishes under suspicious circumstances. He is survived by his wife and two children (Hellena Boritsi and Bevel Boritsi. They take over his operations, including the branch of the Boritsi Trading Company still working out of Levkarest. Meredoth sends a second group of Lebendtod sleeper agents to invade Imogen Schlosser's tower home. The Fiend investigates the Darklord of Nebligtode and is wholly disgusted by his character and magic supremacy. The Red Haunt departs the Core for the Wartorn Cluster to cool her head."
+        },
+        {
+            "timetype": "notable",
+            "date": "740",
+            "description": "(Dread Possibility): The Smothering of Reason first manifests, though source materials don't specify the time of year this manifestation began. Gabrielle Aderre manipulates Lady Haptmeyer and Lord Haptmeyer into destroying each other, leaving the Haptmeyer Estate largely abandoned for seven years. Early Spring Dr. Van Richten publishes the Van Richten's Guide to the Ancient Dead. Summer The Great Upheaval occurs,, causing a number of massive effects. Panicked by the Grand Conjunction, Hermos and the rest of the refugee carnival folk from L'Morai flee from Darkon into Falkovnia seeking a better life. Isolde saves them from certain demise. Under her leadership, a new Carnival assembles. Hazlik briefly escapes back to Thay. He witnesses the progeny of his enemies flourishing. Infuriated, he is recaptured by the Mists before he can fully wreak his revenge. Strahd begins the annexation of the annexation of eastern Gundarak. Nine months of bloody war ensue. Meanwhile, Gabrielle Aderre cozies up to the village leaders in western Gundarak with advice against the Barovians. Her Invidian troops henceforth move in and occupy western Gundarak (including Castle Hunadora). Another revolt occurs in Valachan, and Baron Urik von Kharkov barely manages to survive an attempted assassination. As he is badly injured, earthquakes rock the land. The Conjunction causes Valachan to rotate 90 degrees. Von Kharkov's survival is taken as a sign of Yutow's divine protection bestowed upon von Kharkov. The Verduous Lands is created from the combining of Sri Raji, the Wildlands, and Saragoss. The Grand Conjunction rocks the lives of both Teodorus Raines and Wyan of Viktal and causes them to believe that more great strife on the way. Teodurus Raines begins traveling Darkon preaching apocalyptic visions and conversion to the Church of Ezra, though he will not be successful until after the Requiem. Many people of Tepest despair the end of the world is nigh, but Wyan, one of Belenus' clergy, preaches it is merely the fey's first strike and declares war on them. The Grand Conjunction rearranges much of the celestial bodies, causing the starmaps of the Celestines to become inaccurate. Tiryn Olenka-Blaas dies, but her former pupils carry on her work. A falling star leads Astrilax diCorvi to a hilly set of ruins just out of Vallaki. The Celestines build Midway Haven, the first Celestine Observatory there. In the aftershocks of the Grand Conjunction, a rift opens up between Dementlieu and Hell, letting an aminzu devil and a bearded devil slip through the barrier with several larvae in tow. The two devils end up in Chateaufaux and murder Mayor Henri Melano and Captain Domini Tisiphanes and assume their identities, establishing the Black Watch. August The Lawgiver returns the power to his clerics, leading the day to become remembered as Celebration of the Reemergence. Despairing that he may never escape to wreak his revenge, Hazlik does an about-face on his views of magic. He now condones it and begins taking apprentices.[707] Furthermore, Hazlik travels to (or rather, creates) Ramulai and establishes the Red Academy. September Dr. Van Richten inherits the personal library of Aimon Davidovitch. Dr. Van Richten starts studying tomes. The domains that make up the Wartorn Cluster join together into a new Cluster. The Red Haunt develops the Centurion-persona in the Wartorn Cluster."
+        },
+        {
+            "timetype": "notable",
+            "date": "741",
+            "description": "Ramulai is constructed by Hazlik to provide support to his Red Academy. The Grey Wyrm rises from the depths of Lake Kriegvogel to devour several boats and run amok in the town of Silbervas. Although the creature is beaten back into the lake, the disaster leaves Silbervas' citizens with dread over the beast's return. Henceforth, this year will be known as the Year of the Gray Wyrm. February: Dr. Rudolph van Richten, Davvyd, Samuel and Dr. Ottelie Farringer battle the fiend Drigor. Only Dr. van Richten survives. Van Richten publishes his Guide to Fiends. Spring: The first trial of the Tepestani Inquisition is organised by Wyan of Viktal. Foreigners are accused of consorting with the Fey and what little trade remains pretty much dries up West of Kellee. In Kellee Gerald Ferrier succeeds in maintaining a degree of calm. He seeks the assistance of the Church of the Lawgiver to fight back the superstition of the masses. Spring or Summer The carnage of the nine-month Gundarakite Annexation culminates with the Teufeldorf Massacre. Chaotic conditions among the Gundarakites causes Teufeldorf to fall easily into Barovian hands. Although the Invidians hold Castle Hunadora and several villages Western Gundarak, they does not seem much of a match for the superior Barovian troops coming from the east. Yet when defeat seems imminent for the Invidians, the Barovians stop with the conquest of Gundarak's cities. Van Richten stumbles into the clutches of the nameless Amnizu and the nameless Barbazu infesting Chateaufaux. He is captured. However, he manages to join with some adventurers to route the devils from the town. George Weathermay is seduced by the werewolf Natalia Vhorishkova in order to get at Dr. van Richten. In the chaos of battle, Gennifer Weathermay-Foxgrove, a mere bystander, is wounded and is (unknown to everyone) afflicted with lycanthropy. George Weathermay gives chase to Natalia out of Mordent. In Verbrek, he confronts the Vhorishkova family and, upon finding they are werewolves, murders them all to the last noncombatant, yet he fails to catch Natalia. Out of this mass murder emerges a changed, more bitter and driven George Weathermay. Weathermay fails to catch Natalia. In shame and guilt over what happened to Gennifer, George Weathermay does not return to Mordent. In this year, Dr. Van Richten falls into depression. He consults with the diviner, Inarin Alster; Rudolph realizes he had been laboring under a curse all these years; Dr. Van Richten spends a year with Arturi Radanavich studying the Vistani. Sachmet is awoken by the disturbance of her tomb. Disappearances and madness plague the workers of the quarries in the Koshka Bluffs after the discovery of ancient tombs. Sir Tristen Hiregaard forbids the removal of treasures and scales back the quarrying. Narana Hiregaard is born. She is the youngest, by over 10 years, of 5 (or more) children (at least 3 girls and at least 2 boys) of Sasha Hiregaard. If Sasha has only 5 children he is not more than 33 and not less than 21 at the time. Lumbering in the Dyskov Forest resumes, but tales of the sortvingebute (“black fairies”) and of the Centaur soon enter into circulation. Disappearances are attributed to the former and half-eaten corpses to the latter. Othmar tries and fails to have Chezna the Blood-cat silenced for all eternity by band of foreign adventurers. The Vistani outcast and bandit leader replies with a reign of terror. She is, however, driven out of her base in Briarweed Forest and obliged to roam the land. The future domain fragments of what will become Liffe begin fusing together. After several years of hiding, Stezen d'Polarno reemerges in the guise of his son, d'Polarno II. Thus begins the reign of d'Polarno II."
+        },
+        {
+            "timetype": "notable",
+            "date": "742",
+            "description": "In this approximate year, Ricard Diosa purchases the Port-a-Lucine Opera House. Romagna forms. On behalf of the Gentleman Caller, an assassin kills Arabela of the Carnival. Roja's plan to overthrow Sodo's rule is unsuccessful. At the behest of Bryonna's previous parental guardian Rima, Leobe delivers young Bryonna to be raised among the people of Viktal. Bryonna is 9 years old. The Tepestani Inquisition investigate the Black Spire of Watcher's Woods and declare it forbidden for exploration. Count Wilhelm von Lovenhorst disappears, thus ending Professor Viktor Hazan's service to him. Alfred Larner finishes his degree at the University of Richemulot. He travels back home to Paridon and starts recruiting members there. (Autumn) Luther Bedarik, the then Meistersinger of Skald, writes the Soulless Crown, a ballad that was a thinly disguised allegory for Casimir Lukas and Akriel Lukas's betrayals of Harkon Lukas, intimating they are all narrulves and that Harkon Lukas is Grandfather Wolf. Autumn The Dark Powers, pleased with Stezen d'Polarno's grand deception, bring Ghastria into the Core as an island in the Sea of Sorrows. October Van Richten publishes Van Richten's Guide to the Vistani and ends his monster hunting career."
+        },
+        {
+            "timetype": "notable",
+            "date": "743",
+            "description": "By this year, the Inquisition has captured the support, even the very hearts, of the Tepestani. Early Year: With the exception of the white flowers in the Iron Hills, all the flowers in Sithicus blacken. The flowers will continue to bloom black for another 9 years. In the meantime, Ashen Fever rages across Sithicus. Spring: Azrael Dak effectively rules Sithicus. The Skurra known as the Crimson Rose joins Carnival. Her son, called simply the Familiar, is born soon thereafter and has the Skurra-verra paint applied to his face as soon as he is born. Unwald Rottennail's Invasion into Keening. Summer: Harkon Lukas shames Luther Bedarik by winning the title of Meistersinger of Skald from him. Wood'n-Head tracks down Carnival and enlists. Carnival travels through the Wildlands, and a group of wereleopards attack. Isolde defeats their attackers, and the Hideous Man-Beast is taken alive. Carnival cages him and puts him on display, only to later discover he reverts to human form during the full moon. It is the first time in three years. Carnival returns to Darkon. Tenira Courant, an agent of the Kargat, enlists. Having vanished from the mainland of the Core, Markovia is found once again in the Sea of Sorrows. Burton Wescote's curse is removed. Girard Cavaillon tries to make an under-the-table agreement with the Falkovnian Army to overthrow Jacqueline Renier. Jacqueline establishes a direct communication with Vlad Drakov as a counter offer with some unknown incentive plus a favored consort of Cavaillon. Prince Othmar dispenses with the seals of the five great families and mints money in his own image. Professor Abelhous Nicholsi travels to Hazlan following a meteor shower. He hopes to discover a doppelganger plant, but he fails to do so.[743] However, Governor Pall Ibington arrangs for the professor to perform an autopsy of a mind flayer. Aferdale reaches its largest population of 1500. However, it's population begins dropping shortly after this peaking. After forging the sword Felauragoth, Kalibos enters the Tower of Flint, intent on killing the Lady of Ravens. He fails and loses Felauragoth, but he escapes her wrath. Lukas Durmke is driven from a temple of the Lawgiver and subsequently from the city of Egertus for spouting heresy. Imogen Schlosser starts her campaign to sink Todstein into the sea and force Meredoth into the open, so she can murder him and steal his amassed treasures."
+        },
+        {
+            "timetype": "notable",
+            "date": "744",
+            "description": "Krellantha dies. Lord Soth's magical slumber is disturbed. Sarlota Otrava becomes the Bastion of Mordent. The Zherisia Cluster forms from former islands of terror Paridon and Timor. Castle Island forms. Lady Kazandra is sent to Martira Bay. Through her, the Kargat achieve more of a hold on criminal activity within the Bay. Tavelia keeps the Faith of the Overseer from getting mixed up in Kazandra's affairs. After an unnatural rise in monster incursions, murders, and caliban births in Viaki, a couple of hags are discovered as the source. They are dispatched.[752] Glennis McFadden, the third hag in the coven goes undiscovered. She melds into Viaki society under the guise of a human midwife and even advisor to the city council.[753] She is still pursuing her dream of revenge undiscovered as of 756 BC."
+        },
+        {
+            "timetype": "notable",
+            "date": "745",
+            "description": "Malistroi battles Yagno Petrovna for control of G'Henna. The Great Cathedral is finished. Azrael Dak loses his axe in the Veidrava Salt Mines.[756] (However, by 758 BC he carries it once again.) Tindafalus botches an experiment with a magic mirror, and he switches places with his mirror self, Tindal. Tindal joins Carnival as a barker and convinces Isolde to go to Sithicus to free Silessa from Sarlandril. The Illuminated Man joins Carnival as it passes through Arbora. Ivana Boritsi attends the wedding of Elgin Dezuni and Rozalina Dezuni and transforms them into ermordenungs. Following the capture of the Kantora Strangler, Talgaard Othmar. His noble status allows admittance into the Clinic for the Mentally Distressed. Praesidius Alexei Raskolka dies of a mysterious wasting disease and is succeeded by his adviser, Praesidius Levin Postoya. By this year, the Celestines have star-maps for the entire Core. They also discover that they could relate celestial events to earthly events and use the former to predict the latter. Alanik Ray investigates an old cold case, and discovers the influence of the Red Haunt behind a series of murders committed by prostitutes in Dementlieu. He is not aware that these were in fact hunting lessons for the fiend's daughter, Clementine."
+        },
+        {
+            "timetype": "notable",
+            "date": "746",
+            "description": "The Amber Wastes cluster forms when Har'Akir, Sebua, and Pharazia fuse together into one landmass. The Gentleman Caller beguiles Gabrielle Aderre and sires Malocchio Aderre with her. Mictlan forms. Nikolas is assaulted and beaten by some miners from the Veidrava Salt Mines. Inza witnesses it but tells nobody until after the search is on. Inza gloats to Piotr, believing he will share in the enjoyment of Nikolas' suffering. Piotr is appalled and tells the search party of Nikolas' predicament, but not Inza's betrayal. Inza lies about Piotr being the one who witnessed the beating. Piotr is almost exiled, but Nikolas interjects on his behalf. Still, Inza escapes with her treachery unpunished. As Carnival makes its way through Borca, it picks up Roman Olzanik. Mister ? is picked up by Carnival as it visits Dementlieu. Jules D'Aubigne abandons and boards up his home because his printing press becomes haunted. (This year or shortly thereafter) Mother Fury and her Howling Clan are driven from Verbrek by Alfred Timothy. They end up settling in Kartakass. Alfred Timothy exiles and curses Carnagan Wolfe after he assists prey in escaping the hunt. William Gruhman meanders through Martira Bay after being cut off from his doppelganger plant by some twist of fate"
+        },
+        {
+            "timetype": "notable",
+            "date": "747",
+            "description": "Spring Gabrielle Aderre gives birth to Malocchio Aderre. Druidic records show that this year marks the most recent significant expansion of goblyn clear-cutting in Forlorn. In this approximate year, Jean Pierre Cambier starts performing at the Port-a-Lucine Opera House. The outlander orc known as Tosk enters the Land of Mists. He joins Carnival (Society), as do the Rashemani thieves Mola Kravvan and Rasulid Kravvan. An attack upon Gryphon Manor nearly results in the destruction of Lord Wilfred Godefroy. Shaken to the core, Godefroy becomes more active in observing and manipulating what happens inside Mordent. Karimana Reidkasen is awarded the title of Mayor of Martira Bay after she reveals her husband's corruption to Azalin. Thereafter, she recruits Alanik Ray as Chief Constable, bringing Alanik Ray back to Darkon for a time. As Carnival (Society) stops by the Brautslava Institute, Professor Pacali decides to follow them to study their abnormal physiology. He eventually falls victim to the Twisting. An escaped patient of the Clinic for the Mentally Distressed murders Nurse Mandalain.The Mandalain Night Terror begins its reign of terror upon the inhabitants of the clinic. The Jongleur comes into the service of Ivana Boritsi. June Nueva Aragona is drawn into the Mists as a cluster of two domains (Maconda and Resistencia). Autumn At the harvest Carnival of Karina, Malocchio rebels against Gabrielle's control. He imprisons, tortures, and gaslights her. At the same time, Malocchio is recognized as the new dukkar. Madame Eva and the Zarovan Tribe bind him to Invidia with the Sphere of Binding. Malocchio usurps political ruler over Invidia from his mother Gabrielle Aderre. Invidia's relations with Kartakass become strained as a result. With political control over Invidia, Malocchio launches a pogrom of genocide against the Vistani. Magda Kulchevich subsequently petitions Soth for protection from Malocchio's roving killers. He grants it, but in exchange, the Wanderers swear oaths to never again tell the story of his origins. The Shadowlands cluster forms from Nidala, Avonleigh, and Shadowborn Manor. Malocchio gives Novgor to Azrael Dak as a symbol of their secret alliance. In order to claim the blade for herself, Inza ambushes and cripples an outlander stone giant named Nabon using Gard. She then trades the now enslaved Nabon to Azrael Dak for Novgor. Nabon is taken to the Veidrava Salt Mines, where he is forced to work the Engine House for the next five years. Winter Matton Blanchard discovers Gabrielle Aderre in a pathetic state, nearly driven mad by Malocchio's manipulations. Ever loyal, Matton nurses her back to health."
+        },
+        {
+            "timetype": "notable",
+            "date": "748",
+            "description": "Ardonk Szerieza begins fanning the flames of the Gundarakite separatist movement. Azalin and his subordinates finish building the most primitive prototype for the Doomsday Device. The Ebon Fold are sent out to begin collecting souls. All Lamordian colonists on Markovia disappear, leaving behind no remnants of their existence. Germain d'Honaire (Son of Dominic) is born, thereby making him almost a decade old as of 757 BC. Lord Adal Keirin dies. Katya Chekiv Hiregaard, wife of Sir Tristen Hiregaard, dies giving birth to Mikhail Hiregaard. Sylus Andropov is freed from the Nightmare Court. The Mandalain Night Terror is put to rest. Dr. Harrod Tasker is outed as an agent of the Nightmare Court and locked in a cell within the Clinic of the Mentally Distressed. Joachim Antuns retires from his position as director of Hospital for the Alienated. Philibert Antuns, Joachim's son, is also his successor. Kislova is drawn into the Land of Mists. 'Late Year Lady Kazandra sends a number of more troublesome members of the Kargatane to Vallaki to form Kargatane Vallaki Cell in the hopes that Strahd would destroy them all."
+        },
+        {
+            "timetype": "notable",
+            "date": "749",
+            "description": "Young Colin is discovered as a stowaway aboard the Caravel Mercy. Captain Ridg Baykur takes Colin to Dr. Dominiani to be transformed into a cerebral vampire. The Grim Harvest begins. Akanga's Rebellion: Akanga attempts a revolution against Frantisek Markov's rule of Markovia. The Frozen Reaches cluster is created from the combining of Sanguinia and Vorostokov. Gesmas Malaturno's malformed leg prevents him from conscription by the Invidian military. However, his preternatural predictions result in him becoming a spy for Malocchio Aderre instead. The patients, including Talgaard Bolshnik, and the staff, including Dr. Gregorian Illhousen, of the Clinic for the Mentally Distressed outside of Egertus vanish without a trace. Blackblade is drawn into Ravenloft, specifically Borca. Late Year: The Doomsday Device's last prototype is tested by the Kargat, transforming Lowellyn Dachine into Death."
+        },
+        {
+            "timetype": "notable",
+            "date": "750",
+            "description": "Everyone in the Sisters of Mercy Hospice is murdered. Shelaugh commands a force of no less than 46 druids of the Rowan Faction and 20 mercenaries to storm Castle Tristenoira. The majority are horribly massacred, with less than a fourth returning alive. Half of the survivors have gone mad. The Oak Faction assumes more power in Forlorn as a result of this event. Strahd poisons Lyssa von Zarovich into a slumbering state that leaves her active for only a few hours each night. The poison is delivered via the blood of the dread flesh golem Tom (created by Emil Bollenbach) that acts as a stand-in for a human she hoped to enslave. The Infernal Machine is activated and Lowellyn Dachine becomes Death. The Blue Dolphin shipwrecks in the Sea of Sorrows. The survivors are picked up by the Mercy and taken to Dominia. Dr. van Richten goes missing. The Weathermay-Foxgrove Twins make an oath to continue his mission. Winter: Bryonna's adoptive parents die. December: The Requiem occurs. The Mists capture Vecna and Kas the Destroyer and make them the darklords of the Burning Peaks cluster. The Nocturnal Sea appears.[215][624][625] Nebligtode vanishes from the Sea of Sorrows. Mu is abducted from Gothic Earth by the Mists and arrives in Barovia, near Vallaki. She is taken to the Asylum of Broken Souls and suffers mistreatment. She breaks out later in the year and terrorizes the Asylum's staff until she is found and her sanity partially restored by the Weathermay-Foxgrove Twins."
+        },
+        {
+            "timetype": "notable",
+            "date": "751",
+            "description": "Bastion Teodorus Raines writes the Fourth Book of Ezra and is recognized as the Bastion of the Darkonian Church of Ezra. Eleni of Toyalis, a Rashemani woman, creates a scandal when she emerges as one of Hazlik's greatest students and assistants. Previously a floating pocket domain, the House of Lament settles down in the southwestern part of Borca. Thought destroyed with the fall of Azalin, the Kargatane goes underground. Lady Kazandra restructures the Kargatane to meet the demands of a world without Azalin and turns newcoming members into her own puppets. However, the Kargatane as a whole serves no single master. Gondegal becomes leader of the Circle. Present day current as of the Domains of Dread setting book. The Green Maiden's disease begins spreading among the fauna of Falkovnia. Aggarath (Domain) forms. The Monster of Lake Korst, an aquatic monstrosity of unknown nature, assaults and partially feasts upon several swimmers. Winter In the midst of Azalins absence, the Kargat fail an assassination attempt on Alanik Ray. He flees from Martira Bay to Dementlieu. January: Bastion Teodorus Raines cleanses and occupies the Last Redoubt in Nevuchar Springs. Spring: In Viktal, Bryonna is set to wed Ivan D'Ogmai However, Lorelei, under manipulation from the Unseelie Court, accuses her of witchcraft. In the chaos of the witch hunt and the ensuing aftermath, Loht tries to acquire the Sword of Arak. March: Falkovnia launches its fifth invasion of Darkon in the March of Doom. Falkovnian forces reach as far north as Nartok before being turned back by the undead. When it comes to light of his daughter's manipulation by the fey, Wyan's faith is shaken to his core, and he treats in isolation for several years. The Inquisition's power is dealt a blow it will not recover from until half a decade passes. A series of strange and mysterious events occur in Briggdarrow, causing much of the community population to abandon it.[818] The truth behind these events is that Prince Mohrg and his Muryans raid Briggdarrow and transform many of the townspeople into changelings. Summer Loht attempts to open the Obsidian Gate. Gwydion is almost freed. June Arcapatos Miguel Agustin and his entourage of colonists from the Holy Empire begin their journey to Igid Rabi-i. The Polonists organize. Captain Teach reaches the Nocturnal Sea via the Wake of the Loa mistway and begins a career of piracy. Meredoth sends lebendtod scouts to investigate the mass undead reanimation in Necropolis. Death gains control over them, preventing their return. Colin Graben assumes the alias of Josiah Graben in order to keep better tabs on what's going on in Graben Island. The Centurions of the Night are founded in Kartakass."
+        },
+        {
+            "timetype": "notable",
+            "date": "752",
+            "description": "Ebb abandons Castle Avernus and tries to enter the Shadow Rift. When she is unable to, she makes a nest in Mt. Nyid. May 1st Arcapatos Miguel Agustin formally proclaims Igid Rabi-i a colony of the Holy Empire of Matherion. September The Vestibulo is erected over the remains of the groves held sacred by the old religion of Igid Rabi-i. The Diviner of the Bay portents ill fortunes for those who abandon the old faith before seemingly committing suicide. Autumn Lord Soth disappears during the Hour of Screaming Shadows, and Azrael Dak assumes political control over Sithicus. Nedragaard Keep is shredded. The Northlands form. Tallwich enters Darkon and settles down in the Forest of Shadows near Nartok. The Red Haunt develops the 'Genevieve Schlosser'-persona in the Wartorn Cluster to embody the fiend's capacity for goodness. Mu, the Red Haunt, an unnamed Lamordian engineer and Victor Mordenheim begin working on the World Engine at Schloss Mordenheim."
+        },
+        {
+            "timetype": "notable",
+            "date": "753",
+            "description": "Burgomaster Shaithis Vosrovna is executed by none other than Count Strahd von Zarovich himself. Vosrovna's crimes were manipulating adventurers into slaying a local Vistana, at once abusing her authority and violating the law of the land. On his deathbed, Tara Kolyana's father expresses how proud he is of her and tells her of the prophecy the Vistani gave about her and why they left Barovia. A minor skirmish over resources in Aluk Meridian explodes into a full-scale, city-wide riot in Necropolis. It takes Death's forceful domination to put the riot down. The Weathermay-Foxgrove Twins being publishing compiled editions of the various Van Richten guides. Azalin recovers enough of his disperse essence to consciously think again, though he still lacks corporeal form. He sends dreams to several allies with plans for his return. These plans apparently involve a soul phylactery. The Glutton of G'Henna appears in the hills east of Morfenzi and moves into Borca, attacking the hamlet of Vasey. Late Year; Gabrielle is pregnant with Lucita Aderre, though she does not know whether Matton Blanchard or Ardonk Szeriezia is the father. Gustavstan forms. Locknar Cove joins the Core as a location in the Nocturnal Sea. The War of the Sea Demons: Humanoid aquatic invaders harassed Vechorite coastal settlements throughout most of this year, withdrawing as mysteriously as they had come after several months of intermittent conflict. Late Year After trying to bribe, cajole, and intimidate the Bacani Clan for the Cloth of Matherion, Arcapatos Miguel Agustin orders the mass murder of the Bacani Clan and retrieval of the cloth. The Cloth is brought back to the Vestibulo. However a typhoon hits Tagudin. In the chaos that follows, the Cloth of Matherion is mysteriously lost. Meanwhile, the Diviner's prophecy comes true as Igid Rabi-i has been grabbed by some dark power and taken to the Land of Dread Night. The World Engine is activated at Schloss Mordenheim and does ... something ominous."
+        },
+        {
+            "timetype": "notable",
+            "date": "754",
+            "description": "The Resurrection of Erlin (Dread Possibility): Emanuel Maryszkas calls upon the power of Erlin for succor against Barovian pursuers. His prayer are answered, and his pursuers are driven away by unholy power. Gregor Zolnik murders his mother and wife. His sisters vanish without a trace. In the first half of the year, Irvyne Wolfe, aka the Red Wolf, meets Nadia. They fall in love. In the summer, they are married. Weeks later, the Vistani deliver a prophecy to them. Maureve decodes the prophecy as meaning that a true paladin will be born and eventually otherthrow Elena Faithhold. Still later, Nadia becomes pregnant but keeps her husband from knowing. The Celestines establish Nostophilia to monitor celestial events that might foretell events relating to Necropolis or Azalin Rex coming back. Gustav Malvoni dies , apparently murdered in his own home by intruders. Teresa Waterford becomes severely disfigured in a laboratory accident and is thrown out by her family. In the Fraternity of Shadows, Jan Mikkelson joins the ranks of the Umbra. Mu commits murder in Hazlan in an event involving the Vistani. She fails her third Powers Check."
+        },
+        {
+            "timetype": "notable",
+            "date": "755",
+            "description": "Pyoor Twohundredsummers dies of natural causes and is succeeded by Keeva Sixtywinters as leader of the Keepers of the Black Feather. Van Richten's Monster Hunter's Compendium III is published by the Weathermay-Foxgrove Twins under Dr. van Richten's name. Summer Azalin is restored to corporeal form. Necropolis becomes its own domain with Death as its darklord. (Dread Possibility): The Smothering of Reason doubles in frequency. Bloody Jack goes on another killing spree in Paridon. The Effigy of Ivan Szimin animates as a dread wood golem thanks to the actions of Ardonk Szerieza and his fellow rebels. The Coursers of Chaos, a group of Gundarakite rebels ram a wagon full of gunpowder into the Barovian military garrison in Zeidenburg, blowing up the facility. This act of violence ignites greater Barovian-Gundarakite conflict within Zeidenburg and beyond. In addition, the incident seemingly confirms widely-held suspicions linking the Zeindenburg rebels to Gabrielle Aderre and the Gundarakite forces holding Castle Hunadora in Invidia, where the gunpowder is said to have been smuggled in from. By this year or earlier (likely a few years), a Rajian scholar named Sidrathi discovers Ravana's Bane. He commissions Kopa to melt it down and reforge it into a statuette. An agent of the Dark Sisters named Tega steals it, but she is felled in the jungle and Ravana's Bane falls into unknown hands. Once more, Kopa is commissioned to turn it back into a bolt. After that, it falls into unknown hands again before resurfacing at a hidden temple in the jungle. There it is protected by monks. Mu discovers the Libre des Ombres Sécrètes has been transported to Richemulot. This turns out to be part of a trap set for her by the Mystery Benefactor, who claims the book for himself."
+        },
+        {
+            "timetype": "notable",
+            "date": "756",
+            "description": "Azalin Rex hires S to complete detailed guides of all of the domains of the Land of Mists. Celeste d'Honaire-Loverde visits the Mousel Family of Mordent in this approximate year. Sometime thereafter, James Mousel points her to the tutelage of Dr. Vilhelm Mikki in Chateaufaux. Wyan presides over the wedding of Gerald Ferrier to Tala. Bevis Vistin dies leaving his two year old son Grigor Vistin duke and his wife Lady Lara Vistin regent. Liffen Riots of 756 BC. Repeated Nova Vaasan attempts to cut a road North through Tepest to ultimately join the Strigos road in Darkon fail. Chief Constable Francine Maxwell is made the official chief constable of Paridon, removing the word acting from her title. Kerad Dyilf organizes the New Outcasts. October: S returns to Darkon, arriving in Nevuchar Springs. November 15 The Fraternity gathers at the Great Library.. Professor Viktor Hazan and Erik van Rijn present a manuscript called the Undead Sea Scrolls to the Fraternity. Erik also surreptitiously receives a book on necromancy from Marcos Vedarrak. Late Year Gerald Ferrier's wife, along with several of the guests staying at his inn, are murdered by a shapechanger, perhaps a doppelganger. The shapechanger is rooted out and slain before Ferrier's daughter can be sacrificed in an evil ritual. New Year's Eve: As S prepares to leave Darkon, Azalin Rex speaks to her through his shambling undead and provides her with her protective bracers."
+        },
+        {
+            "timetype": "notable",
+            "date": "757",
+            "description": "January: S enters Lamordia on New Year's Day. Over the past several years, the incursion of Malocchio's mercenaries into Borca drives Ivan Dilisnya up the wall. By this year, he has commissioned his own killers for hire to terminate any Invidians that come over the border looking for Vistani. By this year at the latest, Celia Whitmoor and Argent have settled down and established the Duskpeace Lodge, home to the Duskpeace Outcasts, in Verbrek. Spring: S begins documenting Dementlieu. She interrogates Mademoiselle Lucie Frenois told S about the Living Brain. The next day, Frenois' dead body is found in Pernault Bay. Stepan Ivan Hiregaard, eldest grandson of Tristen Hiregaard, replaces Sturm Androv and becomes chief constable of Kantora. He begins to investigate quietly rumours thatMalken is the half-brother of his grandfather and was responsible for the deaths in mysterious circumstances of his great grandfather and great grandmother. Founding of the Patriots of Liffe. Vette inherits ownership of the Nocturne. S explores [[Verbrek]. However, she is betrayed by Gwalon, her guide, and a large pack of werewolves fall upon her Later, she awakens in a Helbenik inn after seemingly blacking out from her confrontation with the werewolves."
+        },
+        {
+            "timetype": "notable",
+            "date": "758",
+            "description": "The Ste. Ronges Cell of the Fraternity of Shadows assembles. A build up of Nova Vaasan royal forces within easy reach of the Tepestani border is interpreted variously as a warning to the Tepestani to stop sabotaging the road or as a prelude to an invasion to civilize the domain by force. Illyana Hiregaard is institutionalized at the recently reopened Clinic of the Mentally Distressed outside of Egertus and kills an orderly. There are rumors that she is Malken. (If one ascribes to the Dread Possibility that the clinic serves once a month as a Mistway to the ]]Nightmare Lands]], then the doctors and the patients vanish once more. An agent of Azalin known as S interviews Sir Tristen Hiregaard and finds him to be “smug and self-satisfied” and unforthcoming about his struggle with Malken. S investigates Tepest. There she encounters the Gentleman Caller. Narana Hiregaard is to lead the crew of the Waveprowler, an effort sponsored by her family to fight the growing piracy on the Nocturnal Sea. The ship is to be captained by Onid Rhelarian. Winter Kristoff Lutemmi assaults the Midway Haven Observatory and murders three Celestines. Fritz Winterboone is nearly slain himself, but Katyarna Ivanova-Rudenko intervenes."
+        },
+        {
+            "timetype": "notable",
+            "date": "759",
+            "description": "Death, the darklord of Necropolis, sends emissaries to Anton Misroi, petitioning Misroi to give up his necromantic secrets for nothing in return. Offended by the impertinence, Misroi destroys all of Death's agents save for one, sent back to Death to deliver Misroi's refusal. Stezen d'Polarno fakes his death as an accident while boar hunting. Factors of the Carlyle Trading Company arrive in Armeikos and begin acquiring storage facilities and ships, threatening the Boritsis' dominance of the local shipping industry. October 29 Professor Erik van Rijn enacts his plans of betrayal against the Fraternity. Now a lich, vann Rijn organizes a contingent of the Unholy Order of the Grave and unleashes an attack upon the Ste. Ronges Cell of the Fraternity of Shadows. The Fraternity's headquarters, the Manoir de Penombre is burnt to the ground, and the cell's members are put to flight. In the chaos, Van Rijn steals plans of Azalin's Doomsday Device from thee Fraternity's archives."
+        },
+        {
+            "timetype": "notable",
+            "date": "760",
+            "description": "anuary Upon the suggestion of Ambrose Skully, Professor Viktor Hazan, Dr. Anthony Reuland, and a number of others from the Ste. Ronges Cell of the Fraternity of Shadows settle down in La Maison Soulombre, a lonely plantation outside of Port d'Elhour. Led by Hazan, they begin the hunt for the traitorous Erik van Rijn in Souragne. Later that month, Anton Misroi calls them to his presence, where they proceed to strike a truce with each other. (Transposession Temptation Dread Possibility]) In this year or shortly before, Colin Graben finds a cache of notes in Egertus. The notes mention the Apparatus as sought by a man known only as M. In this year at the latest (and in 755 BC at the earliest), Tavelia resurfaces on Liffe under the guise of Baroness Liae Tva Kolsson, wife of Baron Rognavold Kolsson. Becoming a Demilord of Liffe hinders her schemes both there and in Darkon. Stezen d'Polarno reinvents himself as d'Polarno III, his supposed grandson, and begins his third reign. February By this time, Alfred Larner has learned of Van Rijn's treachery and begins surveying Zherisia in the hunt for the renegade lich. June An assassin attempts to murder Alfred Larner, but he foils the attempt. Under interrogation, the culprit is revealed to be doppelganger sent by a dead thing. The Paridonian Brothers take this to be Van Rijn. July Paul Dirac and Viktor Hazan begin exploring the Nocturnal Sea in search of Erik van Rijn. [[Meredoth catches onto their antics in Todstein and sends them packing through violence and treachery. Several of their servants are murdered, and one is reanimated into a lebentod. However, one of the Fraternity thinks of a nasty surprise in retaliation. August-SeptemberViktor Hazan discovers Dirac stranded on a rock near the harbor of Graben-town. Delirious, cold, and almost unconscious, Dirac is fished out by Viktor and the sailors under his employ. Delivered to Dr. Gunnar Illhousen for treatment, Dirac makes little progress for the next several days. Eventually, Dirac escapes from his cell and walks into the sea. However, Dirac leaves behind some notes on the Drowning Deep he wrote while under the mental influence by Virundus. October A series of strange murders occurs in Paridon. Because of the taint of strong necromancy on the bodies, Alfred Larner links the murders to Erik Van Rijn (though he is not the culprit of all the murders). However, Larner suspects the lich may have already fled the city. The Fraternity of Shadows creates the Cellar Door, an artificial mistway. It links Souragne to Richemulot and back. Sentire Etienne Lefebvre has gathered a group of priests to unveil his version of the Fifth Book of Ezra on the 50th anniversary of Ti-Maman's death."
+        },
+        {
+            "timetype": "notable",
+            "date": "762",
+            "description": "The Fraternity of Shadows move through Ghastria in the hunt for the traitor Professor Erik van Rijn."
+        },
+        {
+            "timetype": "notable",
+            "date": "763",
+            "description": "Yuhaehan is freed from his imprisonment and ravages the land it once swore to protect. The dragon's evil makes it the darklord of the Dokyúumi. The Scattered Lotus Archipelago cluster forms from Rokushima Taiyoo, Dokyúumi (now its own domain), and Dat Cua Nhen."
+        },
+        {
+            "timetype": "notable",
+            "date": "766",
+            "description": "Ciska travels through the Threefold Path and enters Lilliend in the Wartorn Cluster."
+        },
+        {
+            "timetype": "notable",
+            "date": "775",
+            "description": "The prophecized Time of Unparalleled Darkness."
+        }
+    ]
+}

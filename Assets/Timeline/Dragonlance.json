@@ -1,0 +1,529 @@
+{
+    "type": "",
+    "universe": "Dragonlance",
+    "description": "PC, Prae Cataclius, or AC, Alt Cataclius, or SC, Secundus Cataclius",
+    "originalsource": "https://www.tapatalk.com/groups/hum_forgotten_realms/dragonlance-timeline-the-first-four-ages-t213.html",
+    "colour": "b29387",
+    "times": [
+        {
+            "timetype": "notable",
+            "date": "9000 PC",
+            "description": "9000-8500 PC People Choose Homes: Ogres, the first to awaken, claim the mountains. The elves withdraw to the forests, seeking harmony in the embrace of nature. To the humans fall the plains, where they grow as savage as the elements they are exposed to."
+        },
+        {
+            "timetype": "notable",
+            "date": "8500 PC",
+            "description": "8500-5000 PC Birth of Civilization: Ogres enslave humans to build their mighty nation of cold stone, establishing order. From the safety of their forests, elves warily watch the rise of the Ogre Nation and work to protect themselves against any future incursions from the ogres."
+        },
+        {
+            "timetype": "notable",
+            "date": "8700 PC",
+            "description": "8700 PC Favored of Reorx: Reorx walks among the humans, gathering to his side those who are filled with the spirit of creation. He brings them to a northern land to aid him in his tasks while imparting to them knowledge of his crafts."
+        },
+        {
+            "timetype": "notable",
+            "date": "6320 PC",
+            "description": "6320-5980 PC Heresy of Igrane: The ogre Igrane fails to slay a slave who disobeyed orders and saved the life of Igrane s daughter. Igrane learns compassion, and his slaves reward him for it with their loyalty. Unfortunately, when other ogres learn of Igrane s compassion, they declare him and his people traitors, forcing Igrane and his followers to flee for their lives. The irda, as Igrane and his people rename themselves, find haven on a distant island, where they live in peace."
+        },
+        {
+            "timetype": "notable",
+            "date": "6000 PC",
+            "description": "6000-5000 PC Decline of Ogres: As ogres continue to embrace cruelty, they begin falling prey to their own decadence. More and more ogre children are born without the beauty or power of their ancestors, as ogres begin to outwardly reflect their inner ugliness. Human slaves rise in revolution, overthrowing the tyranny of their masters. As many ogres are slain, their cities are razed, and the ogre civilization falls."
+        },
+        {
+            "timetype": "notable",
+            "date": "5000 PC",
+            "description": "5000 PC Elves Ascendant: With the fall of the Ogre Nation and the return to barbarity of humans, the elves seek to create their own civilizations. This marks the end of the Foundation Era and the beginning of the Time of Light."
+        },
+        {
+            "timetype": "notable",
+            "date": "5000 PC",
+            "description": "5000 PC Birth of Gnomes: Distressed at the and haughtiness of his chosen, Reorx curses them, changing them into a short folk who burn with the need to create, yet can never be satisfied with their creationsthe gnomes."
+        },
+        {
+            "timetype": "notable",
+            "date": "4350 PC",
+            "description": "4350 PC Graygem Released: A gnome is tricked by Hiddukel into stealing the Graygem from Lunitari. When the gnome loses his grip on the gem, the Graygem falls onto Krynn, bringing wild magic to the world. The Graygem begins crisscrossing Krynn, apparently without pattern. Everywhere the Graygem travels, it brings with it incredible changes. Flora, fauna, animals, even some mortals are transformed by the Graygem s chaotic energies."
+        },
+        {
+            "timetype": "notable",
+            "date": "4100 PC",
+            "description": "4100 PC Hunt for the Graygem Begins: Seeing the havoc wreaked by the Graygem, Reorx calls together his gnomes, sending them upon a quest to retrieve the Graygem."
+        },
+        {
+            "timetype": "notable",
+            "date": "4000 PC",
+            "description": "4000 PC Rise of House Silvanos: The elf Silvanos convenes the first Sinthal-Elish, the elven high council. Families unify, swearing allegiance to Silvanos, and decide to leave the ancestral home of the elves to build their own nation."
+        },
+        {
+            "timetype": "notable",
+            "date": "3951 PC",
+            "description": "3951 PC Graygem of Gargath: A ruler named Gargath is given the ability by the gods of Balance to capture the Graygem, binding it between two god-gems. The gnomes demand the return of their Graygem; when Gargath refuses, the gnomes lay siege upon Gargath s keep. The gnomes eventually succeed in breaching the keep, but when they attempted to seize the Graygem, a bright gray light fills the area. When the light fades, those gnomes who had been curious about the gem are transformed into kender, while those who lusted after the gem are transformed into dwarves. The Graygem continues on its erratic course across Ansalon."
+        },
+        {
+            "timetype": "notable",
+            "date": "3900 PC",
+            "description": "3900-3550 PC First Dragon War: The forest selected by the elven king Silvanos and his followers is the home of the children of the first chromatic dragons. The dragons and elves fight fiercely the dragons to defend their home, the elves to claim a new land. Secretly, the deities of magic give the elves five stones, which are used to capture the spirits of the first dragons and grant the elves victory. The dragon stones are buried deep in the Khalkist Mountains. When the other gods discover the actions of the deities of magic, the latter are punished for their interference. The gods of magic quietly accept their punishment, their plans still in motion."
+        },
+        {
+            "timetype": "notable",
+            "date": "3434 PC",
+            "description": "3434 PC Creation of the Sea Elves: The Graygem wanders along the coastline of southern Ansalon, transforming two houses of Silvanesti elves into sea elves. The Dargonesti and Dimernesti are born."
+        },
+        {
+            "timetype": "notable",
+            "date": "3152 PC",
+            "description": "3152-2900 PC Kal-Thax Built: To escape the Graygems chaos, dwarves become miners, building their first kingdom, Kal-Thax. While its location will eventually become lost, dwarves continue to use the term kal-thax to refer any ruins found in limestone caves."
+        },
+        {
+            "timetype": "notable",
+            "date": "3012 PC",
+            "description": "3012 PC Arrival of Minotaurs: The first minotaurs appear on Ansalon, landing upon the northeastern shores. They build Mithandrus, Land of the Bulls. Not soon after, the minotaurs are enslaved by the dwarves of Kal-Thax as the two nations expand into one another."
+        },
+        {
+            "timetype": "notable",
+            "date": "2800 PC",
+            "description": "2800 PC Thorin Delved: A dispute in Kal-Thax causes a group of dwarves to leave the city, founding a second dwarven nation in the Khalkist Mountains. This nation is named Thorin. Strangely, Kal-Thax is sealed at the same time, causing rumors to arise of dark horror occurring in the land. None are allowed entry back into Kal-Thax."
+        },
+        {
+            "timetype": "notable",
+            "date": "2799 PC",
+            "description": "2799 PC Minotaurs Rebuild Their Kingdom: Escaping the slavery of the dwarves, minotaurs return to their kingdom, renaming it in honor of the one who led them in rebellion: Ambeoutin."
+        },
+        {
+            "timetype": "notable",
+            "date": "2750 PC",
+            "description": "2750 PC Balifor Founded: Balif, a kender hero and close friend of the elven king Silvanos, leaves Silvanost, traveling across the bay to establish a city for his own people. The city is named Balif in honor of its founder, who dies shortly thereafter."
+        },
+        {
+            "timetype": "notable",
+            "date": "2735 PC",
+            "description": "2735 PC Minotaur Kingdom Divided: The twin sons of Ambeoutin, the minotaur king, face each other in ritual combat to determine the heir to the throne. When the battle is declared a draw, the minotaur kingdom is divided into two realms, one for each sonMithas and Kothas."
+        },
+        {
+            "timetype": "notable",
+            "date": "2710 PC",
+            "description": "2710 PC Dragon Stones Discovered: The dwarves find the five magical dragon stones that the elves had buried deep in the Khalkist Mountains after the First Dragon War. Their experience with the Graygem fills them with loathing for magic, so they return the stones to the surface, not realizing what they are unleashing."
+        },
+        {
+            "timetype": "notable",
+            "date": "2692 PC",
+            "description": "2692-2645 PCSecond Dragon War: Their spirits released, the five first dragons regain their physical forms and strike at the elven nation of Silvanesti with armies of lizard people. Three mages order the ground to swallow the dragons. Though the beasts fall, thousands die as a result of magic running wild and causing catastrophes across the continent. In desperation, the three mages call upon the deities of magic, who had been waiting for such an occurrence. Knowing that magic would continue to run wild unless people are taught how to properly wield it, the gods of magic sweep the three mages and their tower into the Beyond, where the deities teach the mages the ways of high sorcery."
+        },
+        {
+            "timetype": "notable",
+            "date": "2645 PC",
+            "description": "2645-2550 PC Magic Defends Itself: The lost mages create laws to govern three Orders of High Sorcery, guiding others to build bastions of magic where these laws could be taughtthe Towers of High Sorcery. Thorin Closed: Ashamed at causing the Second Dragon War, dwarves withdraw into Thorin."
+        },
+        {
+            "timetype": "notable",
+            "date": "2600 PC",
+            "description": "2600 PC Rise of Ergoth: Ackal Ergot unites the Khalkist barbarians to build kingdoms. They found the nation of Ergoth with booty gained from pillaging. Hylo Founded: The second kender nation is founded when a kender clan is trapped in the first floating citadel, which crashes against the Sentinel Mountains. The kender name their kingdom High (for the citadel when it flew) Low (for when the citadel crashed). The name has since been shortened to Hylo."
+        },
+        {
+            "timetype": "notable",
+            "date": "2500 PC",
+            "description": "2500-2200 PC Ergoth Dominant: The human empire of Ergoth has grown to stretch from the southern Kharolis Mountains to the northern shores. Skirmishes with dwarves end in an uneasy truce. Ergoth annexes Hylo and expands to Silvanesti borders. Trade begins with the elves, some of whom marry humans."
+        },
+        {
+            "timetype": "notable",
+            "date": "2515 PC",
+            "description": "2515 PC Death of Silvanos: Silvanos, founder of the elven kingdom of Silvanesti, dies and is buried in a crystal tomb. His son, Sithel, takes command and orders the construction of a tower, the Palace of Quinari, in memory of his father."
+        },
+        {
+            "timetype": "notable",
+            "date": "2308 PC",
+            "description": "2308 PC Sithas and Kith-Kanan Born: The elven king Sithel has twin sons: Sithas (the elder of the two) and Kith-Kanan."
+        },
+        {
+            "timetype": "notable",
+            "date": "2192 PC",
+            "description": "2192-2140 PC Kinslayer War: The elven king Sithel is mysteriously killed, apparently by humans hunting on Silvanestis western border. His son Sithas declares war on the human empire of Ergoth. Elves try to drive humans from their borders, while humans resist fiercely. Half-elves take sides, brother fighting sister. Kith-Kanan leads the elven effort, eventually helping to negotiate a truce."
+        },
+        {
+            "timetype": "notable",
+            "date": "2150 PC",
+            "description": "2150-2000 PC Thorbardin Delved: The Hylar dwarves migrate from their home of Thorin to the southern Kharolis Mountains, to delve new a home near what was thought to be the site of Kal-Thax. This new site is named Thorbardin. Thorin, in decline after its isolation and a failed human invasion, is henceforth known as Thoradin, meaning Lost Hope or Lost Home."
+        },
+        {
+            "timetype": "notable",
+            "date": "2140 PC",
+            "description": "2140-2100 PC Silvanesti Sunders: Western elves, ashamed of the bloodshed between elves and humans, sue for social change and declare their independence, led by Kith-Kanan. Sithas grants land to Kith-Kanan and his followers."
+        },
+        {
+            "timetype": "notable",
+            "date": "2128 PC",
+            "description": "2128-2073 PC War of the Mountain: Disputes between the new dwarven city of Thorbardin and the human empire of Ergoth over borders and mineral rights result in skirmishes."
+        },
+        {
+            "timetype": "notable",
+            "date": "2085 PC",
+            "description": "2085 PC Bright Horizon Founded: Humans seeking to escape the War of the Mountain raging across Ergoth set sail, looking for the Dragon Isles. A strange storm causes their ship, the Bright Horizon, to crash in a cove in Northern Ansalon. This cove serves as a refuge for pirates, who strike a deal with the shipwrecked inhabitants to build a town where pirates, smugglers, and the like can find a safe port."
+        },
+        {
+            "timetype": "notable",
+            "date": "2073 PC",
+            "description": "2073 PC Swordsheath Scroll: Kith-Kanan negotiates a peace treaty, called the Swordsheath Scroll, between the elves, dwarves, and Ergothians. An enchanted forest between the lands of the dwarves and the humans is given to the western elves. This forest is named Qualinesti. Ergoth stops mining the Kharolis Mountains and dwarves relax trade restrictions."
+        },
+        {
+            "timetype": "notable",
+            "date": "2072 PC",
+            "description": "2072 PC Hammer of Honor Forged: Thorbardin dwarves forge a replica of the hammer of Reorx, presenting it to Ergoth as a peace offering. Annual passage of the hammer among nations reinforces the terms of the Swordsheath Scroll peace treaty."
+        },
+        {
+            "timetype": "notable",
+            "date": "2050 PC",
+            "description": "2050-2030 PC The Great March: Western elves migrate to the new homeland of Qualinesti."
+        },
+        {
+            "timetype": "notable",
+            "date": "2000 PC",
+            "description": "2000-1900 PC Pax Tharkas: The human empire of Ergoth and surrounding nations prosper. Kith-Kanan convinces men, dwarves, and elves to join to erect the fortress of Pax Tharkas, a monument to peace."
+        },
+        {
+            "timetype": "notable",
+            "date": "2009 PC",
+            "description": "2009 PC Thoradin Is Lost: The dwarven population of Thoradin vanishes inexplicably."
+        },
+        {
+            "timetype": "notable",
+            "date": "1900 PC",
+            "description": "1900-1750 PC Rebellions in the East: The end of the Quevalin line, which had ruled the human empire of Ergoth for generations, sees a succession of brutal kings seeking to exploit Ergoth. The east revolts in vain."
+        },
+        {
+            "timetype": "notable",
+            "date": "1812 PC",
+            "description": "1812 PC Solamnus Commands Guard: Vinas Solamnus, the future founder of the Knights of Solamnia, rises to Praetor (general of the imperial armies) in Ergoth."
+        },
+        {
+            "timetype": "notable",
+            "date": "1801 PC",
+            "description": "1801 PC Great Uprising: Solamnus marches east with a huge army to crush a rebellion in Vingaard."
+        },
+        {
+            "timetype": "notable",
+            "date": "1800 PC",
+            "description": "1800 PC The Year of Waiting: Solamnus reviews the rebels cause, becoming sympathetic. He and most of his army join the rebel forces."
+        },
+        {
+            "timetype": "notable",
+            "date": "1799 PC",
+            "description": "1799-1791 PC Rose Rebellion and Fall of Ergoth: Eastern provinces of the human empire of Ergoth rally to Solamnus, who trains an army and turns back imperial forces. He marches to Daltigoth in 1791 PC, outmaneuvering Ergoths forces and laying siege. The emperor grants the states independence. Solam nus honors the Swordsheath Scroll with the dwarves and the elves."
+        },
+        {
+            "timetype": "notable",
+            "date": "1775 PC",
+            "description": "1775 PC Knights of Solamnia: After his Quest for Honor, ruler Vinas Solamnus founds an order of knights to fight for Good. The Crown, Sword, and Rose Knights become the guardians of Ansalon."
+        },
+        {
+            "timetype": "notable",
+            "date": "1773 PC",
+            "description": "1773 PC Establishment of Palanthas: Vinas Solamnus turns to the city of Bright Horizon, long a lawless haven for pirates, mercenaries, and thieves. In the name of Paladine, Solamnus leads a group of knights, dwarves, and elves to Bright Horizon, bringing law to the lawless. Bright Horizon is renamed Palanthas."
+        },
+        {
+            "timetype": "notable",
+            "date": "1772 PC",
+            "description": "1772 PC High Clerists Tower: In a strategic pass leading to Palanthas, Vinas Solamnus commissions the construction of the High Clerists Tower. Palanthas is redesigned and rebuilt by dwarven architects. The Great Library of the Ages appears overnight and Astinus, a long-lived sage who later comes to be thought of as an avatar of Gilean, first appears."
+        },
+        {
+            "timetype": "notable",
+            "date": "1750 PC",
+            "description": "1750-1300 PC Birth of Nations: The human nations of Sancrist, Solamnia, and Istar arise. Solamnia prospers, Ergoth declines, and the Silvanesti elves retire from the world, retreating into their forest."
+        },
+        {
+            "timetype": "notable",
+            "date": "1480 PC",
+            "description": "1480 PC Istar Grows as Trade Center: Istar grows into a nexus for world trade, as Solamnia grows into a unrivaled military power."
+        },
+        {
+            "timetype": "notable",
+            "date": "1399 PC",
+            "description": "1399-1010 PC Dark Queen Plots: Once more, the Dark Queen plots. She seeds the earth with dragon eggs, which she had carefully nurtured in the Abyss. When the time is right, the eggs will hatch, allowing evil dragons to return to the world in vast numbers."
+        },
+        {
+            "timetype": "notable",
+            "date": "1060 PC",
+            "description": "10601018 PCThird Dragon War: The dragons unleash their fury, eventually turning toward Solamnia. The Orders of High Sorcery call a conclave, gathering at the Tower of Palanthas to create the five dragon orbs to defend the Towers of High Sorcery. The orbs are taken to different key locations across Ansalon, with the one from the Tower of High Sorcery in Palanthas being placed at the center of the High Clerists Tower. Dwarven architects modify the tower, making it a death trap that will utilize the dragon orb as a key component. Huma Dragonbane: A young Solamnic, Huma Dragonbane, falls in love with the elf Gwynneth, who is really a silver dragon named Heart. Paladine gives them a choice: they can live together as mortals, apart from the world, or they can help save the world from Takhisis. Their decision made, Paladine guides them to forging the first dragonlances with the aid of a dwarven smith wielding the Hammer of Honor and bearing a silver arm blessed by Paladine. Their victories rally the good metallic dragons to their cause. At last, Takhisis herself falls to Humas lance and agrees to depart Ansalon with her dragons. Unfortunately, Huma and Heart die as she leaves, having sacrificed themselves to ensure victory."
+        },
+        {
+            "timetype": "notable",
+            "date": "1000 PC",
+            "description": "1000-800 PCIstar Dominant: Istarian trade standards spread throughout the world.Resurgence of Thoradin: Dwarves reopen Thoradin, driving out occupying ogres. Istars proximity makes Thoradin a major supply center. Kender Treaty: Hylo allies with Solamnia."
+        },
+        {
+            "timetype": "notable",
+            "date": "980 PC",
+            "description": "980 PC Thorbardin Opens Kayolin: Solamnia grants Thorbardin mining rights in the Garnet Mountains as a reward for dwarven aid during the Third Dragon War. The dwarves delve the city of Garnet and found a kingdom, Kayolin."
+        },
+        {
+            "timetype": "notable",
+            "date": "967 PC",
+            "description": "967 PC Tree of Life Built: Dwarves begin work on the city of Zakhalax, also called the Tree of Life, in Thorbardin."
+        },
+        {
+            "timetype": "notable",
+            "date": "948 PC",
+            "description": "948 PC Hill Dwarves Rise: Thorbardin founds Hillow, an outlying hill dwarf kingdom. Elves Isolate Themselves: More and more, the Silvanesti and Qualinesti elves confine themselves to their respective kingdoms."
+        },
+        {
+            "timetype": "notable",
+            "date": "910 PC",
+            "description": "910-825 PC Ogre Wars: Exiled ogres unite to flush the dwarves from Thoradin. The dwarves call upon Solamnic aid to drive the ogres away."
+        },
+        {
+            "timetype": "notable",
+            "date": "850 PC",
+            "description": "850-727 PC Trade Wars: Istars strict trade standards rile the kender of Balifor, who mount an aggressive trade war. After years of military and legal action (much of which proves useless against the wily and riled kender), Istar is defeated and signs the kender tax, exempting the kender from the standards. An important lesson is learned: kender and taxes do not mix."
+        },
+        {
+            "timetype": "notable",
+            "date": "673 PC",
+            "description": "673-630 PC Istar and Silvanesti Clash: Istar expansion threatens Silvanesti naval merchants. Sea skirmishes lead to a blockade of Istar, which signs the Swordsheath Scroll."
+        },
+        {
+            "timetype": "notable",
+            "date": "530 PC",
+            "description": "530-522 PC Ogre Skirmishes: Ogres from the Khalkist Mountains threaten trade routes. Thoradin, Istar, and the Knights of Solamnia drive them back. Thoradin signs the Swordsheath Scroll."
+        },
+        {
+            "timetype": "notable",
+            "date": "490 PC",
+            "description": "490-476 PC Raiders: Solamnia becomes more dependent on Istarian trade, currency, and ideals. Barbarians in the Estwilde, resenting Istarian trade routes through their lands, raid caravans. Istar convinces Solamnia to attack the barbarians and to re-sign the Swordsheath Scroll."
+        },
+        {
+            "timetype": "notable",
+            "date": "460 PC",
+            "description": "460 PC Peace in the Land: Istar, the center of commerce, tax, and art, has become the dominant power in Ansalon."
+        },
+        {
+            "timetype": "notable",
+            "date": "280 PC",
+            "description": "280 PC World Righteousness: Claiming to be the moral center of the world, Istar installs a Kingpriest. Solamnia approves the effort to promote Good. The elven kingdom of Silvanesti grows antagonistic toward Istar. Signs of Doom: Portents of the eventual downfall of Istar begin appearing across the land, but they are ignored by most, including the Kingpriest."
+        },
+        {
+            "timetype": "notable",
+            "date": "260 PC",
+            "description": "260-212 PC Temple of the Kingpriest: The finest artisans in the world gather to build a temple to the glory of Istar."
+        },
+        {
+            "timetype": "notable",
+            "date": "250 PC",
+            "description": "250-100 PC Corruption of Justice: Istar represses the independence of anyone who disagrees with the Kingpriests policies and edicts. The elves, disgusted at human arrogance, withdraw into their forests."
+        },
+        {
+            "timetype": "notable",
+            "date": "118 PC",
+            "description": "118 PC Manifest Virtue: The Kingpriest declares Evil is an affront to both gods and mortals. Those guilty of offenses on his list of evil acts face execution or the gladiatorial arena. Priests of Istar begin losing clerical magic, becoming instead the Kingpriests enforcers and inquisitors."
+        },
+        {
+            "timetype": "notable",
+            "date": "94 PC",
+            "description": "94 PC Extermination of Evil Races: The Kingpriest adds a clause to the Proclamation of Manifest Virtue, stating that certain races are evil and must be either brought to the Light (sold into slavery) or exterminated. Hunters work to eliminate these creatures, earning high bounties. The minotaur kingdoms are conquered and the minotaurs forced into slavery, as they had been nearly 3,000 years before."
+        },
+        {
+            "timetype": "notable",
+            "date": "80 PC",
+            "description": "80-20 PC Dominance of Istar Clergy: Istar is now the center of religion. All aspects of life require the approval of the priesthood. The status of Istars clergy rises; wizards are hunted as ungodly. Most priests have lost all magical abilities, blaming the deities for their loss."
+        },
+        {
+            "timetype": "notable",
+            "date": "41 PC",
+            "description": "41 PC Turning Point: The Kingpriest begins plotting his own passage to godhood."
+        },
+        {
+            "timetype": "notable",
+            "date": "19 PC",
+            "description": "19 PC Siege on Sorcery: Afraid and jealous of a magic he cannot understand, the Kingpriest urges the people of Krynn to lay siege to the Towers of High Sorcery. Two towers are nearly overwhelmed. Rather than lose their towers to ignorant masses, the Wizards of High Sorcery destroy two of the towers (the Towers of Goodlund and Daltigoth), unleashing a terrifying backlash of magical power. Fearful of the rampant magic that might arise if all five towers are destroyed, the Kingpriest grants the mages exile to the Tower of Wayreth (the most isolated of the remaining towers) if they leave the remaining towers intact (the Towers of Palanthas and Istar). The Orders of High Sorcery reluctantly agree. The Kingpriest moves into the Tower of Istar, claiming it as his own. The Tower of Palanthas is cursed by the Black Robe wizard, Rannoch, to remain closed until opened by the Master of Past and Present."
+        },
+        {
+            "timetype": "notable",
+            "date": "6 PC",
+            "description": "6 PC Edict of Thought Control: The Kingpriest asserts that evil thoughts equate to evil deeds. Priests use renegade mages to read peoples minds."
+        },
+        {
+            "timetype": "notable",
+            "date": "1 PC",
+            "description": "1 PC Thirteen Signs: The Kingpriest tries to elevate himself to godhood, above even the other gods. Wrathful, the deities send thirteen signs to warn the doomed people. The Night of Doom and Disappearance of the Gods: Thirteen days prior to the Cataclysm, thousands of clerics disappear. Only clerics of pure faith are taken; those who had not remained true to the deities remain. Although clerics of all alignments disappear, many of those who followed the gods of Balance and gods of Darkness had already been killed by agents of the Kingpriest. With the loss of clerical magic, many come to believe that the deities themselves have abandoned Krynn. Lord Soths Geas: Lord Soth, a Knight of the Rose, is given a chance by the gods to redeem himself for crimes he committed. He is turned from his path, however, by the blandishments of servants of the Dark Queen, and he fails his quest. The Cataclysm strikes and Soth is cursed to become a death knight."
+        },
+        {
+            "timetype": "notable",
+            "date": "0 PC",
+            "description": "0 PC The Cataclysm: On the thirteenth day of Yule, the third day of the new year, the sky burns, and a fiery mountain is launched from the heavens at Istar. The impact drags the city of Istar to the depths of the newly formed Blood Sea and fragments the rest of the nation. Ergoth is torn from the mainland to form two great islands. Waters pour into central Ansalon, forming the New Sea and shrinking the plains. To the south, lands rise and waters recede. The port city of Tarsis, unscathed, now lies far from the sea. The waters envelope most of Balifor; what remains is a desert waste, which the kender abandon. Thoradin becomes Zhakar."
+        },
+        {
+            "timetype": "notable",
+            "date": "1 AC",
+            "description": "1-300 AC Shadow Years: The dark ages. Knights of Solamnia are persecuted. The Seeker movement begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "3 AC",
+            "description": "3-140 AC Dark Queen Finds Istar: Takhisis locates the Temple of Istar, the central temple of the pre-Cataclysm nation, in the ruins of the city at the bottom of the Blood Sea. She brings it into the Abyss, intending to use it as a tool in her eventual return to power."
+        },
+        {
+            "timetype": "notable",
+            "date": "39 AC",
+            "description": "39 ACThe Dwarfgate War: Humans and hill dwarves demand entry into Thorbardin and access to its food stores. Fistandantilus, a powerful evil wizard, casts spells to destroy both armies and the fortress of Zhaman, now called Skullcap. The Hammer of Kharas: The Hammer of Honor is taken from Thorbardin by a dwarf named Kharas, a hero of the Dwarfgate War. A prophecy speaks of a righteous leader who will one day reclaim the Hammer and unite the dwarven thanes. The Hammer of Honor becomes known as the hammer of Kharas."
+        },
+        {
+            "timetype": "notable",
+            "date": "141 AC",
+            "description": "141 AC The Stone Is Planted: Takhisis takes the sacred Foundation Stone of the Temple of Istar to the wilderness near Neraka, where she will use it as a gate to and from the Abyss."
+        },
+        {
+            "timetype": "notable",
+            "date": "142 AC",
+            "description": "142-152 AC Dragons Awaken: For ten years, the Dark Queen wanders the lands in disguise, awakening the evil dragons and preparing them for her work. She returns to Neraka, then to the Abyss, to gather her forces."
+        },
+        {
+            "timetype": "notable",
+            "date": "157 AC",
+            "description": "157 AC Berem Finds the Stone: The Foundation Stone of the Temple of Istar is found by a traveler named Berem. He pries one of several jewels from it. The green jewel becomes embedded in his chest, granting him immortality."
+        },
+        {
+            "timetype": "notable",
+            "date": "210 AC",
+            "description": "210 AC: The Gate Is Barred: Because the Foundation Stone of the Temple of Istar is missing the gem taken by Berem, Takhisis can no longer use it as a gate."
+        },
+        {
+            "timetype": "notable",
+            "date": "287 AC",
+            "description": "287 AC Egg Theft: The chromatic dragons steal the eggs of the good dragons, hiding them within the mountains known as the Lords of Doom."
+        },
+        {
+            "timetype": "notable",
+            "date": "296 AC",
+            "description": "296 AC The Dragons Oath: Takhisis awakens the metallic dragons, threatening to crush their eggs unless they stay out of the upcoming war. When the good dragons swear noninvolvement, Takhisis promises to return their eggs once the war has concluded."
+        },
+        {
+            "timetype": "notable",
+            "date": "300 AC",
+            "description": "300-320 AC Agents of Evil: Minions of Takhisis search unsuccessfully for Berem. The Dark Queen needs Berem to complete the Foundation Stone, which will enable her to once more walk the face of Krynn."
+        },
+        {
+            "timetype": "notable",
+            "date": "332 AC",
+            "description": "332-340 AC Dragons Gather/Dragon Highlords Named: At the directions of the Dark Queen, the evil dragons ally with ogres and wicked men, who become the dragons commanders. These Highlords prove as willing to torture their own forces as they are those they conquer."
+        },
+        {
+            "timetype": "notable",
+            "date": "337 AC",
+            "description": "337 AC Neraka Corrupts Its Neighbors. Evil from the Foundation Stone draws evil creatures from nearby realms. The city of Sanction, not far from Neraka, becomes the base of operations, while the evil folk of Estwilde serve as reserve forces."
+        },
+        {
+            "timetype": "notable",
+            "date": "341 AC",
+            "description": "341 AC The Dragonarmies Offer: An alliance is offered to the ogre nations of Kern and Blöde, as well as the human kingdom of Khur and the Pirate Isles. All accept rather than be destroyed."
+        },
+        {
+            "timetype": "notable",
+            "date": "342 AC",
+            "description": "342 AC Draconians Created: Priests of Takhisis and Black Robe mages corrupt the captured eggs of good dragons to create the dragonmen. First come baaz and kapak, then bozak, sivak, and aurak. These draconians, as they are called, are assigned to different wings of the dragonarmies, while others are sent out to seek the Greenstone Man (as Berem, who took the gem from the Foundation Stone, has come to be known)."
+        },
+        {
+            "timetype": "notable",
+            "date": "343 AC",
+            "description": "343-347 ACEvil Gathers Its Forces: Armies of cutthroats, ogres, goblins, and hobgoblins are trained to serve in the Dark Queens armies. Violence among the allies weeds out the weak, leaving only the strongest, and most vicious, recruits."
+        },
+        {
+            "timetype": "notable",
+            "date": "346 AC",
+            "description": "346 AC The Companions Journeys. A group of adventurers known as the Companions of the Inn of the Last Home decide to undertake separate quests, searching for signs of the lost deities."
+        },
+        {
+            "timetype": "notable",
+            "date": "348 AC",
+            "description": "348 AC War of the Lance Begins: In the spring, the dragonarmies invade Nordmaar and Balifor from Sanction. The elven kingdom of Silvanesti brokers a deal to escape invasion"
+        },
+        {
+            "timetype": "notable",
+            "date": "349 AC",
+            "description": "349 AC Silvanesti Betrayed: Dragonarmies attack the forest nation of Silvanesti; the elves flee to the island of Southern Ergoth. The elven Speaker of the Stars, Lorac Caladon, attempts to use a dragon orb he had saved from destruction in Istar to stop the invasion. Lorac proves unable to control the dragon orb, allowing an evil dragon to seize control of the hapless elven king. Loracs nightmares are projected by the dragon orb, twisting the Silvanesti forest into a nightmare realm. The dragonarmy abandons its conquest, as the forest is now worthless and corrupt."
+        },
+        {
+            "timetype": "notable",
+            "date": "350 AC",
+            "description": "350 AC Evil Rearms Itself: The dragonarmies are strengthened by captured nations. Takhisis controls all eastern Ansalon, except for the island of Saifhum. The minotaurs of Mithas and Kothas harry the retreating Silvanesti refugees."
+        },
+        {
+            "timetype": "notable",
+            "date": "351 AC",
+            "description": "351 AC Evil Turns West: Once more, in the spring, the dragonarmies begin skirmishes along the eastern border of Solamnia. The Blue Dragonarmy strikes across Dargaard Mountains, aided by goblins. The Knights of Solamnia, in recent disarray, cannot repel the attack. The Blue Dragonarmy occupies Kalaman, Hinterlund, and Nightlund, which allows them to continue pressing the borders of the Plains of Solamnia and Gaardlund. Betrayal allows the dragonarmies to enter Solamnia from the south, but the dwarves of Kayolin prove a stout bulwark against the advancing dragonarmies. By autumn, the knights respond and Solamnia becomes entrenched. The Red Dragonarmy leads an amphibious flanking assault along the New Sea and across the Plains of Abanasinia. The barbarians fall to their advance. The Qualinesti elves flee to join their cousins on the island of Southern Ergoth, after delaying the foes advances. The dragonarmies march against Thorbardin, laying siege to its northern gate. A wing of the Blue Dragonarmy strikes south, around the New Sea to Tarsis and the Plains of Dust, then marches toward Kharolis to cut off dwarven retreat. By years end, much of Ansalon has fallen. However, the Companions from the Inn of the Last Home have reunited in Solace. By chance or Fate, they meet a barbarian couple, Riverwind and Goldmoon, who possess the blue crystal staffproof that the deities of Good have returned. When Lord Verminaards Red Dragonarmy overruns their homeland , these Companions, along with Laurana and Gilthanas, elven children of the Qualinesti Speaker of the Sun, rescue their people from imprisonment in Pax Tharkas, killing Lord Verminaard, and fleeing south to escape the dragonarmies."
+        },
+        {
+            "timetype": "notable",
+            "date": "352 AC",
+            "description": "352 AC The Whitestone Council: Representatives of the remaining free nations gather on Sancrist at the Whitestone Glade to forge an uneasy alliance. When the Companions rediscover the legendary dragonlances in Icewall and recover the dragon orb from Silvanost (laying the foundation for the forests eventual healing in the process), the two artifactsare brought to Sancrist. It takes the efforts of a kender, a blacksmith wearing the legendary Silver Arm, Laurana of the Qualinesti, and a strategically thrown, newly forged dragonlance to truly forge the alliance. Creation of new dragonlances begins. In spring, the Blue Dragonarmy besieges the High Clerists Tower near Palanthas. Laurana is named the Golden General, a token position meant to honor her for her part in recovering and reconstructing the dragonlances, and aids the defense of the tower. The Blue Dragonarmy seems too powerful to be defeated when the kender hero, Tasslehoff Burrfoot, discovers another dragon orb within the tower. Laurana uses the dragon orb and reveals the deadly secret of the towerthat it had been modified to serve as a death trap against attacking dragons. Unfortunately, Sturm Brightblade, a Hero of the Lance, dies in battle against the Dragon Highlord of the Blue Dragonarmy, but the tide of the war begins to turn. A special force of knights, aided by the elven prince Gilthanas, the silver dragon DArgent, and the copper dragon Cymbol, successfully infiltrate the city of Sanction, discovering the secret keeping the good dragons out of the war. When it is revealed that many of the good dragon eggs were being used to create draconians, the metallic dragons are freed from their oaths and swiftly enter the war. In the summer, the armies of the Whitestone Council begin striking back at the dragon armies. They quickly reclaim much of Solamnia. The dragonarmies counter by unleashing their reserve forces, including fiveflying for tresses,but their conquests are already slipping away. The siege of Kalaman by Whitestone forces marks the beginning of the end for the dragonarmies. Released from nearly fifty years of imprisonment in the dwarven kingdom of Thorbardin, Berem, the Greenstone man, is sighted again. Takhisis moves her agents to find and capture him, so she might open the gates of the Abyss and lead her infernal minions to reinforce the flagging dragonarmies. However, Berem constantly seems to slip beyond her grasp. In a desperate ploy, the Golden General marches her Whitestone forces across the Estwilde to assault the vale of Neraka, the stronghold of Takhisis s forces. Lord Ariakan, son of the self-proclaimed Emperor of Ansalon, Lord Ariakas, is taken prisoner. By Fates hand, the Heroes of the Lance (as the Inn Companions are now called) find Berem and journey to Neraka, though it costs them the life of their friend and companion, the Neidar dwarf Flint Fireforge. As Evil rallies its forces around the twisted form of the Dark Temple, Berem sacrifices himself and reunites the gem with the Foundation Stone. Then, as his sister s spirit is released, the Temple crumbles, destroying Takhisis s gateway. Almost simultaneously, Tanis Half-Elven, a Hero of the Lance, strikes down Lord Ariakan, the leader of the Dark Queen s armies. The dragonarmies collapse, and the weak alliances of evil fight over the dropped crown of rulership."
+        },
+        {
+            "timetype": "notable",
+            "date": "353 AC",
+            "description": "353 ACThe War of the Lance Ends: The Dragonarmies are scattered across Ansalon, retreating to remote corners of the continent. Dragons, both metallic and chromatic, retreat as well. Master of Past and Present: Raistlin Majere, Hero of the Lance, former Red Robe wizard turned Black Robe, enters the Tower of High Sorcery in Palanthas. He is proclaimed the Master of Past and Present."
+        },
+        {
+            "timetype": "notable",
+            "date": "353 AC",
+            "description": "353-357 AC Harrying the Foe: Whitestone forces scour the land, hunting down the remnants of the dragonarmies. The dragonarmies still occupy much of central, eastern, and southern Ansalon, but the efforts of the Whitestone forces do much to reduce their numbers."
+        },
+        {
+            "timetype": "notable",
+            "date": "355 AC",
+            "description": "355 AC The Knighthood Evolves: Gunthar Uth Wistan becomes the first Grand Master of the Knights of Solamnia since the Cataclysm. One of his first orders is for the Measure of the Knighthood to be updated to reflect the modern times."
+        },
+        {
+            "timetype": "notable",
+            "date": "356 AC",
+            "description": "356 AC Master of Past and Present: Raistlin Majere and his twin brother, Caramon, journey into the past, accompanied by the Revered Daughter of Paladine, Crysania, and the kender, Tasslehoff Burrfoot. They reach corrupted Istar, intent upon changing history and challenging the Dark Queen. Raistlin defeats and absorbs the essence of the infamous wizard Fistandantilus. With Crysania, Raistlin journeys through time and into the Abyss, hoping to defeat the Dark Queen."
+        },
+        {
+            "timetype": "notable",
+            "date": "357 AC",
+            "description": "357 AC The Blue Ladys War: The Blue Lady, one of the most powerful and ruthless Dragon Highlords and half-sister to the Heroes of the Lance, Caramon and Raistlin Majere, makes a pact with the death knight Lord Soth. Together, they lead a dragonarmy from Sanction and, with a flying citadel, attack northern Solamnia. They besiege the city, but are defeated. Kitiara, the Blue Lady, is killed and Lord Soth disappears with her body. Sealing the Portal: In the Abyss, Raistlin Majere sacrifices himself to hold off the Dark Queen while Caramon saves Crysania from the Abyss. Caramon seals the Portal of the Abyss, trapping the Dark Queen and his twin inside, presumably forever. Ariakan Goes Free: Solamnic Knights release Lord Ariakan from captivity. Following a vision he receives from the Dark Queen, he decides to form the Knights of Takhisis."
+        },
+        {
+            "timetype": "notable",
+            "date": "360 AC",
+            "description": "360 AC Que-Shu Rises Again: Goldmoon and Riverwind help rebuild the destroyed village of their people, the Que-Shu. They are chosen to lead their people."
+        },
+        {
+            "timetype": "notable",
+            "date": "362 AC",
+            "description": "362 AC A Union of Elves: Porthios Kanan, ruler of elven kingdom of Qualinesti, and Alhana Starbreeze, elven princess of Silvanesti, marry in hopes of reunifying their peoples."
+        },
+        {
+            "timetype": "notable",
+            "date": "370 AC",
+            "description": "370 AC Knights of Takhisis Born: Lord Ariakan officially invests the first Knights of Takhisis. All knights receive the Vision: a look at their own personal roles in the Dark Queens divine plan."
+        },
+        {
+            "timetype": "notable",
+            "date": "378 AC",
+            "description": "378 AC A Journey of Honor: Two Heroes of the Lance, Tanis Half-Elven and Caramon Majere, journey to Storms Keep and meet Steel Brightblade, the child of Sturm Brightblade and Kitiara uth Matar. Tanis reports the existence of the Knights of Takhisis to the Knights of Solamnia, the Temple of Paladine, and the Orders of High Sorcery, but few heed his warnings."
+        },
+        {
+            "timetype": "notable",
+            "date": "380 AC",
+            "description": "380 AC United Plainsmen: All the scattered tribes of Abanasinia now look to Goldmoon and Riverwind for leadership."
+        },
+        {
+            "timetype": "notable",
+            "date": "381 AC",
+            "description": "381 AC Mages Storm the Keep: Wizards sent by the Orders of High Sorcery attack Storms Keep, seeking to wipe out the wizardly Thorn Knights of Takhisis. Justarius, Red Robe Master of the Conclave, is among those lost in the attempt. Dalamar the Dark, once apprentice to Raistlin Majere, becomes leader of the Conclave."
+        },
+        {
+            "timetype": "notable",
+            "date": "382 AC",
+            "description": "382 AC Elven Succession: Porthios, the Qualinesti Speaker of the Sun, successfully ends Loracs twenty-year Nightmare of Silvanesti. Gilthas, son of the Heroes of the Lance Laurana and Tanis Half-Elven, is unwillingly placed on the throne of the elven kingdom of Qualinesti through a coup led by General Konnal, who simultaneously steals away the Silvanesti throne as well. Porthios and Alhana are named dark elvesexilesand are forced to flee, unwelcome in either Qualinesti or Silvanesti. Changes in the Knighthood: Gunthar Uth Wistan retires, while Sir Thomas of Thelgaard becomes commander of the High Clerists Tower. Sturm and Tanin Majere, sons of Caramon Majere, become the first non-Solamnics to enter the knighthood."
+        },
+        {
+            "timetype": "notable",
+            "date": "383 AC",
+            "description": "383 AC The Summer of Chaos: Intending to use what they believe is the Graygems magic to protect their island home from the Knights of Takhisis, the irda break the open the gem and inadvertently release Chaos. Chaos destroys their island and threatens to destroy the entire world. Steel Brightblade, a Knight of Takhisis, takes his cousin, the young White Robe wizard Palin Majere, to the Tower of High Sorcery in Palanthas, intending on releasing the Dark Queen. Raistlin Majere, still within the Abyss, learns of the release of Chaos and draws his nephew through the portal. Inside the Abyss, they overhear the deities conclude that the only way to fight Chaos is to impel mortals to unite under their strongest forcethat of Takhisis. Raistlin leaves the Abyss with his nephew, but without his magic. Meanwhile, the Dark Knights seize the northern port of Kalaman. Armies of Takhisis march south to take Neraka, gaining aid from their dark allies in the Khalkist Mountains, then move west. They conquer the High Clerists Tower, where Tanis Half-Elven is slain ignobly during the battle. From there, the Dark Knights easily capture Palanthas. Ariakans knights capture all Solamnics within the city and imprison them within the High Clerists Tower. The Dark Knights restrict mages to the Towers of High Sorcery, close schools, and apply martial law. Within a month, they rule the island of Southern Ergoth, the elven nation of Qualinesti, and all the land from Nordmaar southeast through the Khalkist Mountains (including Kendermore), south to the Plains of Dust, and west into Solamnia and Abanasinia. The island of Northern Ergoth and Silvanesti manage to hold out, as do Thorbardin and some Khalkist Mountain hill dwarves. Mount Nevermind erupts, some say due to gnome attempts to use their war machines against the Knights of Takhisis."
+        },
+        {
+            "timetype": "notable",
+            "date": "0 SC",
+            "description": "0 SC The Second Cataclysm: Suddenly, before the knights can solidify their grip on Ansalon, signs of Chaos erupt throughout the land. Thorbardin falls under attack by underground minions of Chaos. Elves and ogres fight side by side to protect greater Blöde-Silvanesti. The Vingaard Mountains begin to burn. A rift opens in the Turbidus Ocean between the Dragon Isles and Ansalon, and from it spring flames, shadowwights, and daemon warriors astride fire dragons. The shadow-wightscreatures of darkness wreak havoc upon western Nordmaar, the Estwilde, the Northern Wastes, and the northern Plains of Solamnia. They also appear unexpectedly in the Sirrion Sea islands. Dalamar the Dark leads a group of wizards to the Rift to discover the nature of the creatures of Chaos. Magic, both arcane and divine, seems to be problematic, spells failing more often then they are successfully cast. Then the forces of Chaos strike at the High Clerists Tower. Metallic dragons arrive to fight against Chaos alongside the chromatics, but all mortals in the fight meet defeat. Every knight there dies defending the tower, except Steel Brightblades unit of dragon riders and the Solamnic prisoners. Lord Ariakan is slain in the battle, leaving the Knights of Takhisis leaderless and in chaos. Takhisis withdraws from Krynn and the Vision becomes lost to the Dark Knights. The sun halts its journey across the sky, and the familiar stars and moons vanish. Chaos runs wild across the face of Ansalon: He draws frostwights from the Icewall Glacier, cuts a huge canyon in the Solamnic Plains, causes the three volcanoes known as the Lords of Doom to erupt again, soothes the Maelstrom in the Blood Sea, and boils the ocean. The god Reorx is aided by Palin Majere in reclaiming the broken Graygem from the devastated irda island. He carries it down the Rift and into the Abyss, where Steel Brightblades knights and the Solamnic prisoners ride blue and silver dragons in battle against the forces of Chaos. Ultimately, Tasslehoff Burrfoot stabs Chaos in the toe, and Usha, Palins beloved, catches a drop of the deitys blood between the two halves of the Graygem, forcing Chaos to leave Krynn. To banish Chaos, the other gods agree to leave Krynn and depart into the Beyond, taking Chaos with them. The Graygem then explodes, shooting thousands of tiny crystals into the air. Palin, Usha, and Steel, the only survivors of the Abyss battle, find themselves in a field in Solace, along with the dead; Steel dies there of his battle wounds. Fizban, an avatar of Paladine, appears to explain that magic has left the world with the departed deities. If other magic exists, the heroes must find it on their own, he says. Raistlin Majere departs with him for a much-deserved rest. Or so everyone believes.\nIn the moment of greatest weakness, when the other gods are facing Chaos in the Abyss, the Dark Queen triggers a plan she has been hatching since the beginning of timemerely waiting for the right moment for it to come to fruition. With the other deities distracted, Takhisis literally steals the world, pulling it through the Gate of Souls and through the Ethereal Sea, to a place where she can reign supreme. The act drains her of much of her power, forcing her to go into hiding until she can regain her former might. It was she who appeared before Palin and the others in the guise of Fizban, she who filled their minds and hearts with the seed of the other gods departure. Everything happens according to her plans, except for something she could not predict: the great dragons."
+        }
+    ]
+}

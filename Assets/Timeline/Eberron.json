@@ -1,0 +1,364 @@
+{
+    "type": "YT",
+    "universe": "Eberron",
+    "description": "YK, Year of the Kingdom",
+    "originalsource": "https://eberron.fandom.com/wiki/Eberron_Timeline",
+    "colour": "b74027",
+    "times": [
+        {
+            "timetype": "notable",
+            "date": "–10,000,000",
+            "description": "Khyber’s fiendish offspring overrun the surface world, creating a hellish environment where rakshasas and night hags rule supreme."
+        },
+        {
+            "timetype": "notable",
+            "date": "–1,500,000",
+            "description": "Dragons rediscover the Prophecy and rise from their primitive state to oppose their demonic overlords, allying with other draconic species, including the couatls. The common races, still in primitive states, hide from the godlike combatants and find a way to survive."
+        },
+        {
+            "timetype": "notable",
+            "date": "–100,000",
+            "description": "Couatls sacrifice most of their number to send the most powerful of the demon lords and the majority of the fiends back to Khyber, where they are trapped for eternity. The dragons retreat to Argonnessen to contemplate the Prophecy, ignoring the “lesser races.”"
+        },
+        {
+            "timetype": "notable",
+            "date": "–80,000",
+            "description": "The giants rise from the ruins of the Dragon–Fiend Wars to establish a vast and powerful civilization on the continent of Xen’drik. They enslave elves and drow, which has the inadvertent effect of pulling the first of the common races out of their primitive state."
+        },
+        {
+            "timetype": "notable",
+            "date": "–60,000",
+            "description": "Dragons make contact with the giant kingdoms and begin to teach the giants how to use arcane magic. The elves watch and learn from their place at the giants’ heels. The giants quickly master the arcane arts, creating wonders unequaled even in the modern day."
+        },
+        {
+            "timetype": "notable",
+            "date": "–40,000",
+            "description": "The quori invade Xen’drik through a gate that connects Eberron to Dal Quor, the Plane of Dreams. After years of battle, the giants call upon the magic of the dragons to destroy the planar gate. This act results in a cataclysm that shakes Xen’drik to its core and plunges large chunks of the continent beneath the sea. The physical connection to Dal Quor is severed, perhaps forever."
+        },
+        {
+            "timetype": "notable",
+            "date": "–39,000",
+            "description": "The remaining giant kingdoms never quite recover from the events of the quori invasion. Horrible curses and plagues sweep through the land, and the elves use the opportunity to rebel. In desperation, the giants again turn to the same magic they used to stop the quori. Before they can unleash such destruction a second time, the dragons attack. Giant civilization crumbles, the drow go into hiding in the Xen’drik countryside, and the elves flee to the island-continent of Aerenal."
+        },
+        {
+            "timetype": "notable",
+            "date": "–38,000",
+            "description": "The giants revert to primitive monsters living in the ruins of their shattered civilization as the dragons return to their secluded continent and the elves settle Aerenal. Meanwhile, on Khorvaire, the first of the goblinoid kingdoms rises in the area that will one day become Breland and Darguun."
+        },
+        {
+            "timetype": "notable",
+            "date": "–30,000",
+            "description": "Orc nations arise in western Khorvaire to compete with the goblinoid kingdoms."
+        },
+        {
+            "timetype": "notable",
+            "date": "–25,000",
+            "description": "The Undying Court appears in Aerenal. First skirmish between the elves and the dragons, which sets a pattern of long periods of peace punctuated by short, devastating battles every few hundred years."
+        },
+        {
+            "timetype": "notable",
+            "date": "–16,000",
+            "description": "The Dhakaani unite the goblinoid nations to create the greatest empire the goblins have ever known. The Gatekeepers appear among the orcs of western Khorvaire."
+        },
+        {
+            "timetype": "notable",
+            "date": "–12,000",
+            "description": "The dwarves migrate from the Frostfell to the Ironroot Mountains."
+        },
+        {
+            "timetype": "notable",
+            "date": "–10,000",
+            "description": "Aerenal elves establish a colony in what is now present-day Valenar. Peaceful coexistence doesn’t last, and the elves come into conflict with the Dhakaani. The elves abandon the colony when another clash with the dragons threatens Aerenal."
+        },
+        {
+            "timetype": "notable",
+            "date": "–9,000",
+            "description": "The Daelkyr War decimates the western reaches of Khorvaire."
+        },
+        {
+            "timetype": "notable",
+            "date": "–5,000",
+            "description": "Weakened by the Daelkyr War, the Dhakaani Empire is shattered by infighting and civil strife, eventually leading to the collapse of the goblinoid civilization."
+        },
+        {
+            "timetype": "notable",
+            "date": "–4,100",
+            "description": "The greatpine Oalian is awakened."
+        },
+        {
+            "timetype": "notable",
+            "date": "–3,200",
+            "description": "The Mark of Hospitality appears among halflings of the Talenta Plains. The Mark of Shadow and the Mark of Death appear among the elves of Aerenal. The dragons watch in awe and horror as the Prophecy begins to unfold among the “lesser” races."
+        },
+        {
+            "timetype": "notable",
+            "date": "–3,000",
+            "description": "Lhazaar leads humans from Sarlona to the eastern shores of Khorvaire. The Mark of Healing appears among halflings of the Talenta Plains."
+        },
+        {
+            "timetype": "notable",
+            "date": "–2,800",
+            "description": "The Mark of Scribing appears among the gnomes of Zilargo."
+        },
+        {
+            "timetype": "notable",
+            "date": "–2,600",
+            "description": "The Mark of Sentinel appears among humans of pre-Galifar Karrnath. House Vol, which carries the Mark of Death, is wiped out in Aerenal. Vol the lich is created. House Phiarlan leaves Aerenal to relocate among the humans of Khorvaire."
+        },
+        {
+            "timetype": "notable",
+            "date": "–2,500",
+            "description": "The distinct settlements that will become the Five Nations appear in central Khorvaire. The Mark of Making appears among humans of pre-Galifar Cyre. The Mark of Warding appears among the dwarves of the Mror Holds."
+        },
+        {
+            "timetype": "notable",
+            "date": "–2,000",
+            "description": "Karrn the Conquerer establishes the nation of Karrnath, defeats the remaining goblinoid settlements, and unsuccessfully attempts to conquer the other four human nations. The Mark of Storm appears among half-elves of pre-Galifar Thrane."
+        },
+        {
+            "timetype": "notable",
+            "date": "–1,900",
+            "description": "The Mark of Passage appears among humans of pre-Galifar Aundair."
+        },
+        {
+            "timetype": "notable",
+            "date": "–1,800",
+            "description": "The Mark of Handling appears among humans in the Eldeen Reaches. Kalashtar reach Sarlona, fleeing Dal Quor and the persecution of the quori."
+        },
+        {
+            "timetype": "notable",
+            "date": "–1,500",
+            "description": "Quori begin conquest of Sarlona. Second wave of humans reach Khorvaire’s western shores. The Mark of Detection appears among halfelves of pre-Galifar Breland. The dragonmarked houses launch the War of the Mark to end the threat of aberrant and mixed marks. The Twelve is established."
+        },
+        {
+            "timetype": "notable",
+            "date": "–1,043",
+            "description": "Galifar I is born in Karrnath."
+        },
+        {
+            "timetype": "notable",
+            "date": "–1,022",
+            "description": "Galifar assumes rulership of Karrnath."
+        },
+        {
+            "timetype": "notable",
+            "date": "–1,012",
+            "description": "Galifar begins his campaign to unite the Five Nations."
+        },
+        {
+            "timetype": "notable",
+            "date": "–1,005",
+            "description": "Galifar makes a deal with the dragonmarked houses, offering them neutral status in exchange for support in his campaign."
+        },
+        {
+            "timetype": "notable",
+            "date": "–1,000",
+            "description": "The Mark of Finding appears among humans and half-orcs of the Shadow Marches."
+        },
+        {
+            "timetype": "notable",
+            "date": "1",
+            "description": "Galifar I and his five scions— Cyre, Karrn, Thrane, Aundair, and B rey— take control o f the Five Nations and establish the Kingdom of Galifar."
+        },
+        {
+            "timetype": "notable",
+            "date": "15",
+            "description": "Galifar I establishes the Arcane Congress."
+        },
+        {
+            "timetype": "notable",
+            "date": "28",
+            "description": "Galifar–Lhazaar War, a decade-long conflict, begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "32",
+            "description": "The Five Nations of Galifar adopt the names of King Galifar’s children as their own."
+        },
+        {
+            "timetype": "notable",
+            "date": "40",
+            "description": "Galifar, now eighty-five years old, steps down and passes rulership of the kingdom to his oldest remaining scion, Cyre."
+        },
+        {
+            "timetype": "notable",
+            "date": "53",
+            "description": "Galifar I dies."
+        },
+        {
+            "timetype": "notable",
+            "date": "106",
+            "description": "House Kundarak is recognized by the established dragonmarked houses."
+        },
+        {
+            "timetype": "notable",
+            "date": "299",
+            "description": "The Church of the Silver Flame is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "347",
+            "description": "House Lyrandar takes possession of an island off the coast of Aundair to create Stormhome."
+        },
+        {
+            "timetype": "notable",
+            "date": "498",
+            "description": "House Sivis discovers the Mark of Finding while exploring the Shadow Marches. House Tharashk is created shortly thereafter."
+        },
+        {
+            "timetype": "notable",
+            "date": "512",
+            "description": "King Daroon orders the construction of the Starpeaks Observatory."
+        },
+        {
+            "timetype": "notable",
+            "date": "778",
+            "description": "Medusas from Khyber take possession of Cazhaak Draal."
+        },
+        {
+            "timetype": "notable",
+            "date": "789",
+            "description": "House Sivis message stations begin operations."
+        },
+        {
+            "timetype": "notable",
+            "date": "802",
+            "description": "The Kingdom of Galifar, in cooperation with the dragonmarked houses, funds the upgrade of the trade city of Stormreach on the northern peninsula of Xen’drik."
+        },
+        {
+            "timetype": "notable",
+            "date": "811",
+            "description": "First lightning rail connects Flamekeep and Fairhaven."
+        },
+        {
+            "timetype": "notable",
+            "date": "832",
+            "description": "The inquisition to wipe out lycanthropes is launched by the Church of the Silver Flame; it lasts fifty years and drives the species almost to extinction."
+        },
+        {
+            "timetype": "notable",
+            "date": "845",
+            "description": "King Jarot begins a public works project to connect all of central Khorvaire via lightning rails. Within twenty years, lines connect the Five Nations, Zilargo, the Mror Holds, and the Talenta Plains."
+        },
+        {
+            "timetype": "notable",
+            "date": "878",
+            "description": "House Deneith begins to provide clients with goblinoid mercenaries from Darguun region."
+        },
+        {
+            "timetype": "notable",
+            "date": "894",
+            "description": "King Jarot, the last ruler of Galifar, dies. Thalin, Kaius, and Wroann reject the succession of Mishann. Wrogar backs his sister’s claim, and the Last War begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "896",
+            "description": "Order of the Emerald Claw established."
+        },
+        {
+            "timetype": "notable",
+            "date": "897",
+            "description": "Kaius I turned into a vampire by Vol the lich."
+        },
+        {
+            "timetype": "notable",
+            "date": "910",
+            "description": "Kaius II ascends to the throne of Karrnath after Kaius I fakes his death and goes in search of a way to free his kingdom from the Blood of Vol."
+        },
+        {
+            "timetype": "notable",
+            "date": "914",
+            "description": "The Mror Holds declares its independence. Thalin of Thrane dies and the Church of the Silver Flame seizes control of the nation."
+        },
+        {
+            "timetype": "notable",
+            "date": "818",
+            "description": "Unknown saboteurs destroy the Glass Tower of Sharn."
+        },
+        {
+            "timetype": "notable",
+            "date": "928",
+            "description": "Ven ir’Kesslan leads settlers from the Five Nations to forge the nation of Q’barra."
+        },
+        {
+            "timetype": "notable",
+            "date": "956",
+            "description": "Aerenal mercenaries annex southern Cyre and declare the sovereignty of the elf nation of Valenar."
+        },
+        {
+            "timetype": "notable",
+            "date": "958",
+            "description": "The Eldeen Reaches declares itself an independent nation under the protection of the Wardens of the Wood and the guidance of the Great Druid Oalian."
+        },
+        {
+            "timetype": "notable",
+            "date": "961",
+            "description": "Boranel becomes king of Breland."
+        },
+        {
+            "timetype": "notable",
+            "date": "962",
+            "description": "Zilargo formally aligns with Breland."
+        },
+        {
+            "timetype": "notable",
+            "date": "965",
+            "description": "House Cannith perfects the modern-era warforged, living constructs designed to fight the Last War."
+        },
+        {
+            "timetype": "notable",
+            "date": "969",
+            "description": "Haruuc leads the hobgoblin rebellion, and the nation of Darguun is born."
+        },
+        {
+            "timetype": "notable",
+            "date": "972",
+            "description": "House Thuranni splits off from House Phiarlan."
+        },
+        {
+            "timetype": "notable",
+            "date": "976",
+            "description": "Regent Moranna of Karrnath outlaws the Order of the Emerald Claw."
+        },
+        {
+            "timetype": "notable",
+            "date": "980",
+            "description": "Queen Aurala’s reign of Aundair begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "986",
+            "description": "A trio of hags known as the Daughters of Sora Kell arrive in Droaam with an army of trolls, ogres, and gnolls."
+        },
+        {
+            "timetype": "notable",
+            "date": "987",
+            "description": "King Boranel pulls settlers back and seals off the land west of the Graywall Mountains. The Daughters of Sora Kell declare the sovereignty of the nation of Droaam."
+        },
+        {
+            "timetype": "notable",
+            "date": "990",
+            "description": "The first elemental airships go into service for House Lyrandar."
+        },
+        {
+            "timetype": "notable",
+            "date": "991",
+            "description": "Kaius III’s rule of Karrnath begins."
+        },
+        {
+            "timetype": "notable",
+            "date": "993",
+            "description": "Jaela Daran assumes the power of the Keeper of the Silver Flame."
+        },
+        {
+            "timetype": "notable",
+            "date": "994",
+            "description": "Cyre is destroyed; the Mournland is created."
+        },
+        {
+            "timetype": "notable",
+            "date": "996",
+            "description": "The Treaty of Thronehold officially ends the Last War. The treaty officially recognizes the nations of Aundair, Breland, Thrane, Karrnath, the Talenta Plains, Zilargo, Q’barra, the Lhazaar Principalities, the Mror Holds, the Eldeen Reaches, Darguun, and Valenar. House Cannith is ordered to destroy all creation forges; the remaining warforged are granted the rights of sentient beings."
+        }
+    ]
+}
