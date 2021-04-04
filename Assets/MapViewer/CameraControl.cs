@@ -65,12 +65,12 @@ public class CameraControl : MonoBehaviour
         if (Input.GetKeyUp(KeyCode.Mouse1))
             panning = false;
 
-        if (Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.Q))
         {
-            transform.Rotate(0, 0, 90, Space.Self);
-        } else if (Input.GetKeyDown(KeyCode.Q))
+            RotateLeft();
+        } else if (Input.GetKeyDown(KeyCode.E))
         {
-            transform.Rotate(0, 0, -90, Space.Self);
+            RotateRight();
         }
 
 
@@ -93,6 +93,16 @@ public class CameraControl : MonoBehaviour
             }
         }
 
+    }
+
+    public void RotateLeft()
+    {
+        transform.Rotate(0, 0, 90, Space.Self);
+    }
+
+    public void RotateRight()
+    {
+        transform.Rotate(0, 0, -90, Space.Self);
     }
 
     private Vector3 GetInput()
